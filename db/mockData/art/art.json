@@ -1,0 +1,2550 @@
+{
+  "art": [
+    {
+      "id": "basquiat-untitled-1981",
+      "name": "Untitled",
+      "artist": "Jean-Michel Basquiat",
+      "year": 1981,
+      "medium": "Acrylic and oilstick on canvas",
+      "category": "contemporary",
+      "value": {
+        "amount": 110000000,
+        "currency": "USD"
+      },
+      "dimensions": {
+        "height": 183,
+        "width": 173,
+        "unit": "cm"
+      },
+      "location": {
+        "country": "US",
+        "city": "New York"
+      },
+      "condition": "excellent",
+      "status": "private-collection",
+      "provenance": "Important private collection",
+      "images": [],
+      "certification": "Expert authentication"
+    },
+    {
+      "name": "Guitare sur un guéridon",
+      "artist": "Pablo Picasso",
+      "id": "art-001",
+      "year": 1920,
+      "medium": "Oil on canvas",
+      "value": {
+        "amount": 8000000,
+        "currency": "USD"
+      },
+      "brand": "Pablo Picasso",
+      "model": "Guitare sur un guéridon",
+      "acquisitionDate": "2021-05-12",
+      "condition": "excellent",
+      "provenance": "Mvita Family Office",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "insurance": {
+        "provider": "AXA Art",
+        "policyNumber": "AXA-ART-PIC-001",
+        "coverageUSD": 8500000,
+        "renewalDate": "2026-12-01",
+        "notes": "Fine-art rider; transit endorsement for fair loans"
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/pablo-picasso-guitare-sur-un-guéridon"
+      ],
+      "images": [
+        "https://www.artnet.com/WebServices/images/ll3001099llg9XfDrCWBHBAD/pablo-picasso-guitare-sur-un-gu%C3%A9ridon-(guitar-on-a-pedestal).jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "High Artistry The First Ascent of the Mont-Blanc Limited Edition 1 Fountain Pen",
+      "id": "art-019",
+      "artist": "Montblanc",
+      "year": "2025",
+      "medium": "Fountain Pen",
+      "value": {
+        "amount": 1980000,
+        "currency": "USD"
+      },
+      "brand": "Montblanc",
+      "model": "High Artistry The First Ascent of the Mont-Blanc Limited Edition 1 Fountain Pen",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private sale from luxury estate via Montblanc",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.montblanc.com/en-ca/high-artistry-the-first-ascent-of-the-mont-blanc-limited-edition-1-fountain-pen-MB127010.html"
+      ],
+      "images": [
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwb4905b01/images/all-images/MB127010/2357105_83f9a096.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw29e82824/images/all-images/MB127010/2357104_d32003ad.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw1c4293b6/images/all-images/MB127010/2357117_2619982d.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwe688f630/images/all-images/MB127010/2357118_77b593cc.png?sw=628&q=90"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "High Artistry The World of Cinema Limited Edition 5 Fountain Pen",
+      "id": "art-020",
+      "artist": "Montblanc",
+      "year": "2025",
+      "medium": "Fountain Pen",
+      "value": {
+        "amount": 800000,
+        "currency": "USD"
+      },
+      "brand": "Montblanc",
+      "model": "High Artistry The World of Cinema Limited Edition 5 Fountain Pen",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private sale from luxury estate via Montblanc",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.montblanc.com/en-ca/high-artistry-the-world-of-cinema-limited-edition-5-fountain-pen-MB127891.html"
+      ],
+      "images": [
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw1c2336a7/images/all-images/MB127891/eZNl0yMCSJ-heR43i-UOzg_3c845db7.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw16a4b2a0/images/all-images/MB127891/QuN1u7KzSgOYrEwTqTv4YQ_0384dce4.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwc6004f07/images/all-images/MB127891/utzsc8G9SHq7C1ZhV5Jfag_5596df31.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw2fbe6023/images/all-images/MB127891/O1wRz98iSLiulbM279fHSg_e7c98e72.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw99735e3b/images/all-images/MB127891/gFHuqTZzT0qfaM7CpvDFJg_4fc9e222.png?sw=628&q=90"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Ormolu & Hardstone Regency Casket",
+      "id": "art-005",
+      "artist": "Unknown (Regency Period)",
+      "year": "1900's",
+      "medium": "Ormolu, Hardstone, Ebonized Wood",
+      "value": {
+        "amount": 485000,
+        "currency": "USD"
+      },
+      "brand": "Regency",
+      "model": "Large Decorative Casket",
+      "acquisitionDate": "2025-02-15",
+      "condition": "Excellent",
+      "provenance": "19th-century British Regency, likely private collection",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/furniture/decorative-objects/boxes/decorative-boxes/magnificent-large-ormolu-hardstone-regency-period-ebonized-wooden-casket/id-f_31493552/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale/f_9563/f_314935521669638550676/f_31493552_1669638551498_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-2/f_9563/f_314935521669638583333/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-3/f_9563/f_314935521669638583178/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_3_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-4/f_9563/f_314935521669638583316/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_4_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-5/f_9563/f_314935521669638583646/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_5_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-6/f_9563/f_314935521669638583310/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_6_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-7/f_9563/f_314935521669638583576/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_7_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-8/f_9563/f_314935521669638585206/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_8_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-9/f_9563/f_314935521669638585363/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_9_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-11/f_9563/f_314935521669638585809/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_11_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/magnificent-and-large-ormolu-and-hardstone-mounted-ebonised-wood-casket-for-sale-picture-12/f_9563/f_314935521669638584919/17021B_large_ormolu_hardstone_mounted_ebonised_wood_casket_12_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Midshipman Proctor's Sword – Battle of Copenhagen",
+      "artist": "Board of Ordnance",
+      "id": "art-003",
+      "year": "1801",
+      "medium": "Steel, Brass, Shagreen, Leather",
+      "value": {
+        "amount": 260000,
+        "currency": "USD"
+      },
+      "brand": "Royal Navy",
+      "model": "Midshipman Fighting Sword",
+      "acquisitionDate": "2025-02-15",
+      "condition": "excellent",
+      "provenance": "Presented to Midshipman George Proctor for valour at the Battle of Copenhagen, April 1801",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/art/decorative-objects/decorative-boxes/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale/id-f_36542782/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale/f_9730/f_365427821696938359654/f_36542782_1696938359901_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-2/f_9730/f_365427821696938395036/375020_2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-4/f_9730/f_365427821696938395088/375020_5_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-5/f_9730/f_365427821696938395139/375020_6_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-10/f_9730/f_365427821696938395816/375020_11_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-13/f_9730/f_365427821696938395803/375020_14_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/midshipman-proctors-sword-for-valour-at-the-battle-of-copenhagen-for-sale-picture-14/f_9730/f_365427821696938395792/375020_15_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Juan de Arellano Cesta de Flores (17th century)",
+      "artist": "Juan de Arellano",
+      "id": "art-011",
+      "year": "17th century",
+      "medium": "Oil on canvas",
+      "value": {
+        "amount": 120000,
+        "currency": "USD"
+      },
+      "brand": "Arellano",
+      "model": "Cesta de Flores",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/art/paintings/still-life-paintings/juan-de-arellano-cesta-de-flores-17th-century-oil-on-canvas-still-flowers-juan-de-arellano/id-a_4769532/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/a_12811/1564341828254/Arellano_012_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/a_12811/a_47695321564341860224/Arellano_011_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/a_12811/a_47695321564341903500/Arellano_013_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/a_12811/a_47695321564342166384/Domergue_Arellano_Bugatti_024_master.JPG?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/a_12811/a_47695321564342192107/Arellano_025_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/a_12811/a_47695321564342207894/Arellano_010_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Richard Mille RM S05 Mechanical Pen",
+      "id": "richard-mille-8",
+      "brand": "Richard Mille",
+      "model": "RM S05 Mechanical Pen",
+      "value": {
+        "amount": 105000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2019-06-10",
+      "condition": "excellent",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "boxPapers": true,
+      "limitedEdition": "1 of 100",
+      "listingUrl": [
+        "https://www.thewatchpages.com/watches/richard-mille-rm-s05-mechanical-pen/"
+      ],
+      "images": [
+        "https://media.richardmille.com/wp-content/uploads/2019/01/02114620/RMS05_View04_NBoon.jpg?dpr=2&width=1000",
+        "https://media.richardmille.com/wp-content/uploads/2019/01/02114627/RMS05_View08_NBoon.jpg?dpr=2&width=1000",
+        "https://media.richardmille.com/wp-content/uploads/2019/01/02114629/RMS05_View010_NBoon.jpg?dpr=2&width=1000"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Pearl Royale Chess Set",
+      "artist": "Colin Burn",
+      "id": "art-004",
+      "year": "2022",
+      "medium": "14K White Gold, Diamonds, Pearls, Sapphires",
+      "value": {
+        "amount": 4250000,
+        "currency": "USD"
+      },
+      "brand": "Pearl Royale",
+      "model": "Edition 3 of 3",
+      "acquisitionDate": "2025-02-15",
+      "condition": "Excellent",
+      "provenance": "Designed by Colin Burn, one of only three handcrafted luxury chess sets in existence",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/art/sculptures/still-life-sculptures/colin-burn-pearl-royale-chess-set-14k-white-gold-diamonds-ed-3-colin-burn/id-a_16153702/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale/a_10851/a_161537021744658936403/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_17__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-2/a_10851/a_161537021744659518634/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_1__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-4/a_10851/a_161537021744659517623/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_9__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-5/a_10851/a_161537021744659517193/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_5__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-6/a_10851/a_161537021744659534235/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_18__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-7/a_10851/a_161537021744659534284/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_26__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-8/a_10851/a_161537021744659534384/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_25__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-9/a_10851/a_161537021744659534223/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_24__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-10/a_10851/a_161537021744659566850/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_21__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-11/a_10851/a_161537021744659619109/King_Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_15__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-19/a_10851/a_161537021744659853437/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_27__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/colin-burn-sculptures-pearl-royale-chess-set-14k-white-gold-diamonds-ed-of-3-by-colin-burn-for-sale-picture-20/a_10851/a_161537021744659892024/Pearl_Royale_Chess_Set_Colin_Burn_JM_ART_MANAGEMENT_16__master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "insurance": {
+        "provider": "Hiscox Private Client",
+        "policyNumber": "HX-ART-CHESS-004",
+        "coverageUSD": 4500000,
+        "renewalDate": "2027-04-22"
+      },
+      "status": "available"
+    },
+    {
+      "name": "Montblanc High Artistry The World of Cinema Limited Edition 1 Fountain Pen",
+      "id": "art-018",
+      "artist": "Montblanc",
+      "year": "2025",
+      "medium": "Fountain Pen",
+      "value": {
+        "amount": 2107000,
+        "currency": "USD"
+      },
+      "brand": "Montblanc",
+      "model": "High Artistry The World of Cinema Limited Edition 1 Fountain Pen",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private sale from luxury estate via Montblanc",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.montblanc.com/en-ca/high-artistry-the-world-of-cinema-limited-edition-1-fountain-pen-MB127889.html"
+      ],
+      "images": [
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwe20f5f34/images/all-images/MB127889/rcdGaR-ZRDuleAUpce8aEA_63642d26.png?sw=2496&q=85",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw4404827c/images/all-images/MB127889/z7s3mBwqSkCdrX3fT6ualg_9fb89af0.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwa280e5bd/images/all-images/MB127889/Mgv_la6TR2CpAceTOwMScg_565e39a6.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dwb6e37ee1/images/all-images/MB127889/3tCE5TgWReGA6ynl5COt7w_0e86f188.png?sw=628&q=90",
+        "https://www.montblanc.com/dw/image/v2/BHDB_PRD/on/demandware.static/-/Sites-montblanc-master/default/dw0184cf20/images/all-images/MB127889/SD5RgyktS9mmgagV1fJZng_f2e84c75.png?sw=628&q=90"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Exquisite Baccarat Elephant Cave à Liqueur",
+      "artist": "Baccarat",
+      "id": "art-007",
+      "year": "1878",
+      "medium": "Cut crystal, gilt bronze",
+      "value": {
+        "amount": 2000000,
+        "currency": "USD"
+      },
+      "brand": "Baccarat",
+      "model": "Cave à Liqueur – Exposition Universelle 1878",
+      "acquisitionDate": "2025-02-15",
+      "condition": "excellent",
+      "provenance": "Originally exhibited at the Exposition Universelle, 1878",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/furniture/dining-entertaining/barware/exquisite-baccarat-elephant-cave-liquor-exposition-universelle-1878/id-f_35266772/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale/f_17982/f_352667721689547296874/f_35266772_1689547297615_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-2/f_17982/f_352667721689547308860/BG1A9013StraightenedWeb_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-3/f_17982/f_352667721689547309399/BG1A9027StraightenedWeb2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-4/f_17982/f_352667721689547319425/BG1A9029Comp1_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-5/f_17982/f_352667721689547334821/BG1A9029wBox_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-6/f_17982/f_352667721689547343800/BG1A9034_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-7/f_17982/f_352667721689547380166/BG1A9040_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-8/f_17982/f_352667721689547413467/BG1A9047_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-12/f_17982/f_352667721689547703902/BG1A9115_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-14/f_17982/f_352667721689547795908/BG1A9152_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-17/f_17982/f_352667721689547872232/BG1A9274_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/exquisite-baccarat-elephant-cave-a-liquor-exposition-universelle-1878-for-sale-picture-20/f_17982/f_352667721689548026315/BG1A9301_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Tax Collectors",
+      "id": "art-006",
+      "artist": "Attributed to Marinus van Reymerswaele",
+      "year": "circa 1540",
+      "medium": "Oil on panel",
+      "value": {
+        "amount": 1900000,
+        "currency": "USD"
+      },
+      "brand": "Old Master",
+      "model": "Northern Renaissance Figurative",
+      "acquisitionDate": "2025-02-15",
+      "condition": "excellent",
+      "provenance": "Private European Collection, attributed to Marinus van Reymerswaele",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/art/paintings/figurative-paintings/marinus-van-reymerswaele-tax-collectors-attributed-to-marinus-van-reymerswaele/id-a_10921892/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/marinus-van-reymerswaele-paintings-the-tax-collectors-attributed-to-marinus-van-reymerswaele-for-sale/a_186/a_109218921663961180456/31_5668_1_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/marinus-van-reymerswaele-paintings-the-tax-collectors-attributed-to-marinus-van-reymerswaele-for-sale-picture-2/a_186/a_109218921663961198454/31_5668_2_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/marinus-van-reymerswaele-paintings-the-tax-collectors-attributed-to-marinus-van-reymerswaele-for-sale-picture-4/a_186/a_109218921663961198509/31_5668_4_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/marinus-van-reymerswaele-paintings-the-tax-collectors-attributed-to-marinus-van-reymerswaele-for-sale-picture-5/a_186/a_109218921663961198499/31_5668_5_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/marinus-van-reymerswaele-paintings-the-tax-collectors-attributed-to-marinus-van-reymerswaele-for-sale-picture-6/a_186/a_109218921663961198157/31_5668_6_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Cartier Floating Diamond Mystery Clock",
+      "artist": "Cartier",
+      "id": "art-008",
+      "year": "1920s",
+      "medium": "Gold, Diamond, Rock Crystal, Enamel",
+      "value": {
+        "amount": 850000,
+        "currency": "USD"
+      },
+      "brand": "Cartier",
+      "model": "Mystery Clock",
+      "acquisitionDate": "2023-06-15",
+      "condition": "excellent",
+      "provenance": "Private collection, acquired through 1stdibs",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/furniture/decorative-objects/clocks/table-clocks-desk-clocks/floating-diamond-mystery-clock/id-f_43500652/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale/f_8911/f_435006521738790777335/f_43500652_1738790778083_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale-picture-2/f_8911/f_435006521738790840674/32_0627_2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale-picture-3/f_8911/f_435006521738790840663/32_0627_3_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale-picture-5/f_8911/f_435006521738790840721/32_0627_5_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale-picture-6/f_8911/f_435006521738790840780/32_0627_6_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/floating-diamond-mystery-clock-for-sale-picture-7/f_8911/f_435006521738790840731/32_0627_7_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Steinway Skyline Collection Grand Piano",
+      "id": "steinway-skyline-grand-piano",
+      "brand": "Steinway & Sons",
+      "model": "Skyline Collection",
+      "year": "2024",
+      "description": "The Steinway Skyline Collection is a customizable grand piano series that celebrates your chosen cityscape, mountain range, or skyline. Each instrument transforms the iconic visual landscape of your dreams into a stunning work of art, hand-crafted into the case of an extraordinary Steinway grand piano. Available in all Steinway grand sizes and as a Spirio player piano, the Skyline Collection combines dazzling aesthetics with Steinway’s legendary musicality.",
+      "value": {
+        "amount": 350000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "New, Custom-order",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "limitedEdition": "Skyline Special Collection",
+      "listingUrl": [
+        "https://www.steinway.com/pianos/steinway/special-collection/skyline"
+      ],
+      "images": [
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.worldpianonews.com%2Fwp-content%2Fuploads%2F2021%2F02%2Fsteinway-skyline-treble-side1_Post.jpg&f=1&nofb=1&ipt=9511f8bf021798ccf54e263a59b18ef839d0299469cd70a1e637a7e97e0016f0"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "C.J. Vander Silver Service",
+      "id": "silverware-001",
+      "description": "994-piece silver flatware service, Grapevine Pattern, 1975–76",
+      "value": {
+        "amount": 300000,
+        "currency": "USD"
+      },
+      "brand": "C.J. Vander",
+      "model": "",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private collection, London",
+      "location": {
+        "city": "Toronto Estate",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/furniture/dining-entertaining/tableware/cj-vander-994-piece-silver-flatware-service/id-f_33351612/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale/f_8911/f_333516121679075469773/f_33351612_1679075471129_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale-picture-2/f_8911/f_333516121679075493892/31_6574_2_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale-picture-6/f_8911/f_333516121679075493624/31_6574_6_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale-picture-7/f_8911/f_333516121679075493626/31_6574_7_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale-picture-8/f_8911/f_333516121679075494813/31_6574_8_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/cj-vander-994-piece-silver-flatware-service-for-sale-picture-10/f_8911/f_333516121679075494929/31_6574_10_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "A George IV Silver-Gilt Tankard, Paul Storr, London, 1827",
+      "id": "art-paul-storr-silver-gilt-tankard-1827",
+      "artist": "Paul Storr",
+      "year": "1827",
+      "medium": "Silver gilt",
+      "value": {
+        "amount": 32700,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Paul Storr",
+      "model": "George IV silver-gilt tankard",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Part II: Une Demeure Princière — Kunstkammer, Lot 110 (estimate EUR 25,000–35,000; value ≈ USD 32,700 at mid-estimate × 1.09). Engraved presentation inscription: Given by Sir Ralph A. Anstruther Bart. Won by Cupar 1827.",
+      "location": {
+        "city": "Toronto Estate",
+        "country": ""
+      },
+      "description": "George IV silver-gilt tankard on a spreading foot; body cast and chased with drunken Silenus on his mule among satyrs and putti; handle as semi-draped female figure; cover finial as putto holding grapes. 36 cm (14¼ in.) high; 3670 gr. (118 oz.); fully marked, London 1827.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/part-ii-une-demeure-princiere-la-residence-de-son-altesse-cheikh-hamad-bin-abdullah-al-thani-kunstkammer/chope-en-vermeil-par-paul-storr-londres-1827"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/31f7c30/2147483647/strip/true/crop/5468x5468+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fcd%2Ffa%2F65a6741b4651be960617487d73fb%2F8755ec5c-cf8d-4f09-9a0b-d836c22f731d.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d52e029/2147483647/strip/true/crop/5468x5468+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fe7%2F9f%2Ff55767524ce9a1d5bfcd36654e9e%2Fpf2637-dntd7-t1-03-rx.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/26f8df5/2147483647/strip/true/crop/4645x6100+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fad%2F8f%2Fe8c76b144e0a93aa167af7d3e952%2Fpf2637-dntd7-t1-04-rx.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/839dbd0/2147483647/strip/true/crop/3214x4429+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F24%2Fc4%2F2831a4c24f5fbc1f6a8ff6e042da%2Fpf2637-dntd7-t1-05-rx.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6863d2c/2147483647/strip/true/crop/1556x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fd0%2F3f%2F41dffc144b6eb6fca7b991efc33a%2Fpf2627-03-grand-salon-048.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Jean Pierre Cassigneul La Terrasse Devant La Mer",
+      "id": "art-010",
+      "artist": "Jean Pierre Cassigneul",
+      "year": "20th Century",
+      "medium": "",
+      "value": {
+        "amount": 270000,
+        "currency": "USD"
+      },
+      "brand": "Jean Pierre Cassigneul",
+      "model": "La Terrasse Devant La Mer",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Jean Pierre Cassigneul La Terrasse Devant La Mer By Jean Pierre Cassigneul 20th century",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/art/paintings/figurative-paintings/jean-pierre-cassigneul-la-terrasse-devant-la-mer-jean-pierre-cassigneul/id-a_12108842/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale/a_186/a_121088421681422652027/31_6704_1_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale-picture-3/a_186/a_121088421681422677303/31_6704_3_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale-picture-4/a_186/a_121088421681422677426/31_6704_4_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale-picture-5/a_186/a_121088421681422677367/31_6704_5_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale-picture-6/a_186/a_121088421681422677484/31_6704_6_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/jean-pierre-cassigneul-paintings-la-terrasse-devant-la-mer-by-jean-pierre-cassigneul-for-sale-picture-7/a_186/a_121088421681422677123/31_6704_7_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Zero in Love",
+      "id": "art-027",
+      "artist": "Peter Max",
+      "value": {
+        "amount": 79960,
+        "currency": "USD"
+      },
+      "brand": "Peter Max",
+      "model": "Zero in Love",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Peter Max, Zero In Love (huge framed original painting), 1994",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.artsy.net/artwork/peter-max-zero-in-love-huge-framed-original-painting"
+      ],
+      "images": [
+        "https://d7hftxdivxxvm.cloudfront.net/?height=1324&quality=50&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FO299Aino9nfSDF_AEWG8_Q%2Fmain.jpg&width=1600"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "The Beatles Vintage Sgt. Pepper's Lonely Hearts Club Band Album Cover Photograph Negatives",
+      "id": "art-021-2",
+      "artist": "The Beatles",
+      "year": 1967,
+      "value": {
+        "amount": 50000,
+        "currency": "USD"
+      },
+      "brand": "The Beatles",
+      "model": "Sgt. Pepper's Lonely Hearts Club Band",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Dubai Penthouse",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/collectibles/collectible/entertainment-memorabilia/_the-beatles-vintage-sgt-peppers-lonely-hearts-club-band-album-cover-photograph-negatives-fc59"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d77139f/2147483647/strip/true/crop/1110x1116+0+0/resize/800x804!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F95%2Fac%2F40f47e084dd08d097ceae7b73e35%2Fthe-beatles-vintage-sgt-peppers-lonely-hearts-club-band-album-cover-photograph-negatives-fc5.png",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1d4c6f5/2147483647/strip/true/crop/1074x1060+0+0/resize/800x790!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F2c%2Ff6%2F77bf1fa544f49183414d940950f9%2Fsgt.PepperAlbumCoverOuttake2.png",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/678a8d2/2147483647/strip/true/crop/1042x1058+0+0/resize/800x812!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F11%2F35%2F9e12280e43d88ad157000f687157%2Fsgt.PepperAlbumCoverOuttake1.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "St. Dupont Ligne 2 Hotel Particulier Lighter",
+      "id": "art-025",
+      "artist": "St. Dupont",
+      "value": {
+        "amount": 28000,
+        "currency": "USD"
+      },
+      "brand": "St. Dupont",
+      "model": "Ligne 2 Hotel Particulier Lighter",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "location": {
+        "city": "Toronto Estate",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.farfetch.com/ca/shopping/men/st-dupont-ligne-2-hotel-particulier-lighter-item-20702430.aspx?storeid=10704"
+      ],
+      "images": [
+        "https://cdn-images.farfetch-contents.com/20/70/24/30/20702430_50785402_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/20/70/24/30/20702430_50718780_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/20/70/24/30/20702430_50718770_1000.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Kaws Companion Set of 10",
+      "id": "art-022",
+      "artist": "Kaws",
+      "year": 2019,
+      "medium": "Mixed Media",
+      "value": {
+        "amount": 13850,
+        "currency": "USD"
+      },
+      "brand": "Kaws",
+      "model": "Companion Set of 10",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Dubai Penthouse",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/collectibles/collectible/art-&-artist-memorabilia/_kaws-companion-set-of-10"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f9ca40c/2147483647/strip/true/crop/1318x1318+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F36%2F2b%2F409288364d72bae7fbe1a6527672%2Fkaws-companion-set-of-10.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/4877b93/2147483647/strip/true/crop/1318x1682+0+0/resize/800x1021!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff9%2Ff2%2F5cd767b84c6a86f18a2828eb87cd%2Fkaws-brown-brown-01-master.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Brunello Cucinelli Krion Chess and Draughts Set",
+      "id": "art-024",
+      "artist": "Brunello Cucinelli",
+      "value": {
+        "amount": 12850,
+        "currency": "USD"
+      },
+      "brand": "Brunello Cucinelli",
+      "model": "Krion Chess and Draughts Set",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private collection, Dubai Penthouse",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.farfetch.com/ca/shopping/men/brunello-cucinelli-krion-chess-and-draughts-set-item-22467307.aspx?storeid=9728"
+      ],
+      "images": [
+        "https://cdn-images.farfetch-contents.com/22/46/73/07/22467307_52409167_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/46/73/07/22467307_52409141_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/22/46/73/07/22467307_52409184_1000.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "St. Dupont Ligne 2 Joker Lighter",
+      "id": "art-026",
+      "artist": "St. Dupont",
+      "value": {
+        "amount": 12800,
+        "currency": "USD"
+      },
+      "brand": "St. Dupont",
+      "model": "Ligne 2 Joker Lighter",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "location": {
+        "city": "Toronto Estate",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.farfetch.com/ca/shopping/men/st-dupont-ligne-2-joker-lighter-item-17822181.aspx?storeid=10704"
+      ],
+      "images": [
+        "https://cdn-images.farfetch-contents.com/17/82/21/81/17822181_38191679_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/17/82/21/81/17822181_38192334_1000.jpg",
+        "https://cdn-images.farfetch-contents.com/17/82/21/81/17822181_38192333_1000.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "'The Godfather' Pen",
+      "artist": "Jacob & Co.",
+      "id": "art-002",
+      "year": 2025,
+      "medium": "Pen",
+      "value": {
+        "amount": 11000,
+        "currency": "USD"
+      },
+      "brand": "Jacob & Co.",
+      "model": "The Godfather",
+      "acquisitionDate": "2025-02-15",
+      "condition": "New",
+      "provenance": "Jacob & Co. Collection",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "images": [
+        "https://jacobandco.shop/cdn/shop/products/godFatherPenBP_stills_03_v01.png?v=1696785940",
+        "https://jacobandco.shop/cdn/shop/products/godFatherPenBP_stills_06_v01.png?v=1696785940",
+        "https://jacobandco.shop/cdn/shop/products/godFatherPenBP_stills_04_v01.png?v=1696785940",
+        "https://jacobandco.shop/cdn/shop/products/godFatherPenBP_stills_02_v01.png?v=1696785940",
+        "https://jacobandco.shop/cdn/shop/products/godFatherPenBP_stills_05_v01.png?v=1656094176"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Kaws Medicom Toy Companion Complete Set",
+      "id": "art-023",
+      "artist": "Kaws",
+      "year": 2019,
+      "medium": "Mixed Media",
+      "value": {
+        "amount": 7850,
+        "currency": "USD"
+      },
+      "brand": "Kaws",
+      "model": "Companion Complete Set",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Private collection, Dubai Penthouse",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/collectibles/collectible/commercial-&-brand-memorabilia/_kaws-medicom-toy-companion-complete-set-9cd7"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/daeecf8/2147483647/strip/true/crop/800x507+0+0/resize/800x507!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F8e%2F7f%2F1e3d8648421587269f3bc143550b%2Fkaws-companion-complete-set-of-61.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bösendorfer The Great Wave off Kanagawa Grand Piano (Collector's Item)",
+      "id": "piano-001",
+      "brand": "Bösendorfer",
+      "model": "214VC Collectors Edition",
+      "year": 2023,
+      "description": "A stunning collector’s edition grand piano paying homage to Hokusai’s iconic 'The Great Wave off Kanagawa.' Limited to just 16 individually numbered instruments worldwide, this masterpiece features the renowned artwork specially printed on the underside of the lid, with rich Prussian blue and vibrant red color accents inspired by Japanese culture. Crafted in Austria using Bösendorfer’s signature resonance case principle, open pinblock, and hand-spun bass strings, the piano blends cutting-edge Viennese piano engineering with art and symbolism. The 214VC size is prized for its dynamic range, tonal clarity, and singing resonance. This unique collaboration between Japanese art and Austrian craftsmanship is both a musical instrument and a museum-worthy work of art.",
+      "value": {
+        "amount": 300000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "0000-00-00",
+      "condition": "Brand New, Limited Edition (16 worldwide)",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "limitedEdition": "Collector’s Item – 16 pieces worldwide",
+      "listingUrl": [
+        "https://www.boesendorfer.com/en/pianos/collectors-item/the-great-wave-off-kanagawa"
+      ],
+      "images": [
+        "https://www.boesendorfer.com/_Resources/Persistent/d73bad2963c2d6f04fecbbee5f5bdbfe62944a78/image001.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Antique 1892 'The World Photographed' Book",
+      "id": "books-001",
+      "author": "Unknown",
+      "year": 1892,
+      "medium": "Book",
+      "value": {
+        "amount": 172,
+        "currency": "USD"
+      },
+      "currency": "",
+      "brand": "",
+      "model": "",
+      "acquisitionDate": "",
+      "condition": "",
+      "provenance": "",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "An antique 1892 edition of 'The World Photographed,' a rare collectible photographic book offering a visual record of locations and peoples from the late 19th century.",
+      "listingUrl": [
+        "https://www.etsy.com/ca/listing/4403618517/antique-1892-the-world-photographed?show_sold_out_detail=1&ref=nla_listing_details"
+      ],
+      "images": [
+        "https://i.etsystatic.com/35183080/r/il/c6a998/7436298995/il_1588xN.7436298995_9ol1.jpg",
+        "https://i.etsystatic.com/35183080/r/il/a7b364/7436299307/il_1588xN.7436299307_40l5.jpg",
+        "https://i.etsystatic.com/35183080/r/il/cc7866/7388377954/il_1588xN.7388377954_a6o2.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Illuminated manuscript HORAE – A Wildly Eccentric and Personal Book of Hours",
+      "id": "books-002",
+      "author": "Unknown (Paris/Rouen Masters, attributed c. 1490)",
+      "year": 1490,
+      "medium": "Hand-illuminated manuscript on vellum",
+      "value": {
+        "amount": 473697.39,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "",
+      "model": "Book of Hours, Use of Amiens",
+      "acquisitionDate": "",
+      "condition": "As New",
+      "provenance": "Konstantinopel Antiquarian Booksellers, AbeBooks",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "An exceedingly rare, fully illuminated Book of Hours (HORAE) created in Amiens around 1490, featuring 24 small calendar miniatures, 4 smaller miniatures, and 17 full-page miniatures amid burlesque borders. Each page is meticulously illuminated, populated with grotesques, dragons, dwarfs, musicians, satyrs, mermaids, chimeras, and scenes evoking both secular and spiritual life of the Netherlands during the Dukes of Burgundy. Distinguished for its eccentric artistry and vibrant evocation of 15th-century life, this collectible stands as a museum-worthy artifact and a masterpiece of late medieval illumination.",
+      "listingUrl": [
+        "https://www.abebooks.com/paper-collectibles/Illuminated-manuscript-HORAE-WILDLY-ECCENTRIC-PERSONAL/31507101197/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md31507101197.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Book of Hours (Use of Paris, Illuminated Manuscript)",
+      "id": "books-003",
+      "author": "Master of the Bible Historiale fr. 159 (attributed)",
+      "year": 1400,
+      "medium": "Hand-illuminated manuscript on parchment",
+      "value": {
+        "amount": 350000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "",
+      "model": "Book of Hours, Use of Paris",
+      "acquisitionDate": "",
+      "condition": "Excellent, 19th-century morocco binding",
+      "provenance": "Commissioned by a female patron, several French noble families, Jean-Baptiste Titon de Villotran, Les Enluminures / Bruce Ferrini, Private Collection",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "A beautifully executed and unusual Parisian Book of Hours illuminated around 1400–1410. Painted at the time of the Duke of Berry, with 15 large miniatures attributed to the Master of the Bible Historiale fr. 159. Contains 224 folios, richly decorated with burnished gold, pink, and blue initials, elaborate borders with ivyleaf infill, and highly detailed miniatures. Originally commissioned for a French noblewoman, its provenance passes through several prominent French families and antiquarian collections. This museum-worthy artifact exemplifies Parisian manuscript art, its liturgical use and exquisite condition reflecting a special moment in Northern art history.",
+      "listingUrl": [
+        "https://www.abebooks.com/signed/Book-Hours-Paris/30373963308/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md30373963308.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Life-size 1871 photograph of the Fra Mauro map of the world",
+      "id": "books-004",
+      "author": "Carlo Naya (photographer); Fra Mauro (cartographer, original map)",
+      "year": 1871,
+      "medium": "Hand-coloured photograph on paper",
+      "value": {
+        "amount": 335785.49,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "",
+      "model": "Mappa Mundi Photofacsimile",
+      "acquisitionDate": "",
+      "condition": "Used",
+      "provenance": "Venice, Carlo Naya studio; Antiquariat Inlibris Gilhofer Nfg. GmbH, Vienna",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "A life-sized, hand-coloured photograph of the celebrated Fra Mauro mappamundi, originally drawn around 1450 and widely hailed as the greatest achievement in medieval cartography. Created ca. 1871 by Italian photographer Carlo Naya in Venice, this monumental print (223 x 223 cm) reproduces the world map in full scale, capturing its hundreds of illustrations and thousands of descriptive texts. Naya’s photograph marked a pioneering moment in art history and large-format photography. Fra Mauro’s map, oriented with south at the top, represents both a scientific masterpiece and a bridge between medieval and Renaissance worldviews. Only a handful of these photographs are known to exist in major libraries and museums.",
+      "listingUrl": [
+        "https://www.abebooks.com/Life-size-1871-photograph-Mauro-map-world/30750493331/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md30750493331.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Rudimentary treatise on the power of water, as applied to drive flour mills, and to give motion to turbines and other hydrostatic engines",
+      "id": "books-005",
+      "author": "Joseph Glynn",
+      "year": 2025,
+      "medium": "LeatherBound (Reprint of 1853 edition)",
+      "value": {
+        "amount": 30.99,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "",
+      "model": "LeatherBound",
+      "acquisitionDate": "",
+      "condition": "New (print on demand, reprint)",
+      "provenance": "S N Books World, Delhi, India",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "A leather-bound reprint of 'Rudimentary treatise on the power of water, as applied to drive flour mills, and to give motion to turbines and other hydrostatic engines' by Joseph Glynn. Originally published in 1853, this edition is reprinted in 2025 with original text and illustrations, and includes an appendix on centrifugal and rotary pumps. The binding features gilt printing on the spine and satin ribbon page markers. An excellent addition for collectors interested in early engineering and hydrostatics.",
+      "listingUrl": [
+        "https://www.abebooks.com/Rudimentary-treatise-power-water-applied-drive/31376189310/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md31376189310.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "The Influence of the Blue Ray of the Sunlight and of the Blue Colour of the Sky",
+      "id": "books-006",
+      "author": "Ge. A. J. [Augustus] Pleasonton",
+      "year": 1877,
+      "medium": "Hardcover (blue cloth, gold lettered, blue pages)",
+      "value": {
+        "amount": 200,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "",
+      "model": "Second Edition",
+      "acquisitionDate": "",
+      "condition": "Very Good (small tear to cloth at head of spine, corners lightly bumped, else near fine)",
+      "provenance": "Apport Used Books, Emmaus, PA, USA",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "A scarce second edition of one of the first works on American light therapy, known for inciting a late 19th-century 'blue glass craze.' Written by Civil War general Augustus Pleasonton, the book explores blue and sun-lights' influence upon life and disease, and is celebrated for its blue pages and blue cloth binding stamped with gold. An influential and unusual medical collectible.",
+      "listingUrl": [
+        "https://www.abebooks.com/Influence-Blue-Ray-Sunlight-Colour-Sky/32186645043/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/32186645043.jpg",
+        "https://pictures.abebooks.com/inventory/32186645043_2.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "The Works of Aristotle. (First English Edition, Complete Set, Signed by Thomas Taylor)",
+      "id": "books-008",
+      "author": "Aristotle; Translated by Thomas Taylor",
+      "year": 1806,
+      "medium": "Hardcover (Full contemporary calf, gilt titles, morocco spine labels, marbled endpapers)",
+      "value": {
+        "amount": 55000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Robert Wilks, London",
+      "model": "First Edition, limited to 50 sets",
+      "acquisitionDate": "",
+      "condition": "Near fine (only light toning; signed in volumes 1 and 4 by the translator Thomas Taylor; complete in 11 volumes)",
+      "provenance": "Raptis Rare Books, Palm Beach, FL, USA",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "Exceptionally rare, complete set of the first edition in English of Aristotle's works, limited to just 50 copies, signed by translator Thomas Taylor in volumes one and four. Eleven quarto volumes (1806–1812), including The Organon, Rhetoric, Ethics, Physics, treatises on Animals, the Metaphysics, and Taylor’s Dissertation on Aristotle. Each bound in full contemporary calf with gilt titles, ribbon bookmarks, and marbled edges and endpapers. These translations marked the first comprehensive system of Western philosophy available in English. A landmark in ancient philosophy and an extraordinary collector’s piece.",
+      "listingUrl": [
+        "https://www.abebooks.com/signed-first-edition/Works-Aristotle-Translated-Thomas-Taylor-Robert/31324181155/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md31324181155.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Chromo Therapy in Light and Colors as Promoters of Health in All Conditions",
+      "id": "books-007",
+      "author": "Colville, W. J.",
+      "year": 2014,
+      "medium": "Soft cover (Reprint of 1910 edition)",
+      "value": {
+        "amount": 39.11,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Literary Licensing, LLC",
+      "model": "Modern Reproduction",
+      "acquisitionDate": "",
+      "condition": "As New (Unread book in perfect condition)",
+      "provenance": "GreatBookPricesUK, Woodford Green, United Kingdom",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "A modern reprint of the original 1910 edition, 'Chromo Therapy in Light and Colors as Promoters of Health in All Conditions' by W. J. Colville explores the therapeutic use of color and light. This copy is a softcover published in 2014 by Literary Licensing, LLC, and is in as new, unread condition. A unique piece for collectors interested in alternative medicine and chromotherapy.",
+      "listingUrl": [
+        "https://www.abebooks.com/Chromo-Therapy-Light-Colors-Promoters-Health/32349437121/bd"
+      ],
+      "images": [
+        "https://pictures.abebooks.com/inventory/md/md32349437121.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Dragon Ball Super Complete Manga Collection (1-20)",
+      "id": "books-001-1",
+      "author": "Akira Toriyama",
+      "year": "",
+      "medium": "Paperback",
+      "value": {
+        "amount": 269,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Viz Media",
+      "model": "Complete Manga Set",
+      "acquisitionDate": "",
+      "condition": "New",
+      "provenance": "",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.amazon.ca/Dragon-Super-Books-Collection-Toriyama/dp/163799897X/ref=sr_1_12?dib=eyJ2IjoiMSJ9.5uiSVsXCLfxAGN8VKwakKwmdoWc-V0dweZ92q33fduhPjPJdRJ3NiviGFa0mdAnQJMN6nMp0mijvoOIa_txGaKyuQrQDXeNmSK1QS48Sq7rCsqBQhOXi1O0bHF5dC99xq38-QBfJr43a5NFvwEf0Ol0UYe1xafQCObhir_VSIreovIviXgMZhx1NrdegmwVDxj4Hmv2GFElRycPQtcIqTTN7Xaxup4WU7siAkHFbn0k.tUDsxulbFa6o66Rsanp9pE1wnpwrVSL52blw1sAbaVU&dib_tag=se&qid=1764965207&s=books&sr=1-12"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/91PMhJ4OgmL._AC_UY436_QL65_.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Le lavoir de Billancourt by Alfred Sisley",
+      "id": "art-sisley-lavoir-billancourt",
+      "artist": "Alfred Sisley",
+      "year": "1870s",
+      "medium": "Oil on canvas",
+      "value": {
+        "amount": 1985000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Alfred Sisley",
+      "model": "Le lavoir de Billancourt",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 32-2690. Impressionist view of the Seine from Sisley’s golden period.",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "Impressionist Alfred Sisley captures the beauty of the French landscape in this oil on canvas — a prime example of Sisley’s passion for the sky and contrasting environment.",
+      "listingUrl": [
+        "https://rauantiques.com/products/le-lavoir-de-billancourt-by-alfred-sisley"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_1.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_2.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_3.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_4.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_5.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2690_6.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Fabergé Silver Service",
+      "id": "art-faberge-silver-service",
+      "artist": "Fabergé",
+      "year": "19th Century",
+      "medium": "Silver",
+      "value": {
+        "amount": 248500,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Fabergé",
+      "model": "Silver Service",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 31-8432.",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "",
+      "listingUrl": [
+        "https://rauantiques.com/products/faberge-silver-service"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_1_c6065878-71b2-4d44-8e56-0ef116f7e6b8.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_2_c1cc80d0-42b8-4169-9647-4d441ded680b.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_3_d17395d8-7742-4006-a2c1-ae9284cef683.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_4_6a0685a4-27d7-4f5a-b26c-9aa4bbd408a6.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_5_728b34e6-11a5-44e6-8336-ecfa19fcbcb0.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_6_2cd63f23-99e0-4b7e-a5c0-680c65229f85.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_7_48148f65-c241-4f1b-b202-8c73ddd313c6.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8432_8_328458ad-913d-4073-aa0f-a9d593f151d5.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Glass and Silver Gilt Wine Coolers by Hunt & Roskell",
+      "id": "art-hunt-roskell-wine-coolers",
+      "artist": "Hunt & Roskell / John Samuel Hunt",
+      "year": "1846",
+      "medium": "Cut glass and silver gilt",
+      "value": {
+        "amount": 88500,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Hunt & Roskell",
+      "model": "Pair of wine coolers",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 31-8362. Hallmarked 1846; maker’s mark for John Samuel Hunt (Paul Storr lineage). Pair, each 13 3/4\" high x 9 1/2\" diameter.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Victorian glass and silver-gilt wine coolers with etched grapevine decoration and foliate mounts by Hunt & Roskell.",
+      "listingUrl": [
+        "https://rauantiques.com/products/glass-and-silver-gilt-wine-coolers-by-hunt-roskell"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_1_632ecb90-c301-434c-a52a-999a3c9200c7.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_2_d98e95f3-e54b-4829-9319-a60e2912bb7a.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_3_0bc197a1-a126-4310-9735-ea4ccdb9f520.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_4_27a08df9-861d-4b4c-bd8a-f59e095b5e7c.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_5_94b52c55-69b4-4f31-8fab-d0f013793c55.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-8362_6_28212f9e-f37d-4481-98ac-dc05e56c0221.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Marcus & Co. Art Deco Cloisonné Enamel Desk Clock",
+      "id": "art-marcus-cloisonne-desk-clock",
+      "artist": "Marcus & Co.",
+      "year": "Art Deco",
+      "medium": "Cloisonné enamel, precious metals",
+      "value": {
+        "amount": 54500,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Marcus & Co.",
+      "model": "Art Deco desk clock",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 32-2003.",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "",
+      "listingUrl": [
+        "https://rauantiques.com/products/marcus-co-art-deco-cloisonne-enamel-desk-clock"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_1_d66397ad-2c0f-4230-8933-1b40264bc05b.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_2_59fc3b61-e20f-48fb-816e-efba5814cd3f.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_3_668c26de-68af-4fd8-9b53-a7ffc6a3e13d.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_4_f4776152-cd38-4d67-bfa8-c227a9c7c454.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_5_4c7b2511-2a36-4aab-821a-2d2f129af84f.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-2003_6.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "The Linke Grand Regulator World's Fair Clock",
+      "id": "art-linke-grand-regulator",
+      "artist": "François Linke",
+      "year": "World's Fair era",
+      "medium": "Ormolu, marble, clockwork",
+      "value": {
+        "amount": 785000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "François Linke",
+      "model": "Grand Regulator",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 32-0442.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "",
+      "listingUrl": [
+        "https://rauantiques.com/products/the-linke-grand-regulator-worlds-fair-clock"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_1.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_2.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_3.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_4.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_5.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_6.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-0442_7.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Tiffany & Co. Presentation Sword for General Dan Sickles",
+      "id": "art-tiffany-sickles-sword",
+      "artist": "Tiffany & Co.",
+      "year": "Civil War era",
+      "medium": "Presentation sword",
+      "value": {
+        "amount": 335000,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Tiffany & Co.",
+      "model": "Presentation Sword — Gen. Dan Sickles",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 32-1607. Presented for General Dan Sickles.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "",
+      "listingUrl": [
+        "https://rauantiques.com/products/tiffany-co-presentation-sword-for-general-dan-sickles"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_1.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_2.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_3.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_4.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_5.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_6.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_7.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/32-1607_8.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Paul Storr Abolitionist Silver Trays",
+      "id": "art-paul-storr-abolitionist-trays",
+      "artist": "Paul Storr",
+      "year": "19th Century",
+      "medium": "Silver",
+      "value": {
+        "amount": 298500,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Paul Storr",
+      "model": "Abolitionist Silver Trays",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 31-9390.",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "",
+      "listingUrl": [
+        "https://rauantiques.com/products/paul-storr-abolitionist-silver-trays"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_1_a1ec3b71-7a7c-476c-8da1-93ea72d752ad.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_2_d0f4a997-7fd0-45bf-8560-48e77c5b5fd1.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_3_d728fb6d-5dbb-4295-9f6a-9d55afc78d79.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_4_15071ccc-b1a3-4bc3-a202-0cc767fad849.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_5_60bea028-e245-4160-83ad-7c2a7694b406.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_6_17cdcbde-0957-45cd-a2f6-678d5f028459.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_7_43111066-03ef-40d2-88e7-0761ff027d5f.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-9390_8_fe72eb1b-45e6-4c3c-bd95-b7d33c686ffd.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Viennese Enameled Silver Rock Crystal Charger",
+      "id": "art-viennese-rock-crystal-charger",
+      "artist": "Hermann Ratzersdorfer (attributed)",
+      "year": "Circa 1880",
+      "medium": "Gilded silver, enamel, rock crystal, semi-precious stones",
+      "value": {
+        "amount": 98500,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "brand": "Hermann Ratzersdorfer",
+      "model": "Monumental charger",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "M.S. Rau Item No. 31-1521. Attributed to Hermann Ratzersdorfer; neo-Renaissance Viennese masterwork, circa 1880. Approx. 19 1/2\" diameter.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Monumental Viennese charger of gilded silver, enamel and engraved rock crystal with putti and scrolling decoration.",
+      "listingUrl": [
+        "https://rauantiques.com/products/viennese-enameled-silver-rock-crystal-charger"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-1521_1_9fba236f-fc2e-41bb-b877-cbf92906a3b8.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-1521_2_f2b99c10-f363-4b45-bc37-ba9d2aa18599.png",
+        "https://cdn.shopify.com/s/files/1/0083/2471/0466/files/31-1521_3_cbd45e22-27ec-4904-85a7-17ebc3a33430.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Monumental Chess Set “The Ball - A War of Luxury and Fashion”",
+      "artist": "Konforti Jewelry",
+      "id": "art-028",
+      "year": "2026",
+      "medium": "960/925 Silver, 18K/24K Gold, Enamel, Gemstones",
+      "value": {
+        "amount": 2500000,
+        "currency": "USD"
+      },
+      "brand": "Konforti Jewelry",
+      "model": "The Ball - A War of Luxury and Fashion",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "Konforti family atelier commission; Rococo-inspired sculptural chess set celebrating the rivalry of Catherine the Great and Marie Antoinette courts. Approx. 18-month handmade production.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Monumental silver-and-gold sculptural chess set that transforms from a playable game into a Rococo ballroom tableau with court figures, musicians, and architectural pavilions.",
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/objets-dart-vertu/figurines-sculptures/monumental-chess-set-ball-war-luxury-fashion-silver-gold/id-j_29650662/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/monumental-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-gold-for-sale/j_45012/j_296506621781545689534/j_29650662_1781545689873_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-gold-for-sale-picture-2/j_45012/j_296506621781545628708/monumental_imperial_chess_set_russia_vs_france_complete_set_jpg_Copy_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-gold-for-sale-picture-3/j_45012/j_296506621781545636748/luxury_silver_gold_chess_pieces_marie_antoinette_catherine_the_great_jpg_Copy_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-gold-for-sale-picture-4/j_45012/j_296506621781545646947/museum_quality_rococo_chess_set_faberge_style_palace_board_jpg_Copy_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-gold-for-sale-picture-5/j_45012/j_296506621781545733417/rococo_ballroom_chess_set_war_of_luxury_and_fashion_jpg_Copy_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-imperial-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-for-sale-picture-6/j_45012/j_296506621781458508110/Untitled_design_2026_06_08T204648_632_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-imperial-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-for-sale-picture-7/j_45012/j_296506621781458515602/ChatGPT_Image_Jun_11_2026_07_40_46_PM_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/monumental-imperial-chess-set-the-ball-a-war-of-luxury-and-fashion-in-silver-for-sale-picture-8/j_45012/j_296506621781458523246/Untitled_design_2026_06_02T234807_417_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "A Walk in the Woods (Joy of Painting S1E1 On-Air Painting)",
+      "artist": "Bob Ross",
+      "id": "art-029",
+      "year": 1983,
+      "medium": "Oil on canvas",
+      "value": {
+        "amount": 9850000,
+        "currency": "USD"
+      },
+      "brand": "Bob Ross",
+      "model": "A Walk in the Woods — Season 1 Episode 1",
+      "acquisitionDate": "2026-09-25",
+      "condition": "Excellent",
+      "provenance": "Painted on-air during Season 1, Episode 1 of The Joy of Painting (1983). Signed “Ross” in red, lower left. Includes statement from the original owner present at creation. Modern Artifact, Minneapolis.",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Historically significant Bob Ross original — the first on-air painting from The Joy of Painting. 18\" × 24\" oil on canvas landscape.",
+      "listingUrl": [
+        "https://www.1stdibs.com/art/paintings/landscape-paintings/bob-ross-bob-ross-signed-on-air-painting-from-season-1-episode-1-joy-painting/id-a_18430382/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale/a_10981/a_184303821786503715546/bob_ross_1st_tv_painting_detail1_57840bf7_a1e6_4924_8e8d_c458beade752_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-2/a_10981/a_184303821786503716838/bob_ross_1st_tv_painting_detail2_eff2b2a7_7982_4c6a_931b_894226c46a0d_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-3/a_10981/a_184303821786503717929/bob_ross_1st_tv_painting_detail3_e6192e99_f9c0_4067_8017_543571261f7e_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-4/a_10981/a_184303821786503718772/bob_ross_1st_tv_painting_detail4_d9668cc3_b304_45e3_b760_0a6435583399_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-5/a_10981/a_184303821786503719722/bob_ross_1st_tv_painting_detail5_857da3f7_105e_42f3_9ead_25a0fc252a0f_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-6/a_10981/a_184303821786503720611/bob_ross_1st_tv_painting_detail6_3337049d_1df1_46e3_a761_127f6423bc4c_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-7/a_10981/a_184303821786503721775/bob_ross_1st_tv_painting_detail7_2e189953_c872_4407_a627_db0db6510f8f_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/bob-ross-paintings-bob-ross-signed-on-air-painting-from-season-1-episode-1-of-the-joy-of-painting-for-sale-picture-8/a_10981/a_184303821786503722649/bob_ross_1st_tv_painting_detail8_5f935893_0365_4411_99e5_94a764c462af_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "insurance": {
+        "provider": "AXA Art",
+        "policyNumber": "AXA-ART-ROSS-029",
+        "coverageUSD": 10500000,
+        "renewalDate": "2026-12-10",
+        "notes": "Broadcast painting; climate-controlled storage"
+      },
+      "status": "available"
+    },
+    {
+      "name": "The Book: The Ultimate Guide to Rebuilding Civilization",
+      "id": "books-009",
+      "author": "Hungry Minds",
+      "year": 2022,
+      "medium": "Book",
+      "value": {
+        "amount": 169,
+        "currency": "CAD"
+      },
+      "currency": "CAD",
+      "brand": "Hungry Minds",
+      "model": "The Book (English, Regular edition)",
+      "acquisitionDate": "0000-00-00",
+      "condition": "New",
+      "provenance": "Hungry Minds",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "description": "Hand-illustrated 400+ page encyclopedia of inventions and discoveries across human history — medicine, materials, mechanisms, farming, military arts, and society. Crafted over 5,000+ hours with 1,000+ hand-drawn illustrations; printed on 157gsm paper. Dimensions 9.0 × 2.0 × 13.4 in (23 × 4.9 × 34 cm), weight ~4.96 lb / 2.25 kg. ISBN 978-0-578-37745-2. Top 2 Kickstarter campaign; 400k+ copies sold.",
+      "listingUrl": [
+        "https://hungryminds.com/en-ca/products/the-book"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/7985519460644-ab523288a6412df6baa931a9acd71ee6071a70bf.png?v=1777455854",
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/7985519460644-a3865a9daad7319107d29c84ba5777e73b5f7684.jpg?v=1777455850",
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/closeup_1_30612739-d3b7-478f-929e-8d8143f1e98a.jpg?v=1788852043",
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/7985519460644-e45dcb8ddb55ba64c99c2f28859f52021c4d69e9.jpg?v=1777455866",
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/closeup_2-1_6e9ada56-82c9-469b-9448-b688e573461c.jpg?v=1788852417",
+        "https://cdn.shopify.com/s/files/1/0669/6475/0628/files/7985519460644-40c4ffc440e3dfb530b9a5286d41db173b309cc4.jpg?v=1777455842"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Cellarius, Andreas | Harmonia macrocosmica seu atlas universalis et novus (Amsterdam, Jan Jansson, 1661)",
+      "artist": "Andreas Cellarius",
+      "id": "book-cellarius-harmonia-macrocosmica-1661",
+      "year": "1661",
+      "medium": "Hand-colored atlas",
+      "value": {
+        "amount": 210000,
+        "currency": "USD"
+      },
+      "brand": "Andreas Cellarius",
+      "model": "Cellarius, Andreas | Harmonia macrocosmica seu atlas universalis et novus (Amsterdam, Jan Jansson, 1661)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Reason and Revolution Part 1",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Brilliantly hand-colored Harmonia macrocosmica celestial atlas, Amsterdam: Jan Jansson, 1661. Sotheby's estimate USD 180,000–240,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/reason-and-revolution-extraordinary-works-from-a-distinguished-private-collection-part-1/cellarius-andreas-harmonia-macrocosmica-seu-atlas"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e3e0b27/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fb5%2Fcd%2F4ff244bc465ba10eb01b71c16512%2Fn12451-58t5l-t1-08.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/0f3ad36/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fb5%2Fcd%2F4ff244bc465ba10eb01b71c16512%2Fn12451-58t5l-t1-08.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/bf69d1e/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F15%2Ff0%2F0d7b74dc493483f96dad3cb13261%2Fn12451-b8s5s-t1-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/56b9ead/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F06%2F32%2F4c7bcd43475e96a2e47911d23813%2Fn12451-58tmt-t1-04.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e297086/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F88%2F32%2Fe63da8e346c28f37bf77d46b84b1%2Fn12451-58t5w-t1-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/510c083/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F41%2F07%2F65a6f4a14eb0b92759951853e3a5%2Fn12451-58vwv-t1-08.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Copernicus, Nicolaus | De revolutionibus orbium colestium, Nuremberg, 1543, first edition",
+      "artist": "Nicolaus Copernicus",
+      "id": "book-copernicus-de-revolutionibus-1543",
+      "year": "1543",
+      "medium": "First edition book",
+      "value": {
+        "amount": 850000,
+        "currency": "USD"
+      },
+      "brand": "Nicolaus Copernicus",
+      "model": "Copernicus, Nicolaus | De revolutionibus orbium colestium, Nuremberg, 1543, first edition",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Reason and Revolution Part 1",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "De revolutionibus orbium colestium. Nuremberg: Joannes Petretius, 1543 — first edition. Sotheby's estimate USD 700,000–1,000,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/reason-and-revolution-extraordinary-works-from-a-distinguished-private-collection-part-1/copernicus-nicolaus-de-revolutionibus-orbium"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/510c083/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F41%2F07%2F65a6f4a14eb0b92759951853e3a5%2Fn12451-58vwv-t1-08.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/9534c7c/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F41%2F07%2F65a6f4a14eb0b92759951853e3a5%2Fn12451-58vwv-t1-08.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/56b9ead/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F06%2F32%2F4c7bcd43475e96a2e47911d23813%2Fn12451-58tmt-t1-04.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/7ab54b6/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F5a%2F74%2Ffeeb99b142a695c313ba2bd5e475%2Fn12451-58vwx-t1-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6e1afe0/2147483647/strip/true/crop/4012x4012+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff8%2Ff0%2F81a7b6df46ccb788df6f971a8b19%2Fn12451-58vww-t1-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e3e0b27/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fb5%2Fcd%2F4ff244bc465ba10eb01b71c16512%2Fn12451-58t5l-t1-08.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Pablo Picasso | Tête d'homme, profil (1963)",
+      "artist": "Pablo Picasso",
+      "id": "art-picasso-tete-dhomme-profil-1963",
+      "year": "1963",
+      "medium": "Oil on canvas",
+      "value": {
+        "amount": 3815000,
+        "currency": "USD"
+      },
+      "brand": "Pablo Picasso",
+      "model": "Pablo Picasso | Tête d'homme, profil (1963)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Modernités; Private European Collection",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Tête d'homme, profil — oil on canvas, 65.2 × 54.3 cm, executed 9.3.63. Estimate EUR 3,000,000–4,000,000 (Modernités PF2616).",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/modernites-pf2616/tete-dhomme-profil"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/50e071f/2147483647/strip/true/crop/1652x2000+0+0/resize/150x182!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F97%2F39%2F6522644d46eea4fc8a756725ff48%2Fpf2616-dny8f-t1-02-cropped-v1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/7d47040/2147483647/strip/true/crop/1652x2000+0+0/resize/1024x1240!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F97%2F39%2F6522644d46eea4fc8a756725ff48%2Fpf2616-dny8f-t1-02-cropped-v1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/73d559a/2147483647/strip/true/crop/6772x8729+0+0/resize/150x193!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6a%2F1e%2F603b97aa4c2db885cc5ab945b090%2Fpf2666-dqq3b-cs-01-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2c165ac/2147483647/strip/true/crop/2000x1959+0+0/resize/150x147!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F02%2F2c%2F56f1aa384f949de8b9c78fc4286d%2Fpf2616-dptgq-t1-01a.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/63a0a1d/2147483647/strip/true/crop/3294x4504+0+0/resize/150x205!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F88%2Fb2%2Fe2fd0db6407fa383dba66dc80a8f%2Fpf2666-dlx7k-t3-02-a.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/61ea2ff/2147483647/strip/true/crop/6518x5205+0+0/resize/150x120!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F70%2Faa%2F24048a724919b5515f4a163b5040%2Fn12363-dgyyt-t1-04-a.jpg"
+      ],
+      "insurance": {
+        "provider": "AXA Art",
+        "policyNumber": "AXA-ART-PIC-PROFIL-63",
+        "coverageUSD": 4100000,
+        "renewalDate": "2026-11-28",
+        "notes": "Fine-art transit endorsement for fair loans"
+      },
+      "status": "available"
+    },
+    {
+      "name": "Andy Warhol | Alexander the Great (1982)",
+      "artist": "Andy Warhol",
+      "id": "art-warhol-alexander-the-great-1982",
+      "year": "1982",
+      "medium": "Acrylic and silkscreen ink on canvas",
+      "value": {
+        "amount": 2343500,
+        "currency": "USD"
+      },
+      "brand": "Andy Warhol",
+      "model": "Andy Warhol | Alexander the Great (1982)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Surrealism and Its Legacy PF2666",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Alexander the Great — acrylic and silkscreen on canvas, 101.5 × 101.5 cm, 1982. Estimate EUR 1,800,000–2,500,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/surrealism-and-its-legacy-pf2666/andy-warhol-alexander-the-great-1982"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/b9ce3e7/2147483647/strip/true/crop/6234x6240+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F99%2F01%2F4bf3c0524641a6cdccbfd3b24089%2Fpf2666-drrrf-t1-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/fa8547d/2147483647/strip/true/crop/6234x6240+0+0/resize/1024x1025!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F99%2F01%2F4bf3c0524641a6cdccbfd3b24089%2Fpf2666-drrrf-t1-01.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Banksy | Grannies (2006)",
+      "artist": "Banksy",
+      "id": "art-banksy-grannies-2006",
+      "year": "2006",
+      "medium": "Acrylic, spray paint and emulsion on canvas",
+      "value": {
+        "amount": 2222500,
+        "currency": "USD"
+      },
+      "brand": "Banksy",
+      "model": "Banksy | Grannies (2006)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Contemporary Evening; acquired from the artist 2018",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Grannies — 184.2 × 274.3 cm, executed 2006. Pest Control COA. Estimate GBP 1,500,000–2,000,000 (Contemporary Evening L26024).",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/contemporary-evening-auction-l26024/grannies"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/933ebf6/2147483647/strip/true/crop/5042x3466+0+0/resize/150x103!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc5%2F42%2Fe887dac24cb9928ec34ee0200414%2Fl26024-dq7mq-t3-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/a35b6ea/2147483647/strip/true/crop/5042x3466+0+0/resize/1024x704!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc5%2F42%2Fe887dac24cb9928ec34ee0200414%2Fl26024-dq7mq-t3-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1eddf1c/2147483647/strip/true/crop/4807x3600+0+0/resize/150x112!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff4%2F0e%2Fee1c52ff45dfa40374bc02db3644%2Fl26024-cmjjp-t1-01-group-rs.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c213b59/2147483647/strip/true/crop/14595x8891+0+0/resize/150x91!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6d%2F28%2F2b226ea749988852895570ab37df%2Fl26024-dqzhf-cs-03-rs2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/54b819b/2147483647/strip/true/crop/16957x11912+0+0/resize/150x105!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F53%2F02%2F9c12336f451ea4af43e7bd333564%2Fdqy8v-t3-02-group-cropped-combined-rs.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/79433e8/2147483647/strip/true/crop/7111x9121+0+0/resize/150x192!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fab%2F31%2F021d97f24df7ac72009c4a2a3a84%2Fl26024-drdg8-cs-01-cropped.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Andy Warhol | Portrait of Johann Wolfgang von Goethe (1981)",
+      "artist": "Andy Warhol",
+      "id": "art-warhol-goethe-1981",
+      "year": "1981",
+      "medium": "Acrylic and silkscreen ink on canvas",
+      "value": {
+        "amount": 1905000,
+        "currency": "USD"
+      },
+      "brand": "Andy Warhol",
+      "model": "Andy Warhol | Portrait of Johann Wolfgang von Goethe (1981)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Contemporary Evening L26024",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Portrait of Johann Wolfgang von Goethe — 200.5 × 210.5 cm, 1981. Estimate GBP 1,200,000–1,800,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/contemporary-evening-auction-l26024/portrait-of-johann-wolfgang-von-goethe"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/196fd10/2147483647/strip/true/crop/6237x5883+0+0/resize/150x141!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fbb%2F86%2F82b867de487182acbba4c4b04ecd%2Fl26024-dphcr-cs-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/307f34a/2147483647/strip/true/crop/6237x5883+0+0/resize/1024x966!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fbb%2F86%2F82b867de487182acbba4c4b04ecd%2Fl26024-dphcr-cs-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1eddf1c/2147483647/strip/true/crop/4807x3600+0+0/resize/150x112!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff4%2F0e%2Fee1c52ff45dfa40374bc02db3644%2Fl26024-cmjjp-t1-01-group-rs.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/54b819b/2147483647/strip/true/crop/16957x11912+0+0/resize/150x105!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F53%2F02%2F9c12336f451ea4af43e7bd333564%2Fdqy8v-t3-02-group-cropped-combined-rs.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c213b59/2147483647/strip/true/crop/14595x8891+0+0/resize/150x91!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6d%2F28%2F2b226ea749988852895570ab37df%2Fl26024-dqzhf-cs-03-rs2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1e5f420/2147483647/strip/true/crop/14595x10731+0+0/resize/150x110!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fe5%2F7e%2F8a0e0fd844afbf4f3175298e22c4%2Fl26024-dlbtd-cs-01-cropped-rs.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Pablo Picasso | B1101 Nature Morte au Verre sous La Lampe, 1962 (March 19, Mougins)",
+      "artist": "Pablo Picasso",
+      "id": "art-picasso-nature-morte-lampe-1962",
+      "year": "1962",
+      "medium": "Linocut in colors on Arches paper",
+      "value": {
+        "amount": 85000,
+        "currency": "USD"
+      },
+      "brand": "Pablo Picasso",
+      "model": "Pablo Picasso | B1101 Nature Morte au Verre sous La Lampe, 1962 (March 19, Mougins)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Fine Art / Print Buy Now",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Linocut printed in yellow, red, green, and black; one of twenty proofs reserved for publisher and artist. Published Galerie Louis Leiris, 1963.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/fine-art/print/_pablo-picasso-b1101-nature-morte-au-verre-sous-la-lampe-1962-march-19-mougins-d226"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/40dfe1a/2147483647/strip/true/crop/3447x2937+0+0/resize/800x682!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F60%2Fb5%2F3f2a8f4b4bbfb76aeaf3ea4374d0%2Fpablo-picasso-b1101-nature-morte-au-verre-sous-la-lampe-1962-march-19-mougins-d226.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Kepler, Johannes | Astronomia nova aitiologitos, 1609, first edition (Chasles copy)",
+      "artist": "Johannes Kepler",
+      "id": "book-kepler-astronomia-nova-1609",
+      "year": "1609",
+      "medium": "First edition, contemporary vellum",
+      "value": {
+        "amount": 500000,
+        "currency": "USD"
+      },
+      "brand": "Johannes Kepler",
+      "model": "Kepler, Johannes | Astronomia nova aitiologitos, 1609, first edition (Chasles copy)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Reason and Revolution Part 1",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "Astronomia nova — first edition, contemporary vellum, the Chasles copy. Estimate USD 400,000–600,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/reason-and-revolution-extraordinary-works-from-a-distinguished-private-collection-part-1/kepler-johannes-astronomia-nova-aitiologitos"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/56b9ead/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F06%2F32%2F4c7bcd43475e96a2e47911d23813%2Fn12451-58tmt-t1-04.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c378609/2147483647/strip/true/crop/2000x2000+0+0/resize/1024x1024!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F06%2F32%2F4c7bcd43475e96a2e47911d23813%2Fn12451-58tmt-t1-04.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/bf69d1e/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F15%2Ff0%2F0d7b74dc493483f96dad3cb13261%2Fn12451-b8s5s-t1-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/510c083/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F41%2F07%2F65a6f4a14eb0b92759951853e3a5%2Fn12451-58vwv-t1-08.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6e1afe0/2147483647/strip/true/crop/4012x4012+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff8%2Ff0%2F81a7b6df46ccb788df6f971a8b19%2Fn12451-58vww-t1-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/903f0ee/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2Fd0%2F97%2Fa053d3124b58b63c69f7b665bada%2Fn12451-b8s55-t1-02.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Sefer Mitzvot Gadol (Great Book of Commandments), Italy, late 15th century",
+      "artist": "Moses of Coucy",
+      "id": "book-sefer-mitzvot-gadol-15c",
+      "year": "late 15th century",
+      "medium": "Ink, gouache and gold leaf on parchment, 439 folios",
+      "value": {
+        "amount": 1500000,
+        "currency": "USD"
+      },
+      "brand": "Moses of Coucy",
+      "model": "Sefer Mitzvot Gadol (Great Book of Commandments), Italy, late 15th century",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Magnificent Judaica",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "Richly decorated Italian manuscript of the Semag. Estimate USD 1,000,000–2,000,000 (Magnificent Judaica).",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/magnificent-judaica/sefer-mitzvot-gadol-great-book-of-commandments"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/733fc96/2147483647/strip/true/crop/8736x11648+0+0/resize/150x200!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F61%2F72%2F9bd8171f43288654ea92dabf22b1%2Fn12405-dpbw6-t1-09.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/a743e9b/2147483647/strip/true/crop/8736x11648+0+0/resize/1024x1365!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F61%2F72%2F9bd8171f43288654ea92dabf22b1%2Fn12405-dpbw6-t1-09.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f7d969a/2147483647/strip/true/crop/7843x5189+0+0/resize/150x99!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F58%2Fdc%2F14db50254ec6b84f47568389be1e%2Fchumash-unkelus-p162-photo-by-ardon-bar-hama1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/b162f07/2147483647/strip/true/crop/1554x992+0+0/resize/150x96!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F21%2F87%2Fbd9a74124f038384d7b953bf6516%2Fpicture9.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/7ab54b6/2147483647/strip/true/crop/2000x2000+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F5a%2F74%2Ffeeb99b142a695c313ba2bd5e475%2Fn12451-58vwx-t1-02.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Jean-Michel Basquiat | Untitled (1985)",
+      "artist": "Jean-Michel Basquiat",
+      "id": "art-basquiat-untitled-1985-pf2616",
+      "year": "1985",
+      "medium": "Acrylic, paper collage, crayon and XEROX on paper laid down on paper mounted on board",
+      "value": {
+        "amount": 2725000,
+        "currency": "USD"
+      },
+      "brand": "Jean-Michel Basquiat",
+      "model": "Jean-Michel Basquiat | Untitled (1985)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Modernités PF2616; Private European Collection",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "Untitled, 1985 — 57.4 × 77 cm. Estate Authentication Committee certificate (6 Oct 2004). Estimate EUR 2,000,000–3,000,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/modernites-pf2616/sans-titre-3"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/3d45414/2147483647/strip/true/crop/6944x5185+0+0/resize/150x112!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fe2%2F37%2F2214623c4ba6a8db29f939c3e24a%2Fpf2616-dqydp-t1-01a-rx-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/534eb46/2147483647/strip/true/crop/6944x5185+0+0/resize/1024x765!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fe2%2F37%2F2214623c4ba6a8db29f939c3e24a%2Fpf2616-dqydp-t1-01a-rx-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/79433e8/2147483647/strip/true/crop/7111x9121+0+0/resize/150x192!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fab%2F31%2F021d97f24df7ac72009c4a2a3a84%2Fl26024-drdg8-cs-01-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/8a4d2da/2147483647/strip/true/crop/7335x5309+0+0/resize/150x109!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F7c%2F06%2F2d5ab25745c19e74a04595992f4c%2Fpf2666-dkj8t-t1-19-ps.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/19f3100/2147483647/strip/true/crop/3514x4525+0+0/resize/150x193!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fb4%2F55%2F6e3928194885bfa2e14e5b3e51ab%2Fdn7c8-myact.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/72e247b/2147483647/strip/true/crop/14595x10731+0+0/resize/150x110!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fde%2F21%2Fe09e3c5849b2a903668f4e69be8c%2Fl26024-dnw8l-t1-03-rs.jpg"
+      ],
+      "insurance": {
+        "provider": "Chubb Masterpiece",
+        "policyNumber": "CH-ART-BASQ-1985",
+        "coverageUSD": 2900000,
+        "renewalDate": "2027-08-15"
+      },
+      "status": "available"
+    },
+    {
+      "name": "Pablo Picasso | Minotaure aveugle guidé par une fillette dans la nuit (Vollard Suite, Bloch 225)",
+      "artist": "Pablo Picasso",
+      "id": "art-picasso-minotaure-aveugle-vollard-225",
+      "year": "1933",
+      "medium": "Etching and drypoint with aquatint on Montval laid paper",
+      "value": {
+        "amount": 125000,
+        "currency": "USD"
+      },
+      "brand": "Pablo Picasso",
+      "model": "Pablo Picasso | Minotaure aveugle guidé par une fillette dans la nuit (Vollard Suite, Bloch 225)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Magnum Opus Evening Auction",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "description": "From the Vollard Suite, edition of 50 on large format (total edition 310). Estimate USD 100,000–150,000 (Magnum Opus Evening).",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/magnum-opus-evening-auction/minotaure-aveugle-guide-par-une-fillette-dans-la"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6411fd7/2147483647/strip/true/crop/2000x1544+0+0/resize/150x116!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F50%2Fd9%2F90308ed84fcf85b2e8a347ab29b5%2Fn12500-by5hw-t1-02-a.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/657807c/2147483647/strip/true/crop/2000x1544+0+0/resize/1024x791!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F50%2Fd9%2F90308ed84fcf85b2e8a347ab29b5%2Fn12500-by5hw-t1-02-a.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/188ff0c/2147483647/strip/true/crop/4658x6160+0+0/resize/150x198!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fea%2F91%2Fa6391a944dde9bc5105f6b68fcc3%2Fn12500-dgyxr-t1-10-a-group.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/621b07c/2147483647/strip/true/crop/3082x2438+0+0/resize/150x119!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F7a%2Fbc%2Fbbb6a0564228a04fc6f9026310ac%2Fn12502-5nw2s-t1-13.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6f34373/2147483647/strip/true/crop/2499x3215+0+0/resize/150x193!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6b%2F7a%2F795eacee4ade92576ddb2d66f6cf%2Fn12502-5nw33-t1-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/981ee5b/2147483647/strip/true/crop/3910x2748+0+0/resize/150x105!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F6d%2Fbe%2F1a1249b443528c04e9133deea179%2Fn12500-5nw2v-t1-37.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Damien Hirst | All You Need is Love, Love, Love (2010)",
+      "artist": "Damien Hirst",
+      "id": "art-hirst-all-you-need-is-love-2010",
+      "year": "2010",
+      "medium": "Silkscreen with diamond dust",
+      "value": {
+        "amount": 91500,
+        "currency": "USD"
+      },
+      "brand": "Damien Hirst",
+      "model": "All You Need is Love, Love, Love",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Fine Art / Print Buy Now",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Signed and numbered silkscreen with diamond dust, edition of 50. 59.4 × 59.3 in. Ships from Zürich.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/fine-art/print/_damien-hirst-hirst-all-you-need-is-love-love-love-signed-print-1cd5"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/5e03cb7/2147483647/strip/true/crop/2768x2768+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff6%2Fc2%2Fc95797aa4fcb9c902118993a64d4%2F8.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d8451fc/2147483647/strip/true/crop/830x830+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F8b%2F80%2F37a6618a4d99835327137e9fb589%2F4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/b9eadab/2147483647/strip/true/crop/2832x2832+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F4b%2Fbe%2Fe8c19238424d95da41ec91668e2a%2F3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/a6e9c35/2147483647/strip/true/crop/2832x2832+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffe%2F43%2Ff5b22cc04446a397786323a50f7d%2F7.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/489118e/2147483647/strip/true/crop/2828x2828+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F14%2Fc3%2Fc9c5707b44239d87a314c1e0dbc6%2F1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/961d7c2/2147483647/strip/true/crop/830x830+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F3e%2Fa2%2Fe43704a343dfac9605387b763e5a%2F5.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Pablo Picasso | Ba1347 Peintre et modèle au fauteuil (1963)",
+      "artist": "Pablo Picasso",
+      "id": "art-picasso-peintre-modele-fauteuil-1963",
+      "year": "1963",
+      "medium": "Linocut rincé in cream with China ink on Arches paper",
+      "value": {
+        "amount": 90500,
+        "currency": "USD"
+      },
+      "brand": "Pablo Picasso",
+      "model": "Ba1347 Peintre et modèle au fauteuil",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Fine Art / Print Buy Now; dedicated to Norman Granz",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Baer's first state; one of approx. five impressions. Signed, dedicated and dated 'pour Norman Granz / son ami Picasso / le. 18.5.69'. Printed by Arnéra.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/fine-art/print/_pablo-picasso-ba1347-peintre-et-modele-au-fauteuil-1963-0c6e"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6419c75/2147483647/strip/true/crop/2885x2518+0+0/resize/800x698!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F03%2Fd1%2F93b5ad644893b5a8b06330ba0533%2Fpablo-picasso-ba1347-peintre-et-modele-au-fauteuil-1963-0c6e.jpg",
+        "https://sothebys-md.brightspotcdn.com/03/d1/93b5ad644893b5a8b06330ba0533/pablo-picasso-ba1347-peintre-et-modele-au-fauteuil-1963-0c6e.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Andy Warhol | Marilyn Monroe (Marilyn) (F. & S. II.26)",
+      "artist": "Andy Warhol",
+      "id": "art-warhol-marilyn-fs-ii-26",
+      "year": "1967",
+      "medium": "Screenprint in colours on wove paper",
+      "value": {
+        "amount": 127000,
+        "currency": "USD"
+      },
+      "brand": "Andy Warhol",
+      "model": "Marilyn Monroe (Marilyn) (F. & S. II.26)",
+      "acquisitionDate": "2026-10-10",
+      "condition": "Excellent",
+      "provenance": "Sotheby's Contemporary Day Auction L26025; ed. 137/250",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Stamp-numbered 137/250, signed on verso. Sheet 91.5 × 91.6 cm. Printed by Aetna Silkscreen Products; published by Factory Additions. Estimate GBP 80,000–120,000.",
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/auction/2026/contemporary-day-auction-l26025/marilyn-monroe-marilyn-f-s-ii-26"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/47d0f59/2147483647/strip/true/crop/2000x1995+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F4b%2F20%2Fdc9531f44d20a2399a8e67a55ea6%2Fl26025-dnlx4-tx-01-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/8a272ee/2147483647/strip/true/crop/2000x1995+0+0/resize/1024x1021!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F4b%2F20%2Fdc9531f44d20a2399a8e67a55ea6%2Fl26025-dnlx4-tx-01-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/fba2976/2147483647/strip/true/crop/2279x3155+0+0/resize/150x208!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc0%2Fda%2Ff07ceb22447cb4b092d24665e38d%2Fl26026-xxxxx-cs-13-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/20562c9/2147483647/strip/true/crop/2105x2925+0+0/resize/150x208!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F4e%2Ff7%2F861e8dce4eea887c13af148a1d23%2Fl26026-xxxxx-cs-22-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6fa8c9c/2147483647/strip/true/crop/2181x3016+0+0/resize/150x207!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5e%2F2f%2F4c064c1a4c3baa11635896d01029%2Fl26026-xxxxx-cs-17-cropped.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/9ed025d/2147483647/strip/true/crop/2668x3687+0+0/resize/150x207!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F20%2F7d%2F0769cbbc4efe9a457a7312d9c3ee%2Fl26026-xxxxx-cs-08-cropped.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Dolce&Gabbana Casa Carretto Poker Set",
+      "id": "art-mt-P01110771-carretto-poker-set",
+      "artist": "Dolce&Gabbana Casa",
+      "year": "2025",
+      "medium": "Plexiglas, brass, MDF, iron, paper",
+      "value": {
+        "amount": 6382.8,
+        "currency": "USD"
+      },
+      "brand": "Dolce&Gabbana Casa",
+      "model": "Carretto Poker Set",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "Mytheresa CA listing",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Dolce&Gabbana Casa Carretto poker set in multicoloured. Presented in a compact case decorated with the signature Carretto motif. Material: Plexiglas, brass, MDF, iron, paper. Made in Italy.",
+      "listingUrl": [
+        "https://www.mytheresa.com/ca/en/life/dolce-gabbana-casa-carretto-poker-set-multicoloured-p01110771"
+      ],
+      "images": [
+        "https://www.mytheresa.com/image/1094/1238/100/38/P01110771.jpg",
+        "https://www.mytheresa.com/image/1094/1238/100/38/P01110771_d1.jpg",
+        "https://www.mytheresa.com/image/1094/1238/100/38/P01110771_d2.jpg",
+        "https://www.mytheresa.com/image/1094/1238/100/38/P01110771_d3.jpg",
+        "https://www.mytheresa.com/image/1094/1238/100/38/P01110771_d4.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Chrome Hearts Sterling Set of 4 Valve Caps",
+      "id": "art-trr-chrome-hearts-sterling-valve-caps-vvjmd",
+      "artist": "Chrome Hearts",
+      "year": "",
+      "medium": "Sterling silver",
+      "value": {
+        "amount": 1436,
+        "currency": "USD"
+      },
+      "brand": "Chrome Hearts",
+      "model": "Sterling Set of 4 Valve Caps",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing CHH65325",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "description": "Set of 4 sterling silver Chrome Hearts tire valve caps with fluted texture, decorative maltese cross accents at tops, brands and hallmarks at sides and undersides. Includes 4 valve caps and dust bag.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/men/accessories/other/chrome-hearts-sterling-set-of-4-valve-caps-vvjmd"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/CHH65325_1_enlarged.jpg",
+        "https://product-images.therealreal.com/CHH65325_2_enlarged.jpg",
+        "https://product-images.therealreal.com/CHH65325_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Goyard Goyardine Churchill 3-Cigar Case",
+      "id": "art-trr-goyard-churchill-3-cigar-case-wyy9b",
+      "artist": "Goyard",
+      "year": "",
+      "medium": "Coated canvas, leather",
+      "value": {
+        "amount": 1095,
+        "currency": "USD"
+      },
+      "brand": "Goyard",
+      "model": "Goyardine Churchill 3-Cigar Case",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing GOY57459",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Men's black, brown and multicolor coated canvas and leather Goyard Churchill 3 cigar case with brand signature Goyardine pattern at cover and brand stamp at interior. Made in Spain.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/men/accessories/travel/goyard-goyardine-churchill-3-cigar-case-wyy9b"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/GOY57459_1_enlarged.jpg",
+        "https://product-images.therealreal.com/GOY57459_2_enlarged.jpg",
+        "https://product-images.therealreal.com/GOY57459_3_enlarged.jpg",
+        "https://product-images.therealreal.com/GOY57459_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Mario Buccellati 18k Gold Cigarette Case",
+      "id": "art-trr-mario-buccellati-18k-gold-cigarette-case-u7ow2",
+      "artist": "Mario Buccellati",
+      "year": "",
+      "medium": "18K yellow gold",
+      "value": {
+        "amount": 24000,
+        "currency": "USD"
+      },
+      "brand": "Mario Buccellati",
+      "model": "18k Gold Cigarette Case",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing BCL20106",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "18K yellow gold Mario Buccellati hand engraved cigarette case with brushed finish throughout, polished finish at interior, top lid closure, open body design when opened, ornate etching at interior and brand etching at interior. Includes leather case.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/decor-and-accessories/decorative-accents/mario-buccellati-18k-gold-cigarette-case-u7ow2"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/BCL20106_1_enlarged.jpg",
+        "https://product-images.therealreal.com/BCL20106_2_enlarged.jpg",
+        "https://product-images.therealreal.com/BCL20106_3_enlarged.jpg",
+        "https://product-images.therealreal.com/BCL20106_4_enlarged.jpg",
+        "https://product-images.therealreal.com/BCL20106_5_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Montblanc 18K Gold Fountain Pen",
+      "id": "art-trr-montblanc-18k-gold-fountain-pen-tms7s",
+      "artist": "Montblanc",
+      "year": "",
+      "medium": "Fountain Pen",
+      "value": {
+        "amount": 12745.75,
+        "currency": "USD"
+      },
+      "brand": "Montblanc",
+      "model": "18K Gold Fountain Pen",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing MBL39383",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "18K gold Montblanc fountain pen with two-tone surface throughout and brand stamp and hallmark at surface. Made in Germany.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/decor-and-accessories/books-stationery-and-pens/montblanc-18k-gold-fountain-pen-tms7s"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/MBL39383_1_enlarged.jpg",
+        "https://product-images.therealreal.com/MBL39383_2_enlarged.jpg",
+        "https://product-images.therealreal.com/MBL39383_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x BAPE x Levi's 1000% Figure",
+      "id": "art-trr-bearbrick-x-bape-x-levi-s-1000-figure-q5evs",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 9000,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x BAPE x Levi's 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "very good",
+      "provenance": "The RealReal listing WBREC21216",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Blue, white and multicolor vinyl Bearbrick x BAPE x Levi's 1000% Figure with movable limbs and brand stamp at underside. Includes jacket.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/decor-and-accessories/decorative-accents/bearbrick-x-bape-x-levi-s-1000-figure-q5evs"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21216_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21216_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21216_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21216_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x GUESS Jeans x Dr. Romanelli 1000% Figure (Orange)",
+      "id": "art-trr-bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-tvqsm",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 8140,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x GUESS Jeans x Dr. Romanelli 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21441",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Multicolor Bearbrick x GUESS Jeans x Dr. Romanelli 1000% special edition figure with detachable GUESS branded denim overalls, multicolor bodysuit, adjustable limbs and brand stamps at undersides. Designed by Bearbrick and Dr. Romelli. Manufactured by Medicom Toy.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-tvqsm"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21441_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21441_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21441_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21441_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x Guess x Dr. Romanelli 1000% Figurine (Blue)",
+      "id": "art-trr-bearbrick-x-guess-x-dr-romanelli-1000-figurine-okrro",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 7335,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x Guess x Dr. Romanelli 1000% Figurine",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21179",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Blue denim Bearbrick x GUESS Jeans x Dr. Romanelli 1000% special edition figure with detachable GUESS branded denim jacket and pants, adjustable limbs and brand stamps at undersides. Designed by Bearbrick and Dr. Romelli. Manufactured by Medicom Toy.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-guess-x-dr-romanelli-1000-figurine-okrro"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21179_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21179_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21179_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21179_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x GUESS Jeans x Dr. Romanelli 1000% Figure (Pink)",
+      "id": "art-trr-bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-okrz0",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 6495,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x GUESS Jeans x Dr. Romanelli 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21181",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Multicolor Bearbrick x GUESS Jeans x Dr. Romanelli 1000% special edition figure with detachable GUESS branded denim overalls, multicolor bodysuit, adjustable limbs and brand stamps at undersides. Designed by Bearbrick and Dr. Romelli. Manufactured by Medicom Toy.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-okrz0"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21181_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21181_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21181_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21181_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x GUESS Jeans x Dr. Romanelli 1000% Figure (Orange)",
+      "id": "art-trr-bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-okrvq",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 5412.5,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x GUESS Jeans x Dr. Romanelli 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21180",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Multicolor Bearbrick x GUESS Jeans x Dr. Romanelli 1000% special edition figure with detachable GUESS branded denim overalls, multicolor bodysuit, adjustable limbs and brand stamps at undersides. Designed by Bearbrick and Dr. Romelli. Manufactured by Medicom Toy.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-guess-jeans-x-dr-romanelli-1000-figure-okrvq"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21180_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21180_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21180_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21180_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick Crystal Decorate Mickey Mouse 400%",
+      "id": "art-trr-bearbrick-crystal-decorate-mickey-mouse-400-v8owt",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 4260,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "Crystal Decorate Mickey Mouse 400%",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21531",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Clear, red and black Bearbrick Crystal Decorate Disney Mickey Mouse 400% with Swarovski crystal accents at surface throughout, adjustable limbs and brand stamp at underside. Includes box.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-crystal-decorate-mickey-mouse-400-v8owt"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21531_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21531_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21531_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21531_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "KAWS Five Years Later Companion Limited Edition Figure",
+      "id": "art-trr-kaws-five-years-later-companion-limited-edition-figure-uf0e7",
+      "artist": "KAWS",
+      "year": "2004",
+      "medium": "Figure",
+      "value": {
+        "amount": 3802.5,
+        "currency": "USD"
+      },
+      "brand": "KAWS",
+      "model": "Five Years Later Companion Limited Edition Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing KAWSX21715",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Black and yellow cast vinyl KAWS Five Years Later Companion Black figurine with movable arms and brand stamps at underside, created as a 2004 open edition collaboration between pop artist KAWS and the toy manufacturer Medicom. Includes box and packaging.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/kaws-five-years-later-companion-limited-edition-figure-uf0e7"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/KAWSX21715_1_enlarged.jpg",
+        "https://product-images.therealreal.com/KAWSX21715_2_enlarged.jpg",
+        "https://product-images.therealreal.com/KAWSX21715_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Louis Vuitton 4-Piece Damier Azur Beach Bat Paddle Set",
+      "id": "art-trr-louis-vuitton-4-piece-damier-azur-beach-bat-paddle-set-we969",
+      "artist": "Louis Vuitton",
+      "year": "2019",
+      "medium": "Sporting Goods",
+      "value": {
+        "amount": 2995,
+        "currency": "USD"
+      },
+      "brand": "Louis Vuitton",
+      "model": "4-Piece Damier Azur Beach Bat Paddle Set",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing LOU1325567",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "4-piece varnished wood Louis Vuitton Beach Bat paddle set with wrapped Monogram blue leather handles and brand stamp at paddle faces. Includes box, Damier Azur carrying bag, 2 paddles and 2 rubber balls. From the 2019 Collection.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/sports/sporting-goods/louis-vuitton-4-piece-damier-azur-beach-bat-paddle-set-we969"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/LOU1325567_1_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1325567_2_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1325567_3_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1325567_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x Snarkitecture x Black Rainbow Blue Ver. 1000% Figure",
+      "id": "art-trr-bearbrick-x-snarkitecture-x-black-rainbow-blue-ver-1000-figure-u4v0n",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 2556,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x Snarkitecture x Black Rainbow Blue Ver. 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "very good",
+      "provenance": "The RealReal listing WBREC21449",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Blue Bearbrick x Snarkitecture x Black Rainbow 1000% figure featuring a sculptural, polystyrene-inspired texture with a semi-transparent finish and architectural detailing throughout the body. Limited edition release with minimalist co-branded design elements. Articulated limbs allow for dynamic display. Stamped branding appears on the undersides of the feet. Includes original box. Designed by Snarkitecture and produced by Medicom Toy.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-snarkitecture-x-black-rainbow-blue-ver-1000-figure-u4v0n"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21449_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21449_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21449_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Louis Vuitton Watercolor Monogram Skateboard",
+      "id": "art-trr-louis-vuitton-watercolor-monogram-skateboard-tpoqc",
+      "artist": "Louis Vuitton",
+      "year": "",
+      "medium": "Skate Deck",
+      "value": {
+        "amount": 2495,
+        "currency": "USD"
+      },
+      "brand": "Louis Vuitton",
+      "model": "Watercolor Monogram Skateboard",
+      "acquisitionDate": "0000-00-00",
+      "condition": "very good",
+      "provenance": "The RealReal listing LOU1223411",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "White, pink and multicolor wood and aluminum Louis Vuitton Watercolor skateboard with watercolor motif throughout, engraved monogram at wheels and screws and monogram motif at underside. Made in France",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/skate-decks/louis-vuitton-watercolor-monogram-skateboard-tpoqc"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/LOU1223411_1_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1223411_2_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1223411_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick x Bathing Ape Baby Milo 1000% Figure",
+      "id": "art-trr-bearbrick-x-bathing-ape-baby-milo-1000-figure-tvqrq",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 2260,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "x Bathing Ape Baby Milo 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "very good",
+      "provenance": "The RealReal listing WBREC21440",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Brown and orange Bearbrick x Bathing Ape Baby Milo 1000% Figure with moveable limbs and brand stamp at underside.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-x-bathing-ape-baby-milo-1000-figure-tvqrq"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21440_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21440_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21440_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21440_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick Emotionally Unavailable Black Heart 1000% Figurine",
+      "id": "art-trr-bearbrick-emotionally-unavailable-black-heart-1000-figurine-tl2jm",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 2045,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "Emotionally Unavailable Black Heart 1000% Figurine",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21415",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Transparent plastic Bearbrick Emotionally Unavailable Black Heart 1000% figurine with illuminating heart accent at interior, movable limbs and brand stamp at underside. Includes box. Not tested for working order",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/other/bearbrick-emotionally-unavailable-black-heart-1000-figurine-tl2jm"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21415_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21415_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21415_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21415_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Louis Vuitton Comics Skateboard Deck",
+      "id": "art-trr-louis-vuitton-comics-skateboard-deck-u5drf",
+      "artist": "Louis Vuitton",
+      "year": "2022",
+      "medium": "Skate Deck",
+      "value": {
+        "amount": 1876,
+        "currency": "USD"
+      },
+      "brand": "Louis Vuitton",
+      "model": "Comics Skateboard Deck",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing LOU1241520",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "From the 2022 Collection. Blue, black and multicolor Louis Vuitton Comics skateboard deck with Comics motif at surface and at underside and brand stamp at surface. Includes box.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/skate-decks/louis-vuitton-comics-skateboard-deck-u5drf"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/LOU1241520_1_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1241520_2_enlarged.jpg",
+        "https://product-images.therealreal.com/LOU1241520_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Bearbrick Hello Kitty x Generation 70s 1000%",
+      "id": "art-trr-bearbrick-hello-kitty-x-generation-70s-1000-stty0",
+      "artist": "Bearbrick",
+      "year": "",
+      "medium": "Figure",
+      "value": {
+        "amount": 1676,
+        "currency": "USD"
+      },
+      "brand": "Bearbrick",
+      "model": "Hello Kitty x Generation 70s 1000%",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WBREC21332",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "White, blue and red vinyl Bearbrick x Hello Kitty Generation 70s 1000% with adjustable limbs and brand stamp at underside. Includes box.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/bearbrick-hello-kitty-x-generation-70s-1000-stty0"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WBREC21332_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21332_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21332_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WBREC21332_4_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Hermès Toucan Beach Racket Set",
+      "id": "art-trr-hermes-toucan-beach-racket-set-x0gal",
+      "artist": "Hermès",
+      "year": "",
+      "medium": "Decorative Accents",
+      "value": {
+        "amount": 1275,
+        "currency": "USD"
+      },
+      "brand": "Hermès",
+      "model": "Toucan Beach Racket Set",
+      "acquisitionDate": "0000-00-00",
+      "condition": "pristine",
+      "provenance": "The RealReal listing HER895221",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "Teal, Rouge Vif and multicolor beech wood and cork Hermès beach rackets set with abstract Toucan motif at face and brand stamp at handle. Includes 2 rackets, 1 brand signature ball, dust bags and box. Made in France.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/decor-and-accessories/decorative-accents/hermes-toucan-beach-racket-set-x0gal"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/HER895221_1_enlarged.jpg",
+        "https://product-images.therealreal.com/HER895221_2_enlarged.jpg",
+        "https://product-images.therealreal.com/HER895221_3_enlarged.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Supreme x Medicom Kubrick 'The Crow' 1000% Figure",
+      "id": "art-trr-supreme-x-medicom-kubrick-the-crow-1000-figure-ua5ko",
+      "artist": "Supreme",
+      "year": "2021",
+      "medium": "Figure",
+      "value": {
+        "amount": 1124,
+        "currency": "USD"
+      },
+      "brand": "Supreme",
+      "model": "x Medicom Kubrick 'The Crow' 1000% Figure",
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "provenance": "The RealReal listing WSPME88807",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "description": "From the Fall Winter 2021 Collection. Black, white and multicolor plastic Supreme x Medicom The Crow figurine with detachable parts and brand logo at center, designed by Supreme, manufactured by Medicom. Includes packaging and removable accessories.",
+      "listingUrl": [
+        "https://www.therealreal.com/products/home/collectibles/figures/supreme-x-medicom-kubrick-the-crow-1000-figure-ua5ko"
+      ],
+      "images": [
+        "https://product-images.therealreal.com/WSPME88807_1_enlarged.jpg",
+        "https://product-images.therealreal.com/WSPME88807_2_enlarged.jpg",
+        "https://product-images.therealreal.com/WSPME88807_3_enlarged.jpg",
+        "https://product-images.therealreal.com/WSPME88807_4_enlarged.jpg"
+      ],
+      "status": "available"
+    }
+  ]
+}

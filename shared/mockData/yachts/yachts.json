@@ -1,0 +1,597 @@
+{
+  "yachts": [
+    {
+      "id": "feadship-101",
+      "name": "Feadship 101m Superyacht",
+      "type": "superyacht",
+      "make": "Feadship",
+      "model": "Custom",
+      "year": 2022,
+      "length": 101,
+      "lengthUnit": "m",
+      "value": {
+        "amount": 250000000,
+        "currency": "USD"
+      },
+      "cabins": 6,
+      "guests": 12,
+      "crew": 26,
+      "location": {
+        "country": "MC",
+        "city": "Monaco"
+      },
+      "status": "available",
+      "builder": "Feadship",
+      "images": [],
+      "specifications": {
+        "beam": "15.5 m",
+        "draft": "4.2 m",
+        "topSpeed": "20 knots",
+        "cruisingSpeed": "14 knots"
+      }
+    },
+    {
+      "displayName": "M/Y AGAPE",
+      "id": "my-agape",
+      "type": "yacht",
+      "make": "Custom Build",
+      "model": "M/Y AGAPE 120m",
+      "year": 2029,
+      "value": {
+        "amount": 380000000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "Monaco",
+        "city": "Monaco",
+        "facilityName": "Monaco Penthouse"
+      },
+      "status": "available",
+      "registrationCountry": "Monaco",
+      "listingUrl": [
+        ""
+      ],
+      "images": [
+        "https://i.postimg.cc/brv9v1fJ/M-Y-AGAPE.png"
+      ],
+      "category": "yacht",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Hybrid Diesel-electric",
+        "configuration": "Quad Engines",
+        "manufacturer": "Custom"
+      },
+      "details": {
+        "purpose": "Ultimate Luxury Exploration",
+        "collection": "Private Fleet",
+        "condition": "New",
+        "provenance": "Custom order, world-class shipyard",
+        "features": [
+          ""
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "2024-05-01T00:00:00Z",
+        "averageDaily": 0,
+        "totalLifetime": 0,
+        "serviceIntervals": {
+          "minor": 1000,
+          "major": 3000,
+          "critical": 6000
+        }
+      },
+      "insurance": {
+        "provider": "Pantaenius Yacht Insurance",
+        "policyNumber": "PN-YACHT-AGAPE",
+        "coverageUSD": 400000000,
+        "renewalDate": "2026-12-15",
+        "notes": "Hull & machinery + P&I; Monaco berth endorsement"
+      }
+    },
+    {
+      "displayName": "BRABUS Shadow 1500 XC Cross Cabin Phantom Grey Signature Edition",
+      "id": "brabus-shadow-1500-xc-pg",
+      "type": "boat",
+      "make": "BRABUS Marine",
+      "model": "Shadow 1500 XC Cross Cabin Phantom Grey Signature Edition",
+      "year": 2026,
+      "value": {
+        "amount": 1600000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "On Order",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.brabus.com/en-int/marine/powerboats/brabus-shadow-1500-xc-pg.html",
+      "images": [
+        "https://www.brabus.com/_Resources/Persistent/f/2/0/d/f20db6963fe71a57f518287e703c7ddd71c611c4/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_05-1920x1080-1920x1080.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/f/e/2/4fe2b9c65d1f350342142ed34cac243f2bee53f7/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_web%20%2812%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/8/a/0/f/8a0f28cd625233f46b2b3394351fba56d5bffe77/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_09-1920x1280.jpg",
+        "https://www.brabus.com/_Resources/Persistent/2/9/f/b/29fb9fc6e5fc8bf20e98aa512b4c17dd6ab566ee/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_web%20%2815%29-1920x1080.jpg",
+        "https://www.brabus.com/_Resources/Persistent/f/3/c/5/f3c5051cba09bbe5baab793aab4a60360d5ba338/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_L1004624-1920x1080-1920x1080.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/0/2/1/a0213223cef1b1085715e3ee7b88d67fdc404dcb/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_web%20%288%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/c/b/6/4/cb64e109ce499a6bdd8dbc4665c64a0306c73592/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_web%20%284%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/d/6/8/4/d684c1efbbb0d3d99bd90122ffcaeec392326840/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_web%20%289%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/9/d/d/e9dd8630cd3d160370bc6d12800e9fe17a957836/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_Aft%20Sofa_web-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/9/3/f/e93f6b2b814aadfb0c9128e9c06b6c274d231135/BRABUS%20Shadow%201500%20XC%20Cross%20Cabin%20Phantom%20Grey%20Signature%20Edition_U-Sofa_web-1170x780.jpg"
+      ],
+      "category": "powerboat",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Triple outboard",
+        "configuration": "Triple Mercury Racing 500R 4.6L supercharged V8",
+        "power": "1,500 hp (1,115 kW)",
+        "manufacturer": "Mercury Racing"
+      },
+      "details": {
+        "purpose": "High-performance luxury dayboat / overnight cabin cruiser",
+        "collection": "Marine Collection",
+        "condition": "New / Commission",
+        "provenance": "Official BRABUS Marine Shadow 1500 XC Cross Cabin Phantom Grey Signature Edition",
+        "color": "BRABUS Phantom Grey Signature Edition",
+        "interior": "BRABUS Masterpiece leather; carbon dashboard and accent parts",
+        "specification": "45 ft XC Cross Cabin, Phantom Grey Signature Edition",
+        "production": "Signature Edition",
+        "specialFeatures": [
+          "Length 45 ft / 13.9 m; beam 4.11 m; draft 1.2 m; displacement 8,000 kg",
+          "Top speed 62 knots / 115 km/h; cruise ~40 knots",
+          "Twin-stepped 20° V sharp-entry hull",
+          "12 passengers Cat B / 15 Cat C; 2 berths (4 with optional aft cabin)",
+          "Classification B Offshore / C Coastal",
+          "Cross Cabin: enclosed all-weather cabin converts to open boat",
+          "Gullwing front-lounge doors and fold-down balcony doors",
+          "Dual electric sunroofs; wet bar; carbon helm seats",
+          "Twin Simrad NSO 16-inch MFDs plus 9-inch helm display",
+          "Intelligent Steering Module; JL Audio; Side-Power bow thruster",
+          "Painted Phantom Grey engine covers and Signature hull graphics"
+        ],
+        "features": [
+          "Triple Mercury Racing 500R outboards",
+          "Phantom Grey Signature paint and graphics",
+          "Five social spaces: foredeck, helm, cockpit, aft deck, front lounge"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "Jetski by MANSORY",
+      "id": "mansory-jetski-j005-1",
+      "type": "boat",
+      "make": "MANSORY",
+      "model": "Jetski by MANSORY",
+      "year": 2025,
+      "value": {
+        "amount": 175000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "Available",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.mansory.com/cars-for-sale/jetski-by-mansory-3",
+      "images": [
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087cb52c43e9940e8fe3ea_JetWhiteMAIN.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5269c1634089083e98_MAN09210%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c50199b82c12711ae6c_MAN09201%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5085c5c77e892e31f8_MAN09203%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c514c5d05ee9341f7a5_MAN09209%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5227b72bb4c6192edd_MAN09213%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c509f072a47c45223ff_MAN09226%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5004a512efb54fa1aa_MAN09227%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c508b6047f66111b69a_MAN09229%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c503da151e8a3cfd353_MAN09242%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c513e8e8c4aa645bd12_MAN09249%20kopie.avif"
+      ],
+      "category": "jetski",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Inline-3",
+        "configuration": "Rotax 1630 ACE",
+        "power": "up to 400 hp",
+        "manufacturer": "Rotax"
+      },
+      "details": {
+        "purpose": "High-performance personal watercraft",
+        "collection": "Marine Collection",
+        "condition": "New",
+        "provenance": "MANSORY Jetski NR.J-005 — unit 1 of 2 at Bahamas Island",
+        "color": "White / MANSORY carbon accents",
+        "interior": "MANSORY trim",
+        "specification": "NR.J-005 · Jet ski · Automatic · Petrol · Rotax 1630 ACE",
+        "specialFeatures": [
+          "Up to 400 hp / ~294 kW",
+          "V-max up to 120 km/h / ~75 mph",
+          "0–100 km/h in 3.3 s",
+          "0 km; registration year 2025",
+          "Listed Available via MANSORY Middle East LLC (Dubai)"
+        ],
+        "features": [
+          "Rotax 1630 ACE petrol engine",
+          "MANSORY exterior and interior package",
+          "Automatic transmission"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "km",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "Jetski by MANSORY",
+      "id": "mansory-jetski-j005-2",
+      "type": "boat",
+      "make": "MANSORY",
+      "model": "Jetski by MANSORY",
+      "year": 2025,
+      "value": {
+        "amount": 175000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "Available",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.mansory.com/cars-for-sale/jetski-by-mansory-3",
+      "images": [
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087cb52c43e9940e8fe3ea_JetWhiteMAIN.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5269c1634089083e98_MAN09210%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c50199b82c12711ae6c_MAN09201%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5085c5c77e892e31f8_MAN09203%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c514c5d05ee9341f7a5_MAN09209%20copy%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5227b72bb4c6192edd_MAN09213%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c509f072a47c45223ff_MAN09226%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c5004a512efb54fa1aa_MAN09227%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c508b6047f66111b69a_MAN09229%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c503da151e8a3cfd353_MAN09242%20kopie.avif",
+        "https://cdn.prod.website-files.com/661d6e0d2e84ef511db18f17/69087c513e8e8c4aa645bd12_MAN09249%20kopie.avif"
+      ],
+      "category": "jetski",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Inline-3",
+        "configuration": "Rotax 1630 ACE",
+        "power": "up to 400 hp",
+        "manufacturer": "Rotax"
+      },
+      "details": {
+        "purpose": "High-performance personal watercraft",
+        "collection": "Marine Collection",
+        "condition": "New",
+        "provenance": "MANSORY Jetski NR.J-005 — unit 2 of 2 at Bahamas Island",
+        "color": "White / MANSORY carbon accents",
+        "interior": "MANSORY trim",
+        "specification": "NR.J-005 · Jet ski · Automatic · Petrol · Rotax 1630 ACE",
+        "specialFeatures": [
+          "Up to 400 hp / ~294 kW",
+          "V-max up to 120 km/h / ~75 mph",
+          "0–100 km/h in 3.3 s",
+          "0 km; registration year 2025",
+          "Listed Available via MANSORY Middle East LLC (Dubai)"
+        ],
+        "features": [
+          "Rotax 1630 ACE petrol engine",
+          "MANSORY exterior and interior package",
+          "Automatic transmission"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "km",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "BRABUS ULTIMA 55",
+      "id": "brabus-ultima-55-bahamas",
+      "type": "yacht",
+      "make": "BRABUS Marine",
+      "model": "ULTIMA 55",
+      "year": 2026,
+      "value": {
+        "amount": 6600000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "On Order",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.brabus.com/en-int/marine/catamarans.html",
+      "images": [
+        "https://www.brabus.com/_Resources/Persistent/1/1/a/4/11a4006506034d587acc7f3e146e384978f38bfd/18_Ultima%2055_B_694.jpg",
+        "https://www.brabus.com/_Resources/Persistent/9/c/7/d/9c7d53ead8dfe9bcbc556a47552f5b53305bc3eb/Sunreef_Ultima%2055_web%20%2811%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/f/f/9/8/ff98aceddc4e27a042af330ac7da7722897eb44c/BRABUS_Ultuma_55_OnLocation_web%20%2837%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/7/9/6/d/796d3409ce8bfd28a007376be54a0bedc416cab4/BRABUS_Ultuma_55_OnLocation_web%20%2842%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/7/3/6/4736a1a56fbdc757a4dd5e5441e3ed15f4eb3797/Sunreef_Ultima%2055_web%20%283%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/0/6/8/a068809088abbcb482422b922213edf6cdc9ba64/Sunreef_Ultima%2055_web%20%288%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/0/7/a/3/07a33cb72259cea578fc0c9529f98ec0113a549d/BRABUS_Ultuma_55_OnLocation_web%20%2822%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/8/f/b/9/8fb972d4d60e39ff671b8da24b538e9f23f82392/Sunreef_Ultima%2055_web%20%2823%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/0/a/2/e0a222d07d184e5b9130c8720e5925f72f49449d/BRABUS_Ultuma_55_OnLocation_web%20%281%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/6/8/2/6/68264686d8d7eaaa992b8bbb06ee14240a0eecef/BRABUS%20ULTIMA%2055_OnLocation_web%20%2844%29-1170x780.jpg"
+      ],
+      "category": "catamaran",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Twin inboard",
+        "configuration": "2× 10.8L 6-cylinder, 533 kW / 725 hp each",
+        "power": "1,450 hp combined (1,066 kW)",
+        "manufacturer": "BRABUS Marine / Sunreef"
+      },
+      "details": {
+        "purpose": "Luxury hydrofoil catamaran for Bahamas Island",
+        "collection": "Marine Collection",
+        "condition": "New / Commission",
+        "provenance": "Official BRABUS Marine × Sunreef ULTIMA 55",
+        "color": "Graphite Black with exposed carbon",
+        "interior": "BRABUS Moonstone Masterpiece leather; Alcantara; carbon helm",
+        "specification": "55.8 ft LOA · 18.4 ft beam (24.9 ft platforms open)",
+        "production": "ULTIMA series",
+        "specialFeatures": [
+          "Length 55.8 ft / 17 m; beam 18.4 ft / 5.6 m (24.9 ft / 7.6 m platforms open)",
+          "Max draft 4.6 ft / 1.4 m; fuel 1,500 L; generator 10.5 kW",
+          "Top speed 40+ knots with advanced hydrofoil system",
+          "Classification B-12 / C-20",
+          "Layouts: 4 or 6 guests + 1 crew",
+          "Bowers & Wilkins Marine Series; electric BBQ / wet bar aft",
+          "Carbon front/rear wings; illuminated BRABUS pillars"
+        ],
+        "features": [
+          "Twin 725 hp inboards (1,450 hp combined)",
+          "Hydrofoil-assisted catamaran hull",
+          "Graphite Black / Moonstone Masterpiece specification"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "BRABUS Shadow 1500 Cross Top Stealth Green Signature Edition",
+      "id": "brabus-shadow-1500-cross-top-stealth-green",
+      "type": "boat",
+      "make": "BRABUS Marine",
+      "model": "Shadow 1500 Cross Top Stealth Green Signature Edition",
+      "year": 2026,
+      "value": {
+        "amount": 1800000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "On Order",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.brabus.com/en-int/marine/powerboats/brabus-shadow-1500-cross-top.html",
+      "images": [
+        "https://www.brabus.com/_Resources/Persistent/c/4/c/e/c4cee84d928e84fc76671ff6ba64d2290f19bf5c/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2812%29-1920x1080.jpg",
+        "https://www.brabus.com/_Resources/Persistent/3/2/9/5/329522faf046821022fba1ef1d0b668ed56cfc97/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2816%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/5/6/7/a567157bfcf736407391433cc74da648f00333eb/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2826%29-1920x1080.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/7/2/7/e727d4ef25c793822b920541560965649e75a810/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2818%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/f/4/8/9/f4895d154eb2774c0f889386daf496ce557302cd/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2819%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/2/f/5/f/2f5fae77fd952cd0ef52f951bc72e6a3c6da4cd3/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%282%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/b/6/f/6/b6f63bb552d878885761e5367ca9bf899a915a44/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2825%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/d/8/8/9/d889783565b8e5d58db7a0526dc2adbfc8146cd2/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%2824%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/3/8/b/a38bda7db3f3972aad037e5353e181a49dedf695/BRABUS%20SHADOW%201500%20CROSS%20TOP%20STEALTH%20GREEN%20SE_On%20Location_klein%20%289%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/6/b/4/7/6b479eaa0750039126b59f56740258a7be473d53/BRABUS%20Shadow%201500%20Cross%20Top_AftBench-1170x780.jpg"
+      ],
+      "category": "powerboat",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Triple outboard",
+        "configuration": "Triple Mercury Racing 500R 4.6L supercharged V8",
+        "power": "1,500 hp (1,115 kW)",
+        "manufacturer": "Mercury Racing"
+      },
+      "details": {
+        "purpose": "Open-air Cross Top dayboat / overnight cruiser",
+        "collection": "Marine Collection",
+        "condition": "New / Commission",
+        "provenance": "Official BRABUS Marine Shadow 1500 Cross Top Stealth Green Signature Edition",
+        "color": "BRABUS Stealth Green Signature Edition",
+        "interior": "BRABUS Masterpiece leather dual-color (light gray/black with red accents)",
+        "specification": "45 ft Cross Top, Stealth Green Signature Edition",
+        "production": "Signature Edition",
+        "specialFeatures": [
+          "Length 45 ft / 13.9 m; beam 4.11 m; draft 1.2 m; weight 8,000 kg",
+          "Top speed 62 knots / 115 km/h; cruise ~40 knots",
+          "Twin-stepped 20° V sharp-entry hull",
+          "12 passengers Cat B / 15 Cat C; 2 berths (4 with optional aft cabin)",
+          "Cross Top: sheltered helm + dual electric sunroof",
+          "Gullwing front-lounge doors; illuminated balcony doors",
+          "Triple Mercury Racing 500R; painted Stealth Green engine covers"
+        ],
+        "features": [
+          "Triple Mercury Racing 500R outboards",
+          "Stealth Green Signature paint and graphics",
+          "Cross Top open-air layout with dual electric sunroof"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "BRABUS Shadow 1000 XC Cross Cabin",
+      "id": "brabus-shadow-1000-xc-1",
+      "type": "boat",
+      "make": "BRABUS Marine",
+      "model": "Shadow 1000 XC Cross Cabin",
+      "year": 2026,
+      "value": {
+        "amount": 1100000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "On Order",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.brabus.com/en-int/marine/powerboats/brabus-shadow-1000-xc.html",
+      "images": [
+        "https://www.brabus.com/_Resources/Persistent/f/c/5/1/fc517e221c014ee51f020960d04d8aa65e205962/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%281%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/8/2/3/e82328b384c81465872585bb75b2201a36e7cb6c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%282%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/9/6/1/a9611ecec86b4fdd39e54e3422cdcea06318117c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%2843%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/5/4/0/4540e6ea227573e01e8f760574054ec27b340f2f/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%2837%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/b/3/1/eb317563bbbdc8dd15bc6bfaa820fd884282c1b7/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%284%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/8/4/e/4/84e456977e66e3adc15516521757a2d973d52c1c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2855%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/d/b/e/4dbe9562c57fc7469c14a202acf692b6f402bceb/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2826%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/1/8/1/7/18170f9a3603921796b936cced57a07eaaa8753d/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2831%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/b/f/c/1/bfc1991fdaa37ad0b25b04ed99a2a6fe39d0dfc8/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2823%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/9/c/5/6/9c5678204b2508016d5ee46c3c318cfa5c459aad/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%289%29-1170x780.jpg"
+      ],
+      "category": "powerboat",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Twin outboard",
+        "configuration": "Twin Mercury Racing 500R V8 with JPO",
+        "power": "1,000 hp (735 kW)",
+        "manufacturer": "Mercury Racing"
+      },
+      "details": {
+        "purpose": "High-performance luxury dayboat / overnight cabin cruiser",
+        "collection": "Marine Collection",
+        "condition": "New / Commission",
+        "provenance": "Official BRABUS Marine Shadow 1000 XC Cross Cabin — hull 1 of 2 at Bahamas Island",
+        "color": "Black Ops with red Signature Stripes",
+        "interior": "BRABUS Moonstone interior, Graphite exterior upholstery, glossy carbon, red accents",
+        "specification": "38 ft XC Cross Cabin, Black Ops",
+        "production": "BRABUS 38 range flagship",
+        "specialFeatures": [
+          "Length 38 ft / 11.6 m; beam 3.35 m; draft 0.85 m; weight 5,400 kg excl. engines",
+          "Top speed 60 knots / 111 km/h",
+          "Twin-stepped 20° V sharp-entry hull",
+          "10 passengers Cat B / 12 Cat C; 2 berths (4 with optional aft cabin)",
+          "Classification B Offshore / C Coastal",
+          "Twin Simrad NSS EVO4 16-inch MFDs",
+          "JPO bow thruster and joystick trim tabs",
+          "Gullwing doors to bow cabin",
+          "HALO 20+ radar, FLIR 360° night vision, rear camera (available)",
+          "BRABUS Premium Audio; RGB ambient and dual-color underwater lights"
+        ],
+        "features": [
+          "Twin Mercury Racing 500R outboards",
+          "Black Ops paint and carbon exterior",
+          "Masterpiece Atelier interior"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    },
+    {
+      "displayName": "BRABUS Shadow 1000 XC Cross Cabin",
+      "id": "brabus-shadow-1000-xc-2",
+      "type": "boat",
+      "make": "BRABUS Marine",
+      "model": "Shadow 1000 XC Cross Cabin",
+      "year": 2026,
+      "value": {
+        "amount": 1100000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "Spanish Wells/North Eleuthera",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "On Order",
+      "registrationCountry": "The Bahamas",
+      "listingUrl": "https://www.brabus.com/en-int/marine/powerboats/brabus-shadow-1000-xc.html",
+      "images": [
+        "https://www.brabus.com/_Resources/Persistent/f/c/5/1/fc517e221c014ee51f020960d04d8aa65e205962/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%281%29.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/8/2/3/e82328b384c81465872585bb75b2201a36e7cb6c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%282%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/a/9/6/1/a9611ecec86b4fdd39e54e3422cdcea06318117c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%2843%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/5/4/0/4540e6ea227573e01e8f760574054ec27b340f2f/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%2837%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/e/b/3/1/eb317563bbbdc8dd15bc6bfaa820fd884282c1b7/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%284%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/8/4/e/4/84e456977e66e3adc15516521757a2d973d52c1c/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2855%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/4/d/b/e/4dbe9562c57fc7469c14a202acf692b6f402bceb/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2826%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/1/8/1/7/18170f9a3603921796b936cced57a07eaaa8753d/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2831%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/b/f/c/1/bfc1991fdaa37ad0b25b04ed99a2a6fe39d0dfc8/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_web%20%2823%29-1170x780.jpg",
+        "https://www.brabus.com/_Resources/Persistent/9/c/5/6/9c5678204b2508016d5ee46c3c318cfa5c459aad/BRABUS%20Shadow%201000%20XC_Cross%20Cabin_Black%20Ops%20Signature%20Edition_web%20%289%29-1170x780.jpg"
+      ],
+      "category": "powerboat",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Twin outboard",
+        "configuration": "Twin Mercury Racing 500R V8 with JPO",
+        "power": "1,000 hp (735 kW)",
+        "manufacturer": "Mercury Racing"
+      },
+      "details": {
+        "purpose": "High-performance luxury dayboat / overnight cabin cruiser",
+        "collection": "Marine Collection",
+        "condition": "New / Commission",
+        "provenance": "Official BRABUS Marine Shadow 1000 XC Cross Cabin — hull 2 of 2 at Bahamas Island",
+        "color": "Black Ops with red Signature Stripes",
+        "interior": "BRABUS Moonstone interior, Graphite exterior upholstery, glossy carbon, red accents",
+        "specification": "38 ft XC Cross Cabin, Black Ops",
+        "production": "BRABUS 38 range flagship",
+        "specialFeatures": [
+          "Length 38 ft / 11.6 m; beam 3.35 m; draft 0.85 m; weight 5,400 kg excl. engines",
+          "Top speed 60 knots / 111 km/h",
+          "Twin-stepped 20° V sharp-entry hull",
+          "10 passengers Cat B / 12 Cat C; 2 berths (4 with optional aft cabin)",
+          "Classification B Offshore / C Coastal",
+          "Twin Simrad NSS EVO4 16-inch MFDs",
+          "JPO bow thruster and joystick trim tabs",
+          "Gullwing doors to bow cabin",
+          "HALO 20+ radar, FLIR 360° night vision, rear camera (available)",
+          "BRABUS Premium Audio; RGB ambient and dual-color underwater lights"
+        ],
+        "features": [
+          "Twin Mercury Racing 500R outboards",
+          "Black Ops paint and carbon exterior",
+          "Masterpiece Atelier interior"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "nautical miles",
+        "lastUpdated": "",
+        "averageDaily": 0,
+        "totalLifetime": 0
+      }
+    }
+  ]
+}

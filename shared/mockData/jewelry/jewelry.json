@@ -1,0 +1,2284 @@
+{
+  "jewelry": [
+    {
+      "id": "cartier-diamond-necklace",
+      "name": "Cartier Diamond Necklace",
+      "brand": "Cartier",
+      "category": "necklace",
+      "value": {
+        "amount": 2500000,
+        "currency": "USD"
+      },
+      "materials": [
+        "Platinum",
+        "Diamonds"
+      ],
+      "location": {
+        "country": "FR",
+        "city": "Paris"
+      },
+      "condition": "excellent",
+      "status": "available",
+      "caratWeight": 50,
+      "images": []
+    },
+    {
+      "name": "Yellow Diamond Drop Necklace",
+      "id": "jewelry-001",
+      "brand": "Mozafarian",
+      "description": "A breathtaking drop necklace featuring a rare Royal Yellow diamond centerpiece, set in fine white and yellow diamonds throughout. A regal, one-of-a-kind statement piece from Mozafarian.",
+      "value": {
+        "amount": 11000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2022-08-15",
+      "condition": "excellent",
+      "certification": "GIA Certified Yellow Diamond",
+      "provenance": "Private luxury jeweler, Mozafarian, Geneva",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/drop-necklaces/mozafarian-royal-yellow-diamond-necklace/id-j_25858662/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/mozafarian-persian-royal-yellow-diamond-necklace-for-sale/j_41902/j_258586621743503781802/j_25858662_1743503782362_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/mozafarian-persian-royal-yellow-diamond-necklace-for-sale-picture-3/j_41902/j_258586621743503970106/3_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Colombian 69ct Emerald Platinum Pendant Necklace",
+      "id": "jewelry-002",
+      "brand": "Award Collection",
+      "description": "A rare luxury necklace featuring a 69-carat no-oil Colombian emerald in an oval cut, set in platinum and adorned with high-grade diamonds. A museum-quality, investment-grade jewel showcasing unmatched clarity and prestige.",
+      "value": {
+        "amount": 3200000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2022-08-15",
+      "condition": "excellent",
+      "certification": "GIA Certified – No Oil Colombian Emerald",
+      "provenance": "Private sale from luxury estate via Award Collection",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/pendant-necklaces/no-oil-colombian-69-ct-emerald-platinum-award-oval-luxury-necklace/id-j_14923282/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/no-oil-colombian-69-ct-emerald-platinum-award-oval-luxury-necklace-for-sale/j_25862/j_149232821646120178012/j_14923282_1646120180454_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Majesty in Scarlet Necklace",
+      "id": "jewelry-016",
+      "brand": "Jacob & Co.",
+      "description": "",
+      "value": {
+        "amount": 2000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/majesty-in-scarlet-necklace"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1721082526-92253280-1.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1721830844-92253280-2.jpg?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Brilliant Riviera Necklace",
+      "id": "jewelry-015-1",
+      "brand": "Jacob & Co.",
+      "description": "Brilliant Riviera Necklace",
+      "value": {
+        "amount": 1000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/brilliant-riviera-necklace"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1721086435-91225099-1.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1721837432-91225099-2.jpg?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1721086478-91225099-4.webp?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Fancy Yellow Diamond Riviera Necklace, 79.30 Carats",
+      "id": "jewelry-017",
+      "brand": "M.S. Rau",
+      "description": "Brilliantly composed and exceptionally matched, this Riviera necklace glows with the radiant warmth of 79.30 total carats of fancy yellow diamonds. Each diamond, graded by GIA, exhibits an extraordinary balance of saturation and hue, creating a continuous stream of golden light around the neckline. Set in rich 18K yellow gold, the design highlights the uniformity and precision of each meticulously cut gem, offering refined elegance and timeless rarity. 16\" length. Contemporary period.",
+      "value": {
+        "amount": 1000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2024-06-10",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired from M.S. Rau",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/fancy-yellow-diamond-riviera-necklace-79-30-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/32-1909_1.png?v=1764593101",
+        "https://rauantiques.com/cdn/shop/files/32-1909_2.png?v=1764593105",
+        "https://rauantiques.com/cdn/shop/files/32-1909_3.png?v=1764593103"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Asscher Cut Diamond Earrings",
+      "id": "jewelry-007",
+      "brand": "Ruan",
+      "description": "A stunning pair of asscher cut diamond earrings by Ruan, featuring a platinum setting with a total weight of 10.15 carats.",
+      "value": {
+        "amount": 810000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired via Ruan",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/asscher-cut-diamond-earrings"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/31-5499_1_92ffcee0-e640-4899-ae71-5e57a1017ced.png?v=1749042083"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Asscher Cut Diamond Studs 14.42 Carats",
+      "id": "jewelry-000",
+      "brand": "Rau Antiques",
+      "description": "Remarkably reflective and brilliant, these classic diamond studs feature two Asscher cut diamonds weighing a combined 14.42 carats. ",
+      "value": {
+        "amount": 750000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Two brilliant white diamonds totaling 14.42 carats form these classic and elegant studs",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/asscher-cut-diamond-studs-14-42-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/31-6028_1_1593fa0b-a833-418a-be1b-eee98ff9e510.png?v=1756488428",
+        "https://rauantiques.com/cdn/shop/files/31-6028_2_c95de58d-6e81-4ec6-ac9f-1ac2773c53d0.png?v=1756488429",
+        "https://rauantiques.com/cdn/shop/files/31-6028_3_04fe796e-4441-457d-b321-ee623f990a5e.png?v=1756488430"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Diamond Riviera Necklace",
+      "id": "jewelry-014-1",
+      "brand": "Jacob & Co.",
+      "description": "",
+      "value": {
+        "amount": 700000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/diamond-riviera-necklace"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1733860689-91327435-4.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1733860689-91327435-3.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1733860689-91327435-2.webp?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 10.33ctw Emerald Cut Diamond Stud Earrings",
+      "id": "jewelry-799",
+      "brand": "Sotheby's",
+      "description": "Each set with an emerald-cut diamond. Emerald-cut diamonds weighing a total of 10.33 carats. Platinum setting. Accompanied by GIA report no. 1186842990 for the 5.23 carat diamond (E color, VVS2 clarity, no fluorescence), and GIA report no. 16810084 for the 5.10 carat diamond (D color, IF clarity, no fluorescence). Includes one Sotheby's box. Ideal for bridal, cocktail, evening, and special occasions.",
+      "value": {
+        "amount": 585000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "very good",
+      "certification": "GIA Certified",
+      "provenance": "Sotheby's New York — Accompanied by original GIA reports and box",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/earring/stud/_platinum-and-1033ctw-emerald-cut-diamond-stud-earrings-ce0d"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/6ad8050/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F19%2Fea%2F81b855f349d09871f108b4ac9a7f%2Fplatinum-and-1033ctw-emerald-cut-diamond-stud-earrings-ce0d.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Angel Cut Diamond Earrings, 6.02 Carats",
+      "id": "jewelry-015-2",
+      "brand": "Jacob & Co.",
+      "description": "A perfectly matched pair of Jacob Angel Cut diamonds weighing a total of 6.02 carats, set in platinum. The Jacob Cut, a signature shape exclusive to Jacob & Co., features a unique faceting pattern that maximizes brilliance and fire. These earrings are GIA certified, showcasing exceptional clarity and color, making them a timeless addition to any fine jewelry collection.",
+      "value": {
+        "amount": 550000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired from M.S. Rau",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        ""
+      ],
+      "images": [
+        "https://www.jckonline.com/wp-content/uploads/2026/03/Ange-Cut-Jacob-diamond.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Diamond Eternity Band 19.57 Carats",
+      "id": "jewelry-008",
+      "brand": "Ruan",
+      "description": "A stunning diamond eternity band by Ruan, featuring a platinum setting with a total weight of 19.57 carats.",
+      "value": {
+        "amount": 525000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired via Ruan",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/diamond-eternity-band-19-57-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/32-1400_1.png?v=1753284289",
+        "https://rauantiques.com/cdn/shop/files/32-1400_2.png?v=1753284294"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Diamond Earrings, 10.01 Carats",
+      "id": "jewelry-010",
+      "brand": "Martini",
+      "description": "A stunning pair of diamond earrings by Martini, featuring a platinum setting with a total weight of 10.01 carats.",
+      "value": {
+        "amount": 500000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired via Martini",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/martini-diamond-earring-studs-10-01-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/31-6027_1.png?v=1756488671",
+        "https://rauantiques.com/cdn/shop/files/31-6027_2.png?v=1756488678"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Ruby Necklace, 57.99 Carats",
+      "id": "jewelry-009",
+      "brand": "Salavetti",
+      "description": "A stunning array of crimson rubies totaling nearly 58.00 carats is featured in this necklace from the famed Italian jewelry firm Salavetti.",
+      "value": {
+        "amount": 500000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired via Salavetti",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/salavetti-ruby-necklace-57-99-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/31-7527_1.png?v=1758655670"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Diamond Line Bracelet, 30.01 Carats",
+      "id": "jewelry-013-1",
+      "brand": "M.S. Rau",
+      "description": "A continuous band of brilliance, this Diamond Line Bracelet is set with 30.01 carats of oval diamonds, all perfectly matched for harmony and timeless elegance. GIA-graded D–G color and SI1–SI2 clarity, the stones are set in platinum for a contemporary look.",
+      "value": {
+        "amount": 405000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired from M.S. Rau",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/diamond-line-bracelet-30-01-carats-1"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/32-1892_1_cb556c1a-a325-4469-8cfe-bd3f90817eaa.png?v=1764696290",
+        "https://rauantiques.com/cdn/shop/files/32-1892_2_bf234c92-a21d-4b28-a984-578f43b9d749.png?v=1764696290",
+        "https://rauantiques.com/cdn/shop/files/32-1892_3.png?v=1764696293"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emerald Dreams Bracelet",
+      "id": "jewelry-012",
+      "brand": "Ruan",
+      "description": "",
+      "value": {
+        "amount": 400000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/emerald-dreams-bracelet"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1725386536-92149839-1.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1725386573-92149839-3.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1725386553-92149839-2.webp?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Asscher Cut Diamond Line Bracelet, 30.12 Carats",
+      "id": "jewelry-014-2",
+      "brand": "M.S. Rau",
+      "description": "This classic line bracelet features 30.12 carats of exceptionally well-matched Asscher cut diamonds. Each diamond is accompanied by a GIA report confirming D–G color and SI1–VS2 clarity. The stones' superior clarity and stepped faceting create the famous 'hall of mirrors' effect, reflecting light with impressive depth and brilliance. Set in platinum, this modern masterpiece combines the elegance of the emerald cut with the sparkle of a round diamond. Length: 6 3/4 inches.",
+      "value": {
+        "amount": 345000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/asscher-cut-diamond-line-bracelet-30-12-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/32-1568_1.png?v=1764696296",
+        "https://rauantiques.com/cdn/shop/files/32-1568_2.png?v=1764696295",
+        "https://rauantiques.com/cdn/shop/files/32-1568_3_831eb059-7f79-450a-8c3c-8adaa509e31d.png?v=1764696303"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Angels Halo Bracelet",
+      "id": "jewelry-011",
+      "brand": "Jacob & Co.",
+      "description": "The Jacob & Co. Angel's Halo Bracelet showcases an exquisite array of Ashoka-cut white diamonds, radiating brilliance and elegance. ",
+      "value": {
+        "amount": 300000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/angels-halo-bracelet"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1721081776-92149184-1.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1721847570-92149184-2-copy.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1721081838-92149184-3.webp?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "David Webb Diamond Eternity Band, 10.07 Carats",
+      "id": "jewelry-016-1",
+      "brand": "David Webb",
+      "description": "This exceptional eternity band by David Webb displays seventeen perfectly matched emerald cut diamonds totaling 10.07 carats. Channel-set in luxurious platinum, the diamonds form an unbroken circle symbolizing everlasting unity. Sleek and architectural, the design highlights Webb’s signature craftsmanship. Renowned for transforming fine jewelry into wearable art, David Webb remains one of America’s most celebrated jewelry designers.",
+      "value": {
+        "amount": 150000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://rauantiques.com/products/david-webb-diamond-eternity-band-10-07-carats"
+      ],
+      "images": [
+        "https://rauantiques.com/cdn/shop/files/32-1744_1.png?v=1764593021"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Raffi&Co.® 14K White Gold Diamond Tennis Bracelet",
+      "id": "jewelry-014",
+      "brand": "Raffi&Co.",
+      "description": "This stunning diamond tennis bracelet by Raffi&Co. is set in 14k white gold and features round brilliant diamonds totaling 15.62 carats. The diamonds display radiant F/G color and pristine VS2 clarity, ensuring exceptional brilliance from every angle. Delivered with an appraisal and a limited lifetime warranty, this exquisite piece is perfect for adding a luxurious touch to everyday looks or special occasions.",
+      "value": {
+        "amount": 95000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "",
+      "condition": "New",
+      "certification": "Appraisal included",
+      "provenance": "Raffi Jewellers, Canada",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.raffi-jewellers.ca/products/raffico-white-gold-diamond-tennis-bracelets-rj2325?v=45897959309605&oid=45897959309605&qid=5fcc1595a635e16ed4d29442ba0d1181"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/9897/9877/files/170-00561_1_2929db53-d547-4ad2-a109-6377c6bc3fcd_1200x.jpg?v=1690924938"
+      ],
+      "notes": "15.62ct total diamond weight, F/G color, VS2 clarity. Delivered with appraisal and limited lifetime warranty.",
+      "status": "available"
+    },
+    {
+      "name": "Uneek 18K White Gold with Emerald Sapphire and Diamond Tennis Bracelet",
+      "id": "jewelry-015",
+      "brand": "Uneek",
+      "description": "An elegant tennis bracelet in 18 karat white gold, featuring 6.83 total carat weight of emerald sapphire and 5.44 total carat weight of various shape diamonds. This refined piece exudes timeless sophistication, perfect for collectors of fine jewelry.",
+      "value": {
+        "amount": 52990,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "",
+      "condition": "New",
+      "certification": "",
+      "provenance": "Raffi Jewellers, Canada",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.raffi-jewellers.ca/products/18-karat-white-gold-bracelet-with-6-83twt-emerald-br2002bsec?v=45691629928741&oid=45691629928741&qid=114bcd06f7dcf9aa19b1ec7fcae392d7"
+      ],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0721/9897/9877/files/BR2002BSEC_c565f724-b1db-416a-9d09-933dc2043df2_1200x.jpg?v=1689888531"
+      ],
+      "notes": "18K White Gold. 6.83ct emerald sapphire. 5.44ct diamonds. Designer: Uneek. Available at Raffi Jewellers.",
+      "status": "available"
+    },
+    {
+      "name": "T.W. Pear-Shaped Diamond Duos Bracelet",
+      "id": "jewelry-017-1",
+      "brand": "Peoples Jewellers",
+      "description": "This breathtaking 10K white gold bracelet features pairs of tilted 0.19 ct. pear-shaped certified lab-grown diamonds in an elegant alternating pattern. The total weight is 10.00 carats, F color, SI2 clarity. Comes with certification card. Set in polished, rhodium-plated 10K white gold for a brilliant finish. Measures 7 inches in length with a box clasp.",
+      "value": {
+        "amount": 12999,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "new",
+      "certification": "Certified Lab-Grown Diamond, Certificate Included",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.peoplesjewellers.com/1000-ct-tw-pearshaped-certified-labgrown-diamond-duos-bracelet-10k-white-gold-fsi2/p/V-20582729"
+      ],
+      "images": [
+        "https://www.peoplesjewellers.com/productimages/processed/V-20582729_3_800.jpg?pristine=true",
+        "https://www.peoplesjewellers.com/productimages/processed/V-20582729_1_800.jpg?pristine=true",
+        "https://www.peoplesjewellers.com/productimages/processed/V-20582729_2_800.jpg?pristine=true"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "T.W. Diamond Tennis Bracelet",
+      "id": "jewelry-018",
+      "brand": "Peoples Jewellers",
+      "description": "A glamorous lab-grown diamond tennis bracelet crafted in 10K white gold, featuring a continuous line of certified lab-grown round diamonds totaling 10.00 carats (I colour, SI2 clarity). Includes a certification card and a secure box clasp. The bracelet is 7 inches in length with a 4.5mm width, finished with rhodium plating for lasting shine.",
+      "value": {
+        "amount": 11999,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "new",
+      "certification": "Certified Lab-Grown Diamond, Certificate Included",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.peoplesjewellers.com/1000-ct-tw-certified-labgrown-diamond-tennis-bracelet-10k-white-gold-isi2/p/V-20594371"
+      ],
+      "images": [
+        "https://www.peoplesjewellers.com/productimages/processed/V-20594371_0_800.jpg?pristine=true",
+        "https://www.peoplesjewellers.com/productimages/processed/V-20594371_1_800.jpg?pristine=true"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "10k White Gold Illusion Setting Fanuk Necklace",
+      "id": "jewelry-019",
+      "brand": "Timepiece Trading",
+      "description": "An elegant necklace crafted in 10k white gold, featuring illusion-set diamonds for an exceptional display of brilliance. Weighs 49.46 grams, features a total diamond weight of 3.25 carats, and measures 22 inches in length. A statement piece that blends luxury with modern design, perfect for sophisticated occasions.",
+      "value": {
+        "amount": 8450,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "New",
+      "certification": "",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://timepiecetradingllc.com/collections/timepiece-trading-jewelry-collection/products/10k-white-gold-illusion-setting-fanuk-necklace-49-46-grams-3-25-cts-22-inches"
+      ],
+      "images": [
+        "https://timepiecetradingllc.com/cdn/shop/files/Untitleddesign_33_f8b0a14e-8adf-490d-8b7e-e4dc1e0469b7.png?v=1780479701&width=700"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "1 oz Gold Perth Mint Cast Bar",
+      "id": "precious-metal-001",
+      "brand": "Perth Mint",
+      "description": "A 1 oz gold cast bar produced by the renowned Perth Mint, featuring the mint's emblem and iconic swan logo, cast from 99.99% pure gold.",
+      "value": {
+        "amount": 7200,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "New",
+      "certification": "Perth Mint Certificate",
+      "provenance": "Direct from The Perth Mint",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://torontogoldbullion.com/1-oz-gold-perth-mint-cast-bar.html"
+      ],
+      "images": [
+        "https://torontogoldbullion.com/media/catalog/product/cache/1/thumbnail/65x/040ec09b1e35df139433887a97daa66f/p/e/perthmint1_oz.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "1 oz Gold Perth Mint Lunar Dragon Bar",
+      "id": "precious-metal-003",
+      "brand": "Perth Mint",
+      "description": "A 1 oz gold bar from the Perth Mint featuring the Lunar Dragon design, cast from 99.99% pure gold. Part of the limited mintage Lunar series, honoring the Year of the Dragon.",
+      "value": {
+        "amount": 7200,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "New",
+      "certification": "Perth Mint Certificate",
+      "provenance": "Direct from The Perth Mint",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://torontogoldbullion.com/1oz-gold-perth-mint-lunar-dragon-bar.html"
+      ],
+      "images": [
+        "https://torontogoldbullion.com/media/catalog/product/cache/1/thumbnail/65x/040ec09b1e35df139433887a97daa66f/p/a/pampred1.jpg",
+        "https://torontogoldbullion.com/media/catalog/product/cache/1/thumbnail/65x/040ec09b1e35df139433887a97daa66f/p/a/pampred.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "1 oz Royal Canadian Mint Gold Bar (New Style)",
+      "id": "precious-metal-002",
+      "brand": "Royal Canadian Mint",
+      "description": "A 1 oz gold bar struck by the Royal Canadian Mint in the new security-feature style, composed of 99.99% pure gold. Features the Mint’s maple leaf logo and advanced anti-counterfeiting features.",
+      "value": {
+        "amount": 7200,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "New",
+      "certification": "Royal Canadian Mint Assay Certificate",
+      "provenance": "Direct from Royal Canadian Mint",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://silvergoldbull.ca/1-oz-royal-canadian-mint-new-style-gold-bar"
+      ],
+      "images": [
+        "https://images.silvergold.media/cdn-cgi/image/quality=80,format=auto/https://silvergold.media/media/products/4479/pp-4479-1.png",
+        "https://images.silvergold.media/cdn-cgi/image/quality=80,format=auto/https://silvergold.media/media/products/4479/pp-4479-2.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry Gia Certified 20.00 Carat Fancy Intense Yellow Diamond Earrings",
+      "id": "jewelry-021",
+      "brand": "Emilio Jewelry",
+      "description": "Matching pair of GIA-certified Natural Fancy Intense Yellow diamonds weighing over 10.00 carats each (20 carats total), cushion cut studs.",
+      "value": {
+        "amount": 1200000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Fancy Intense Yellow",
+      "provenance": "Emilio Jewelry, New York",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/earrings/stud-earrings/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring/id-j_21822602/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale/1121189/j_218226021707309980753/21822602_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-2/j_962/1707048917164/mobilejpegupload_205723D81E564AB2BFA46E736C8422BA_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-3/j_962/1707048917129/mobilejpegupload_71D402A55673487384D1C4F9F7DE03A9_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-4/j_962/1707048918950/mobilejpegupload_D16A1E3A0A1A43DFA59C8B229D5691EA_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-5/j_962/1707048918963/mobilejpegupload_FCD7465B88314E1BA96E1C3B4224D433_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-6/j_962/1707048920255/mobilejpegupload_7FD607BE8D044C01A41E7D5B314BEE82_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-7/j_962/1707048920309/mobilejpegupload_8648EA7F65B94657951403B3DF93F63A_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-2000-carat-fancy-intense-diamond-earring-for-sale-picture-8/j_962/1707048920983/mobilejpegupload_16C8D3DD970F429D93EA333EEADAB624_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 10 Carat Heart Shape Diamond Necklace",
+      "id": "jewelry-022",
+      "brand": "Antinori Fine Jewels",
+      "description": "Large heart-shaped diamond pendant of approximately 10 carats in a sleek minimalist 18k white gold setting — bright white, clean, and vivid sparkle.",
+      "value": {
+        "amount": 1120000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Antinori Fine Jewels / Antinori di Sanpietro",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/pendant-necklaces/gia-certified-10-carat-heart-shape-diamond-necklace/id-j_22179932/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gia-certified-10-carat-heart-shape-diamond-necklace-for-sale-picture-3/j_18982/j_221799321709292074876/heart_with_black_background_2__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-10-carat-heart-shape-diamond-necklace-for-sale-picture-4/j_18982/j_221799321709292075881/10ct_heart_on_marble_with_dried_flower_2__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-10-carat-heart-shape-diamond-necklace-for-sale-picture-5/j_18982/j_221799321709292076825/f8db9ngp11_master.JPG?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry GIA Certified Natural 6.00 Carat Intense Green Diamond Ring",
+      "id": "jewelry-023",
+      "brand": "Emilio Jewelry",
+      "description": "Rare GIA-certified natural Fancy Intense Green heart-shape diamond over 6.00 carats, set in a handmade 18k gold mounting designed to maximize color presence.",
+      "value": {
+        "amount": 4950000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Fancy Intense Green",
+      "provenance": "Emilio Jewelry Museum Vault, Fifth Avenue, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/emilio-jewelry-gia-certified-natural-600-carat-intense-green-diamond-ring/id-j_16457042/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-natural-600-carat-intense-green-diamond-ring-for-sale/1121189/j_164570421658338642107/16457042_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-natural-600-carat-intense-green-diamond-ring-for-sale-picture-2/j_962/1658253956857/mobilejpegupload_14EB3FD6C2A7442EB349EE0C0E0AA1E7_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-natural-600-carat-intense-green-diamond-ring-for-sale-picture-3/j_962/1658253959023/mobilejpegupload_53D76D49285049D7AFA54FC0A576899D_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-natural-600-carat-intense-green-diamond-ring-for-sale-picture-4/j_962/1658253961431/mobilejpegupload_0A5DF0AF379D4A58BD2B862E82617602_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry Gia Certified 12.00 Carat Pink Diamond Ring",
+      "id": "jewelry-024",
+      "brand": "Emilio Jewelry",
+      "description": "Important cushion-cut pink diamond ring totaling approximately 12.00 carats, GIA certified. Appraised by Gemological Appraisal Laboratory of America.",
+      "value": {
+        "amount": 4000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Pink Diamond",
+      "provenance": "Emilio Jewelry, Gem Tower / GIA Building, New York",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/emilio-jewelry-gia-certified-1200-carat-pink-diamond-ring/id-j_25399472/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-1200-carat-pink-diamond-ring-for-sale/1121189/j_253994721739608849649/25399472_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-1200-carat-pink-diamond-ring-for-sale-picture-2/j_962/1739172832575/mobilejpegupload_8614847F3135436486CCB28A572E9FDA_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-1200-carat-pink-diamond-ring-for-sale-picture-3/j_962/1739172836627/mobilejpegupload_69DC59B940334479A1A74BCFA7656D4B_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-1200-carat-pink-diamond-ring-for-sale-picture-4/j_962/1739172839992/mobilejpegupload_4CDEF8E0AD5D4C93AC4F6794D513E5F5_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry GIA Certified 7.02 Carat Natural Blue Diamond Ring",
+      "id": "jewelry-027",
+      "brand": "Emilio Jewelry",
+      "description": "Museum Vault radiant-cut natural blue diamond of 7.02 carats — one of the rarest diamonds of its size and color. GIA certified.",
+      "value": {
+        "amount": 2975000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Natural Blue Diamond",
+      "provenance": "Emilio Jewelry Museum Vault, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring/id-j_14184962/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring-for-sale/1121189/j_141849621639750987119/14184962_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring-for-sale-picture-2/j_962/1639436870431/mobilejpegupload_9331F601F49F4EFF8098DF0C2DB2806A_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring-for-sale-picture-3/j_962/1639436874787/mobilejpegupload_02E1DCCBAAC149338EB2922A7CE1FD50_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring-for-sale-picture-4/j_962/1639436873230/mobilejpegupload_273C4474D18840FDAF66DC5269E16E78_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-702-carat-natural-blue-diamond-ring-for-sale-picture-5/j_962/1639436876995/mobilejpegupload_86B311F955B8450B8B13271952311938_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry Certified 10.29 Carat Pigeon Blood No Heat Burma Ruby Ring",
+      "id": "jewelry-029",
+      "brand": "Emilio Jewelry",
+      "description": "Exceptional 10.29-carat pigeon-blood Burmese ruby, no heat treatment, set as a high jewelry ring with diamonds.",
+      "value": {
+        "amount": 3000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Certified No Heat Burma / Pigeon Blood",
+      "provenance": "Emilio Jewelry, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/engagement-rings/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring/id-j_26179222/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-2/j_962/j_261792221746804885061/9405c5dc_1018_4b31_9a9c_90c506b5658b_1845931_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-3/j_962/j_261792221746804884894/IMG_0621_1845957_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-4/j_962/j_261792221746805014875/9405c5dc_1018_4b31_9a9c_90c506b5658b_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-5/j_962/j_261792221746805198122/IMG_0622_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-6/j_962/j_261792221746805197304/IMG_0623_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-7/j_962/j_261792221746805198087/IMG_0624_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-8/j_962/j_261792221746805197887/IMG_0625_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-certified-1029-carat-pigeon-blood-no-heat-burma-ruby-ring-for-sale-picture-9/j_962/j_261792221746805198104/IMG_0626_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum Diamond Necklace with Fancy Intense Vivid Yellow Pear",
+      "id": "jewelry-030",
+      "brand": "Diana M. Jewels",
+      "description": "Platinum handmade necklace with GIA-certified 35.31ct Fancy Intense Vivid Yellow VS2 pear (GIA#2145952743), plus ~47.00ct of D/E/F VVS–VS accent diamonds and a 1.50ct pear E VS1 center accent (GIA#24155411814).",
+      "value": {
+        "amount": 2470000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Fancy Intense Vivid Yellow",
+      "provenance": "Diana M. Jewels, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/drop-necklaces/platinum-diamond-necklace-fancy-intense-vivd-yellow-pear-shape/id-j_12293322/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/platinum-diamond-necklace-with-fancy-yellow-pear-shape-for-sale/1121189/j_122933221622273704605/12293322_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/platinum-diamond-necklace-with-fancy-yellow-pear-shape-for-sale-picture-2/22569652/j_122933221620906801055/DNK1210_png_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/platinum-diamond-necklace-with-fancy-yellow-pear-shape-for-sale-picture-3/22569652/j_122933221620906822785/DNK1210_png_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/platinum-diamond-necklace-with-fancy-yellow-pear-shape-for-sale-picture-4/j_293/j_122933221688582837721/mP2IdYkf_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/platinum-diamond-necklace-with-fancy-yellow-pear-shape-for-sale-picture-4/22569652/j_122933221620906832210/packaging_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 10.00 Carat Flawless D Color Platinum Ring",
+      "id": "jewelry-031",
+      "brand": "Nikabell",
+      "description": "Platinum solitaire with GIA-certified natural 10.00-carat emerald-cut diamond, D color, Flawless clarity — investment-grade colorless diamond.",
+      "value": {
+        "amount": 2320993,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified — D / Flawless",
+      "provenance": "Nikabell Luxurious Fine Jewels",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring/id-j_26031452/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring-for-sale/j_26992/j_260314521745313175886/j_26031452_1745313176112_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring-for-sale-picture-2/j_26992/j_260314521745313194481/IMG_3347_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring-for-sale-picture-3/j_26992/j_260314521745313475224/IMG_3348_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring-for-sale-picture-4/j_26992/j_260314521745313534073/IMG_3350_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1000-carat-flawless-clarity-d-color-platinum-ring-for-sale-picture-5/j_26992/j_260314521745313536033/IMG_3349_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 85.10 Carat Oval Brilliant Cut Diamond Riviera Necklace",
+      "id": "jewelry-032",
+      "brand": "Cecile Blake",
+      "description": "16-inch Riviera tennis necklace with 85.10 carats of natural oval brilliant diamonds (65 individually GIA-certified, D–F / IF–VS2). Center 5.07ct E/VS1 oval. Platinum, 57.2g.",
+      "value": {
+        "amount": 2240000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified (each stone inscribed)",
+      "provenance": "Cecile Blake Jewelry, Chicago",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/pendant-necklaces/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace/id-j_27179582/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale/j_42382/j_271795821755945241687/j_27179582_1755945241898_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-2/j_42382/j_271795821755945199723/WhatsApp_Image_2025_08_23_at_12_31_01_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-3/j_42382/j_271795821755945164682/j_24877792_1733831568140_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-4/j_42382/j_271795821755945165493/j_24877792_1733832065798_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-5/j_42382/j_271795821755945166439/j_24877792_1733832044093_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-6/j_42382/j_271795821755945167238/j_24877792_1733832017398_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-7/j_42382/j_271795821755945168357/j_24877792_1733831638020_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-8510-carat-oval-brilliant-cut-diamond-riviera-necklace-for-sale-picture-8/j_42382/j_271795821755945199579/WhatsApp_Image_2025_08_23_at_12_31_01_1__master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry GIA Certified Fancy Red Diamond Ring",
+      "id": "jewelry-033",
+      "brand": "Emilio Jewelry",
+      "description": "True natural Fancy Red diamond with no overtone — pure red — over 0.70ct, GIA certified. Radiant cut in a custom Emilio setting.",
+      "value": {
+        "amount": 1650000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Fancy Red (no overtone)",
+      "provenance": "Emilio Jewelry, Fifth Avenue, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/emilio-jewelry-gia-certified-fancy-red-diamond/id-j_23923522/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-fancy-red-diamond-for-sale/j_962/j_239235221727453008615/j_23923522_1727453008976_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-fancy-red-diamond-for-sale-picture-2/j_962/j_239235221727453049225/854CF013_C55E_4583_9287_55B33F1EBE6C_796614_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-fancy-red-diamond-for-sale-picture-3/j_962/j_239235221727453049412/9413EBDB_FDB9_463C_9225_A077CA59772E_796613_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-fancy-red-diamond-for-sale-picture-4/j_962/j_239235221727453049282/53BDA0CE_4FC8_41C9_BB5F_E2C4CB1E78D4_796611_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "11.25 Carat Round Fancy Vivid Yellow Diamond Eternity Band Ring",
+      "id": "jewelry-034",
+      "brand": "GEMME",
+      "description": "Rare round Fancy Vivid Yellow diamond eternity band: 11 yellow diamonds each over 1 carat (11.25ct total), set in 18k yellow gold. Handmade in New York.",
+      "value": {
+        "amount": 1000000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Fancy Vivid Yellow (certified)",
+      "provenance": "GEMME, New York",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/band-rings/1125-carat-round-fancy-vivid-yellow-diamond-eternity-band-ring/id-j_13327752/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/1125-carat-round-fancy-vivid-yellow-diamond-eternity-band-ring-for-sale/1121189/j_133277521631879299857/13327752_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1125-carat-round-fancy-vivid-yellow-diamond-eternity-band-ring-for-sale-picture-2/j_20542/j_133277521631657987945/HAN_0915_Edit_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1125-carat-round-fancy-vivid-yellow-diamond-eternity-band-ring-for-sale-picture-3/j_20542/j_133277521631657992244/HAN_0915_Edit_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1125-carat-round-fancy-vivid-yellow-diamond-eternity-band-ring-for-sale-picture-4/j_20542/j_133277521631657995556/HAN_0915_Edit_1__master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 12.80 Carat Round Brilliant Cut Platinum Ring",
+      "id": "jewelry-035",
+      "brand": "Cecile Blake",
+      "description": "Natural round brilliant ~12.30ct Type IIa diamond, D/VVS1, Excellent cut/polish/symmetry, no fluorescence, in platinum with 18k yellow gold accents. GIA report included. Size 6, ~8.2g.",
+      "value": {
+        "amount": 960000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified — D / VVS1 / Type IIa",
+      "provenance": "Cecile Blake Jewelry, Chicago",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/engagement-rings/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring/id-j_25009772/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale/j_42382/j_250097721735414845440/j_25009772_1735414847319_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale-picture-2/j_42382/j_250097721735414442156/s_l960_2024_12_28T203115_802_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale-picture-3/j_42382/j_250097721735414443836/s_l960_2024_12_28T202951_038_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale-picture-4/j_42382/j_250097721735414731690/s_l960_2024_12_28T203208_314_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale-picture-5/j_42382/j_250097721735414753701/s_l960_2024_12_28T203115_802_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-1280-carat-round-brilliant-cut-18k-platinum-ring-for-sale-picture-6/j_42382/j_250097721735414789454/s_l960_2024_12_28T202909_262_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "16.08 Carat Round Brilliant Cut Diamond Stud Earrings",
+      "id": "jewelry-036",
+      "brand": "Eric Originals and Antiques",
+      "description": "Platinum studs with matched GIA round brilliants: 8.06ct I/VS2 (GIA#2165278059) and 8.02ct I/VS2 (GIA#1162271954). Approx. 1/2 inch diameter.",
+      "value": {
+        "amount": 800000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Eric Originals and Antiques LTD, New York",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/earrings/stud-earrings/1608-carat-round-brilliant-cut-diamond-stud-earrings/id-j_25826352/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/1608-carat-round-brilliant-cut-diamond-stud-earrings-for-sale/j_3082/j_258263521743106234844/j_25826352_1743106235284_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1608-carat-round-brilliant-cut-diamond-stud-earrings-for-sale-picture-2/j_3082/j_258263521743106331801/E4829_d_1168627_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1608-carat-round-brilliant-cut-diamond-stud-earrings-for-sale-picture-3/j_3082/j_258263521743106331832/E4829_c_1168626_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/1608-carat-round-brilliant-cut-diamond-stud-earrings-for-sale-picture-4/j_3082/j_258263521743106331930/E4829_b_1092130_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Asscher-Cut 14.42 Carat Diamond Stud Earrings",
+      "id": "jewelry-037",
+      "brand": "M.S. Rau",
+      "description": "Platinum Asscher-cut diamond studs totaling 14.42 carats. GIA G color, VS1–VVS1, excellent polish and symmetry — classic “hall of mirrors” step-cut brilliance.",
+      "value": {
+        "amount": 748500,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified — G / VS1–VVS1",
+      "provenance": "M.S. Rau, New Orleans (Item 31-6028)",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/earrings/stud-earrings/asscher-cut-1442-carat-diamond-stud-earrings/id-j_17385162/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/asscher-cut-diamond-studs-1442-carats-for-sale/j_135/j_173851621666817744182/j_17385162_1666817745013_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/asscher-cut-diamond-studs-1442-carats-for-sale-picture-2/j_135/j_173851621666817763919/31_6028_2_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/asscher-cut-diamond-studs-1442-carats-for-sale-picture-3/j_135/j_173851621666817763894/31_6028_1_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/asscher-cut-diamond-studs-1442-carats-for-sale-picture-4/j_135/j_173851621666817779303/31_6028_2_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "ASHOKA Platinum Diamond Eternity Band",
+      "id": "jewelry-038",
+      "brand": "William Goldberg",
+      "description": "ASHOKA platinum eternity band with twelve emerald-cut diamonds totaling approximately 24.48 carats. Accompanied by twelve individual GIA certificates. Size 6.",
+      "value": {
+        "amount": 575000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "12 GIA Reports / ASHOKA",
+      "provenance": "William Goldberg / Yafa Signed Jewels, New York",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/wedding-rings/ashoka-platinum-diamond-eternity-band/id-j_29880602/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/ashoka-platinum-diamond-eternity-band-for-sale/j_114/j_298806021783615296355/RM10121_1_3861354_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/ashoka-platinum-diamond-eternity-band-for-sale-picture-2/j_114/j_298806021783615309492/RM10121_2_3861353_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/ashoka-platinum-diamond-eternity-band-for-sale-picture-3/j_114/j_298806021783615309473/RM10121_4_3861355_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/ashoka-platinum-diamond-eternity-band-for-sale-picture-4/j_114/j_298806021783615309555/RM10121_3_3861356_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "70 Carat Oval Yellow and Colorless Diamond Necklace",
+      "id": "jewelry-039",
+      "brand": "Rare Colors",
+      "description": "70.20ct necklace: 57.06ct GIA Fancy Light Yellow ovals + 13.14ct D/E/F ovals, VS+ clarity, 84 GIA certificates. Handmade in NYC in platinum and 18k yellow gold.",
+      "value": {
+        "amount": 550000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "84 GIA Certificates",
+      "provenance": "Rare Colors, New York",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/chain-necklaces/70-carat-oval-yellow-colorless-diamond-necklace/id-j_28004202/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/70-carat-oval-yellow-and-colorless-diamond-necklace-for-sale/j_29812/j_280042021764316696369/j_28004202_1764316696552_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/70-carat-oval-yellow-and-colorless-diamond-necklace-for-sale-picture-2/j_29812/j_280042021764316708205/IMG_76834_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/70-carat-oval-yellow-and-colorless-diamond-necklace-for-sale-picture-3/j_29812/j_280042021764316727388/IMG_76834_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/70-carat-oval-yellow-and-colorless-diamond-necklace-for-sale-picture-4/j_29812/j_280042021764316734113/IMG_76834_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Studio Rêves Sunlit Majesty Diamond Tennis Bracelet",
+      "id": "jewelry-040",
+      "brand": "Studio Rêves",
+      "description": "18k yellow gold tennis bracelet alternating yellow radiant diamonds (24.35ct) and white Asscher diamonds (15.92ct), with brilliant-cut accents. Length 6.75\"; gross weight 23.74g.",
+      "value": {
+        "amount": 548970,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Studio Rêves / Fancy Yellow & White Diamonds",
+      "provenance": "Studio Rêves, Mumbai",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/bracelets/tennis-bracelets/studio-reves-sunlit-majesty-diamond-tennis-bracelet-18-karat-gold/id-j_30223312/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/archivesE/upload/j_11913/j_302233121786726494743/98c499ee-0fc3-4a7b-bbd0-c8517e9872c0/1_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 7.00 Carat Flawless D Color Heart Diamond Solitaire",
+      "id": "jewelry-041",
+      "brand": "Nikabell",
+      "description": "Contemporary 18k white gold solitaire with a 7.00-carat heart-cut diamond, D color, Flawless clarity. Handcrafted artisan goldsmith piece.",
+      "value": {
+        "amount": 745968,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified — D / Flawless",
+      "provenance": "Nikabell Luxurious Fine Jewels",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/solitaire-rings/gia-certified-700-carats-flawless-clarity-d-color-18k-gold-earrings/id-j_26782292/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gia-certified-700-carats-flawless-clarity-d-color-18k-gold-earrings-for-sale/j_26992/j_267822921752057118367/j_26782292_1752057118489_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-700-carats-flawless-clarity-d-color-18k-gold-earrings-for-sale-picture-2/j_26992/j_267822921752057131252/IMG_7142_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-700-carats-flawless-clarity-d-color-18k-gold-earrings-for-sale-picture-3/j_26992/j_267822921752057140559/IMG_7143_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gia-certified-700-carats-flawless-clarity-d-color-18k-gold-earrings-for-sale-picture-4/j_26992/j_267822921752057264059/IMG_7143_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "GIA Certified 3 Carat Fancy Pink Heart Brilliant Diamond Platinum Ring",
+      "id": "jewelry-042",
+      "brand": "Antinori Fine Jewels",
+      "description": "Platinum ring with 3.06ct heart modified brilliant natural diamond, Fancy Pink color, SI1 clarity — bright, wearable high jewelry statement.",
+      "value": {
+        "amount": 712000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified Fancy Pink",
+      "provenance": "Antinori Fine Jewels / Antinori di Sanpietro",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/three-stone-rings/gia-certified-3-carat-fancy-pink-heart-brilliant-diamond-platinum-ring/id-j_30477782/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/archivesE/upload/j_18982/j_304777821789109574590/e5fac406-cd87-401a-843a-50976a3ffb1d/20260911_085058_a1c898_ambientato_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Gublin Certified 26.88ct Unheated Blue Star Sapphire & 7.41ct Diamond Necklace",
+      "id": "jewelry-043",
+      "brand": "Jewel Trading Co",
+      "description": "Ceylon unheated blue star sapphire 26.88ct oval cabochon with asterism, Gublin/GRS certified, set with 7.41ct F/G VS diamonds in 18k white gold pendant and 16.5\" chain. Overall ~23.5g.",
+      "value": {
+        "amount": 624000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Gublin / GRS — Unheated Ceylon Star Sapphire",
+      "provenance": "Jewel Trading Co, Hong Kong",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/pendant-necklaces/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace/id-j_16745492/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale/j_29232/j_167454921770791480436/j_16745492_1770791481071_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-2/j_29232/j_167454921661413730819/IMG20220617184214_2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-3/j_29232/j_167454921660910869647/IMG20220816204409_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-4/j_29232/j_167454921660910839128/IMG20220816213142_2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-5/j_29232/j_167454921660911032627/IMG20220816214501_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-6/j_29232/j_167454921660910834505/IMG20220816213616_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-7/j_29232/j_167454921660911060214/VID20220816214035_exported_1986_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/gublin-certified-2688ct-unheated-blue-star-sapphire-741ct-diamond-necklace-for-sale-picture-8/j_29232/j_167454921769664458662/IMG_20260122_175608_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry Natural 9mm Jadeite Long Necklace",
+      "id": "jewelry-044",
+      "brand": "Emilio Jewelry",
+      "description": "Natural jadeite bead necklace with exceptional color and transparency — approximately 9mm beads, 70cm length. Appraised by Gemological Appraisal Laboratory of America.",
+      "value": {
+        "amount": 500000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Natural Jadeite / GAL America appraisal",
+      "provenance": "Emilio Jewelry, Gem Tower, New York",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/beaded-necklaces/emilio-jewelry-natural-9mm-jadeite-long-necklace/id-j_25664292/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale/j_962/j_256642921746041083240/j_25664292_1746041083693_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-2/j_962/1741744105450/mobilejpegupload_EC72697FDCB142B284A777830D03AD9C_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-3/j_962/1741744105487/mobilejpegupload_470AF9D593CF45849A44A8CE7B2864C0_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-4/j_962/1741744110634/mobilejpegupload_0FB9B9F1037F46CB97FF41E4AA2CC371_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-5/j_962/1741744110661/mobilejpegupload_91543816E256423DA191D551DCCB3851_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-6/j_962/1741744177535/mobilejpegupload_A61C914FFCA54EAABD4E6A76CC5BDC2F_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-7/j_962/1741744176841/mobilejpegupload_5E893457055749E0A5E35A6CB55B3A2A_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-natural-9mm-jadeite-long-necklace-for-sale-picture-8/j_962/1741744178829/mobilejpegupload_0F1DA22EAAF244049697ECB0A2E75003_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "100-Carat Diamond Tennis Necklace (D-E-F Color, VVS-VS Clarity)",
+      "id": "jewelry-003",
+      "brand": "Avanti",
+      "description": "An exceptional 100-carat tennis necklace featuring D, E, and F color diamonds with VVS to VS clarity, individually set in a seamless design. This piece offers remarkable brilliance and luxury, making it a signature heirloom-quality acquisition.",
+      "value": {
+        "amount": 2750000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2022-08-15",
+      "condition": "excellent",
+      "certification": "GIA Certification Available Upon Request",
+      "provenance": "Acquired through 1stDibs from Avanti Fine Jewelry",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/drop-necklaces/100-carat-diamond-tennis-necklace-d-e-f-color-vvs-vs-clarity/id-j_25254732/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/100-carat-diamond-tennis-necklace-d-e-f-color-vvs-vs-clarity-for-sale/1121189/j_252547321738069995417/25254732_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/100-carat-diamond-tennis-necklace-d-e-f-color-vvs-vs-clarity-for-sale-picture-2/j_42472/1737977045638/mobilejpegupload_D24E022FD2DD487EB46EF430C4A79657_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/100-carat-diamond-tennis-necklace-d-e-f-color-vvs-vs-clarity-for-sale-picture-3/j_42472/1737977047560/mobilejpegupload_B38B9A8BFB844C54900988EA697F0A49_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/100-carat-diamond-tennis-necklace-d-e-f-color-vvs-vs-clarity-for-sale-picture-4/j_42472/1737977047556/mobilejpegupload_85AC8C9572574F728B9B8EFA8B9F962B_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Legacy 130-Carat Fancy Yellow Radiant Diamond Necklace",
+      "id": "jewelry-004",
+      "brand": "Avanti",
+      "description": "An extraordinary 130-carat necklace showcasing fancy yellow radiant-cut diamonds, masterfully arranged in a harmonious sequence. Each diamond is GIA certified, offering unmatched brilliance and prestige in high jewelry craftsmanship.",
+      "value": {
+        "amount": 2750000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2022-08-15",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Acquired via Avanti Fine Jewelry through 1stDibs",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/drop-necklaces/legacy-130-carat-fancy-yellow-radiant-diamond-necklace-gia/id-j_26804722/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/legacy-130-carat-fancy-yellow-radiant-diamond-necklace-gia-for-sale/j_42472/j_268047221752114740714/j_26804702_1752114275842_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/legacy-130-carat-fancy-yellow-radiant-diamond-necklace-gia-for-sale-picture-2/j_42472/j_268047221752114741139/IMG_2133_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/legacy-130-carat-fancy-yellow-radiant-diamond-necklace-gia-for-sale-picture-3/j_42472/j_268047221752114741386/IMG_2037_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/legacy-130-carat-fancy-yellow-radiant-diamond-necklace-gia-for-sale-picture-4/j_42472/j_268047221752114741566/IMG_2149_master.jpeg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Multi-Color Diamon Necklace",
+      "id": "jewelry-006",
+      "brand": "Custom",
+      "description": "A stunning multi-color diamond necklace featuring a vibrant array of colored diamonds, including pink, yellow, and blue stones, set in a platinum design. This unique piece showcases the beauty and rarity of fancy colored diamonds, making it a true statement of luxury and individuality.",
+      "value": {
+        "amount": 2500000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        ""
+      ],
+      "images": [
+        "https://static1.squarespace.com/static/53509910e4b0c8fd2100094c/5351eb79e4b06285ac5bf709/5357c7e3e4b0f52fccfccdfb/1436891794075/?format=1500w"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Ashoka Diamond Tennis Necklace",
+      "id": "jewelry-013",
+      "brand": "Jacob & Co.",
+      "description": "",
+      "value": {
+        "amount": 1350000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://jacobandco.com/product/ashoka-diamond-tennis-necklace"
+      ],
+      "images": [
+        "https://www.datocms-assets.com/99008/1725383916-92252956-1.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1725383933-92252956-2.webp?auto=compress%2Cformat&dpr=2&w=1150",
+        "https://www.datocms-assets.com/99008/1725383947-92252956-3.webp?auto=compress%2Cformat&dpr=2&w=1150"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Emilio Jewelry Gia Certified 55.00 Carat Diamond Necklace",
+      "id": "jewelry-020",
+      "brand": "Emilio Jewelry",
+      "description": "Museum Vault choker with a GIA-certified center radiant diamond over 15.00 carats, surrounded by individually GIA-certified stones over 1.00 carat each in mixed fancy cuts. Handmade in the Emilio Jewelry Atelier.",
+      "value": {
+        "amount": 1500000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified",
+      "provenance": "Emilio Jewelry, New York — Museum Vault",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/choker-necklaces/emilio-jewelry-gia-certified-5500-carat-diamond-necklace/id-j_17992222/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-5500-carat-diamond-necklace-for-sale/1121189/j_179922221672389800081/17992222_datamatics.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-5500-carat-diamond-necklace-for-sale-picture-2/j_962/1671536762779/mobilejpegupload_83B5D085AA844D1A9DA55FEE0795F76E_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-5500-carat-diamond-necklace-for-sale-picture-3/j_962/1671536761627/mobilejpegupload_D9BBCAA976224EE7A4B26530E881D2D0_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/emilio-jewelry-gia-certified-5500-carat-diamond-necklace-for-sale-picture-4/j_962/1671536762830/mobilejpegupload_CA97D3DC03134D00A39AC8AA17BA16E7_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Issac Nussbaum 18K GIA Certified 27 Carat Emerald Cut Diamond Ring",
+      "id": "jewelry-026",
+      "brand": "Issac Nussbaum",
+      "description": "GIA-certified ~27-carat emerald-cut diamond, G color, VS1 clarity, with tapered baguette side stones in 18k white gold. Geometric step-cut brilliance.",
+      "value": {
+        "amount": 2996850,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "GIA Certified — G / VS1",
+      "provenance": "Issac Nussbaum New York",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/rings/engagement-rings/issac-nussbaum-18k-gia-certified-27-carat-emerald-cut-diamond-ring/id-j_28409422/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/issac-nussbaum-18k-gia-certified-27-carat-emerald-cut-diamond-ring-for-sale-picture-2/j_9911/j_284094221769020764982/1_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/issac-nussbaum-18k-gia-certified-27-carat-emerald-cut-diamond-ring-for-sale-picture-3/j_9911/j_284094221771520982779/2_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/issac-nussbaum-18k-gia-certified-27-carat-emerald-cut-diamond-ring-for-sale-picture-4/j_9911/j_284094221769020765062/3_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/issac-nussbaum-18k-gia-certified-27-carat-emerald-cut-diamond-ring-for-sale-picture-5/j_9911/j_284094221771520983147/3_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Harry Winston Diamond Necklace",
+      "id": "jewelry-028",
+      "brand": "Harry Winston",
+      "description": "Signature Harry Winston diamond link necklace — iconic cluster/link design in platinum, investment-grade high jewelry.",
+      "value": {
+        "amount": 4800000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-09-25",
+      "condition": "excellent",
+      "certification": "Harry Winston / Diamond Jewelry",
+      "provenance": "Harry Winston; listed via 1stDibs",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.1stdibs.com/jewelry/necklaces/link-necklaces/harry-winston-diamond-necklace/id-j_29874482/"
+      ],
+      "images": [
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale/j_43032/j_298744821783627784110/j_29874482_1783627784153_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-2/j_43032/j_298744821783552714097/IMG_1528_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-3/j_43032/j_298744821783552131866/j_29874482_1783552131902_bg_processed.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-4/j_43032/j_298744821783552172309/IMG_1526_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-5/j_43032/j_298744821783552691164/IMG_1527_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-6/j_43032/j_298744821783552851035/IMG_1529_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-7/j_43032/j_29874482/IMG_1783627883751_master.jpg?disable=upscale&auto=webp&quality=60&width=1400",
+        "https://a.1stdibscdn.com/harry-winston-diamond-necklace-for-sale-picture-8/j_43032/j_298744821783552878152/IMG_1531_master.jpg?disable=upscale&auto=webp&quality=60&width=1400"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold, 39.56ctw Heart Shape Diamond and 11.10ctw Round Brilliant Cut Diamond Necklace",
+      "id": "jewelry-soth-heart-necklace-3956",
+      "brand": "Sotheby's",
+      "description": "35 heart brilliant-cut diamonds (39.56 ct) and 37 round brilliants (11.10 ct) in 18K white gold; 16\". 72 GIA reports (hearts D–I / VS1–SI2; rounds E / SI1).",
+      "value": {
+        "amount": 278000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "72 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/_white-gold-3956ctw-heart-sahpe-diamond-and-1110ctw-round-brilliant-cut-diamond-necklace-1952"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/58a14d0/2147483647/strip/true/crop/3938x3938+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F92%2Fce%2Ffc661a2b41c18a4b9f837b69d8b7%2Fwhite-gold-3956ctw-heart-cut-diamond-and-1110ctw-round-diamond-necklace.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d265f24/2147483647/strip/true/crop/3478x3478+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F1b%2Fe3%2F0854886045288a9168bb9f87eedc%2Fknm-1695.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum, 24.60ctw Zambian Emerald and 15.16ctw Diamond Tennis Bracelet",
+      "id": "jewelry-soth-zambian-emerald-tennis-2460",
+      "brand": "Sotheby's",
+      "description": "15 emerald-cut Zambian emeralds (24.60 ct) alternating with 15 emerald-cut diamonds (15.16 ct) in platinum. C. Dunaigre + 15 GIA reports.",
+      "value": {
+        "amount": 275000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "C. Dunaigre CDC2401715; 15 GIA reports G/VVS1–VS1",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/link/_platinum-24.60ctw-zambian-emerald-and-15.16ctw-diamond-tennis-bracelet-a547"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/5b2e6cf/2147483647/strip/true/crop/3024x3024+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fcd%2Fe8%2F9a89b28947fb9c1a005c5ff1458f%2Fplatinum-zambian-emerald-and-diamond-tennis-bracelet-a54.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e2c5a10/2147483647/strip/true/crop/3058x3058+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F15%2Feb%2F227662f947019bc749ec01266e06%2Fook-br2081top.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c062aa2/2147483647/strip/true/crop/3210x3210+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F23%2Ffd%2F72a382d84642b8922de59c998503%2Fook-br2081back.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1f3bee2/2147483647/strip/true/crop/1024x739+0+0/resize/800x577!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F00%2F08%2F62a88be9414fa05855801ff53b33%2F1733338746634-02b1c579-2eef-4b2b-abb5-3920532b04f9-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/a371903/2147483647/strip/true/crop/620x1024+0+0/resize/800x1321!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fda%2Fdd%2F0e4c1c904ec2b757ac1f5be5539d%2F1733338746634-02b1c579-2eef-4b2b-abb5-3920532b04f9-2.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 13.08ctw Oval Cut Diamond Eternity Band Ring",
+      "id": "jewelry-soth-oval-eternity-1308",
+      "brand": "Sotheby's",
+      "description": "13 oval-cut diamonds totaling 13.08 ct in platinum, size 6½. 13 GIA reports D–F / VVS2–VS2.",
+      "value": {
+        "amount": 95000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "13 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/ring/eternity-band/_platinum-and-13.05ctw-oval-cut-diamond-eternity-band-ring-a6b4"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/8bb80b5/2147483647/strip/true/crop/4160x4160+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F3d%2Fa1%2F4a0a8e8049bf901fe37c39cd592b%2Fwb5162-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2666769/2147483647/strip/true/crop/4160x4160+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff6%2F5b%2Fdad436b64e2096698be9c9dc98d5%2Fplatinum-and-13.05ctw-oval-cut-diamond-eternity-band-ring-a6b4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/67a6ebd/2147483647/strip/true/crop/2750x2750+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff8%2Fdc%2Ffc343cca484a9ccce746d03377bf%2Fmrkt-dbg88-t3-04-mirror.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 6.02ctw Heart Shape Diamond Stud Earrings",
+      "id": "jewelry-soth-heart-studs-602",
+      "brand": "Sotheby's",
+      "description": "Matched heart-shaped diamonds 3.01 + 3.01 ct in platinum. GIA F / SI1 each.",
+      "value": {
+        "amount": 48000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "GIA 2516150447; GIA 6502853513",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/earring/stud/_platinum-and-602ctw-heart-shape-diamond-stud-earrings-e4e3"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/dbaf368/2147483647/strip/true/crop/7277x7277+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc8%2F20%2Fff457d04401884c2887b3bff0d2a%2F13a.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/91d8470/2147483647/strip/true/crop/7850x7850+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9a%2Fff%2F8a244afb408b9d264172814f36c1%2F13b.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/dba563b/2147483647/strip/true/crop/7292x7292+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F59%2Fee%2Fd66055244b65b4fb37001a2abab3%2F13c.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/38fc878/2147483647/strip/true/crop/3392x3392+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F21%2F67%2F409a95004393a02162ca7b27f3a2%2Fmrkt-dbg73-t3-04-mirror.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/34e7d4d/2147483647/strip/true/crop/2011x1554+0+0/resize/800x618!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F53%2Fac%2F161d86c9432493ec930abec34512%2F2516150447copy.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/8c10408/2147483647/strip/true/crop/2011x1554+0+0/resize/800x618!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F26%2Fd8%2Fb424b5244ec485ef68297f5325d7%2F6502853513copy.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Gold and 23.70ctw Round Brilliant Cut Diamond Tennis Bracelet",
+      "id": "jewelry-soth-gold-tennis-2370",
+      "brand": "Sotheby's",
+      "description": "23 round brilliant diamonds ≈23.70 ct (avg ~1.03 ct) in 18K yellow gold; 7\". Approx H–I / VS1–VS2.",
+      "value": {
+        "amount": 75000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/tennis/_gold-and-2370ctw-round-brilliant-cut-diamond-tennis-bracelet-2beb"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/adaba78/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F25%2F92%2F68e98c1c4dd884d94464a1b85218%2Fmrkt-dr2wm-t3-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/76e2c41/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fa0%2Fe7%2Fb00991274f349f2d5428fdce112e%2Fmrkt-dr2wm-t3-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/939f788/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fe7%2Fd3%2Fdfeb23a94afbbb308cec8cb232a5%2Fmrkt-dr2wm-t3-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1f50b87/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F93%2Fdb%2F31a3c5884a24ba79e578bb74182b%2Fmrkt-dr2wm-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 14.55ctw Emerald Cut Diamond Eternity Band Ring",
+      "id": "jewelry-soth-emcut-eternity-1455",
+      "brand": "Sotheby's",
+      "description": "14 emerald-cut diamonds totaling ≈14.55 ct in platinum, size 5. Approx I–J / VS.",
+      "value": {
+        "amount": 72000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/ring/eternity-band/_platinum-and-1455cts-emerald-cut-diamond-wedding-band-ring-63c4"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/9fc4def/2147483647/strip/true/crop/3916x3916+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F94%2F9a%2Fa63ba67f4f40b932732a77ce1922%2Fplatinum-and-14.55cts-Emerald-Cut-Diamond-Wedding-Band-Ring.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/0752d6c/2147483647/strip/true/crop/3534x3534+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fbf%2F32%2Fe2b5deab4b6ca19f54a4f08f1364%2F2928marketplace-cfcwd-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/841255c/2147483647/strip/true/crop/3470x3470+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fca%2F17%2F021a8fb44017b58c2015a26f19b9%2F2928marketplace-cfcwd-02.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 10.98ct Oval Cut Diamond Eternity Band Ring",
+      "id": "jewelry-soth-oval-eternity-1098",
+      "brand": "Sotheby's",
+      "description": "13 oval-cut diamonds totaling 10.98 ct in platinum, size 6¼. 13 GIA reports D–F / VVS1–VS2.",
+      "value": {
+        "amount": 68000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "13 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/ring/eternity-band/_platinum-and-1098ct-oval-cut-diamond-eternity-band-ring-8f49"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/204b869/2147483647/strip/true/crop/6221x6221+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Faf%2F51%2Fc873aec641eaa3804a026ac3d99f%2Fplatinum-and-10.98ct-oval-cut-diamond-eternity-band-ring.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum, 6.42ctw Marquise Cut Diamond and Diamond Eternity Band Ring",
+      "id": "jewelry-soth-marquise-eternity-642",
+      "brand": "Sotheby's",
+      "description": "16 marquise-cut diamonds (6.42 ct total, avg ~0.40 ct each) with round brilliant accents (~0.40 ct) in platinum, size 6, 9.72 g. 16 GIA reports F–G / VS1–VS2. Sotheby's box.",
+      "value": {
+        "amount": 25000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "16 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/ring/eternity-band/_platinum-6.42ctw-marquise-cut-diamond-and-diamond-eternity-band-ring-1443"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/ad87603/2147483647/strip/true/crop/2850x2801+0+0/resize/800x786!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9c%2F94%2F41504c2c453b9654eeec368a9585%2Fplatinum-6.42ctw-marquise-cut-diamond-and-diamond-eternity-band-ring-1443.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/0c566e0/2147483647/strip/true/crop/2300x2321+0+0/resize/800x807!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F22%2F6b%2Fc3043d114817b7db2a416d734e0a%2Fvan8033-3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2724e41/2147483647/strip/true/crop/2579x2598+0+0/resize/800x806!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F11%2F70%2F0da4a2164965b1a5704f9b3d199a%2Fvan8033-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/34e0cd7/2147483647/strip/true/crop/2496x2417+0+0/resize/800x775!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F49%2F48%2F122c7afd483cae84394bf47297fc%2Fvan8033-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2dc9b33/2147483647/strip/true/crop/2750x2750+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fa8%2F80%2F92ab7f854b3b96c0356ebfc1093a%2Fmrkt-dbg88-t3-04-mirror.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold and 28.35ctw Oval Cut Diamond Tennis Necklace",
+      "id": "jewelry-soth-oval-tennis-necklace-2835",
+      "brand": "Sotheby's",
+      "description": "119 oval-cut diamonds ≈28.35 ct in 18K white gold; ~16 15/16\". Approx D–F / VS1–VS2.",
+      "value": {
+        "amount": 125000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/line/_white-gold-and-2835ctw-oval-cut-diamond-tennis-necklace-186b"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/9a3cea7/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F94%2F8a%2F5101130b46b987a2dfc0ba41b57a%2Fwhite-gold-and-2835ctw-oval-cut-diamond-tennis-necklace.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/54a5d99/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F4d%2F3a%2F5664e7894565a00b9a28492651bc%2Fjcnw01132103-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/4dcbb13/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F89%2Fc1%2Fa277bcf5405cbab023aaf66e2d2a%2Fjcnw01132103-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/563ae71/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff0%2F34%2Fc2a0a47342a58bda0a49a8ee23bd%2Fmrkt-db7bt-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold and 19.75ctw Radiant Cut Diamond Tennis Necklace",
+      "id": "jewelry-soth-radiant-tennis-necklace-1975",
+      "brand": "Sotheby's",
+      "description": "132 radiant-cut diamonds ≈19.75 ct in 18K white gold; 16\". Approx F–G / VS1–VS2.",
+      "value": {
+        "amount": 88000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/tennis/_white-gold-and-1975ctw-radiant-cut-diamond-tennis-necklace-461b"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/4fc19f9/2147483647/strip/true/crop/3443x3443+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fdd%2Fb6%2F7b1cbcff4662bc86149c7fedf4ab%2Fwhite-gold-and-1975ctw-radiant-cut-diamond-tennis-necklace.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/88f3795/2147483647/strip/true/crop/3352x3352+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F70%2F9b%2F526eabd04505bb78db1cef7af5c4%2Fknm-1693.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum, Gold, 38.63ctw Zambian Emerald and Diamond Tennis Bracelet",
+      "id": "jewelry-soth-zambian-emerald-tennis-3863",
+      "brand": "Sotheby's",
+      "description": "16 Zambian emeralds ≈38.63 ct with 16 emerald-cut diamonds ≈8.38 ct in platinum and 18K yellow gold. C. Dunaigre 2204007.",
+      "value": {
+        "amount": 320000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "C. Dunaigre 2204007/1-16",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/tennis/_platinum-white-gold-zambian-emerald-and-diamond-tennis-bracelet"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2614608/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fa7%2F15%2Fb0cdb4a045d4b5281840e24616b0%2Fplatinum-white-gold-zambian-emerald-and-diamond-tennis-bracelet.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2d5d0a9/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fa7%2F40%2F042bc34448a684b2e8a2bc703d71%2Fmrkt-d5567-t3-021.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/32efee9/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F26%2Fa3%2Fc8bb02774273bc3446fed1ddb6f1%2Fmrkt-d5567-t3-031.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Gold and 49.95cts Fancy Cut Yellow Diamond Line Necklace",
+      "id": "jewelry-soth-yellow-line-necklace-4995",
+      "brand": "Sotheby's",
+      "description": "48 oval, heart, radiant, pear, and cushion yellow diamonds ≈49.95 ct bezel-set in 18K yellow gold; 16\".",
+      "value": {
+        "amount": 185000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/line/_gold-and-4995cts-mix-shaped-yellow-diamond-line-necklace-5ca8"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/baa98bc/2147483647/strip/true/crop/3665x3664+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff4%2Fa3%2F605bb2ae48458eec2b21f0eeefb6%2Fgold-and-4995cts-mix-shaped-yellow-diamond-line-necklace.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/1f70a6c/2147483647/strip/true/crop/3676x3675+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fb9%2F96%2F36541e1841f4b4db1786c9f9b686%2Fknm-9285.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/aa4cdc9/2147483647/strip/true/crop/3412x3412+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F76%2Fa4%2F32e60b9b421688aa34e0260a7373%2Fknm-9238.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d52ff98/2147483647/strip/true/crop/800x800+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fb7%2Fa1%2F36a2a4ce4fef869e4ecdd686b021%2Fimage-2026-03-12t164522.754.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2794178/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffa%2Fc8%2F5974238f41559f063b12cae91b03%2Fnecklacefolio.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 10.04ctw Cushion Cut Diamond Stud Earrings",
+      "id": "jewelry-soth-cushion-studs-1004",
+      "brand": "Sotheby's",
+      "description": "Cushion-cut diamond studs totaling 10.04 ct (5.02 + 5.02) in platinum. GIA H/VS2 and I/VS1.",
+      "value": {
+        "amount": 95000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "GIA 2185806947; GIA 6183898217",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/earring/stud/_platinum-and-1004ctw-cushion-cut-diamond-stud-earrings-7b2a"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/cd28ba4/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffb%2F93%2Ff111c6744cb59fb5ff12f1003e1e%2Fmrkt-d6czb-t3-01.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/47d083d/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc0%2F67%2F437ce5c74d31a16bdce457a39a23%2Fmrkt-d6czb-t3-02.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/57f831c/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fff%2F7b%2Feaf7e93b4a2f90368c41f926de5d%2Fmrkt-d6czb-t3-03.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/0f51335/2147483647/strip/true/crop/3392x3392+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F26%2F5f%2Fc894784c4f8db77d00b7f03c95e7%2Fearclips.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/faf2223/2147483647/strip/true/crop/1312x1014+0+0/resize/800x618!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5c%2F72%2F48ee0ca34760ae96cb9d9c06046f%2F2185806947.png",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/aa07a69/2147483647/strip/true/crop/1311x1011+0+0/resize/800x617!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F19%2F45%2F2d953ac34be3b09b9c2661c987c6%2F6183898217.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Gold, 11.63ctw Radiant Cut Fancy Yellow Diamond Stud Earrings",
+      "id": "jewelry-soth-fancy-yellow-studs-1163",
+      "brand": "Sotheby's",
+      "description": "Radiant Fancy Yellow diamonds 5.92 + 5.71 ct in 18K yellow gold. GIA Fancy Yellow VVS2 / VVS1.",
+      "value": {
+        "amount": 110000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "GIA 2175193381; GIA 2175193382",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/earring/stud/_gold-1163ctw-radiant-cut-fancy-yellow-diamond-stud-earrings-8c62"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2a9896c/2147483647/strip/true/crop/1680x1178+0+0/resize/800x561!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fba%2F3e%2F3c2bed834198af665e3e3ed51f71%2Fgold-1163ctw-radiant-cut-fancy-yellow-diamond-stud-earrings.jpeg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f8f793f/2147483647/strip/true/crop/1396x1072+0+0/resize/800x614!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5d%2F1e%2F7cec26ae44c8bea114406dbd295a%2Fscreenshot2024-08-16at3.40.22PM.png",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/48e5402/2147483647/strip/true/crop/1612x1234+0+0/resize/800x612!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F63%2Ff5%2F87ec5d1747c4b7114fef680b0fc8%2Fscreenshot2024-08-16at3.41.07PM.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold, 22.40ct Sapphire and 39.00ct Diamond Necklace",
+      "id": "jewelry-soth-sapphire-diamond-necklace-2240",
+      "brand": "Sotheby's",
+      "description": "17 square emerald-cut sapphires ≈22.40 ct with baguette diamonds ≈39.00 ct in 18K white gold; 17\".",
+      "value": {
+        "amount": 165000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/collar/_white-gold-2240ct-sapphire-and-3900ct-diamond-necklace-bf2e"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/bcc9b8c/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fb2%2F85%2F5271a6a541feb76d79fd79b243f7%2Fwhite-gold-2240ct-sapphire-and-3900ct-diamond-necklace.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d5259cf/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F57%2F47%2Fe7504f16477bad224be9c2bb000f%2Fjcng01145307-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/48aab5a/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fcc%2F59%2F296d63f843b998506d3d2898f545%2Fjcng01145307-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d22386a/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F5a%2F58%2Fda47349e49d19705ab0072310165%2Fjcng01145307-3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/427f32b/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fdc%2F9b%2F2a76c1d347718144b4cc6e49d06a%2Fmrkt-db7bt-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold, 12.10ctw Colombian Emerald and Diamond Bracelet",
+      "id": "jewelry-soth-colombian-emerald-bracelet-1210",
+      "brand": "Sotheby's",
+      "description": "19 oval Colombian emeralds (12.10 ct; three with Mariposa butterfly-wing effect) with 38 oval diamonds (5.16 ct) in 18K white gold. GRS 2023-098003.",
+      "value": {
+        "amount": 145000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "GRS2023-098003 Mariposa",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/line/_white-gold-1210ctw-colombian-emerald-and-diamond-bracelet-c805"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e4dd3b6/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F15%2Fb1%2Ff8026fed45c1b6d8e527ba8bfff0%2Fwhite-gold-1210ctw-colombian-emerald-and-diamond-bracelet.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2e9ccc5/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F59%2F43%2F194469b94c2db0f736db749c024c%2Fjcbg01126207-1copy.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/654f53b/2147483647/strip/true/crop/1554x2011+0+0/resize/800x1035!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F34%2Fd3%2F462499dc40ba9442447311862c13%2F2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/13145a7/2147483647/strip/true/crop/1554x2011+0+0/resize/800x1035!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fca%2F13%2Fa874d8dd40399051b35e9842f692%2F3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/af69f82/2147483647/strip/true/crop/2011x1554+0+0/resize/800x618!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F0e%2F8c%2F32fd69684438a7976e701399372a%2Fgrs2023-098003copy.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Gold and 40.30ctw Pear Shape Yellow Diamond Tennis Necklace",
+      "id": "jewelry-soth-pear-yellow-tennis-necklace-4030",
+      "brand": "Sotheby's",
+      "description": "Pear-shape yellow diamonds ≈40.30 ct (avg ~0.54 ct) in 18K yellow gold; 17\". Fancy Yellow to Fancy Light Yellow / VS1–VS2 (approx).",
+      "value": {
+        "amount": 175000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's / GIA as listed",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/collar/_gold-and-4030ctw-pear-cut-yellow-diamond-necklace-9b02"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2c6d03a/2147483647/strip/true/crop/3197x3586+0+0/resize/800x897!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F7d%2Fa4%2F4f568c41438398c3a6d55e182398%2Fdqz36-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/7e99ba6/2147483647/strip/true/crop/4166x4167+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F61%2F6b%2Fc828f2ef47fb8ebb490697a80cd2%2Fdqz36-3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/90cd4db/2147483647/strip/true/crop/2806x2806+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F55%2F1d%2Fa768650342ad81c6ec6f908d34f8%2Fdqz36-4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c3b5914/2147483647/strip/true/crop/4464x4464+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F30%2F3f%2F5761b6d14b3cbebab50b8087fd5c%2Fdqz36-5.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d7ecb02/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9b%2Fcd%2F06d985c946798341e4e970bbc10b%2Fmrkt-db7bt-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold, 7.96ctw Colombian Emerald and Diamond Bracelet",
+      "id": "jewelry-soth-colombian-emerald-bracelet-796",
+      "brand": "Sotheby's",
+      "description": "15 Colombian emeralds (7.96 ct) alternating with 15 star-shaped diamonds (9.34 ct) in 18K white gold. C. Dunaigre CDC 2311721.",
+      "value": {
+        "amount": 98000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "C. Dunaigre CDC 2311721/1-15",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/link/_white-gold-emerald-and-diamond-bracelet-0e73"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e0186fa/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F49%2F1b%2Fb6c097234160b9305b258d1119a3%2Fwhite-gold-emerald-and-diamond-braceletcopy.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f9c9048/2147483647/strip/true/crop/2000x2000+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F00%2F4e%2Fac04700b4839b2765c83c5bc4dc7%2Fjcbg01126595-1copy.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2145662/2147483647/strip/true/crop/2011x1554+0+0/resize/800x618!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F98%2F86%2F8a024009406c80be344904c828d5%2Fcdc2311721copy.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold and 20.69ctw Emerald Cut Diamond Tennis Bracelet",
+      "id": "jewelry-soth-emcut-tennis-bracelet-2069",
+      "brand": "Sotheby's",
+      "description": "43 emerald-cut diamonds totaling 20.69 ct in 18K white gold; 7\". 43 GIA reports D–H / VVS1–VS2.",
+      "value": {
+        "amount": 115000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "43 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/tennis/_white-gold-and-20.69ctw-emerald-cut-diamond-tennis-bracelet"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/143a193/2147483647/strip/true/crop/3235x3235+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fbb%2Ff2%2Fcdd2e62443c9a3a6c2aa8040e24b%2Fwhite-gold-and-20.69ctw-emerald-cut-diamond-tennis-bracelet.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/c05a30a/2147483647/strip/true/crop/1588x1588+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F75%2F70%2F3ff2e06444faa5b41ef31cf6d046%2Fknm-0843.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/142347c/2147483647/strip/true/crop/5633x5633+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9d%2F4d%2F23a3808b4222b0fbed026299d095%2Fknm-0888.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/d9e9fe5/2147483647/strip/true/crop/4800x2818+0+0/resize/800x470!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff4%2Fc4%2F9dc42734467fa4c55073eb54ab5e%2Fmp-luxury-holiday-2026-34.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 24.25ctw Diamond Necklace",
+      "id": "jewelry-soth-platinum-diamond-necklace-2425",
+      "brand": "Sotheby's",
+      "description": "Alternating oval and round brilliant diamonds totaling 24.25 ct in platinum; 15½\". 42 GIA reports D–G / IF–VS2.",
+      "value": {
+        "amount": 145000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "42 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/collar/_platinum-and-24.25ctw-diamond-necklace-4443"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/2dff172/2147483647/strip/true/crop/4569x4569+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F48%2F63%2Faf830d83486f952b004d6d9d2e71%2Fdqz34-3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/a0cae70/2147483647/strip/true/crop/4387x4387+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F1f%2F02%2F01c43ab6495795f6d393fa61dac5%2Fdqz34-4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f0e6db4/2147483647/strip/true/crop/4387x4387+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F46%2F04%2F755a84b44c418ac1866acffe2e69%2Fdqz34-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/03516eb/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F3b%2F98%2Ffc0abb09411db4f0e469457b1027%2Fmrkt-db7bt-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum and 35.43ctw Emerald Cut Diamond Rivière Tennis Necklace",
+      "id": "jewelry-soth-emcut-riviere-3543",
+      "brand": "Sotheby's",
+      "description": "Graduated emerald-cut diamond rivière totaling 35.43 ct in platinum; 16½\". 111 GIA reports F–G / VVS1–VS2.",
+      "value": {
+        "amount": 285000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "111 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/riviere/_platinum-and-35.43ctw-emerald-cut-diamond-riviere-necklace-563c"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/82c33e0/2147483647/strip/true/crop/4090x4090+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F13%2F1d%2Fa0285c5a4b56bd6b7e1c5f9442db%2Fdqz2y-2.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/547992a/2147483647/strip/true/crop/5274x5274+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff7%2F59%2F9d92b652405babb18463f69c0e79%2Fdqz2y-3.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/82e399d/2147483647/strip/true/crop/4063x4063+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc9%2F8f%2Fc02e99fe46e09dce54f21fd9cc1a%2Fdqz2y-4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/05f06ad/2147483647/strip/true/crop/5855x5855+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F00%2F83%2F6aa302994041915425ddadf6f26b%2Fdqz2y-5.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/3e4c9ee/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F73%2Fd0%2Fa817bbbb4d9b9f400b8d79bc5ee3%2Fmrkt-db7bt-t3-04.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "White Gold and 22.25ctw Round Brilliant Cut Diamond Rivière Tennis Necklace",
+      "id": "jewelry-soth-round-riviere-2225",
+      "brand": "Sotheby's",
+      "description": "114 round brilliant diamonds ≈22.25 ct (center 1.50 ct) in 18K white gold; 17\". 15 GIA reports G–I / VVS2–VS1.",
+      "value": {
+        "amount": 98000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "15 GIA reports",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Don-Pierre UAE",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/tennis/_white-gold-and-2225ctw-round-brilliant-cut-diamond-riviere-tennis-necklace-846e"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/ef9d22f/2147483647/strip/true/crop/3024x3024+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fc9%2F98%2F3dda305248f2b4338b16dd563dff%2Fwhite-gold-and-2225ctw-round-brilliant-cut-diamond-riviere-tennis-necklace.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Rose Gold and 17.30ctw Emerald Cut Diamond Tennis Bracelet",
+      "id": "jewelry-soth-rose-emcut-tennis-1730",
+      "brand": "Sotheby's",
+      "description": "51 emerald-cut diamonds ≈17.30 ct (avg ~0.34 ct) in 18K rose gold; 7\". Approx H–I / VVS1–VS2.",
+      "value": {
+        "amount": 49000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's pouch",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/bracelet/tennis/_rose-gold-and-17.30ct-emerald-cut-diamonds-tennis-bracelet-ed2d"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/fa75e69/2147483647/strip/true/crop/3245x3246+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fd6%2F94%2Fa11e06594098acfe1ad1592e5ea6%2Frose-gold-and-17.30ct-emerald-cut-diamonds-tennis-bracelet.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/34a7466/2147483647/strip/true/crop/1773x1773+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fd0%2F42%2F9cd6191741b799ab1c91ec5f00f0%2Fknm-0881.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/51839f8/2147483647/strip/true/crop/5684x5684+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F9b%2F6e%2F3f1a6cfb4d3194d0e942a87e7b72%2Fknm-08841.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/e2515a1/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff8%2F0f%2Fb47e8d0443acae07bcfa934e5495%2Fmrkt-db3g3-t3-05-mirror.jpg",
+        "https://sothebys-md.brightspotcdn.com/d6/94/a11e06594098acfe1ad1592e5ea6/rose-gold-and-17.30ct-emerald-cut-diamonds-tennis-bracelet.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Platinum, Purple Sapphire and Diamond Necklace",
+      "id": "jewelry-soth-purple-sapphire-necklace-3340",
+      "brand": "Sotheby's",
+      "description": "Cushion purple sapphires ≈33.40 ct with round brilliant diamonds ≈3.10 ct in platinum; 16\". Approx F–G / VS1–VS2 diamonds.",
+      "value": {
+        "amount": 45000,
+        "currency": "USD"
+      },
+      "acquisitionDate": "2026-10-10",
+      "condition": "excellent",
+      "certification": "Sotheby's folio",
+      "provenance": "Sotheby's Buy Now",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://www.sothebys.com/en/buy/pdp/luxury/jewelry/necklace/collar/_platinum-purple-sapphire-and-diamond-necklace-364b"
+      ],
+      "images": [
+        "https://sothebys-md.brightspotcdn.com/dims4/default/5c5e7fd/2147483647/strip/true/crop/5071x5071+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F7e%2Fd1%2Fe12ec9604310bfff4e8ca61f7018%2Fplatinum-purple-sapphire-and-diamond-necklace-364b.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/517bf76/2147483647/strip/true/crop/5192x5192+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F63%2F46%2F4a7be7ab4f24938fb5e0ef480756%2Fvan8851-1.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/f689697/2147483647/strip/true/crop/4265x4265+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F38%2F01%2F7356529f4402bf1c71d4bd61c22e%2Fvan8851-4.jpg",
+        "https://sothebys-md.brightspotcdn.com/dims4/default/588aa04/2147483647/strip/true/crop/3543x3543+0+0/resize/800x800!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fca%2Fc8%2F2fe61f964a8caa3529551f908680%2Fmrkt-db7bt-t3-04.jpg",
+        "https://sothebys-md.brightspotcdn.com/7e/d1/e12ec9604310bfff4e8ca61f7018/platinum-purple-sapphire-and-diamond-necklace-364b.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Chrome Hearts Jewelry",
+      "id": "attire--86",
+      "brand": "Chrome Hearts",
+      "description": "",
+      "value": {
+        "amount": 1,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "",
+      "condition": "New",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://a202107231339272630001928.szwego.com/weshop/goods/_dteqfYYmyo5eBdlB6sGJ4wkM3NjwPouAJ1QRxEg/_dkJqfvYsfCYKG3A5WHMmxMWxlHh5UqAcN3a7Q-g"
+      ],
+      "images": [
+        "https://xcimg.szwego.com/img/39971582/20240509/i1715235854_2741_0.jpg"
+      ],
+      "limitedEdition": "",
+      "notes": "",
+      "status": "available",
+      "category": "jewelry"
+    },
+    {
+      "name": "Chrome Hearts Jewelry 2",
+      "id": "attire--87",
+      "brand": "Chrome Hearts",
+      "description": "",
+      "value": {
+        "amount": 1,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "",
+      "condition": "New",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://a202107231339272630001928.szwego.com/weshop/goods/_dteqfYYmyo5eBdlB6sGJ4wkM3NjwPouAJ1QRxEg/_d9mqfVimyTHNhMpGl8pcsVoJDjrc17h7wLxqulQ"
+      ],
+      "images": [
+        "https://xcimg.szwego.com/20221226/i1672062417_5241_5.jpg"
+      ],
+      "limitedEdition": "",
+      "notes": "",
+      "status": "available",
+      "category": "jewelry"
+    },
+    {
+      "name": "Louis Vuitton Jewelry",
+      "id": "attire--88",
+      "brand": "Louis Vuitton",
+      "description": "",
+      "value": {
+        "amount": 1,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "",
+      "condition": "New",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://a202107231339272630001928.szwego.com/weshop/goods/_dteqfYYmyo5eBdlB6sGJ4wkM3NjwPouAJ1QRxEg/_dtvqfcesJCRgq1MwVhfvoJ_JTH2ApM1oHzmd5jg"
+      ],
+      "images": [
+        "https://xcimg.szwego.com/img/d50e7960/20260106/i1767702812862_3734_0_1.jpg"
+      ],
+      "limitedEdition": "",
+      "notes": "",
+      "status": "available",
+      "category": "jewelry"
+    },
+    {
+      "name": "Louis Vuitton Jewelry 2",
+      "id": "attire--89",
+      "brand": "Louis Vuitton",
+      "description": "",
+      "value": {
+        "amount": 1,
+        "currency": "USD"
+      },
+      "currency": "USD",
+      "acquisitionDate": "",
+      "condition": "New",
+      "location": {
+        "city": "Dubai Penthouse",
+        "country": ""
+      },
+      "listingUrl": [
+        "https://a202107231339272630001928.szwego.com/weshop/goods/_dteqfYYmyo5eBdlB6sGJ4wkM3NjwPouAJ1QRxEg/_dvUqfR2NRNPAR9r3xOvrQHS_ucoNWIkM0qKDmpg"
+      ],
+      "images": [
+        "https://xcimg.szwego.com/img/d50e7960/20260104/i1767524630219_124_0_0.jpg"
+      ],
+      "limitedEdition": "",
+      "notes": "",
+      "status": "available",
+      "category": "jewelry"
+    }
+  ]
+}

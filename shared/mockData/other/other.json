@@ -1,0 +1,85 @@
+{
+  "other": [
+    {
+      "name": "Cohiba Esplendidos Gran Reserva (15s)",
+      "id": "cigar-cohiba-esplendidos-gran-reserva-15s",
+      "brand": "Cohiba",
+      "vintage": "Gran Reserva",
+      "description": "Cohiba Espléndidos Gran Reserva — exclusive Cuban Churchill-format cigar (7\" × 47). Page lists CA$762.99/unit for the 15s product listing. USD converted at ×0.72.",
+      "value": {
+        "amount": 549.35,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "Excellent",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "limitedEdition": "Gran Reserva",
+      "listingUrl": [
+        "https://lacasadelhabanoedmonton.ca/product/cohiba-esplendidos-gran-reserva-15s/"
+      ],
+      "images": [
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/IMG_8236.png",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/COHIBA_Esplendidos_GranReserva_JulietaNo2_CigarNews_11652.png"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Cohiba 55 Aniversario LTD 2021 (10s)",
+      "id": "cigar-cohiba-55-aniversario-ltd-2021",
+      "brand": "Cohiba",
+      "vintage": "2021",
+      "description": "Cohiba 55 Aniversario Limited Edition 2021 — ultra-premium Cuban cigar (~5 9/10\" × 57). Page lists CA$499.00/unit. USD converted at ×0.72.",
+      "value": {
+        "amount": 359.28,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "Excellent",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "limitedEdition": "Limited Edition 2021",
+      "listingUrl": [
+        "https://lacasadelhabanoedmonton.ca/product/cohiba-55-aniversario-10s-ltd-2021/"
+      ],
+      "images": [
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/Cohiba55AniversarioBox3.jpg",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/Cohiba55AniversarioBox5.jpg",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/Cohiba55AniversarioBox6.jpg",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/EGM-Havana-Editorial-LR-331.jpg"
+      ],
+      "status": "available"
+    },
+    {
+      "name": "Cohiba Behike BHK 56",
+      "id": "cigar-cohiba-behike-bhk-56",
+      "brand": "Cohiba",
+      "vintage": "",
+      "description": "Cohiba Behike BHK 56 — largest Behike format (6 1/2\" × 56) with Medio Tiempo leaves. Page lists CA$489.99/unit. USD converted at ×0.72.",
+      "value": {
+        "amount": 352.79,
+        "currency": "USD"
+      },
+      "acquisitionDate": "0000-00-00",
+      "condition": "Excellent",
+      "location": {
+        "city": "Monaco Penthouse",
+        "country": ""
+      },
+      "limitedEdition": "Behike",
+      "listingUrl": [
+        "https://lacasadelhabanoedmonton.ca/product/cohiba-behike-bhk-56-hr/"
+      ],
+      "images": [
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/blob-6d0c79f-e1768924331333.webp",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/D5206D66-6377-4EAC-BBAD-48A77D972140.webp",
+        "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/CohibaBHK5610.webp"
+      ],
+      "status": "available"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "prestiege",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "mobile",
+    "backend",
+    "shared"
+  ],
+  "scripts": {
+    "dev": "concurrently -n web,api,mobile -c blue,green,magenta \"npm run dev -w prestiege-frontend\" \"npm run dev -w prestiege-backend\" \"npm run start -w prestiege-mobile\"",
+    "dev:web": "npm run dev -w prestiege-frontend",
+    "dev:api": "npm run dev -w prestiege-backend",
+    "dev:mobile": "npm run start -w prestiege-mobile",
+    "postinstall": "node scripts/fix-expo-node-sea.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

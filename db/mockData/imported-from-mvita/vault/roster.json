@@ -1,0 +1,4583 @@
+{
+  "rosterMembers": [
+    {
+      "_comments:": "prospect @llavish.yk - Tier 3",
+      "id": "roster-exclusive-2",
+      "handle": "@llavish.yk",
+      "name": "Yanet",
+      "profileUrl": "https://www.instagram.com/llavish.yk/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@llavish.yk"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "passed",
+        "riskFlags": [
+          "None"
+        ],
+        "ndaSigned": true
+      },
+      "notes": "Potential Mother Agreement, GF Type",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://i.postimg.cc/Y0gpRsb5/Screenshot-2026-06-11-at-4-41-46-PM.png",
+        "https://i.postimg.cc/qqnkw51f/Screenshot-2026-06-11-at-4-41-55-PM.png",
+        "https://i.postimg.cc/x8H054tZ/Screenshot-2026-06-11-at-4-43-14-PM.png",
+        "https://i.postimg.cc/3NpK1cnz/Screenshot-2026-06-11-at-4-43-49-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "https://ik.imagekit.io/bryson/Roster/llavish.yk.mov",
+          "thumbnail": "https://i.ibb.co/LzgWrJfY/yk.jpg"
+        },
+        {
+          "title": "2",
+          "url": "https://ik.imagekit.io/bryson/Roster/llavish.yk%20-2.mov",
+          "thumbnail": "https://i.ibb.co/LzgWrJfY/yk.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "heir_mother @xoassata - Tier 0",
+      "id": "roster-heir-xoassata",
+      "handle": "@xoassata",
+      "name": "Assata",
+      "profileUrl": "https://www.instagram.com/xoassata/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@xoassata"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/jahvrd.jpg",
+        "https://files.catbox.moe/rklfew.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/rklfew.jpg"
+        }
+      ],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "heir_mother @ati_abe - Tier 0",
+      "id": "roster-heir-atiabe",
+      "handle": "@ati_abe",
+      "name": "Ati Abe",
+      "profileUrl": "https://www.instagram.com/ati_abe/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@ati_abe"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/MHPv7MPC/Screenshot-2026-09-27-at-9-45-57-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://i.ibb.co/7Q7c5r4/atiabe1.jpg"
+        }
+      ],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "Heir Mother @stellsmay - Tier 0",
+      "id": "roster-influencer-1",
+      "handle": "@stellsmay",
+      "name": "Stella-May",
+      "profileUrl": "https://www.instagram.com/stellsmay/?hl=en",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@stellsmay"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/4yNBc3P7/Screenshot-2026-06-30-at-11-56-33-PM.png",
+        "https://i.postimg.cc/L56NPsDq/Screenshot-2026-06-30-at-11-57-12-PM.png"
+      ],
+      "videos": [],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "Heir Mother @zeebabar - Tier 0",
+      "id": "roster-influencer-2",
+      "handle": "@zeebabar",
+      "name": "Zee Babar",
+      "profileUrl": "https://www.instagram.com/zeebabar/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "active",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@zeebabar"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": true,
+        "testStatus": "pending",
+        "riskFlags": [
+          "None"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Potential Mother Agreement, GF Type",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/fbwJLDBD/Screenshot-2026-06-11-at-4-48-21-PM.png",
+        "https://i.postimg.cc/tgXYTp2j/Screenshot-2026-06-11-at-4-48-39-PM.png",
+        "https://i.postimg.cc/tgXYTp2y/Screenshot-2026-06-11-at-4-49-15-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "https://ik.imagekit.io/yubs6cs24/zeebabar_1746556582_3626701731228032901_287549372.mp4",
+          "thumbnail": ""
+        },
+        {
+          "title": "2",
+          "url": "https://ik.imagekit.io/yubs6cs24/zeebabar_1764203003_3774730002391171471_287549372.mp4",
+          "thumbnail": ""
+        }
+      ],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "Heir Mother @elijahspace - Tier 0",
+      "id": "roster-influencer-3",
+      "handle": "@elijahspace",
+      "name": "Elijah Space",
+      "profileUrl": "https://www.instagram.com/elijahspace/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "active",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@elijahspace"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": true,
+        "testStatus": "pending",
+        "riskFlags": [
+          "None"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Potential Mother Agreement, GF Type",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/pLwM6fmR/Screenshot-2026-09-27-at-10-18-04-PM.png",
+        "https://i.postimg.cc/JzfC2Nsm/Screenshot-2026-09-27-at-10-18-28-PM.png"
+      ],
+      "videos": [],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "celebrity @hermusicofficial - Tier 1",
+      "id": "roster-celeb-hermusicofficial",
+      "handle": "@hermusicofficial",
+      "name": "H.E.R.",
+      "profileUrl": "https://www.instagram.com/hermusicofficial/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "one-time"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@hermusicofficial"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "None"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Potential musical collaboration. Grammy-winning artist.",
+      "createdDate": "2026-09-27",
+      "updatedDate": "2026-09-27",
+      "images": [
+        "https://i.postimg.cc/6QfbfnR0/Screenshot-2026-09-27-at-10-22-41-PM.png",
+        "https://i.postimg.cc/hG1Z1Tx0/Screenshot-2026-09-27-at-10-23-15-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "Performance Sample",
+          "url": "https://www.youtube.com/watch?v=BGa4z1LMzao",
+          "thumbnail": "https://i.imgur.com/mJqzbvq.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @jodiewoods - Tier 1",
+      "id": "roster-celeb-jodiewoods",
+      "handle": "@jodiewoods",
+      "name": "Jodie Woods",
+      "profileUrl": "https://www.instagram.com/jodiewoods/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jodiewoods"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/5kthuq.jpg",
+        "https://files.catbox.moe/bqlvhq.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/bqlvhq.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @stunnasandy - Tier 1",
+      "id": "roster-celeb-stunnasandy",
+      "handle": "@stunnasandy",
+      "name": "Stunna Sandy",
+      "profileUrl": "https://www.instagram.com/stunnasandy/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@stunnasandy"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/rvpnpy.jpg",
+        "https://files.catbox.moe/7f7wpe.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/7f7wpe.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @ash.kaashh - Tier 1",
+      "id": "roster-celeb-ashkaashh",
+      "handle": "@ash.kaashh",
+      "name": "Ashaley",
+      "profileUrl": "https://www.instagram.com/ash.kaashh/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@ash.kaashh"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/4acyf6.jpg",
+        "https://files.catbox.moe/mzk4vk.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/mzk4vk.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @jadennewman1 - Tier 1",
+      "id": "roster-celeb-jadennewman1",
+      "handle": "@jadennewman1",
+      "name": "Jaden",
+      "profileUrl": "https://www.instagram.com/jadennewman1/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jadennewman1"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/uky46o.jpg",
+        "https://files.catbox.moe/93p4n4.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/93p4n4.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @tianamusarra - Tier 1",
+      "id": "roster-celeb-tianamusarra",
+      "handle": "@tianamusarra",
+      "name": "Tiana Musarra",
+      "profileUrl": "https://www.instagram.com/tianamusarra/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tianamusarra"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/zrp3qj.jpg",
+        "https://files.catbox.moe/l4jvj6.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/l4jvj6.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @willowryder69 - Tier 1",
+      "id": "roster-celeb-willowryder69",
+      "handle": "@willowryder69",
+      "name": "Willow Ryder",
+      "profileUrl": "https://www.instagram.com/willowryder69/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@willowryder69"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": true,
+        "testStatus": "passed",
+        "riskFlags": [
+          "Risk Flag 0"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/xTCxGwpc/Screenshot-2026-09-27-at-9-00-44-PM.png",
+        "https://i.postimg.cc/SNsTLB1j/Screenshot-2026-09-27-at-9-01-02-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/89cpwd.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @mayamaniaxo - Tier 1",
+      "id": "roster-celebrity-maya",
+      "handle": "@mayamaniaxo",
+      "name": "Adriana Maya",
+      "profileUrl": "https://www.instagram.com/mayamaniaxo/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@mayamaniaxo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/cngcod.jpg",
+        "https://files.catbox.moe/r4vgng.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/r4vgng.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @tyla - Tier 1",
+      "id": "roster-celeb-tyla",
+      "handle": "@tyla",
+      "name": "Tyla",
+      "profileUrl": "https://www.instagram.com/tyla/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tyla"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/XJcQqtSq/Screenshot-2026-09-29-at-7-53-47-PM.png",
+        "https://i.postimg.cc/Pxz2J0s5/Screenshot-2026-09-29-at-7-54-09-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @ayushiyoga_india - Tier 2",
+      "id": "roster-model-ayushiyoga_india",
+      "handle": "@ayushiyoga_india",
+      "name": "Ayushi Yoga India",
+      "profileUrl": "https://www.instagram.com/ayushiyoga_india/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@ayushiyoga_india"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/nr41ntkY/Screenshot-2026-09-27-at-10-29-53-PM.png",
+        "https://i.postimg.cc/Rh7TvzR1/Screenshot-2026-09-27-at-10-30-56-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://i.postimg.cc/nr41ntkY/Screenshot-2026-09-27-at-10-29-53-PM.png"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @naudiaadonald - Tier 2",
+      "id": "roster-model-naudiaadonald",
+      "handle": "@naudiaadonald",
+      "name": "Naudia Donald",
+      "profileUrl": "https://www.instagram.com/naudiaadonald/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@naudiaadonald"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/ds9ww9.jpg",
+        "https://files.catbox.moe/g7d1zv.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/g7d1zv.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @preciouscondeza - Tier 2",
+      "id": "roster-model-preciouscondeza",
+      "handle": "@preciouscondeza",
+      "name": "Precious Condeza",
+      "profileUrl": "https://www.instagram.com/preciouscondeza/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@preciouscondeza"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/1on3va.jpg",
+        "https://files.catbox.moe/kztpij.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/kztpij.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @gracehendersxn - Tier 2",
+      "id": "roster-model-gracehendersxn",
+      "handle": "@gracehendersxn",
+      "name": "Grace Henderson",
+      "profileUrl": "https://www.instagram.com/gracehendersxn/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@gracehendersxn"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/fpm728.jpg",
+        "https://files.catbox.moe/uqguyl.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/uqguyl.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @hannaxcxx - Tier 2",
+      "id": "roster-model-hannaxcxx",
+      "handle": "@hannaxcxx",
+      "name": "Hanna",
+      "profileUrl": "https://www.instagram.com/hannaxcxx/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@hannaxcxx"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/3a5ty3.jpg",
+        "https://files.catbox.moe/0jgh56.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/0jgh56.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @jadariddle_ - Tier 2",
+      "id": "roster-model-jadariddle",
+      "handle": "@jadariddle_",
+      "name": "Jada Riddle",
+      "profileUrl": "https://www.instagram.com/jadariddle_/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jadariddle_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/toj6kz.jpg",
+        "https://files.catbox.moe/tb1l4b.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/tb1l4b.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @clarascatarina - Tier 2",
+      "id": "roster-model-clarascatarina",
+      "handle": "@clarascatarina",
+      "name": "Clara Catarina",
+      "profileUrl": "https://www.instagram.com/clarascatarina/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@clarascatarina"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/e57m16.jpg",
+        "https://files.catbox.moe/mxfh6l.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/mxfh6l.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @theryleyrainexo - Tier 2",
+      "id": "roster-model-theryleyrainexo",
+      "handle": "@theryleyrainexo",
+      "name": "Ryley Haiden Raine",
+      "profileUrl": "https://www.instagram.com/theryleyrainexo/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@theryleyrainexo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/iuwgwr.jpg",
+        "https://files.catbox.moe/l4mqzx.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/l4mqzx.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @irenebenitoo - Tier 2",
+      "id": "roster-model-irene",
+      "handle": "@irenebenitoo",
+      "name": "Irene Benito",
+      "profileUrl": "https://www.instagram.com/irenebenitoo/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@irenebenitoo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/cmbuin.jpg",
+        "https://files.catbox.moe/bv6pgv.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/bv6pgv.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @itsasiaduhhh - Tier 2",
+      "id": "roster-model-itsasiaduhhh",
+      "handle": "@itsasiaduhhh",
+      "name": "Asia Alexander",
+      "profileUrl": "https://www.instagram.com/itsasiaduhhh/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@itsasiaduhhh"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/5f0qkt.jpg",
+        "https://files.catbox.moe/u4qpru.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/u4qpru.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @rawanobeiid - Tier 2",
+      "id": "roster-model-rawanobeiid",
+      "handle": "@rawanobeiid",
+      "name": "Rawan",
+      "profileUrl": "https://www.instagram.com/rawanobeiid/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@rawanobeiid"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/9okh4v.jpg",
+        "https://files.catbox.moe/86kw9l.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/86kw9l.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @nass.kazz - Tier 2",
+      "id": "roster-model-nasskazz",
+      "handle": "@nass.kazz",
+      "name": "Nasrin K.",
+      "profileUrl": "https://www.instagram.com/nass.kazz/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@nass.kazz"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/h4a851.jpg",
+        "https://files.catbox.moe/mshzqf.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/mshzqf.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @ms.alyssajoy - Tier 2",
+      "id": "roster-model-msalyssajoy",
+      "handle": "@ms.alyssajoy",
+      "name": "Alyssa Joy",
+      "profileUrl": "https://www.instagram.com/ms.alyssajoy/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@ms.alyssajoy"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/Gt0MctxL/Screenshot-2026-09-27-at-9-38-57-PM.png",
+        "https://i.postimg.cc/Gt0MctxL/Screenshot-2026-09-27-at-9-38-57-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/yqcps9.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @_leksasi_ - Tier 2",
+      "id": "roster-model-leksasi",
+      "handle": "@_leksasi_",
+      "name": "Leksasi",
+      "profileUrl": "https://www.instagram.com/_leksasi_/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_leksasi_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/5NXBV9LF/Screenshot-2026-09-29-at-2-23-36-PM.png",
+        "https://i.postimg.cc/L6Jtp4Lq/Screenshot-2026-09-29-at-2-23-56-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @evelynn_fell - Tier 2",
+      "id": "roster-model-evelynnfell",
+      "handle": "@evelynn_fell",
+      "name": "Evelynn Fell",
+      "profileUrl": "https://www.instagram.com/evelynn_fell/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@evelynn_fell"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/qBzQGHQ2/Screenshot-2026-09-29-at-2-25-23-PM.png",
+        "https://i.postimg.cc/T2pQcvQm/Screenshot-2026-09-29-at-2-26-45-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @laveroo_01 - Tier 2",
+      "id": "roster-model-laveroo01",
+      "handle": "@laveroo_01",
+      "name": "Laveroo",
+      "profileUrl": "https://www.instagram.com/laveroo_01/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@laveroo_01"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/MZVfwsGp/Screenshot-2026-09-29-at-2-31-49-PM.png",
+        "https://i.postimg.cc/v8fxyPmY/Screenshot-2026-09-29-at-2-32-16-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @its.megn - Tier 2",
+      "id": "roster-model-itsmegn",
+      "handle": "@its.megn",
+      "name": "Megn",
+      "profileUrl": "https://www.instagram.com/its.megn/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@its.megn"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/fWcypJ82/Screenshot-2026-09-29-at-2-33-45-PM.png",
+        "https://i.postimg.cc/prJdF69j/Screenshot-2026-09-29-at-2-34-02-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @balialdn - Tier 2",
+      "id": "roster-model-balialdn",
+      "handle": "@balialdn",
+      "name": "Bali Aldn",
+      "profileUrl": "https://www.instagram.com/balialdn/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@balialdn"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/gJxKK13b/Screenshot-2026-09-29-at-5-41-41-PM.png",
+        "https://i.postimg.cc/Kz155CtS/Screenshot-2026-09-29-at-5-42-12-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @_saripsa - Tier 3",
+      "id": "roster-prospect-saripsa",
+      "handle": "@_saripsa",
+      "name": "Saripsa",
+      "profileUrl": "https://www.instagram.com/_saripsa/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_saripsa"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/XYz9SJWy/Screenshot-2026-09-27-at-10-34-20-PM.png",
+        "https://i.postimg.cc/pL6KbTvj/Screenshot-2026-09-27-at-10-34-37-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://i.postimg.cc/XYz9SJWy/Screenshot-2026-09-27-at-10-34-20-PM.png"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @brianyyxx - Tier 3",
+      "id": "roster-prospect-brianyyxx",
+      "handle": "@brianyyxx",
+      "name": "Briany",
+      "profileUrl": "https://www.instagram.com/brianyyxx/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@brianyyxx"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/mno1fw.jpg",
+        "https://files.catbox.moe/dwvtz3.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/dwvtz3.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @daniaviktoria - Tier 3",
+      "id": "roster-prospect-daniaviktoria",
+      "handle": "@daniaviktoria",
+      "name": "Dania",
+      "profileUrl": "https://www.instagram.com/daniaviktoria/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@daniaviktoria"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/m9wk5i.jpg",
+        "https://files.catbox.moe/ibqdl1.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/ibqdl1.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @cdixonstarr - Tier 3",
+      "id": "roster-prospect-cdixonstarr",
+      "handle": "@cdixonstarr",
+      "name": "Charlise Dixon-Starr",
+      "profileUrl": "https://www.instagram.com/cdixonstarr/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@cdixonstarr"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/8sijhi.jpg",
+        "https://files.catbox.moe/e8a3qd.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/e8a3qd.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @janelle.montalvo - Tier 3",
+      "id": "roster-prospect-janellemontalvo",
+      "handle": "@janelle.montalvo",
+      "name": "Janelle M.",
+      "profileUrl": "https://www.instagram.com/janelle.montalvo/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@janelle.montalvo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/fn0e87.jpg",
+        "https://files.catbox.moe/mqcfo5.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/mqcfo5.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @inso.bad - Tier 3",
+      "id": "roster-prospect-insobad",
+      "handle": "@inso.bad",
+      "name": "Inso",
+      "profileUrl": "https://www.instagram.com/inso.bad/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@inso.bad"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/cxztd9.jpg",
+        "https://files.catbox.moe/iuay23.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/iuay23.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @judithailu - Tier 3",
+      "id": "roster-prospect-judithailu",
+      "handle": "@judithailu",
+      "name": "Judith Ailu",
+      "profileUrl": "https://www.instagram.com/judithailu/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@judithailu"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/u8nkht.jpg",
+        "https://files.catbox.moe/1i47fw.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/1i47fw.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @lovemylvb - Tier 3",
+      "id": "roster-prospect-lovemylvb",
+      "handle": "@lovemylvb",
+      "name": "Love My Lvb",
+      "profileUrl": "https://www.instagram.com/lovemylvb/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@lovemylvb"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://i.postimg.cc/y8TywnGC/Screenshot-2026-09-27-at-9-13-06-PM.png",
+        "https://i.postimg.cc/SxGfwVPF/Screenshot-2026-09-27-at-9-13-17-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/placeholder1.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @azecandyy - Tier 3",
+      "id": "roster-prospect-11",
+      "handle": "@azecandyy",
+      "name": "Azi",
+      "profileUrl": "https://www.instagram.com/azecandyy/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@azecandyy"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/o3fdyc.jpg",
+        "https://files.catbox.moe/7i45fr.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/7i45fr.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @azaleamaritza - Tier 3",
+      "id": "roster-prospect-10",
+      "handle": "@azaleamaritza",
+      "name": "Azalia",
+      "profileUrl": "https://www.instagram.com/azaleamaritza/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@azaleamaritza"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/csiylp.jpg",
+        "https://files.catbox.moe/w36vwo.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/w36vwo.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @emmyvlove - Tier 3",
+      "id": "roster-prospect-9",
+      "handle": "@emmyvlove",
+      "name": "Emily",
+      "profileUrl": "https://www.instagram.com/emmyvlove/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@emmyvlove"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/0sbjx1.jpg",
+        "https://files.catbox.moe/2pgeue.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/2pgeue.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @walentynaaaaa - Tier 3",
+      "id": "roster-prospect-8",
+      "handle": "@walentynaaaaa",
+      "name": "Walentyna",
+      "profileUrl": "https://www.instagram.com/walentynaaaaa/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@walentynaaaaa"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/0gpiug.jpg",
+        "https://files.catbox.moe/i4r50x.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/i4r50x.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @liyadebebe - Tier 3",
+      "id": "roster-prospect-7",
+      "handle": "@liyadebebe",
+      "name": "Liya Debebe",
+      "profileUrl": "https://www.instagram.com/liyadebebe/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@liyadebebe"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-26",
+      "updatedDate": "2026-09-26",
+      "images": [
+        "https://files.catbox.moe/pxmtbu.jpg",
+        "https://files.catbox.moe/w04od0.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/w04od0.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @reneice - Tier 3",
+      "id": "roster-prospect-6",
+      "handle": "@reneice",
+      "name": "Reneice",
+      "profileUrl": "https://www.instagram.com/reneice/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@reneice"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-25",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://files.catbox.moe/mt5k9z.jpg",
+        "https://files.catbox.moe/6oj7xe.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/6oj7xe.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @jass_dhingra - Tier 3",
+      "id": "roster-prospect-5",
+      "handle": "@jass_dhingra",
+      "name": "Jaspreet Dhingra",
+      "profileUrl": "https://www.instagram.com/jass_dhingra/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jass_dhingra"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-25",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://files.catbox.moe/e6n3j6.jpg",
+        "https://files.catbox.moe/wlwirw.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/wlwirw.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Heir Mother @moonbabynat - Tier 0",
+      "id": "roster-heir-moonbabynat",
+      "handle": "@moonbabynat",
+      "name": "Natty",
+      "profileUrl": "https://www.instagram.com/moonbabynat/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@moonbabynat"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Med Student | DJ | Sierra Leonean x Middle Eastern",
+      "createdDate": "2026-09-25",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/xhxv4c.jpg",
+        "https://files.catbox.moe/qpsrg5.jpg",
+        "https://files.catbox.moe/t0umpp.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/xhxv4c.jpg"
+        }
+      ],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "Prospect @mikaltekllab - Tier 3",
+      "id": "roster-prospect-3",
+      "handle": "@mikaltekllab",
+      "name": "Mikal Tekllab",
+      "profileUrl": "https://www.instagram.com/mikaltekllab/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@mikaltekllab"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-25",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://files.catbox.moe/7l3ci2.jpg",
+        "https://files.catbox.moe/g6hplm.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/g6hplm.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @b.ethanya - Tier 3",
+      "id": "roster-prospect-0",
+      "handle": "@b.ethanya",
+      "name": "Bethanya",
+      "profileUrl": "https://www.instagram.com/b.ethanya/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@b.ethanya"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-25",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://files.catbox.moe/34kkks.jpg",
+        "https://files.catbox.moe/57j3z9.jpg"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://files.catbox.moe/57j3z9.jpg"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @luna.amaree - Tier 3",
+      "id": "roster-exclusive-1",
+      "handle": "@luna.amaree",
+      "name": "Luna Aree",
+      "profileUrl": "https://www.instagram.com/luna.amaree/?hl=en",
+      "tier": 3,
+      "category": "prospect",
+      "status": "active",
+      "budget": {
+        "amount": 10000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@luna.amaree"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "passed",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": true
+      },
+      "notes": "Long-term exclusive arrangement",
+      "createdDate": "2026-06-11",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/1XRdsBNp/Screenshot-2026-06-30-at-11-14-09-PM.png",
+        "https://i.postimg.cc/BbZz4p12/Screenshot-2026-06-30-at-11-14-18-PM.png",
+        "https://i.postimg.cc/nrVWp2QK/Screenshot-2026-06-30-at-11-14-42-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Heir Mother @tselotie.reda - Tier 0",
+      "id": "roster-exclusive-3",
+      "handle": "@tselotie.reda",
+      "name": "Tselotie Reda",
+      "profileUrl": "https://www.instagram.com/tselotie.reda/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "active",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tselotie.reda"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "passed",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": true
+      },
+      "notes": "Potential Mother Agreement, GF Type. Instagram bio: ethiopian @unccharlotte",
+      "createdDate": "2026-06-11",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://i.postimg.cc/4dMdgKyG/Screenshot-2026-07-21-at-6-00-09-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "https://ik.imagekit.io/bryson/Roster/Screen%20Recording%202026-07-21%20at%206.01.21%E2%80%AFPM.mov",
+          "thumbnail": "https://i.postimg.cc/4dMdgKyG/Screenshot-2026-07-21-at-6-00-09-PM.png"
+        }
+      ],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "Prospect @tiamaarie - Tier 3",
+      "id": "roster-rotational-3",
+      "handle": "@tiamaarie",
+      "name": "Tiamaarie",
+      "profileUrl": "https://www.instagram.com/tiamaarie",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/qMCCL3Rm/Screenshot-2026-07-01-at-12-56-54-AM.png",
+        "https://i.postimg.cc/c488mnHF/Screenshot-2026-07-01-at-12-58-18-AM.png",
+        "https://i.postimg.cc/Nfrr4HMb/Screenshot-2026-07-01-at-12-56-04-AM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @_eshaana_ - Tier 3",
+      "id": "roster-rotational-1",
+      "handle": "@_eshaana_",
+      "name": "Eshaana",
+      "profileUrl": "https://www.instagram.com/_eshaana_/?hl=en",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_eshaana_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/zGLGqSnt/Screenshot-2026-06-30-at-11-27-12-PM.png",
+        "https://i.postimg.cc/y8J87XFv/Screenshot-2026-06-30-at-11-26-17-PM.png",
+        "https://i.postimg.cc/bwGwqHQL/Screenshot-2026-06-30-at-11-26-34-PM.png",
+        "https://i.postimg.cc/bwGwqHQL/Screenshot-2026-06-30-at-11-26-34-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @_maryyyy_007 - Tier 3",
+      "id": "roster-rotational-2",
+      "handle": "@_maryyyy_007",
+      "name": "Mary",
+      "profileUrl": "https://www.instagram.com/_maryyyy_007/?g=5",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_maryyyy_007"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/KcDK69Fk/Screenshot-2026-06-11-at-5-43-52-PM.png",
+        "https://i.postimg.cc/sf4BknyM/Screenshot-2026-06-11-at-5-44-18-PM.png",
+        "https://i.postimg.cc/xj3kwsYq/Screenshot-2026-06-11-at-5-44-56-PM.png",
+        "https://i.postimg.cc/BZB8rhsQ/Screenshot-2026-06-11-at-5-45-13-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "https://ik.imagekit.io/bryson/Roster/Screen%20Recording%202026-06-11%20at%205.45.41%E2%80%AFPM.mov",
+          "thumbnail": "https://i.postimg.cc/xj3kwsYq/Screenshot-2026-06-11-at-5-44-56-PM.png"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @kayecatubay - Tier 3",
+      "id": "roster-prospect-1",
+      "handle": "@kayecatubay",
+      "name": "kayecatubay",
+      "profileUrl": "https://www.instagram.com/kayecatubay/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "active",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@kayebabyyyy"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "passed",
+        "riskFlags": [
+          "None"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/j2XJv2gV/Screenshot-2026-06-11-at-5-05-02-PM.png",
+        "https://i.postimg.cc/j2XJv2g0/Screenshot-2026-06-11-at-5-05-49-PM.png",
+        "https://i.postimg.cc/tJ5VDJrL/Screenshot-2026-06-11-at-5-06-13-PM.png",
+        "https://i.postimg.cc/gjD64jMC/Screenshot-2026-06-11-at-5-08-26-PM.png"
+      ],
+      "videos": [
+        {
+          "title": "1",
+          "url": "",
+          "thumbnail": "https://i.postimg.cc/j2XJv2g0/Screenshot-2026-06-11-at-5-05-49-PM.png"
+        }
+      ],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Prospect @tarra_hughes_ - Tier 3",
+      "id": "roster-prospect-2",
+      "handle": "@tarra_hughes_",
+      "name": "Tarra Hughes",
+      "profileUrl": "https://www.instagram.com/tarra_hughes_/?hl=en",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tarra_hughes_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2024-12-19",
+      "updatedDate": "2026-09-25",
+      "images": [
+        "https://i.postimg.cc/vHh0G5Q0/Screenshot-2026-06-30-at-11-38-29-PM.png",
+        "https://i.postimg.cc/sDmT35Vn/Screenshot-2026-06-30-at-11-38-12-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @thareal.veee - Tier 3",
+      "id": "roster-prospect-tharealveee",
+      "handle": "@thareal.veee",
+      "name": "Vee",
+      "profileUrl": "https://www.instagram.com/thareal.veee/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@thareal.veee"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/wMj4QK1w/Screenshot-2026-09-29-at-1-13-36-PM.png",
+        "https://i.postimg.cc/6qpbfs8Y/Screenshot-2026-09-29-at-1-13-51-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @lovenkaii - Tier 3",
+      "id": "roster-prospect-lovenkaii",
+      "handle": "@lovenkaii",
+      "name": "Lovenkaii",
+      "profileUrl": "https://www.instagram.com/lovenkaii/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@lovenkaii"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/8P6WjK54/Screenshot-2026-09-29-at-1-47-14-PM.png",
+        "https://i.postimg.cc/ncD7CRzq/Screenshot-2026-09-29-at-1-47-47-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @yordanos_b - Tier 3",
+      "id": "roster-prospect-yordanos_b",
+      "handle": "@yordanos_b",
+      "name": "Yordanos",
+      "profileUrl": "https://www.instagram.com/yordanos_b/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@yordanos_b"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/FFZFG06v/Screenshot-2026-09-29-at-1-51-16-PM.png",
+        "https://i.postimg.cc/05f5Z7BL/Screenshot-2026-09-29-at-1-54-25-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @harolynxo - Tier 3",
+      "id": "roster-prospect-harolynxo",
+      "handle": "@harolynxo",
+      "name": "Harolyn",
+      "profileUrl": "https://www.instagram.com/harolynxo/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@harolynxo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/SKJV1LVp/Screenshot-2026-09-29-at-2-03-39-PM.png",
+        "https://i.postimg.cc/nLg2ysSS/Screenshot-2026-09-29-at-2-04-26-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @sularls - Tier 3",
+      "id": "roster-prospect-sularls",
+      "handle": "@sularls",
+      "name": "Sularls",
+      "profileUrl": "https://www.instagram.com/sularls/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@sularls"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/nh7h4Nb4/Screenshot-2026-09-29-at-2-09-26-PM.png",
+        "https://i.postimg.cc/K8L8PCSN/Screenshot-2026-09-29-at-2-09-45-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @milena.enes - Tier 3",
+      "id": "roster-prospect-milenaenes",
+      "handle": "@milena.enes",
+      "name": "Milena Enes",
+      "profileUrl": "https://www.instagram.com/milena.enes/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@milena.enes"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/QdnvMdnR/Screenshot-2026-09-29-at-2-16-46-PM.png",
+        "https://i.postimg.cc/JzdShz2W/Screenshot-2026-09-29-at-2-17-21-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @wintanna_dawitt - Tier 3",
+      "id": "roster-prospect-wintannadawitt",
+      "handle": "@wintanna_dawitt",
+      "name": "Wintanna Dawitt",
+      "profileUrl": "https://www.instagram.com/wintanna_dawitt/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@wintanna_dawitt"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-09-29",
+      "updatedDate": "2026-09-29",
+      "images": [
+        "https://i.postimg.cc/7ZpXcGWW/Screenshot-2026-09-29-at-2-20-06-PM.png",
+        "https://i.postimg.cc/rwvgb0PZ/Screenshot-2026-09-29-at-2-20-13-PM.png"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @alwabakahla_ - Tier 2",
+      "id": "roster-model-alwabakahla_",
+      "handle": "@alwabakahla_",
+      "name": "Alwaba Ufefe Andy Kahla",
+      "profileUrl": "https://www.instagram.com/alwabakahla_/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@alwabakahla_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: South Africa; mamnunedoyi19@gmail.com",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/1iu3a9.jpg",
+        "https://files.catbox.moe/0jm3dv.jpg",
+        "https://files.catbox.moe/3g36aj.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Heir Mother @jessie_mae03 - Tier 0",
+      "id": "roster-heir-jessie_mae03",
+      "handle": "@jessie_mae03",
+      "name": "Jessie Mae",
+      "profileUrl": "https://www.instagram.com/jessie_mae03/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jessie_mae03"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: oh hello, i'm back",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/kam1cq.jpg",
+        "https://files.catbox.moe/4a6tbl.jpg",
+        "https://files.catbox.moe/7yxw9e.jpg"
+      ],
+      "videos": [],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "model @tinlicious - Tier 2",
+      "id": "roster-model-tinlicious",
+      "handle": "@tinlicious",
+      "name": "Tinlicious",
+      "profileUrl": "https://www.instagram.com/tinlicious/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tinlicious"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/tcayvo.jpg",
+        "https://files.catbox.moe/65xd86.jpg",
+        "https://files.catbox.moe/3yvwrn.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @krysdawne - Tier 2",
+      "id": "roster-model-krysdawne",
+      "handle": "@krysdawne",
+      "name": "Krystina",
+      "profileUrl": "https://www.instagram.com/krysdawne/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@krysdawne"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/e32ddk.jpg",
+        "https://files.catbox.moe/q36q6a.jpg",
+        "https://files.catbox.moe/e426o0.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @esmadlklcv - Tier 3",
+      "id": "roster-prospect-esmadlklcv",
+      "handle": "@esmadlklcv",
+      "name": "Esmadlklcv",
+      "profileUrl": "https://www.instagram.com/esmadlklcv/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@esmadlklcv"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/txzb1w.jpg",
+        "https://files.catbox.moe/law79w.jpg",
+        "https://files.catbox.moe/3itt30.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @sarah_yengue - Tier 3",
+      "id": "roster-prospect-sarah_yengue",
+      "handle": "@sarah_yengue",
+      "name": "Sarah Yengue",
+      "profileUrl": "https://www.instagram.com/sarah_yengue/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@sarah_yengue"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/4ultgi.jpg",
+        "https://files.catbox.moe/ytge4y.jpg",
+        "https://files.catbox.moe/7g9vjs.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @jamelarenee.c - Tier 3",
+      "id": "roster-prospect-jamelarenee_c",
+      "handle": "@jamelarenee.c",
+      "name": "Jamela-Renee",
+      "profileUrl": "https://www.instagram.com/jamelarenee.c/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jamelarenee.c"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Civil Engineer | Model | Content Creator | PT. Enquiries: jamelarenee.biz@gmail.com",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/8kzj1q.jpg",
+        "https://files.catbox.moe/9yn5eq.jpg",
+        "https://files.catbox.moe/xx69n8.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @jordynlucas_ - Tier 1",
+      "id": "roster-celeb-jordynlucas",
+      "handle": "@jordynlucas_",
+      "name": "Jordyn Lucas",
+      "profileUrl": "https://www.instagram.com/jordynlucas_/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@jordynlucas_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/1dopub.jpg",
+        "https://files.catbox.moe/dqe6l8.jpg",
+        "https://files.catbox.moe/nxyehe.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @_mulaan - Tier 2",
+      "id": "roster-model-mulaan",
+      "handle": "@_mulaan",
+      "name": "Dynasty Grace",
+      "profileUrl": "https://www.instagram.com/_mulaan/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_mulaan"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Digital creator | Psalms 23 | CA",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/aua49m.jpg",
+        "https://files.catbox.moe/44ium0.jpg",
+        "https://files.catbox.moe/1pfh3t.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Heir Mother @truu_beautydash - Tier 0",
+      "id": "roster-heir-truu_beautydash",
+      "handle": "@truu_beautydash",
+      "name": "Truu Beauty",
+      "profileUrl": "https://www.instagram.com/truu_beautydash/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@truu_beautydash"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Lash Tech",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/bku1ab.jpg",
+        "https://files.catbox.moe/wu1c52.jpg",
+        "https://files.catbox.moe/oq6yun.jpg"
+      ],
+      "videos": [],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "celebrity @pinkpantheress - Tier 1",
+      "id": "roster-celeb-pinkpantheress",
+      "handle": "@pinkpantheress",
+      "name": "PinkPantheress",
+      "profileUrl": "https://www.instagram.com/pinkpantheress/",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@pinkpantheress"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/3n5v68.jpg",
+        "https://files.catbox.moe/2m3tj4.jpg",
+        "https://files.catbox.moe/a7rz75.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @_sydneybarros - Tier 2",
+      "id": "roster-model-sydneybarros",
+      "handle": "@_sydneybarros",
+      "name": "Sydney Barros",
+      "profileUrl": "https://www.instagram.com/_sydneybarros/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_sydneybarros"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: 3x USA national team member | UCLA gymnastics",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/lfjsyk.jpg",
+        "https://files.catbox.moe/3q484y.jpg",
+        "https://files.catbox.moe/cr3wox.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @laloucha_21 - Tier 3",
+      "id": "roster-prospect-laloucha_21",
+      "handle": "@laloucha_21",
+      "name": "Lily",
+      "profileUrl": "https://www.instagram.com/laloucha_21/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@laloucha_21"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/e626vf.jpg",
+        "https://files.catbox.moe/tzj0t8.jpg",
+        "https://files.catbox.moe/iwqqaq.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @zafitody_richna - Tier 3",
+      "id": "roster-prospect-zafitody_richna",
+      "handle": "@zafitody_richna",
+      "name": "Layaune Ticha",
+      "profileUrl": "https://www.instagram.com/zafitody_richna/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@zafitody_richna"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/w7cfyv.jpg",
+        "https://files.catbox.moe/8ne1l7.jpg",
+        "https://files.catbox.moe/u26thg.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @___nethmi_liyanage_ - Tier 2",
+      "id": "roster-model-nethmi_liyanage",
+      "handle": "@___nethmi_liyanage_",
+      "name": "Nethmi Liyanage",
+      "profileUrl": "https://www.instagram.com/___nethmi_liyanage_/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@___nethmi_liyanage_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Fashion Designer | Designer | Model | Entrepreneur | Influencer",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/nedybq.jpg",
+        "https://files.catbox.moe/hifvlz.jpg",
+        "https://files.catbox.moe/b2ltyq.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @vinoschh - Tier 2",
+      "id": "roster-model-vinoschh",
+      "handle": "@vinoschh",
+      "name": "Vinoschh",
+      "profileUrl": "https://www.instagram.com/vinoschh/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@vinoschh"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: tt / vinoschh",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/4v4ux0.jpg",
+        "https://files.catbox.moe/2ampb0.jpg",
+        "https://files.catbox.moe/q91u54.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @almirra.az - Tier 2",
+      "id": "roster-model-almirra_az",
+      "handle": "@almirra.az",
+      "name": "Almira Azemi",
+      "profileUrl": "https://www.instagram.com/almirra.az/",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@almirra.az"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/zp917e.jpg",
+        "https://files.catbox.moe/uoe9a7.jpg",
+        "https://files.catbox.moe/sdz18r.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @g_nairobiii - Tier 3",
+      "id": "roster-prospect-g_nairobiii",
+      "handle": "@g_nairobiii",
+      "name": "Gaya",
+      "profileUrl": "https://www.instagram.com/g_nairobiii/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@g_nairobiii"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Enter Notes Here",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/3avfu7.jpg",
+        "https://files.catbox.moe/w1wi7k.jpg",
+        "https://files.catbox.moe/30gqz6.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @_sweetlamb - Tier 3",
+      "id": "roster-prospect-sweetlamb",
+      "handle": "@_sweetlamb",
+      "name": "Lamé",
+      "profileUrl": "https://www.instagram.com/_sweetlamb/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_sweetlamb"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Motswana living in Lagos | Food, Life, Mind",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/q261sa.jpg",
+        "https://files.catbox.moe/2s7op2.jpg",
+        "https://files.catbox.moe/ekgsdb.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @petra_guljas11 - Tier 3",
+      "id": "roster-prospect-petra_guljas11",
+      "handle": "@petra_guljas11",
+      "name": "Petra Guljaš",
+      "profileUrl": "https://www.instagram.com/petra_guljas11/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@petra_guljas11"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Fitness & lifestyle | MEFOS",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/fl1h0z.jpg",
+        "https://files.catbox.moe/42ysll.jpg",
+        "https://files.catbox.moe/sga4e3.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "Heir Mother @h_rei04 - Tier 0",
+      "id": "roster-heir-h_rei04",
+      "handle": "@h_rei04",
+      "name": "Reina",
+      "profileUrl": "https://www.instagram.com/h_rei04/",
+      "tier": 0,
+      "category": "heir_mother",
+      "status": "evaluating",
+      "budget": {
+        "amount": 50000,
+        "currency": "USD",
+        "frequency": "monthly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@h_rei04"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Japan, Yokosuka",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/6csc9i.jpg",
+        "https://files.catbox.moe/1iul6u.jpg",
+        "https://files.catbox.moe/gounh5.jpg"
+      ],
+      "videos": [],
+      "location": "Dubai Penthouse"
+    },
+    {
+      "_comments:": "prospect @hayleyy.gabriellee - Tier 3",
+      "id": "roster-prospect-hayleyy_gabriellee",
+      "handle": "@hayleyy.gabriellee",
+      "name": "Hayley Gabrielle",
+      "profileUrl": "https://www.instagram.com/hayleyy.gabriellee/?g=5",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@hayleyy.gabriellee"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: UMICH Alumna '24 || B.S. | the beauty of life is found in Christ.",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/qyp4wp.jpg",
+        "https://files.catbox.moe/ritbty.jpg",
+        "https://files.catbox.moe/ggw6up.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @miazbts - Tier 1",
+      "id": "roster-celeb-miazbts",
+      "handle": "@miazbts",
+      "name": "Mia Z",
+      "profileUrl": "https://www.instagram.com/miazbts/?g=5",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@miazbts"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Yes I have one just search miaz1234. Travel/lifestyle creator, ~202K followers.",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/l0i3pq.jpg",
+        "https://files.catbox.moe/k86y9l.jpg",
+        "https://files.catbox.moe/oxcshw.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @niyasharae - Tier 3",
+      "id": "roster-prospect-niyasharae",
+      "handle": "@niyasharae",
+      "name": "Niya Sharae",
+      "profileUrl": "https://www.instagram.com/niyasharae/?g=5",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@niyasharae"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: nyc",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/4htkbs.jpg",
+        "https://files.catbox.moe/a3k2oe.jpg",
+        "https://files.catbox.moe/s6qzzk.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @mylifeasvia - Tier 1",
+      "id": "roster-celeb-mylifeasvia",
+      "handle": "@mylifeasvia",
+      "name": "Via G",
+      "profileUrl": "https://www.instagram.com/mylifeasvia/?g=5",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@mylifeasvia"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Reel creator | Your favorite creators favorite creator. ~703K followers.",
+      "createdDate": "2026-10-10",
+      "updatedDate": "2026-10-10",
+      "images": [
+        "https://files.catbox.moe/gxfj7y.jpg",
+        "https://files.catbox.moe/p6zp4k.jpg",
+        "https://files.catbox.moe/4jgw85.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @LeanaLovings - Tier 1 (X)",
+      "id": "roster-celeb-leanalovings",
+      "handle": "@LeanaLovings",
+      "name": "Leana Lovings",
+      "profileUrl": "https://x.com/LeanaLovings",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@LeanaLovings"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile. Florida. Bookings: OC Modeling.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1953116204647755776/7sW0Ircw_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @ashleyalxander - Tier 1 (X)",
+      "id": "roster-celeb-ashleyalxander",
+      "handle": "@ashleyalxander",
+      "name": "Ashley Alexander",
+      "profileUrl": "https://x.com/ashleyalxander",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@ashleyalxander"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile. OC Modeling.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2085433780886487040/3Pzb0xOW_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @nataliaxstarr - Tier 1 (X)",
+      "id": "roster-celeb-nataliaxstarr",
+      "handle": "@nataliaxstarr",
+      "name": "Natalia Starr",
+      "profileUrl": "https://x.com/nataliaxstarr",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@nataliaxstarr"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile. Los Angeles. Bookings: OC Modeling.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2087952183191052288/_nOgdELj_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @MadisonMorganxo - Tier 1 (X)",
+      "id": "roster-celeb-madisonmorganxo",
+      "handle": "@MadisonMorganxo",
+      "name": "Madison Morgan",
+      "profileUrl": "https://x.com/MadisonMorganxo",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@MadisonMorganxo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile. Las Vegas. OC Modeling.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1794432538766970880/A96licE5_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @GiaOhMy - Tier 1 (X)",
+      "id": "roster-celeb-giaohmy",
+      "handle": "@GiaOhMy",
+      "name": "Gia OhMy",
+      "profileUrl": "https://x.com/GiaOhMy",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@GiaOhMy"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1966503176154042368/MJX_9EPt_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @AubreeVxo - Tier 1 (X)",
+      "id": "roster-celeb-aubreevxo",
+      "handle": "@AubreeVxo",
+      "name": "Aubree Val",
+      "profileUrl": "https://x.com/AubreeVxo",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@AubreeVxo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1827252896892907523/0FzqdY2E_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @erotic_medusa - Tier 1 (X)",
+      "id": "roster-celeb-erotic_medusa",
+      "handle": "@erotic_medusa",
+      "name": "Medusa",
+      "profileUrl": "https://x.com/erotic_medusa",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@erotic_medusa"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2030181448255483904/fVJj8_LH_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @DallasReaXO - Tier 1 (X)",
+      "id": "roster-celeb-dallasreaxo",
+      "handle": "@DallasReaXO",
+      "name": "Dallas Rea",
+      "profileUrl": "https://x.com/DallasReaXO",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@DallasReaXO"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2062723089100849152/-iIrZKC4_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @aleksamink - Tier 1 (X)",
+      "id": "roster-celeb-aleksamink",
+      "handle": "@aleksamink",
+      "name": "Aleksa Mink",
+      "profileUrl": "https://x.com/aleksamink",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@aleksamink"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2018447644708794369/uOWvDsju_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @diabellaxo - Tier 1 (X)",
+      "id": "roster-celeb-diabellaxo",
+      "handle": "@diabellaxo",
+      "name": "Diabella Éclair",
+      "profileUrl": "https://x.com/diabellaxo",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@diabellaxo"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1386528143662452737/f8rNNmWI_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @GizelleGia_ - Tier 1 (X)",
+      "id": "roster-celeb-gizellegia_",
+      "handle": "@GizelleGia_",
+      "name": "Gizelle",
+      "profileUrl": "https://x.com/GizelleGia_",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@GizelleGia_"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2082532711030460418/ox1t25v2_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @itsashlynpeaks - Tier 1 (X)",
+      "id": "roster-celeb-itsashlynpeaks",
+      "handle": "@itsashlynpeaks",
+      "name": "Ashlyn Peaks",
+      "profileUrl": "https://x.com/itsashlynpeaks",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@itsashlynpeaks"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2095695257405190144/Q_co6gyS_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @lioravan3 - Tier 1 (X)",
+      "id": "roster-celeb-lioravan3",
+      "handle": "@lioravan3",
+      "name": "Liora Vane",
+      "profileUrl": "https://x.com/lioravan3",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@lioravan3"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1996254367708483584/qanIeg0c_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @AndieTexasPeach - Tier 1 (X)",
+      "id": "roster-celeb-andietexaspeach",
+      "handle": "@AndieTexasPeach",
+      "name": "Andie Anderson",
+      "profileUrl": "https://x.com/AndieTexasPeach",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@AndieTexasPeach"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1843907227804905472/bQ_M9tkR_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @MellanieMonroe7 - Tier 1 (X)",
+      "id": "roster-celeb-mellaniemonroe7",
+      "handle": "@MellanieMonroe7",
+      "name": "Mellanie Monroe",
+      "profileUrl": "https://x.com/MellanieMonroe7",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@MellanieMonroe7"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2061665339235340288/JMqTokjO_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @oopsimmhot - Tier 1 (X)",
+      "id": "roster-celeb-oopsimmhot",
+      "handle": "@oopsimmhot",
+      "name": "Irene",
+      "profileUrl": "https://x.com/oopsimmhot",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@oopsimmhot"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2046627500701204480/0tSvpKdL_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @celesteslvt - Tier 2 (X)",
+      "id": "roster-model-celesteslvt",
+      "handle": "@celesteslvt",
+      "name": "Celeste",
+      "profileUrl": "https://x.com/celesteslvt",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@celesteslvt"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/1985811294088224768/6j9o5SJ0_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @lipgglossbunny - Tier 2 (X)",
+      "id": "roster-model-lipgglossbunny",
+      "handle": "@lipgglossbunny",
+      "name": "Malika",
+      "profileUrl": "https://x.com/lipgglossbunny",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@lipgglossbunny"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2062157025216200705/I4cZS8i-_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @tfzxa67932836 - Tier 2 (X)",
+      "id": "roster-model-tfzxa67932836",
+      "handle": "@tfzxa67932836",
+      "name": "Tina",
+      "profileUrl": "https://x.com/tfzxa67932836",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@tfzxa67932836"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2037281255700783104/0iTNk2zs_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @littlemoodclub - Tier 2 (X)",
+      "id": "roster-model-littlemoodclub",
+      "handle": "@littlemoodclub",
+      "name": "Grace",
+      "profileUrl": "https://x.com/littlemoodclub",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@littlemoodclub"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2097311955979800576/bsVinOSo_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @nalgona881 - Tier 2 (X)",
+      "id": "roster-model-nalgona881",
+      "handle": "@nalgona881",
+      "name": "Morena Nalgona",
+      "profileUrl": "https://x.com/nalgona881",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@nalgona881"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2049602741090336768/N0Tjd2Wr_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @boobsjill - Tier 2 (X)",
+      "id": "roster-model-boobsjill",
+      "handle": "@boobsjill",
+      "name": "Jill",
+      "profileUrl": "https://x.com/boobsjill",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@boobsjill"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-12",
+      "updatedDate": "2026-10-12",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2108869526402002944/M72PBSPv_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "model @xxxangelsd - Tier 2 (X)",
+      "id": "roster-model-xxxangelsd",
+      "handle": "@xxxangelsd",
+      "name": "Amaya",
+      "profileUrl": "https://x.com/xxxangelsd",
+      "tier": 2,
+      "category": "model",
+      "status": "evaluating",
+      "budget": {
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@xxxangelsd"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "X profile.",
+      "createdDate": "2026-10-12",
+      "updatedDate": "2026-10-12",
+      "images": [
+        "https://pbs.twimg.com/profile_images/2084969894462844928/DaMYS4L9_400x400.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "prospect @_barsharanabhat - Tier 3",
+      "id": "roster-prospect-barsharanabhat",
+      "handle": "@_barsharanabhat",
+      "name": "Barsha Ranabhat",
+      "profileUrl": "https://www.instagram.com/_barsharanabhat/",
+      "tier": 3,
+      "category": "prospect",
+      "status": "evaluating",
+      "budget": {
+        "amount": 8000,
+        "currency": "USD",
+        "frequency": "weekly"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@_barsharanabhat"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Instagram bio: Never bow your head always hold it high. Har har mahadev.",
+      "createdDate": "2026-10-12",
+      "updatedDate": "2026-10-12",
+      "images": [
+        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/839064787_17974049823151749_857528680893207082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ljupxic1YMQQ7kNvwHpbgYw&_nc_oc=AdpSomFIYtKzmsp4ClTH-lr9SjiDZ3DEmTuDQZ8RoXrFXxruHk1QNN0VCauZnBoeZBM&_nc_zt=24&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=4QybMMsVkN4CN-B8qj0pHA&_nc_ss=7b689&oh=00_AQNGuOH3QN4tZRVypcbCUulgzjEeNOn7IkvxG9KlQhyv2A&oe=6AD22157",
+        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/730049293_17958330321151749_919683540287470588_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=5ENYJHteYu0Q7kNvwE_FA14&_nc_oc=Adorh-OxSikwXpMdRuHbiZcyM5dSxPWzL7WJPsEga97cQDoGUV7GG5qVK1aEcDDa-1U&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=B0Bm2IYRMQqbY9zXNXIqCg&_nc_ss=7b689&oh=00_AQMMjNVgDxENJN9FZlFiNPzgsn87nB67Hldqj2ffVKubVg&oe=6AD21B60",
+        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/730266558_17957828739151749_8911041324686695776_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Pl3jPcq5lHsQ7kNvwHwmwZC&_nc_oc=Adq0MQ4q0YUNLJpGncQyyxUpyTBUdZSTVf0cgO0xG42MlkZ0CkxJJJk475jI1UPBd-g&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=B0Bm2IYRMQqbY9zXNXIqCg&_nc_ss=7b689&oh=00_AQMZsGGVWufO8szdFltdZ_63Tex60GdVFCIMD2bEkCMW2g&oe=6AD23973",
+        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/728020772_17957293170151749_7318682776977494969_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=m7GAdOQ4u78Q7kNvwEGLbe5&_nc_oc=AdpOPsbD7-zSxkM9lPLERhZmGXcepZvCYj63DY5vhauLVIs716wcMkdwtjG_wQfwVe8&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=B0Bm2IYRMQqbY9zXNXIqCg&_nc_ss=7b689&oh=00_AQMhkGqXDVcTotedqdNYuFGhYJFkdblHaymI2X4qEk9MAg&oe=6AD22F62",
+        "https://scontent-bos5-1.cdninstagram.com/v/t51.82787-15/724647925_17956374609151749_2877381303115547336_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PG2GVZJcmc8Q7kNvwHI7NTM&_nc_oc=AdpqBA81wEoQNV-igbP1z_w-Bc7UKoVBL01wZm7-YemrMTT4EzG01-sx6KX1endqpTk&_nc_zt=23&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_gid=B0Bm2IYRMQqbY9zXNXIqCg&_nc_ss=7b689&oh=00_AQMwCSQ_2cs7gvzYqgFTZLHKx5QyFeAHzeCm4cCr5yXlkw&oe=6AD223E5"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    },
+    {
+      "_comments:": "celebrity @AlexisTexas - Tier 1",
+      "id": "roster-celeb-alexistexas",
+      "handle": "@AlexisTexas",
+      "name": "Alexis Texas",
+      "profileUrl": "https://en.wikipedia.org/wiki/Alexis_Texas",
+      "tier": 1,
+      "category": "celebrity",
+      "status": "evaluating",
+      "budget": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "PPM"
+      },
+      "contactInfo": {
+        "socialMedia": [
+          "@AlexisTexas"
+        ]
+      },
+      "screening": {
+        "stiTestRequired": false,
+        "testStatus": "pending",
+        "riskFlags": [
+          "Risk Flag 1"
+        ],
+        "ndaSigned": false
+      },
+      "notes": "Adult actress, Tier 1.",
+      "createdDate": "2026-10-11",
+      "updatedDate": "2026-10-11",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/78/Alexis_Texas_2017_%28cropped%29.jpg"
+      ],
+      "videos": [],
+      "location": "Bahamas Island"
+    }
+  ],
+  "stiTestResults": [],
+  "screenings": [],
+  "summary": {
+    "generated": "Derived from rosterMembers; regenerate with the roster summary script or by hand when members change.",
+    "total": 115,
+    "byTier": {
+      "0": 10,
+      "1": 30,
+      "2": 33,
+      "3": 42
+    },
+    "byCategory": {
+      "prospect": 42,
+      "heir_mother": 10,
+      "celebrity": 30,
+      "model": 33
+    },
+    "byStatus": {
+      "evaluating": 110,
+      "active": 5
+    },
+    "stiTestsDue": 0,
+    "ndaExpiring": 0
+  }
+}

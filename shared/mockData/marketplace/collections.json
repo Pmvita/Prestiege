@@ -1,0 +1,153 @@
+{
+  "collections": [
+    {
+      "id": "northern-compounds",
+      "name": "Northern Compounds",
+      "category": "real-estate",
+      "summary": "Primary North American residential holdings — compounds, estates, and museum wings.",
+      "image": "https://i.postimg.cc/MTydt249/mvitacompound.png",
+      "listingIds": [
+        "pierre-compound",
+        "toronto-estate-old-colony",
+        "palm-beach-estate"
+      ],
+      "estimatedValue": {
+        "amount": 220000000,
+        "currency": "USD"
+      },
+      "curator": "Mvita Syndicate HoldCo"
+    },
+    {
+      "id": "coastal-prestige",
+      "name": "Coastal Prestige",
+      "category": "real-estate",
+      "summary": "Waterfront and island residences across Monaco, Dubai, and the Bahamas.",
+      "image": "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/34c6cfd851fd76e141c50e5ba20ab197.webp",
+      "listingIds": [
+        "monaco-ville-prestige",
+        "dubai-estate",
+        "royal-island-bahamas"
+      ],
+      "estimatedValue": {
+        "amount": 350000000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Estates Desk"
+    },
+    {
+      "id": "executive-aviation",
+      "name": "Executive Aviation",
+      "category": "jets",
+      "summary": "VVIP jets and head-of-state helicopters for transcontinental travel.",
+      "image": "https://i.postimg.cc/1zg4h2bD/Screenshot-2025-11-08-at-4-55-36-PM.png",
+      "listingIds": [
+        "airbus-acj330",
+        "airbus-acj-twotwenty-monaco",
+        "sikorsky-s92-vip",
+        "airbus-ach175"
+      ],
+      "estimatedValue": {
+        "amount": 280000000,
+        "currency": "USD"
+      },
+      "curator": "Mvita Family Aviation"
+    },
+    {
+      "id": "marine-shadow",
+      "name": "Marine Shadow Fleet",
+      "category": "yachts",
+      "summary": "Performance yachts and signature BRABUS marine pieces.",
+      "image": "https://i.postimg.cc/brv9v1fJ/M-Y-AGAPE.png",
+      "listingIds": [
+        "my-agape",
+        "brabus-shadow-1500-xc-pg",
+        "mansory-jetski-j005-1",
+        "mansory-jetski-j005-2",
+        "brabus-ultima-55-bahamas",
+        "brabus-shadow-1500-cross-top-stealth-green",
+        "brabus-shadow-1000-xc-1",
+        "brabus-shadow-1000-xc-2"
+      ],
+      "estimatedValue": {
+        "amount": 180000000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Marine"
+    },
+    {
+      "id": "geneva-horology",
+      "name": "Geneva Horology Reserve",
+      "category": "watches",
+      "summary": "Steel sports icons and full-set provenance from Geneva.",
+      "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=1200&q=80",
+      "listingIds": [
+        "patek-philippe-nautilus-5711"
+      ],
+      "estimatedValue": {
+        "amount": 150000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Watches"
+    },
+    {
+      "id": "maison-exotics",
+      "name": "Maison Exotics",
+      "category": "bags",
+      "summary": "Hermès Himalaya and diamond-hardware rarities.",
+      "image": "https://madisonavenuecouture.com/cdn/shop/files/H-B-241212-9-01_1024x1024.jpg?v=1738834133",
+      "listingIds": [
+        "hermes-birkin-25-himalaya-diamond"
+      ],
+      "estimatedValue": {
+        "amount": 450000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Soft Luxury"
+    },
+    {
+      "id": "atelier-masterworks",
+      "name": "Atelier Masterworks",
+      "category": "art",
+      "summary": "Museum-grade contemporary holdings with expert authentication.",
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200&q=80",
+      "listingIds": [
+        "basquiat-untitled-1981"
+      ],
+      "estimatedValue": {
+        "amount": 110000000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Fine Art"
+    },
+    {
+      "id": "bluewater-yachts",
+      "name": "Bluewater Yachts",
+      "category": "yachts",
+      "summary": "Feadship-class superyachts for Mediterranean seasons.",
+      "image": "https://images.unsplash.com/photo-1567899378494-47b22a2ae96a?w=1200&q=80",
+      "listingIds": [
+        "feadship-101"
+      ],
+      "estimatedValue": {
+        "amount": 250000000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Yachts"
+    },
+    {
+      "id": "circuit-vip",
+      "name": "Circuit VIP",
+      "category": "experiences",
+      "summary": "Paddock-access motorsport packages with yacht accommodation.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80",
+      "listingIds": [
+        "monaco-grand-prix-vip"
+      ],
+      "estimatedValue": {
+        "amount": 150000,
+        "currency": "USD"
+      },
+      "curator": "Prestiege Experiences"
+    }
+  ]
+}

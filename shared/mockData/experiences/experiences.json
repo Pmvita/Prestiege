@@ -1,0 +1,16 @@
+{
+  "experiences": [
+    {
+      "id": "monaco-grand-prix-vip",
+      "name": "Monaco Grand Prix VIP Package",
+      "type": "motorsport",
+      "category": "exclusive-experience",
+      "value": {"amount": 150000, "currency": "USD"},
+      "duration": "5 days",
+      "location": {"country": "MC", "city": "Monaco"},
+      "status": "available",
+      "includes": ["Yacht accommodation", "Paddock access", "Helicopter transfers"],
+      "images": []
+    }
+  ]
+}

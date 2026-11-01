@@ -1,0 +1,63 @@
+[
+    {"name": "Ubert Angel",
+        "id": "give-ubert-angel",
+        "kind": "gift",
+        "amount": 5000000.00,
+        "currency": "USD",
+        "date": "2025-01-01",
+        "description": "Give to Ubert Angel ministries",
+        "status": "approved"
+    },
+    {"name": "Ubert Angel Junior",
+        "id": "give-ubert-angel-junior",
+        "kind": "gift",
+        "amount": 1000000.00,
+        "currency": "USD",
+        "date": "2025-01-01",
+        "description": "Give to Ubert Angel Junior ministries",
+        "status": "approved"
+    },
+    {"name": "Drake",
+        "id": "give-talent-drake-corporate-2025",
+        "kind": "talent",
+        "amount": 2300000.00,
+        "currency": "USD",
+        "date": "2026-09-24",
+        "description": "Private corporate event show-up and live performance in the UAE. Rider, security and production stipulations included; settled via the family-office entertainment budget.",
+        "status": "executed",
+        "country": "United Arab Emirates",
+        "program": "Private corporate appearance & live performance",
+        "linkedProperties": [
+            {"id": "mvita-hq-dubai", "name": "Don-Pierre UAE"},
+            {"id": "dubai-estate", "name": "Dubai Penthouse"}
+        ]
+    },
+    {"name": "Dua Lipa",
+        "id": "give-talent-dua-lipa-yacht-performance",
+        "kind": "talent",
+        "amount": 980000.00,
+        "currency": "USD",
+        "date": "2026-09-24",
+        "description": "Short private set for a Monaco yacht reception. Fee includes the travel party, soundcheck window and exclusivity for the calendar date.",
+        "status": "executed",
+        "country": "Monaco",
+        "program": "Intimate yacht / Monaco reception set",
+        "linkedProperties": [
+            {"id": "monaco-ville-prestige", "name": "Monaco Penthouse"}
+        ]
+    },
+    {"name": "The Weeknd",
+        "id": "give-talent-the-weeknd-afterparty",
+        "kind": "talent",
+        "amount": 1500000.00,
+        "currency": "USD",
+        "date": "2026-09-24",
+        "description": "Short private set aboard the yacht for a Monaco yacht weekend reception. Fee includes the travel party, soundcheck window and exclusivity for the calendar date.",
+        "status": "executed",
+        "country": "Monaco",
+        "program": "Intimate yacht / Monaco weekend set",
+        "linkedProperties": [
+            {"id": "monaco-ville-prestige", "name": "Monaco Penthouse"}
+        ]
+    }
+]

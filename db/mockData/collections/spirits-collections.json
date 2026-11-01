@@ -1,0 +1,56 @@
+{
+  "collections": [
+    {
+      "id": "mvita-fragrance",
+      "name": "Fragrance",
+      "category": "spirits",
+      "summary": "Attire fragrance pulled out of the wardrobe.",
+      "image": "https://cdn.media.amplience.net/i/harryrosen/20152669999?$prp-3col-xl$&fmt=webp",
+      "listingIds": [
+        "attire-20152669999",
+        "attire-20131793999",
+        "attire-20154871999",
+        "attire-20071613075",
+        "attire-20003175",
+        "attire-20139462999",
+        "attire-20138839999",
+        "attire-48",
+        "attire-20150374999",
+        "fragrance-creed-aventus-absolu",
+        "fragrance-tomford-ff",
+        "attire-72",
+        "attire-71-1",
+        "fragrance-ysl-y-edp-m",
+        "fragrance-1",
+        "fragrance-paco-rabanne-1million",
+        "fragrance-ysl-lanuit-edp",
+        "fragrance-2",
+        "fragrance-dolce-gabbana-the-one-edt-m",
+        "fragrance-paco-rabanne-1million-black-50ml",
+        "fragrance-french-avenue-liquid-brun-100ml",
+        "fragrance-clive-christian-town-country-50ml",
+        "fragrance-french-avenue-amber-empire-100ml",
+        "fragrance-montagne-le-bonbon-50ml",
+        "fragrance-montagne-pineapple-royale-50ml",
+        "fragrance-lv-imagination",
+        "fragrance-dg-light-blue-edt-celine",
+        "attire-penhaligons-halfeti-edp",
+        "fragrance-sayles-co-fixation-spray-100ml",
+        "fragrance-sayco-8-baccarat-rouge-inspired-50ml",
+        "fragrance-afnan-9-pm-night-out-100ml",
+        "fragrance-afnan-supremacy-collectors-edition-100ml",
+        "attire-arabiyat-prestige-marwa",
+        "fragrance-1-1",
+        "fragrance-french-avenue-ravine-ice",
+        "fragrance-french-avenue-vulcan-feu-100ml",
+        "fragrance-lattafa-khamrah-100ml"
+      ],
+      "estimatedValue": {
+        "amount": 16259.680000000002,
+        "currency": "USD"
+      },
+      "curator": "Mvita Family Office",
+      "source": "imported-from-mvita"
+    }
+  ]
+}

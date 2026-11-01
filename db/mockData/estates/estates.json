@@ -1,0 +1,3076 @@
+{
+  "estates": [
+    {"name": "Pierre Compound",
+      "id": "pierre-compound",
+      "type": "compound",
+      "category": "residential",
+      "company": "Mvita Syndicate HoldCo",
+      "notes": [
+        "Toronto residential compound — Ferris Rafauli custom build on the Greater Toronto footprint (relocated from Kinshasa staging).",
+        "Primary family compound in Canada; absorbs former Canada Estate (Park Lane Cir) collections, staff, and fleet.",
+        "Custom Built Ferris Rafaulli designed Mansion.",
+        "On-estate private museum wing houses curated sections of the family collection: watches, jewelry, art, electronic collectables, rare books, and ancient texts.",
+        "Museum galleries are climate-controlled with dedicated conservation, display, and secure vault storage.",
+        "Seasonal note: August – October peak use."
+      ],
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "Park Lane Cir, Toronto, ON"
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Groundskeeper",
+        "Chef",
+        "Wellness Staff",
+        "Property Manager",
+        "Security Staff",
+        "Personal Chef",
+        "Museum Curator",
+        "Collections Conservator",
+        "Archive Librarian"
+      ],
+      "size": {
+        "value": 100000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 170000000,
+        "currency": "USD",
+        "annualExpenses": 2515000,
+        "annualExpenseBreakdown": {
+          "tax": 480000,
+          "hoa": 45000,
+          "insurance": 340000,
+          "ops": 1650000
+        }
+      },
+      "features": [
+        "No CBI / Golden Visa Program",
+        "~53.5% Top Marginal Tax | 183+ days in calendar year to be deemed resident (or fewer with significant ties)",
+        "🏛️ PROPERTY STRUCTURE & OWNERSHIP",
+        "Land Trust + HoldingCo structure for asset protection",
+        "$15M asking price + $70M compound build-out by Ferris Rafauli",
+        "246 acres of pristine land with 43-acre private lake",
+        "80,000 sq.ft main residence with 20 bedrooms & 30 bathrooms",
+        "Total compound footprint: 110,000+ sq.ft across all structures",
+        "Spec Plaque for every custom thing in the compound",
+        "🔒 SECURITY & PRIVACY INFRASTRUCTURE",
+        "Security Control Center with 24/7 surveillance and monitoring",
+        "High-tech compound-wide security & automation system",
+        "Central command-and-control room with AI threat monitoring and autonomous drone patrols",
+        "EMP-shielded data center and secure communications bunker with satellite uplink",
+        "Private police liaison office and biometric-access armory",
+        "Perimeter security with motion sensors, thermal imaging, and facial recognition",
+        "Underground safe rooms and panic rooms",
+        "RFID and GPS tracking for all vehicles and assets",
+        "Secure document storage and vault facilities",
+        "⚡ SUSTAINABILITY & ENERGY INDEPENDENCE",
+        "15,000 Tesla Solar Panels generating 6+ MW of clean energy",
+        "10 Tesla Megapack battery storage units (40+ MWh capacity)",
+        "2 Caterpillar 1,000kW backup generators for redundancy",
+        "Desalination and water recycling plant for total water autonomy",
+        "Hydroponic greenhouse and organic food production facility (year-round produce)",
+        "On-site biogas and waste-to-energy micro-facility",
+        "Comprehensive rainwater collection and filtration systems",
+        "Geothermal heating and cooling systems",
+        "Carbon-neutral operations with energy surplus capability",
+        "💻 DIGITAL & AUTOMATION SYSTEMS",
+        "Compound-wide AI home management network with master iOS/Android dashboard",
+        "Quantum-resistant cybersecurity suite managed by Family Office IT division",
+        "Private cloud node connected to Cook Islands or Liechtenstein data servers for digital sovereignty",
+        "Fiber-optic internet with redundant connections and satellite backup",
+        "Smart home integration across all residences",
+        "Automated climate control, lighting, and entertainment systems",
+        "Voice-activated controls and AI personal assistant integration",
+        "Remote monitoring and control from anywhere in the world",
+        "🏨 LUXURY & HOSPITALITY",
+        "20,000 sq.ft Guest House with 8 bedrooms & 10 bathrooms",
+        "10,000 sq.ft Private Cabin with 4 bedrooms & 5 bathrooms",
+        "Private chapel and meditation pavilion overlooking the lake",
+        "Professional recording studio and creative retreat with state-of-the-art equipment",
+        "Fine-dining kitchen with Michelin-level chef residency and full culinary team",
+        "Guest village with 10 self-contained villas for visiting family and guests",
+        "Wine cellar and rare spirits vault with humidity-controlled aging suite (5,000+ bottle capacity)",
+        "Compound-wide in-ground irrigation system with smart water management",
+        "Multiple dining areas including formal dining room, casual dining, and outdoor dining spaces",
+        "Butler's pantry and service kitchen for large-scale entertaining",
+        "Guest concierge services and 24/7 hospitality staff",
+        "🏊 RECREATION & WELLNESS",
+        "Indoor/Outdoor private pool with infinity edge and swim-up bar",
+        "Hot tub, sauna, steam room, and wellness center & spa with jacuzzi",
+        "Cryotherapy room, hyperbaric oxygen chamber, and advanced medical spa",
+        "State-of-the-art private gym with professional-grade equipment",
+        "Private cinema with 4K projection and Dolby Atmos sound system",
+        "Basketball court (indoor and outdoor options)",
+        "Tennis court with professional surface and lighting",
+        "Private 18-hole golf course with private clubhouse",
+        "Automated swing bay & TrackMan systems for golf practice",
+        "Massive multi-geographical Vivarium designed by Ferris Rafauli",
+        "Private lake with boating, fishing, and water sports",
+        "Hiking and nature trails throughout the 246-acre property",
+        "Equestrian facilities (potential for horse stables)",
+        "Outdoor fire pits and entertainment areas",
+        "Children's playground and recreational areas",
+        "🎨 CULTURAL & LEGACY FEATURES",
+        "Private art gallery and archive wing for family collection",
+        "Genealogy and family museum preserving heritage and history",
+        "On-site offices for Mvita Family partnerships and business operations",
+        "Library with rare book collection and reading rooms",
+        "Music room with grand piano and acoustic design",
+        "Private study and executive office spaces",
+        "Archive and document storage for family records",
+        "Memorabilia display areas and trophy rooms",
+        "🚁 TRANSPORTATION & MOBILITY",
+        "Private helipad and hangar for helicopter access",
+        "Private marina on 43-acre lake for yacht and boat moorings",
+        "30-car capacity luxury garage and warehouse (30,000 sq.ft)",
+        "Vehicle maintenance bay with professional lift systems",
+        "Climate-controlled storage for collectible vehicles",
+        "Car wash and detailing facility",
+        "Guest parking areas and valet service",
+        "Direct access to major highways and airports",
+        "🌳 GROUNDS & LANDSCAPING",
+        "246 acres of meticulously maintained grounds",
+        "43-acre private lake with natural shoreline",
+        "Formal gardens and landscaping by renowned designers",
+        "Tree-lined driveways and private roads",
+        "Wildlife habitat preservation areas",
+        "Organic vegetable gardens and orchards",
+        "Greenhouse and conservatory facilities",
+        "Water features including fountains and streams",
+        "Seasonal flower displays and botanical gardens",
+        "Bell Tower + Chapel",
+        "SOTA Cold Smoker, BBQ, Outdoor Ovens, and Kitchen for outdoor entertaining",
+        "Private museum wing on the estate grounds",
+        "Museum section — Watches",
+        "Museum section — Jewelry",
+        "Museum section — Art",
+        "Museum section — Electronic collectables",
+        "Museum section — Rare books",
+        "Museum section — Ancient texts & manuscripts",
+        "Climate-controlled galleries with conservation standards",
+        "Secure vault storage for high-value collection pieces"
+      ],
+      "Garage": {
+        "capacity": 30,
+        "features": [
+          "Luxury 30000 sq.ft Warehouse & Garage + 30 car capacity",
+          "Private Helipad & Hangar"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Master Control Panel",
+        "Compound-wide AI home management network",
+        "Biometric access control systems",
+        "Automated lighting and climate control",
+        "Smart irrigation systems",
+        "Vehicle tracking and management",
+        "Integrated security and surveillance"
+      ],
+      "listingUrl": [
+        "https://www.zolo.ca/king-real-estate/18205-keele-street"
+      ],
+      "images": [
+        "https://i.postimg.cc/MTydt249/mvitacompound.png",
+        "https://i.postimg.cc/V6jD4QT7/mvitacompound-2.png",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-1.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-6.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-4.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-8.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-12.jpg?2024-05-05_03%3A36%3A46=",
+        "https://photos.zolo.ca/18205-keele-street-king-N8113142-18.jpg?2024-05-05_03%3A36%3A46=",
+        "https://i.pinimg.com/1200x/da/84/74/da8474418f700a785b80b217816a68c8.jpg",
+        "https://i.pinimg.com/1200x/e3/ad/5d/e3ad5d2287b9039c44e0a93a850288a8.jpg",
+        "https://i.pinimg.com/1200x/dc/9b/40/dc9b405eb3b8a92b4f01dc0d2f30d710.jpg",
+        "https://i.pinimg.com/736x/ee/19/20/ee19205fd37ad9b355ef68a414f798c5.jpg",
+        "https://i.pinimg.com/736x/b4/7d/f1/b47df1b0565dcb6b420430426266aaa4.jpg",
+        "https://i.pinimg.com/736x/2e/cd/2f/2ecd2fc93a179b886ce8a6ac3f584c6a.jpg",
+        "https://i.pinimg.com/1200x/76/2f/fc/762ffc66607877ab30a83fdb883197b6.jpg",
+        "https://i.pinimg.com/1200x/6d/8e/38/6d8e388557a82a99a4f69e0b7124609d.jpg",
+        "https://i.pinimg.com/1200x/db/23/64/db2364c51cea57a2044eebbc2aaae138.jpg",
+        "https://i.pinimg.com/736x/e7/13/28/e71328a5b390d69c3c5d60d0e8012010.jpg",
+        "https://i.pinimg.com/1200x/e1/f5/75/e1f575a4c7540663c8f521204e26cb9a.jpg",
+        "https://i.pinimg.com/1200x/8c/90/cb/8c90cbe872afdfd997b85093f48ed57d.jpg",
+        "https://i.pinimg.com/1200x/1a/e7/54/1ae754f287660958d29cd854a853d27a.jpg",
+        "https://i.pinimg.com/1200x/53/9e/1e/539e1e20cb0ec4c6060ec1fc556b9bbf.jpg",
+        "https://i.pinimg.com/736x/c8/16/fe/c816fed4c8d55ae5f114df2339228800.jpg",
+        "https://i.pinimg.com/1200x/8f/b0/e9/8fb0e95821bdc0a54cbbf148a8c1a1a8.jpg",
+        "https://i.pinimg.com/1200x/47/f7/66/47f76691b89e6855493b94380c9c1520.jpg",
+        "https://i.pinimg.com/1200x/6d/f4/0b/6df40bb7b3cb462344680b8d7a96fe39.jpg",
+        "https://i.pinimg.com/736x/e8/b3/5b/e8b35b1d1ee5d7c40eca3f5446256041.jpg",
+        "https://i.pinimg.com/1200x/63/41/46/6341465dc79164c21bce1579bf1e14d3.jpg",
+        "https://i.pinimg.com/1200x/7f/d0/59/7fd059dbade253f01c948d15ec56217b.jpg",
+        "https://i.pinimg.com/1200x/ae/49/ee/ae49ee00c55bc6d766ca0f0f7a2d6580.jpg",
+        "https://i.pinimg.com/1200x/1a/de/e8/1adee8d897216c546a7cc5c46eabdee3.jpg",
+        "https://i.pinimg.com/1200x/ee/e5/92/eee592d429442c8fc644fe79a491d5f6.jpg",
+        "https://i.pinimg.com/1200x/d1/f5/74/d1f574113e568d335af05396a4771dea.jpg",
+        "https://i.pinimg.com/736x/13/b0/e5/13b0e5aee9bc84d2a6cff4aa16f8eeb2.jpg",
+        "https://i.pinimg.com/736x/7d/35/2e/7d352e98fa6410bdef67240caf784a34.jpg",
+        "https://i.pinimg.com/1200x/87/6e/84/876e845f97171bdc7e22dd62eae9b0b3.jpg",
+        "https://i.pinimg.com/736x/1c/ea/97/1cea97417500d26f300e512e48cfda29.jpg",
+        "https://i.pinimg.com/1200x/9a/ca/72/9aca72bcf4d2e5adbe76a18c4f2ddb23.jpg",
+        "https://i.pinimg.com/1200x/db/0a/3b/db0a3bb2efc29daefd59074ace1c76b1.jpg",
+        "https://i.pinimg.com/1200x/6b/d7/fa/6bd7fa506765346eac17407305d7481e.jpg",
+        "https://i.pinimg.com/1200x/d7/be/e2/d7bee2894c263a3a8df9e55f3d5b22f0.jpg",
+        "https://i.pinimg.com/1200x/4b/51/2d/4b512dfa688fd963c1c7c445525d75a6.jpg",
+        "https://i.pinimg.com/1200x/ca/c3/68/cac368fd6399ca2aacb02bb101d9cd64.jpg",
+        "https://i.pinimg.com/736x/a2/70/92/a27092979c5429a45fb57842b33bb2ac.jpg",
+        "https://i.pinimg.com/736x/7b/01/d5/7b01d5734d935db5d69e3bdfb13e0550.jpg",
+        "https://i.pinimg.com/736x/86/38/1a/86381ad0cf5f2b4c39626e72781caf62.jpg",
+        "https://i.pinimg.com/736x/a9/d0/d8/a9d0d8792727b906fd6a8e5dcee9c6c0.jpg",
+        "https://i.pinimg.com/1200x/de/31/4d/de314dbf6447645a781feb97963a7a22.jpg",
+        "https://i.pinimg.com/1200x/98/b0/fc/98b0fcfc3288eab2fae0c13e891707d4.jpg",
+        "https://i.pinimg.com/736x/f2/cf/49/f2cf49f23d262a4d84b915cdf5f49053.jpg",
+        "https://i.pinimg.com/1200x/a9/30/c4/a930c43cbfba6dcb10b8919b678433e3.jpg",
+        "https://i.pinimg.com/1200x/3b/e0/02/3be002d525a2cb4c18672ab40881dfc6.jpg",
+        "https://i.pinimg.com/1200x/42/3c/69/423c694b5af62b1c4563257c3d3e6268.jpg",
+        "https://i.pinimg.com/1200x/9b/15/57/9b155755d75e1f04e90162e8d459fb81.jpg",
+        "https://i.pinimg.com/1200x/2b/1a/5e/2b1a5edc8d8f9c396de96f7cd1d923b8.jpg",
+        "https://i.pinimg.com/1200x/5c/07/2a/5c072a24613b2cf6bbb7320cd00cdf11.jpg",
+        "https://i.pinimg.com/1200x/c8/cb/6b/c8cb6b54b9bdb1cc63832566f800b50e.jpg",
+        "https://i.pinimg.com/1200x/da/06/01/da0601afca4ce7503d8524894919d24e.jpg",
+        "https://i.pinimg.com/1200x/cf/11/c9/cf11c9cadef9c02ff74e0006d836ea38.jpg",
+        "https://i.pinimg.com/1200x/92/93/17/929317a752cfaec1550fa0ea681c76b2.jpg",
+        "https://i.pinimg.com/736x/17/3c/0f/173c0f6af64be2baa37de6b0e37ae874.jpg",
+        "https://i.pinimg.com/736x/76/32/f9/7632f98290b4612e6a0f88018d9cb019.jpg",
+        "https://i.pinimg.com/1200x/b3/ee/de/b3eedeb3b87f3fb9185180a546176abc.jpg",
+        "https://i.pinimg.com/1200x/af/c1/46/afc146dbf8e127245e8624b05736bba5.jpg",
+        "https://i.pinimg.com/736x/92/8d/69/928d69f1d3357bb4afaa31a954ac72aa.jpg",
+        "https://i.pinimg.com/1200x/d2/00/b0/d200b044e74d7973e46b89f78242e949.jpg",
+        "https://i.pinimg.com/1200x/8a/f3/b5/8af3b55701a481839b212482d43afb0c.jpg",
+        "https://i.pinimg.com/736x/2f/b5/52/2fb55267f0238767e5fc6980c01d5113.jpg",
+        "https://i.pinimg.com/736x/9e/32/79/9e327974f4cdd182de1419cf61811faf.jpg",
+        "https://i.pinimg.com/1200x/9b/1b/36/9b1b36c42dfa46a045b7a86fe86366fc.jpg",
+        "https://i.pinimg.com/1200x/36/e8/e9/36e8e972dad4d0f6fd75487ffed43252.jpg",
+        "https://i.pinimg.com/1200x/2a/85/81/2a85818cda243343d73685abdbbc5929.jpg",
+        "https://i.pinimg.com/1200x/f6/2f/f5/f62ff588d895640303e1e4c03397d34d.jpg",
+        "https://i.pinimg.com/736x/06/a1/68/06a1687e656d712eb3c8447d245b8b3d.jpg",
+        "https://i.pinimg.com/736x/82/6b/29/826b2991952504d30a42bee67dc949d6.jpg",
+        "https://i.pinimg.com/736x/6e/94/bc/6e94bc9987876c77cfdfbc54ec152b1e.jpg",
+        "https://i.pinimg.com/736x/64/3f/85/643f85a0ee572130c0b80f5e2f8e6b2c.jpg",
+        "https://i.pinimg.com/1200x/46/b9/af/46b9af529f7c20ffae92cc30d766907a.jpg",
+        "https://i.pinimg.com/1200x/55/cd/e5/55cde55521e803a5f08db288c94a3741.jpg",
+        "https://i.pinimg.com/736x/f5/a9/97/f5a997281a3451f4b57fedf990bff177.jpg",
+        "https://i.pinimg.com/1200x/e5/7a/2a/e57a2aea3101b9587e1a4dbe40560880.jpg",
+        "https://i.pinimg.com/736x/d6/f2/ac/d6f2ac41e08a5c87854abae4ed2f9dcc.jpg",
+        "https://i.pinimg.com/1200x/6b/54/1e/6b541e7b2e85056a8b12f8321432944b.jpg",
+        "https://i.pinimg.com/736x/b9/9e/d6/b99ed6adc1e21a7f73ccbb3ab3685cfb.jpg",
+        "https://i.pinimg.com/1200x/ca/a4/ce/caa4ce9ce3fe5982a42a830424530cf2.jpg",
+        "https://i.pinimg.com/1200x/ff/26/79/ff267956b5e0a543b96275ca27115246.jpg",
+        "https://i.pinimg.com/736x/c8/41/a6/c841a69b6346f62b77754657c42bab15.jpg",
+        "https://i.pinimg.com/1200x/01/a8/37/01a8378678805b495ad172a4a598e844.jpg",
+        "https://i.pinimg.com/736x/70/72/28/70722878dfb39b8353e3f42cf3af572e.jpg",
+        "https://i.pinimg.com/736x/a7/31/9a/a7319a3a3de013466adb95f0fe65858f.jpg",
+        "https://i.pinimg.com/1200x/10/b2/80/10b280ec89a09ec3f2ce75153c706c9d.jpg",
+        "https://i.pinimg.com/1200x/24/f5/fd/24f5fd822720c1ba730b04af445ed0eb.jpg",
+        "https://i.pinimg.com/1200x/8f/ff/d9/8fffd93d6a6109e84ce418f655241608.jpg",
+        "https://i.pinimg.com/1200x/6e/bc/20/6ebc2070be6bd93b0f3cb74e8378a55f.jpg",
+        "https://i.pinimg.com/1200x/ab/e1/b4/abe1b41a2a3e5359369bebcd1f7348a6.jpg",
+        "https://i.pinimg.com/736x/d8/16/b3/d816b394a98d22f022afd54e18f8d29b.jpg",
+        "https://i.pinimg.com/736x/f1/2e/3d/f12e3d652bda167e374deb229a8f3a9f.jpg",
+        "https://i.pinimg.com/736x/a0/3b/4f/a03b4f8ee0e1b12f6a7906f1bf91589d.jpg",
+        "https://i.pinimg.com/736x/5f/f9/5e/5ff95ed7086e39254fcf445d583de98c.jpg",
+        "https://i.pinimg.com/736x/0b/df/d8/0bdfd8ceaf8574c4a167d722281e05a5.jpg",
+        "https://i.pinimg.com/736x/f0/90/32/f090327162ad66e8554b825db7ee65d2.jpg",
+        "https://i.pinimg.com/736x/7b/bf/c0/7bbfc034e45a49b38a539bd5e0fc5e0c.jpg",
+        "https://i.pinimg.com/1200x/72/e6/ab/72e6abad854640a5153987e4312aa01c.jpg",
+        "https://i.pinimg.com/1200x/1c/64/f1/1c64f1d424cf2a8c3c030412e887b9cc.jpg",
+        "https://i.pinimg.com/1200x/dc/1b/f7/dc1bf72bbd44aa303ae47c0ee84e17a2.jpg",
+        "https://i.pinimg.com/736x/80/e8/f7/80e8f7ca37540db593d25b39cb6d9f34.jpg",
+        "https://i.pinimg.com/1200x/59/f4/d7/59f4d77ea1eba90f1fdbc57b7d2ef695.jpg",
+        "https://i.pinimg.com/1200x/16/40/ef/1640ef44868dda5a9217003acb99a058.jpg",
+        "https://i.pinimg.com/736x/04/7d/3c/047d3c584cd44355066e20c62884e44e.jpg",
+        "https://i.pinimg.com/736x/4b/14/bb/4b14bb39e35eea37ed07838f2f3de074.jpg",
+        "https://i.pinimg.com/736x/63/31/ba/6331ba46f151a6b4bb17bf6e694c07fd.jpg",
+        "https://i.pinimg.com/1200x/68/b9/c6/68b9c6e9c4bf7a0bd0939d12306b83d9.jpg",
+        "https://i.pinimg.com/736x/76/32/f9/7632f98290b4612e6a0f88018d9cb019.jpg",
+        "https://i.pinimg.com/1200x/e0/f4/1c/e0f41c23aac10f688a72d9c1eaaad987.jpg",
+        "https://i.pinimg.com/736x/d4/52/da/d452da0b4fd53d7fcce8dfb515e0ca45.jpg",
+        "https://i.pinimg.com/1200x/55/b9/89/55b989d0a00e1b92dbb5ae1530f23b8a.jpg",
+        "https://i.pinimg.com/1200x/03/c7/b9/03c7b9987f8073e13052ca9c70de21de.jpg",
+        "https://i.pinimg.com/736x/d1/0c/a1/d10ca171c1111a6ed54418b730db59d6.jpg",
+        "https://i.pinimg.com/1200x/8d/ed/a5/8deda5643755287570848a8408a4a1fc.jpg",
+        "https://i.pinimg.com/1200x/c7/54/45/c754453a13643c58cd52a76d10721244.jpg",
+        "https://i.pinimg.com/1200x/ad/c8/ae/adc8aee9c5c60e281d381bd6abf469d7.jpg",
+        "https://i.pinimg.com/736x/3d/d4/39/3dd439c9ba65111c4a0a0ca0a290efd6.jpg",
+        "https://i.pinimg.com/736x/e6/93/d9/e693d9fe2b48765d9bba9f7d9c2d3cbd.jpg",
+        "https://i.pinimg.com/736x/f4/88/85/f488850d3d4a64417331d2b2c3a511b6.jpg",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconviron.b-cdn.net%2Fuploads%2FAdvance-Controls-Solution.jpg&f=1&nofb=1&ipt=b9b119da8dcaadb2182b6a922530a1c310cbd1d3407cf427be3d1ac5d57ecb35",
+        "https://i.pinimg.com/1200x/31/19/93/311993e65097e0d53eb404fe093c6fe5.jpg",
+        "https://i.pinimg.com/1200x/e3/15/72/e3157245cf47096f81b471cf2d3b7515.jpg",
+        "https://i.pinimg.com/1200x/89/6d/16/896d164926e665975f7bbb896702ad76.jpg",
+        "https://i.pinimg.com/1200x/94/95/a2/9495a24a8b259e9fe0b536719a26fb83.jpg",
+        "https://i.pinimg.com/1200x/b0/0f/e4/b00fe4336cece6b9ec7d9aec22b61561.jpg",
+        "https://i.pinimg.com/736x/2d/e3/3c/2de33cad2e110beb5c8272ac0c26a84c.jpg",
+        "https://i.pinimg.com/736x/e8/05/d1/e805d1c0656a07e994c92e517855da4f.jpg",
+        "https://i.pinimg.com/736x/83/8c/ef/838cef30b151fd1f5f41c97636e4c9bf.jpg",
+        "https://i.pinimg.com/1200x/f9/0b/01/f90b017fe4ce5e75a53ec102f69c9024.jpg",
+        "https://i.pinimg.com/736x/95/68/95/956895eccb8b0e82e7f081cfb2205a79.jpg",
+        "https://i.pinimg.com/736x/88/97/01/889701bd2f7e2b66818550a5b9c951fc.jpg",
+        "https://i.pinimg.com/1200x/83/94/d2/8394d26b08cf1a877a9655ddfa5028ee.jpg",
+        "https://i.pinimg.com/736x/c5/3f/33/c53f338b5a55cf167270bbb239b1e424.jpg",
+        "https://i.pinimg.com/736x/db/ea/65/dbea653946ed30cc3dbff363d51f153a.jpg",
+        "https://i.pinimg.com/736x/19/72/c4/1972c4ccc7cc6e0f7908f3387102d2b3.jpg",
+        "https://i.pinimg.com/736x/95/c6/fc/95c6fc214ea1b2fcf354c446c50e8125.jpg",
+        "https://i.pinimg.com/1200x/7c/1d/1f/7c1d1f81043d99b308538aa513116a35.jpg",
+        "https://i.pinimg.com/736x/cb/fc/46/cbfc4642ad028b930ab92bb6c654fb52.jpg",
+        "https://i.pinimg.com/1200x/fd/2f/be/fd2fbe93cf469b6616fde45e80c412c6.jpg",
+        "https://i.pinimg.com/1200x/51/74/a4/5174a484b8fddc6282d332995f9bfe39.jpg",
+        "https://i.pinimg.com/1200x/12/36/66/1236662e486134b850945c82d5d288a8.jpg",
+        "https://i.pinimg.com/1200x/9d/35/c1/9d35c16ce23a455d1bb846f3b50ff24f.jpg",
+        "https://i.pinimg.com/736x/32/79/d1/3279d1ba1572cbc6a38b3b2d09392d6f.jpg",
+        "https://i.pinimg.com/1200x/1b/39/a4/1b39a4718092f1ae929c5bc2816948e6.jpg",
+        "https://i.pinimg.com/1200x/82/47/b5/8247b5b7f8febdc88d674854f9597dd1.jpg",
+        "https://i.pinimg.com/1200x/37/dd/85/37dd85d364a5bc0e304838549bed5467.jpg",
+        "https://i.pinimg.com/736x/31/b1/46/31b146aea9a584580d424a2ea6667fb7.jpg",
+        "https://i.pinimg.com/1200x/f1/5b/6e/f15b6efc3c2e96f3f168e04e5e616187.jpg",
+        "https://i.pinimg.com/1200x/f1/5b/6e/f15b6efc3c2e96f3f168e04e5e616187.jpg",
+        "https://i.pinimg.com/1200x/29/c1/d8/29c1d85b5d81306872214f442e7ad100.jpg",
+        "https://i.pinimg.com/1200x/57/32/1b/57321b3fca7242ba52da622d3b079b35.jpg",
+        "https://i.pinimg.com/1200x/6a/7e/30/6a7e309712d984dbec62228a3fed33e3.jpg",
+        "https://i.pinimg.com/1200x/e3/85/16/e38516575e6e6a0eb563ad3b8b1615a6.jpg",
+        "https://i.pinimg.com/736x/a6/b5/28/a6b528177613fefe2020b2a416b02dff.jpg",
+        "https://i.pinimg.com/1200x/5a/e3/bb/5ae3bb0a2dee8891741c5ac98c39dada.jpg",
+        "https://i.pinimg.com/1200x/a5/14/af/a514afb34bda57908e796daf66400f8e.jpg",
+        "https://i.pinimg.com/736x/8a/5a/83/8a5a839cbe8202b0923c0e5e086b1e1f.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Tesla_Megapack_set_of_4_with_solar_canopy.webp"
+      ],
+      "bedrooms": 20,
+      "bathrooms": 30,
+      "insurance": {
+        "provider": "Hiscox Private Client",
+        "policyNumber": "HX-RE-PIERRE",
+        "coverageUSD": 185000000,
+        "renewalDate": "2027-01-03",
+        "notes": "Compound schedule; staff quarters rider"
+      }
+    },
+    {"name": "Dubai Penthouse",
+      "id": "dubai-estate",
+      "type": "Penthouse",
+      "category": "residential",
+      "company": "Luxury Property L.L.C — The Lana Residences Dorchester Collection",
+      "notes": [
+        "Entire-floor 4-bedroom penthouse at The Lana Residences by Dorchester Collection, Business Bay.",
+        "11,065 sq.ft residence + 4,292 sq.ft balcony; design by Gilles & Boissier and Foster & Partners.",
+        "Private pool, double-height ceilings, city views; fully furnished, vacant, move-in ready.",
+        "Asking AED 121,245,000 (~USD 33,014,295) via dubizzle / Luxury Property (LP49162).",
+        "5-star Dorchester Collection management; direct hotel access; freehold; ready (~3 years)."
+      ],
+      "location": {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "address": "The Lana Residences Dorchester Collection, Business Bay, Dubai, UAE"
+      },
+      "size": {
+        "value": 11065,
+        "unit": "sq.ft"
+      },
+      "lotSize": {
+        "value": 4292,
+        "unit": "sq.ft"
+      },
+      "staff": [],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Four dedicated parking spaces",
+          "Building parking (409 spaces)",
+          "Valet available"
+        ]
+      },
+      "value": {
+        "amount": 33014295,
+        "currency": "USD",
+        "amountAED": 121245000,
+        "annualExpenses": 290000,
+        "annualExpenseBreakdown": {
+          "tax": 0,
+          "hoa": 155000,
+          "insurance": 50000,
+          "ops": 85000
+        }
+      },
+      "features": [
+        "4 bedrooms / 5 bathrooms — all ensuite",
+        "Entire-floor penthouse (11,065 sq.ft)",
+        "Private swimming pool",
+        "4,292 sq.ft balcony outdoor living",
+        "Dramatic double-height ceilings",
+        "Sweeping city views",
+        "Fully furnished and vacant",
+        "Gilles & Boissier / Foster & Partners design",
+        "Dorchester Collection 5-star management",
+        "Direct hotel access and à la carte services",
+        "Gym and yoga studio access",
+        "Landscaped gardens and outdoor pool",
+        "Rooftop infinity pool (hotel facilities)",
+        "Business center and residents lounge",
+        "Children's play area",
+        "Pet-friendly amenities",
+        "Freehold ownership"
+      ],
+      "securityLevel": "exclusive-branded",
+      "automation": [
+        "Hotel-integrated access control",
+        "CCTV surveillance",
+        "Climate control throughout",
+        "Smart residential systems"
+      ],
+      "listingUrl": [
+        "https://dubai.dubizzle.com/property-for-sale/residential/penthouse/2026/5/18/elegance-private-pool-penthouse-2-996244/"
+      ],
+      "images": [
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/9e6b89310c3040fb820b228bc92aee7d-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/93927d1a4202432da371821c508d1b08-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/f3ff39bb140440e6b2ccab1dabc2dc4f-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/3cb2aec9916346bab8bb1b804fd0555a-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/10f68b942f1a4d5fbad2c51a0b72f759-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/26991bedf3a34d81ad438390be835342-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/f6b9875f6a744953836fa87220aafd57-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/349c54f8c90c4b17a98951909450003e-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/d50594d90ec24a59ab224b7b3d17c3d9-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/c15fea5debc24d3983a02c0260b9ff05-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/53ceacd1a5904b47a05e4b864c2074fb-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/02f64e8860624f3eac40e72319b6f561-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/fff22c62c4d94797be6bef13535a7d65-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/ab0cf1046fc04a14bd893bb90d842837-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/f14a3437c846447ba044975009b9dcb3-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/05/18/d2b90353-b9bf-412c-97cc-0b2f046126d1/10c192d1ce5a4cb0ac90a0c285f91fe4-.jpg?impolicy=dpv"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "insurance": {
+        "provider": "AXA XL",
+        "policyNumber": "AXA-RE-DXB-PENT",
+        "coverageUSD": 36000000,
+        "renewalDate": "2026-12-18",
+        "notes": "Buildings + contents; marina tower"
+      }
+    },
+    {"name": "Toronto Estate",
+      "id": "toronto-estate-old-colony",
+      "type": "Mansion",
+      "category": "residential",
+      "company": "Don-Pierre Colony LLC",
+      "notes": [
+        "Premium residential estate on Old Colony Road, Toronto",
+        "Source: https://www.zillow.com/homedetails/68-Old-Colony-Rd-Toronto-ON-M2L-2K1/463410355_zpid/"
+      ],
+      "location": {
+        "city": "Toronto",
+        "country": "Canada",
+        "address": "68 Old Colony Rd, Toronto, ON M2L 2K1, Canada"
+      },
+      "size": {
+        "value": 8500,
+        "unit": "sq.ft"
+      },
+      "staff": [
+        "Property Manager",
+        "Security Staff",
+        "Groundskeeper",
+        "Housekeeper",
+        "Maintenance"
+      ],
+      "Garage": {
+        "capacity": 7,
+        "features": [
+          "7-car garage",
+          "Heated driveway",
+          "Direct access to residence"
+        ]
+      },
+      "value": {
+        "amount": 30000000,
+        "currency": "CAD",
+        "annualExpenses": 445000,
+        "annualExpenseBreakdown": {
+          "tax": 95000,
+          "hoa": 8000,
+          "insurance": 62000,
+          "ops": 280000
+        }
+      },
+      "features": [
+        "Luxury residential mansion in prime Toronto location",
+        "6+ bedrooms, 7+ bathrooms",
+        "Grand foyer with double-height ceilings",
+        "Gourmet kitchen with premium appliances",
+        "Formal living and dining rooms",
+        "Family room with fireplace",
+        "Home office / study",
+        "Wine cellar",
+        "Home theater",
+        "Indoor pool and spa",
+        "Fitness center",
+        "Smart home automation throughout",
+        "Professional landscaping",
+        "Outdoor entertainment area",
+        "Heated driveway and walkways"
+      ],
+      "securityLevel": "private-gated",
+      "automation": [
+        "Full-home smart automation",
+        "CCTV surveillance",
+        "Keyless entry",
+        "Climate control throughout",
+        "Automated lighting",
+        "Integrated security system"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/68-Old-Colony-Rd-Toronto-ON-M2L-2K1/463410355_zpid/",
+        "https://www.youtube.com/watch?v=lqohAjQswy0",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/"
+      ],
+      "images": [
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBUECXASCE.png",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJ7KKM5VZ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJ655JZE9.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTUDHTEKU.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTWMK0WAJ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JGK5407DJ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJTPJY2WF.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJRE4DETF.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321KRRL7CDVS.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTG34ZF1S.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJYV7TJWJ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JHK1Q9ZQ6.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JH2NVO36B.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JH8SDZ86W.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JHSI5HGCZ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JHPGGBMLQ.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321KRUFA2P08.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTDOZ8VXS.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JHXU94PBY.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/346YIVBEFLH9.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/346YIWAU78HK.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JI0WTKFLF.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JI70WP61U.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JI9HVR4NW.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJDVYRBQI.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJGLY26XC.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBI317H669.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBI3FJU0BL.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/321JJB59WMLO.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBU995KD94.png",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBUAPFWPS6.png",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBUCT3REJJ.png",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBUG5ASYZ5.png",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTQFU0DMS.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTJKTE1LV.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/34ZBTJKTE1LV.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/346YIUSG24AS.jpg",
+        "https://unbranded.youriguide.com/68_old_colony_rd_toronto_on/f/346YINHNGGSN.png"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 7,
+      "insurance": {
+        "provider": "Intact Specialty",
+        "policyNumber": "INT-RE-YYZ-OLDCOL",
+        "coverageUSD": 32000000,
+        "renewalDate": "2027-08-01"
+      }
+    },
+    {"name": "Monaco Penthouse",
+      "id": "monaco-ville-prestige",
+      "type": "Duplex",
+      "category": "residential",
+      "company": "Lorenza von Stein Luxury Real Estate Monaco — Tour Odéon",
+      "notes": [
+        "CO-EXCLUSIVE Tour Odéon exceptional duplex — Ref. VMC1542.",
+        "1,175 m², 8 rooms / 5 bedrooms across floors 43–44 of Tour Odéon, La Rousse / Saint-Roman, Monaco.",
+        "Panoramic Mediterranean views; 295 m² terrace; 7 parking spaces + cellar.",
+        "Building amenities: concierge, valet, private shuttle, spa with indoor pool, Cipriani room service.",
+        "Asking USD 122,000,000 via Lorenza von Stein (price on request on listing).",
+        "$30,000,000 USD renovation / fit-out project (interior, AV, spa-adjacent upgrades, security).",
+        "Total capitalized value USD 152,000,000 = $122M acquisition + $30M renovation."
+      ],
+      "insurance": {
+        "provider": "Hiscox Private Client",
+        "policyNumber": "HX-MC-ODEON-1542",
+        "coverageUSD": 160000000,
+        "renewalDate": "2027-01-10",
+        "notes": "Buildings + contents; renovation works endorsement active"
+      },
+      "location": {
+        "city": "Monaco",
+        "district": "La Rousse / Saint-Roman",
+        "area": "Tour Odéon",
+        "country": "Monaco",
+        "address": "Tour Odéon, La Rousse / Saint-Roman, Monaco 98000"
+      },
+      "size": {
+        "value": 1175,
+        "unit": "sqm"
+      },
+      "staff": [],
+      "Garage": {
+        "capacity": 7,
+        "features": [
+          "7 dedicated parking spaces",
+          "Cellar storage",
+          "Valet parking available"
+        ]
+      },
+      "value": {
+        "amount": 152000000,
+        "currency": "USD",
+        "amountPurchase": 122000000,
+        "amountRenovation": 30000000,
+        "annualExpenses": 1280000,
+        "annualExpenseBreakdown": {
+          "tax": 0,
+          "hoa": 205000,
+          "insurance": 228000,
+          "ops": 847000
+        }
+      },
+      "features": [
+        "$30M renovation / fit-out project",
+        "Total value $152M ($122M purchase + $30M renovation)",
+        "1,175 m² duplex on floors 43–44 of Tour Odéon",
+        "8 rooms / 5 bedrooms / 5 bathrooms",
+        "295 m² terrace with panoramic Mediterranean views",
+        "South-west orientation",
+        "Double living room and formal dining room",
+        "Fully equipped kitchen with pantry",
+        "Home cinema",
+        "Study / office",
+        "Master suite with dressing room and en suite bathroom",
+        "Second master suite with walk-in closets",
+        "Two additional bedrooms with en suite bathrooms",
+        "Laundry and maid’s room with shower",
+        "New condition",
+        "Home automation throughout",
+        "Building spa with indoor pool, fitness, sauna, jacuzzi",
+        "Personalized concierge and Cipriani room service",
+        "Private shuttle service"
+      ],
+      "securityLevel": "high",
+      "automation": [
+        "Full home automation",
+        "Alarm system",
+        "Video security",
+        "Videophone",
+        "Fire alarm",
+        "Safe",
+        "Security door",
+        "Security service"
+      ],
+      "listingUrl": [
+        "https://lorenzavonstein.com/en/property/sale+apartment+monaco+co-exclusive-tour-odeon-exceptional-duplex+1531961"
+      ],
+      "images": [
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/34c6cfd851fd76e141c50e5ba20ab197.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/58bb6f95085d3c118ca3c723871bf3e8.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/2776fa3d736dad242a62537c8f520c79.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/8d0dbadadf12063e811c524262ed16e6.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/c983f2f281f20949f7e8dacf0bb8f5ff.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/5e846e7c2fa3662b0039df19aa2adbb2.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/9c9d4e3cdf65f7565886aee493a5b2fa.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/47fc4eb1601996d5de31c355bd55ac60.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/a35ff868b02b739a71fdd95cb35b0a61.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/2dadb6adcdfd855c7defe05da1943576.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/a18558d242fb690ba3feab982a1015f0.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/735f575146360858b1b6183102798af4.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/ef4911e55071f83be23894d4a596df94.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/0985e40c0e3ffb52cf8de78d79b08c02.webp",
+        "https://d36vnx92dgl2c5.cloudfront.net/prod/Zenia-v2/4248/media/b9b9ead8935c5d26af5f4435da9a4522.webp",
+        "https://media.apimo.pro/cache/6e09fdafe6ccffe1fd903fd319fdd70d_13965b3454_1024-original.jpg"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 5
+    },
+    { "name": "Bahamas Island",
+      "id": "royal-island-bahamas",
+      "type": "private-island",
+      "category": "vacation",
+      "company": "Family Trust → Bahamas HoldCo. + Acct | Mvita Bahamas LLC",
+      "notes": "For a limited period, owners are entertaining all serious offers. The island will undergo re-investment and restructuring. Approved for significant development expansion including a full-scale resort, beach club, 18-hole golf course, marina, and airstrip. The only island on the market in The Bahamas with both golf course and marina approvals. Planned family-compound build-out: a principal mansion, grand lounge for entertaining, solar panel array with battery storage, backup generator, and a secure bunker. Island plus development totals $100M USD.",
+      "location": {
+        "city": "Spanish Wells/North Eleuthera",
+        "country": "The Bahamas",
+        "address": "Royal Island, off Russell Island, Eleuthera, Bahamas"
+      },
+      "staff": [
+        "Private Chef",
+        "Resort Manager",
+        "Spa Staff",
+        "Housekeepers",
+        "Security",
+        "Concierge",
+        "Fitness Center Staff",
+        "Maintenance Staff",
+        "Boat Crew"
+      ],
+      "size": {
+        "value": 403.52,
+        "unit": "acres"
+      },
+      "interiorSize": {
+        "value": 10000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 100000000,
+        "currency": "USD",
+        "annualExpenses": 2255000,
+        "annualExpenseBreakdown": {
+          "tax": 180000,
+          "hoa": 25000,
+          "insurance": 650000,
+          "ops": 1400000
+        }
+      },
+      "features": [
+        "7 Bedrooms, 9 Bathrooms",
+        "5 Luxury one-bedroom beachfront villas with wraparound decks",
+        "Guest house near main buildings",
+        "Main resort restaurant/bar building",
+        "Welcome center with spa rooms and gym",
+        "Infinity-edge oval pool",
+        "Sweeping wraparound verandahs on community buildings",
+        "Direct beach access, beautiful beaches",
+        "Large natural harbour",
+        "World-class private chef",
+        "Customizable guest experience",
+        "Private catamaran included",
+        "Beach club",
+        "On-site spa and fitness center",
+        "Deep water marina (39 acres, 100+ slips) approved",
+        "18-hole Jack Nicklaus golf course plans approved",
+        "Over 90 developable land parcels approved",
+        "Potential for airstrip installation",
+        "Helipad",
+        "Investment property",
+        "High elevation & unique topography",
+        "Principal mansion (planned)",
+        "Grand lounge (planned)",
+        "Solar panel array with battery storage (planned)",
+        "Backup generator (planned)",
+        "Secure bunker (planned)"
+      ],
+      "development": {
+        "marina": {
+          "sizeAcres": 39,
+          "slips": 100,
+          "status": "approved"
+        },
+        "golfCourse": {
+          "holes": 18,
+          "architect": "Jack Nicklaus",
+          "status": "approved"
+        },
+        "landParcels": {
+          "number": 90,
+          "status": "approved"
+        },
+        "airstrip": {
+          "status": "potential option"
+        },
+        "mansion": {
+          "status": "planned"
+        },
+        "grandLounge": {
+          "status": "planned"
+        },
+        "solar": {
+          "status": "planned",
+          "includes": [
+            "solar panels",
+            "battery storage",
+            "backup generator"
+          ]
+        },
+        "bunker": {
+          "status": "planned"
+        }
+      },
+      "subdivisions": [
+        {
+          "name": "Jewell Point",
+          "sizeAcres": 28,
+          "notes": "Available separately for $17.5 million"
+        }
+      ],
+      "Garage": {
+        "capacity": 0,
+        "features": [
+          "Golf carts and resort vehicles",
+          "Boat slips in marina"
+        ]
+      },
+      "securityLevel": "private/resort",
+      "automation": [
+        "Smart lighting",
+        "Resort management systems",
+        "Integrated security systems"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/royal-island-bahamas/royal-island-limited-time-opportunity-14006639"
+      ],
+      "images": [
+        "https://i.postimg.cc/Qtmsqjbf/bahamas-island.jpg",
+        "https://img.jamesedition.com/listing_images/2024/03/26/14/49/33/8a243106-d83c-4cd1-a26b-d2e8a0e32843/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/03/26/14/49/33/a8b9bcef-3664-478c-821e-4f0750bfac96/je/1100xxs.jpg"
+      ],
+      "bedrooms": 7,
+      "bathrooms": 9,
+      "insurance": {
+        "provider": "Lloyd's of London",
+        "policyNumber": "LL-RE-BAH-ISLAND",
+        "coverageUSD": 110000000,
+        "renewalDate": "2027-05-20",
+        "notes": "Island property; hurricane deductible applies"
+      }
+    },
+    {
+      "name": "Florida Estate",
+      "id": "palm-beach-estate",
+      "type": "oceanfront estate",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo. + Acct | Don-Pierre Florida LLC",
+      "notes": "6161 N Ocean Boulevard, Ocean Ridge — one of South Florida’s most distinguished oceanfront estates on 158 feet of direct Atlantic frontage in the Ocean Ridge Estate Section. Fully furnished turnkey residence (built 2017) by Mark Timothy, Affiniti Architects, and Marc-Michaels Interior Design; panoramic ocean views from one of the area’s highest elevations. Gated 1.55-acre parcel with new seawall, oceanfront tiki hut, Nano glass indoor-outdoor living, pool and spa with double-entry water features, outdoor kitchen, chef’s kitchen, club/entertaining spaces, and substantial guest parking. Minutes from Manalapan, Delray Beach, and Boca Raton; ~20 minutes from Palm Beach Island. Listed $59,950,000 ($5,699/sqft). MLS #B26070558. [Zillow](https://www.zillow.com/homedetails/6161-N-Ocean-Blvd-Ocean-Ridge-FL-33435/46840307_zpid/)",
+      "location": {
+        "city": "Ocean Ridge",
+        "state": "FL",
+        "country": "United States",
+        "address": "6161 N Ocean Blvd, Ocean Ridge, FL 33435"
+      },
+      "size": {
+        "value": 10520,
+        "unit": "sqft"
+      },
+      "garage": {
+        "capacity": 4,
+        "features": [
+          "Attached 4-car garage",
+          "Driveway and guest parking (up to ~20 total spaces)"
+        ]
+      },
+      "value": {
+        "amount": 59950000,
+        "currency": "USD",
+        "annualExpenses": 1722000,
+        "annualExpenseBreakdown": {
+          "tax": 1050000,
+          "hoa": 12000,
+          "insurance": 280000,
+          "ops": 380000
+        }
+      },
+      "bedrooms": 5,
+      "bathrooms": 9,
+      "features": [
+        "5 bedrooms, 6 full baths, 3 half baths",
+        "10,520 sqft single-family residence on 1.55 acres",
+        "158 feet of direct Atlantic Ocean frontage",
+        "Ocean Ridge Estate Section; gated oceanfront parcel",
+        "Built 2017 — Mark Timothy / Affiniti Architects / Marc-Michaels Interior Design",
+        "Fully furnished turnkey residence",
+        "Panoramic ocean views; Nano glass indoor-outdoor living",
+        "Pool and spa with double-entry water features",
+        "Oceanfront tiki hut; newly constructed seawall",
+        "Outdoor kitchen; covered terraces and balconies",
+        "Chef's kitchen with oversized pantry and top-tier appliances",
+        "Club and entertaining spaces",
+        "Attached garage + substantial guest parking",
+        "Dedicated Ocean Ridge police department / private coastal community",
+        "Minutes from Manalapan, Delray Beach, Boca Raton; ~20 min to Palm Beach Island",
+        "Listed $59,950,000 ($5,699/sqft); MLS #B26070558"
+      ],
+      "securityLevel": "ultra-premium",
+      "automation": [
+        "Gated entry",
+        "Integrated home systems",
+        "Shoreline / seawall protection"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/6161-N-Ocean-Blvd-Ocean-Ridge-FL-33435/46840307_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/94b262888e3145851789b5ba7f0a8799-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/e75b05566e65c432e697b750a9493030-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/b03ee27f6b5e1824109670bca0991a8d-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/c78010facf8dcd27cc2c9a10d0c9d3a4-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/d5db81eeba365e6dc7261cfb4f108287-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/b930342ea8df9c07dd24cd0aa331455c-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/5ec2ade2aaa621224e278fd6d958c811-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/ffb2d1814e35aa78f3290dd0848cbb46-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/398c457b2b0bcbec23b6e0e98872e919-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/18faf3252723cf955318b25060b6e337-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/55b55ddc71a6e8e9bedeb58434991db7-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/10c21f0a2220459f6874089f95855092-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/e5becb57db01198e30bdd3609a65c4e9-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/8afd9e3e559c4bde7984d423a7b31e71-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/17f5d081ef363422c0c8b43531f902d9-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/45c49a3635e0207d0681b9a66f9af280-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/9c2567e7ba64cefc08289202a14762e2-cc_ft_576.webp",
+        "https://photos.zillowstatic.com/fp/44b47f98f2b4d5f29827f45d5368b139-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/060be70df0f7524addd49e36e93345c6-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/55f6f05444f441287300b687ddc69870-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/5cfa7f3fcda2b7aef3b88f77be744964-cc_ft_1152.webp",
+        "https://photos.zillowstatic.com/fp/1ecd177be81e38ad70fc13f42879a9c0-cc_ft_576.webp"
+      ],
+      "lotSize": {
+        "value": 1.55,
+        "unit": "acres"
+      },
+      "insurance": {
+        "provider": "Chubb Masterpiece",
+        "policyNumber": "CH-RE-PBI",
+        "coverageUSD": 65000000,
+        "renewalDate": "2026-11-25",
+        "notes": "Coastal wind/flood excess layer"
+      }
+    },
+    {
+      "name": "Spain Estate",
+      "id": "spain-estate",
+      "type": "Contemporary Mansion",
+      "category": "vacation",
+      "company": "Mvita Intl. → La Zagaleta Holdings S.L.",
+      "notes": [
+        "Extraordinary contemporary residence in the exclusive La Zagaleta",
+        "Ultimate luxury, privacy, and security in Europe's most prestigious gated community",
+        "Perfect for high-profile, discerning clientele seeking elite Mediterranean lifestyle",
+        "State-of-the-art design, panoramic golf and mountain views"
+      ],
+      "location": {
+        "city": "Benahavís",
+        "country": "Spain",
+        "address": "La Zagaleta, Benahavís, Málaga, Spain"
+      },
+      "size": {
+        "value": 2275,
+        "unit": "sqm"
+      },
+      "staff": [
+        "Estate Manager",
+        "Cleaning Staff",
+        "Gardener",
+        "Security Team",
+        "Chef (on request)"
+      ],
+      "Garage": {
+        "capacity": 15,
+        "features": [
+          "Underground parking for multiple cars",
+          "Electric charging station",
+          "Showcase space for sports cars"
+        ]
+      },
+      "value": {
+        "amount": 40000000,
+        "currency": "USD",
+        "annualExpenses": 1711000,
+        "annualExpenseBreakdown": {
+          "tax": 1163000,
+          "hoa": 48000,
+          "insurance": 100000,
+          "ops": 400000
+        }
+      },
+      "features": [
+        "Villa Enzo",
+        "Spain Golden Visa Closed (Apr 2025) | Non-Lucrative Visa Available",
+        "~47% Top Marginal Tax | 183+ days in calendar year OR centre of vital interests to be deemed resident",
+        "8 bedrooms, 9 bathrooms",
+        "Plot: 9,546 sqm",
+        "Large infinity-edge outdoor pool",
+        "Indoor heated pool with spa and wellness area",
+        "Professional home cinema",
+        "Private gym with panoramic views",
+        "Spacious open-plan living and dining spaces",
+        "Designer kitchen with Gaggenau appliances",
+        "Sophisticated lighting and smart home automation",
+        "Grand double-height entrance hall",
+        "Expansive terraces and chill-out zones",
+        "Landscaped gardens and golf-front setting",
+        "Wine cellar",
+        "Private office",
+        "Guest/staff quarters",
+        "24-hour dual-gated security (urbanisation + La Zagaleta)",
+        "Spectacular golf, mountain, and valley views"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/benahavis-spain/discover-an-extraordinary-contemporary-residence-set-in-the-exclusive-la-zagaleta-15209670"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/8aec97a2-7dab-401d-a118-34b21ccd232e/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/1a047479-d2cb-4f21-9f8d-9a55297191cd/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/47/024fabb3-ea9b-4556-b041-c1d45a968911/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/a0f95374-bdea-424a-82ea-65ff6986e40e/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/47/df841b61-4469-4a95-a98c-480631f1a1db/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/47/921adecb-ff31-4131-b624-48fb3da1d603/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/47/438ce627-b724-4b76-ba0f-74934e947e90/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/41e4b915-ad69-460c-9153-9d58538370f9/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/1bd5845a-ee3c-47ee-a015-04f4e541b64e/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/151500a4-2611-43a9-9ead-e5fd8465b456/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/02/12/14/12/48/ce25c5d5-38ca-4702-ba56-245871589866/je/1100xxs.jpg"
+      ],
+      "bedrooms": 8,
+      "bathrooms": 9,
+      "insurance": {
+        "provider": "AXA XL",
+        "policyNumber": "AXA-RE-ES",
+        "coverageUSD": 43000000,
+        "renewalDate": "2027-03-15"
+      }
+    },
+    {
+      "name": "Germany Estate",
+      "id": "germany-estate",
+      "type": "house",
+      "category": "vacation",
+      "company": "Family Trust → Germany HoldCo | Mvita Germany",
+      "notes": "This listed villa, built in 1928/29 by German-American architect Theodor Merrill, seamlessly fuses historic details and modern luxury. Lavishly renovated and furnished to the highest standard between 2016 and 2020. On a south-west facing plot in Munich with top privacy. The villa features a master floor, guest suites, multiple living/reception rooms, conservatory, pool with pool house, private cinema, spectacular hammam, wine cellar, fitness area, elevator to all levels, and state-of-the-art home technology and security. Six garage spaces and three exterior parking spaces.",
+      "location": {
+        "city": "Munich",
+        "country": "Germany",
+        "address": "Tizianstraße 50, 80638, Munich, Germany"
+      },
+      "size": {
+        "value": 1015,
+        "unit": "sqm"
+      },
+      "value": {
+        "amount": 31902552,
+        "currency": "USD",
+        "annualExpenses": 302000,
+        "annualExpenseBreakdown": {
+          "tax": 28000,
+          "hoa": 6000,
+          "insurance": 48000,
+          "ops": 220000
+        }
+      },
+      "features": [
+        "Designed by Theodor Merrill (1928/1929)",
+        "Lavishly renovated and furnished 2016-2020",
+        "Large 1,793 sqm south-west plot",
+        "Multiple expansive living and representative rooms",
+        "Ravishing conservatory",
+        "Spacious terrace with water features",
+        "Outdoor pool with pool house",
+        "Master floor with 2 dressing rooms and 2 bathrooms",
+        "Two guest suites and 4 (children's) bedrooms each with en-suite bathroom",
+        "Private cinema",
+        "Spectacular hammam",
+        "Fitness area",
+        "Wine cellar",
+        "2-room granny apartment with private entrance",
+        "Professional lighting system, custom-made fixtures",
+        "State-of-the-art building technology",
+        "Sophisticated security concept"
+      ],
+      "Garage": {
+        "capacity": 6,
+        "features": [
+          "Large underground garage",
+          "Direct access to the property",
+          "Additional 3 exterior parking spaces"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Elevator to all floors",
+        "Modern home automation and building technology"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/munchen-germany/luxuriously-renovated-villa-jewel-from-1928-with-pool-cinema-and-hammam-16084949",
+        "https://www.riedel-immobilien.de/en/properties/luxuriously-renovated-villa-jewel-from-1928-with-pool-cinema-and-hammam_10185.php"
+      ],
+      "images": [
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-haus-garten-tag-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-haus-garten-tag-detail-3.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-haus-garten-tag-detail-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-diele-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-wohnen-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-essen.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-wintergarten.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-kochen-3.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-kochen-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-kaminzimmer-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-essen-detail.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-wohnen-detail-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-diele-treppe-hoch.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-eg-garderobe-aufzug.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-og-master-schlafen-3.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-og-master-bad-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-og-bad-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-og-bad-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-og-terrasse-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-dg-kind-3-v2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-dg-kind-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-dg-kind-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-kino.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-hamam-1.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-hamam-3.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-fitness-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-einlieger-3.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-einlieger-2.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-ug-einlieger-bad.jpg",
+        "https://www.riedel-immobilien.de/wAssets/img/immobilien/luxurioes-saniertes-villenjuwel-von-1928-mit-pool-kino-und-hamam_10185/bilder/hs-1700-blaue-stunde-2.jpg"
+      ]
+    },
+    {
+      "name": "England Estate",
+      "id": "england-estate",
+      "type": "Mansion",
+      "category": "vacation",
+      "company": "Family Trust → UK London | Mvita England",
+      "notes": "Detached mansion on Hurlingham Road, Parsons Green, overlooking Hurlingham Park — one of South West London’s finest homes. Set behind private gates with a landscaped 114-foot garden. Main house across three floors: six bedrooms, five bathrooms, two dressing rooms, and four reception rooms with garden views. Separate building with guest quarters, two-bedroom staff apartment, and leisure complex (indoor pool, gym, jacuzzi, steam room). Listed building of merit; secure underground parking for ten. Corner of Hurlingham Road and Broomhouse Lane, near Hurlingham Club. Listed £23,000,000 (~$30.4M USD). Savills Fulham FUS250061.",
+      "location": {
+        "city": "London",
+        "district": "Hammersmith and Fulham",
+        "area": "Hurlingham / Parsons Green",
+        "country": "United Kingdom",
+        "address": "Hurlingham Road, London, Hammersmith and Fulham, England"
+      },
+      "staff": [
+        "Estate Manager",
+        "Household Staff",
+        "Gardener",
+        "Security"
+      ],
+      "size": {
+        "value": 17232,
+        "unit": "sqft"
+      },
+      "value": {
+        "amount": 30384897,
+        "currency": "USD",
+        "annualExpenses": 501000,
+        "annualExpenseBreakdown": {
+          "tax": 12000,
+          "hoa": 8000,
+          "insurance": 61000,
+          "ops": 420000
+        }
+      },
+      "features": [
+        "10 bedrooms, 9 bathrooms (listing)",
+        "17,232 sqft detached mansion",
+        "Main house: 6 bedrooms, 5 bathrooms, 2 dressing rooms, 4 reception rooms",
+        "Overlooking Hurlingham Park; corner of Hurlingham Road & Broomhouse Lane",
+        "Private gates and landscaped 114-foot garden",
+        "Separate guest quarters and two-bedroom staff apartment",
+        "Indoor swimming pool, gym, jacuzzi, steam room, changing area",
+        "Secure underground parking for up to 10 vehicles",
+        "Electric gates and private driveway",
+        "Cutting-edge security system",
+        "Listed as a building of merit",
+        "Near Hurlingham Club; Parsons Green tube ~0.2 miles",
+        "Savills — Fulham; listing ref FUS250061"
+      ],
+      "Garage": {
+        "capacity": 10,
+        "features": [
+          "Secure underground parking for up to ten vehicles",
+          "Electric gates and private driveway"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Cutting-edge security system",
+        "Electric gated entry",
+        "Leisure complex climate and pool systems"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/united-kingdom/hurlingham-road-london-15866739"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/2185ba90-055f-4ff3-ad46-9ba2bebbcd18/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/7d7d26a4-9031-44cd-b54f-66d8fdac8432/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/b123405d-3c15-41ea-9bb2-90d663cd04ca/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/e55fd047-248f-4439-9be9-145724ee3825/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/f48c6b80-d976-4c71-9ac3-7a5205991625/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/02c6f166-cebb-4265-a3b2-4adc0a692148/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/f2971930-c3d0-4421-baba-3ec381f001e1/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/07/01/08/48/28/4a418e89-0cd0-4cd2-80e3-e80e58457349/je/1100xxs.jpg"
+      ],
+      "bedrooms": 10,
+      "bathrooms": 9
+    },
+    {
+      "name": "California Estate",
+      "id": "california-estate",
+      "type": "estate",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo. + Acct | Don-Pierre Cali LLC",
+      "notes": "1309 Davies Dr (Davies Way), Beverly Hills — iconic ~2.37-acre promontory view estate minutes from the Beverly Hills Hotel. Fully renovated Modern Tuscan / Mediterranean residence with panoramic city-to-ocean views, or fully RTI plans for a new ~21,000 SF tropical warm modern by Richard Landry. Hollywood lineage (Ricky Martin, Michael Caine, Doris Day family); neighbors Pritzker, Murdoch, and future Gates compounds. Gated private drive, grand motor court, guest house, championship tennis court with pavilion, rolling lawns, gardens, and orchards. Chef’s kitchen, private theater, spectacular primary suite with dual baths, dressing rooms, and terraces. Listed $29,995,000 ($2,727/sqft). MLS #26986659. [Zillow](https://www.zillow.com/homedetails/1309-Davies-Dr-Beverly-Hills-CA-90210/20523774_zpid/)",
+      "location": {
+        "city": "Beverly Hills",
+        "neighborhood": "Beverly Hills",
+        "state": "CA",
+        "country": "United States",
+        "address": "1309 Davies Dr, Beverly Hills, CA 90210"
+      },
+      "staff": [
+        "Estate Manager",
+        "Housekeeper",
+        "Private Chef",
+        "Chauffeur",
+        "Security Guard",
+        "Maintenance Staff",
+        "Gardener",
+        "Pool Technician",
+        "Concierge"
+      ],
+      "size": {
+        "value": 11000,
+        "unit": "sqft"
+      },
+      "value": {
+        "amount": 29995000,
+        "currency": "USD",
+        "annualExpenses": 880000,
+        "annualExpenseBreakdown": {
+          "tax": 360000,
+          "hoa": 15000,
+          "insurance": 120000,
+          "ops": 385000
+        }
+      },
+      "features": [
+        "6 bedrooms, 8 full baths, 4 half baths",
+        "11,000 sqft renovated Mediterranean / Modern Tuscan residence",
+        "2.37-acre gated promontory lot with panoramic city-to-ocean views",
+        "Built 1956; fully renovated; RTI plans for ~21,000 SF Richard Landry rebuild",
+        "Grand motor court via long private drive",
+        "Guest house; championship tennis court with pavilion",
+        "Rolling lawns, mature gardens, and orchards",
+        "Chef's kitchen; private theater",
+        "Primary suite with private terraces, dual baths, and dressing rooms",
+        "Expansive terraces and outdoor living",
+        "Garage 4+ car; circular driveway; guest parking (~20 total spaces)",
+        "Minutes from Beverly Hills Hotel",
+        "Listed $29,995,000 ($2,727/sqft); Zestimate ~$27.9M; MLS #26986659"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Garage — 4+ car",
+          "Circular driveway and grand motor court",
+          "Auto driveway gate; guest parking"
+        ]
+      },
+      "securityLevel": "ultra-premium",
+      "automation": [
+        "Gated auto driveway entry",
+        "Integrated home systems",
+        "Outdoor lighting and AV-ready entertaining spaces"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/1309-Davies-Dr-Beverly-Hills-CA-90210/20523774_zpid/",
+        "https://www.youtube.com/watch?v=S-fX6SyJrYM"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/841a4a0e637a22d48b1c934e57260f28-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/f099c4213670c8d5a3c74ac87b957245-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/b8b93a3c15c8c5c4066474e4e06a7a98-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/d1d7f14ba9e5de22bbf848071a4b8b8e-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/aa6c6dfbf9b1038c646196690b243953-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/0b774d0f6acaac3c53311415ec6bf87e-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/cadaf7cb92802f8c399b1af314e7125d-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/a07276def9b772bcebd55eb8f0f69f26-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/a66152a258c4b4eb283574436979b398-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/5cb2c4b4cc2e4eacb3ded84022c24896-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/09352a1cdbcad77efa6b362f2262e843-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/e369aa80f19c30017ccc2994e9067fbd-cc_ft_1536.webp"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 12,
+      "lotSize": {
+        "value": 2.37,
+        "unit": "acres"
+      }
+    },
+    {
+      "name": "Portland West Hills Estate",
+      "id": "portland-greenleaf-estate",
+      "type": "Mansion",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo | Mvita Portland LLC",
+      "notes": [
+        "Iconic Tudor Revival estate at 4311 SW Greenleaf Dr, Portland OR 97221",
+        "Originally by Roscoe D. Hemenway (1930); nearly $20M renovation by JHL Design & Green Gables Restoration",
+        "MLS #24631430 — Active at $25,000,000 (8 bed / 15 bath / 25,568 sq.ft on 3.26 acres)",
+        "Source: https://www.zillow.com/homedetails/4311-SW-Greenleaf-Dr-Portland-OR-97221/53873338_zpid/"
+      ],
+      "location": {
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "address": "4311 SW Greenleaf Dr, Portland, OR 97221"
+      },
+      "staff": [
+        "Estate Manager",
+        "Security",
+        "Housekeeping",
+        "Groundskeeper",
+        "Maintenance"
+      ],
+      "size": {
+        "value": 25568,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 25000000,
+        "currency": "USD",
+        "annualExpenses": 787000,
+        "annualExpenseBreakdown": {
+          "tax": 300000,
+          "hoa": 12000,
+          "insurance": 55000,
+          "ops": 420000
+        }
+      },
+      "features": [
+        "Historic Tudor Revival by Roscoe D. Hemenway (1930)",
+        "Nearly $20M contemporary luxury renovation",
+        "25,568 sq.ft on 3.26 private gated acres",
+        "Panoramic Portland skyline and mountain views",
+        "Imported materials and handcrafted finishes",
+        "Indoor pool and home theater",
+        "9 fireplaces",
+        "Basketball court, decks, covered patio and courtyards",
+        "Separate living quarters / auxiliary unit",
+        "Hardwood, marble and heated tile floors",
+        "Secured gated grounds",
+        "4-car attached garage"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "4-car attached garage",
+          "Secured driveway parking"
+        ]
+      },
+      "securityLevel": "private-gated",
+      "automation": [
+        "Security gate",
+        "Security lights",
+        "Security system",
+        "Garage door opener",
+        "Climate control"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/4311-SW-Greenleaf-Dr-Portland-OR-97221/53873338_zpid/",
+        "https://www.compass.com/listing/4311-southwest-greenleaf-drive-portland-or-97221/1712586852777010617/"
+      ],
+      "images": [
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_0_9e357/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_1_73a16/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_2_beabe/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_3_b84e8/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_4_df286/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_5_54821/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_6_f0a44/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_7_3624f/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_8_e1f6c/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_9_23a2a/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_10_02ae3/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_11_1afeb/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_12_6314a/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_13_403de/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_14_cfb34/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_15_5ce57/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_16_34db7/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_17_32d48/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_18_714d6/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_19_0fcbd/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_20_d6b5a/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_21_28525/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_22_8c13f/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_23_b4f88/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_24_5111e/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_25_84843/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_26_6c8e3/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_27_4ed01/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_28_8814b/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_29_6b63d/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_30_77d3a/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_31_3c677/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_32_1d9c2/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_33_f8560/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_34_e6572/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_35_4cb22/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_36_fa900/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_37_50bbb/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_38_d3627/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_39_97a6f/1500x1000.jpg",
+        "https://www.compass.com/m/5148b0b35d7d56e4a2983c6a0381a150c40ea62e_img_40_22326/1500x1000.jpg"
+      ],
+      "bedrooms": 8,
+      "bathrooms": 15
+    },
+    {
+      "name": "Japan Estate",
+      "id": "japan-estate",
+      "type": "residential",
+      "category": "vacation",
+      "company": "List Sotheby's International Realty Japan | Sotheby's International Realty Canada",
+      "notes": [
+        "Hiroo 2-chome freehold land parcel (375.03 sqm / ~4,037 sq.ft) in one of Tokyo's most prestigious low-rise neighborhoods — near the Japanese Red Cross Medical Center, international embassies, and private schools.",
+        "Zoning: Category I exclusively low-rise residential (第一種低層住居専用地域); BCR 60% / FAR 150%; typical absolute height limit ~10 m (usually 2 floors + loft).",
+        "Custom-home build envelope: max footprint ~225 sqm (~2,420 sq.ft); max total floor area (GFA) ~562.5 sqm (~6,055 sq.ft) — flagship Hiroo town villa scale, not a mega-compound.",
+        "Generous street frontage and wide access for vehicle entry/parking. Currently rented; delivery by consultation. Listed via List Sotheby's International Realty Japan (SIRC3531568)."
+      ],
+      "location": {
+        "city": "Shibuya-ku",
+        "country": "Japan",
+        "address": "Hiroo 2-chome, Shibuya-ku, Tokyo, Japan"
+      },
+      "size": {
+        "value": 375.03,
+        "unit": "sqm"
+      },
+      "value": {
+        "amount": 24133802,
+        "currency": "USD",
+        "annualExpenses": 306000,
+        "annualExpenseBreakdown": {
+          "tax": 95000,
+          "hoa": 18000,
+          "insurance": 28000,
+          "ops": 165000
+        }
+      },
+      "features": [
+        "Freehold ownership",
+        "Wide street frontage",
+        "Effortless vehicle access",
+        "Convenient parking",
+        "Exclusively low-rise residential zoning (Category I)",
+        "BCR/FAR: 60/150%",
+        "In prestigious Hiroo residential neighborhood",
+        "Close to international embassies and private schools",
+        "Land Category: Residential lot",
+        "Currently rented",
+        "Delivery: Consultation",
+        "Brokered by List Sotheby's International Realty Japan",
+        "8-minute walk from Hiroo station (Keihan Outo Line)",
+        "Planned custom luxury residence (not yet built)",
+        "Max footprint ~225 sqm (~2,420 sq.ft) at BCR 60%",
+        "Max buildable GFA ~562.5 sqm (~6,055 sq.ft) at FAR 150%",
+        "Typical height ≤10 m — usually 2 stories (+ loft if compliant)",
+        "Flagship Hiroo town-villa scale once built"
+      ],
+      "Garage": 4,
+      "securityLevel": "standard",
+      "automation": [],
+      "listingUrl": [
+        "https://sothebysrealty.ca/en/property/global/region-japan/shibuya-ku-real-estate/3531568/"
+      ],
+      "images": [
+        "https://img-v2.gtsstatic.net/reno/imagereader.aspx?url=https%3A%2F%2Fm.sothebysrealty.com%2F1103i0%2Fccbhkqdk9v2vm9yk6bd28kevq4i&w=3840&q=75&option=N&permitphotoenlargement=false&fallbackimageurl=https://www.sothebysrealty.com/resources/siteresources/commonresources/images/nophoto/no_image_new.png",
+        "https://img-v2.gtsstatic.net/reno/imagereader.aspx?url=https%3A%2F%2Fm.sothebysrealty.com%2F1103i215%2F2687sb4aetf44t2kn62aq37694i215&w=3840&q=75&option=N&permitphotoenlargement=false&fallbackimageurl=https://www.sothebysrealty.com/resources/siteresources/commonresources/images/nophoto/no_image_new.png",
+        "https://img-v2.gtsstatic.net/reno/imagereader.aspx?url=https%3A%2F%2Fm.sothebysrealty.com%2F1103i215%2Ft6xwsgjsddw54g6vwy74q6eap6i215&w=3840&q=75&option=N&permitphotoenlargement=false&fallbackimageurl=https://www.sothebysrealty.com/resources/siteresources/commonresources/images/nophoto/no_image_new.png"
+      ],
+      "buildEnvelope": {
+        "landSqm": 375.03,
+        "landSqft": 4037,
+        "bcrPercent": 60,
+        "farPercent": 150,
+        "maxFootprintSqm": 225,
+        "maxFootprintSqft": 2420,
+        "maxGfaSqm": 562.5,
+        "maxGfaSqft": 6055,
+        "typicalMaxHeightM": 10,
+        "typicalStories": "2 (+ loft if compliant)",
+        "zoning": "Category I exclusively low-rise residential"
+      }
+    },
+    {
+      "name": "Brazil Estate",
+      "id": "brazil-estate",
+      "type": "residence",
+      "category": "vacation",
+      "company": "Family Trust → Brazilian HoldCo. + Acct | Mvita Brazil LLC",
+      "notes": "CEO/CIO + 1 are executing power of attorney for Brazilian HoldCo, allowing for efficient management and decision-making of the property. August - September | Brazilian winter, perfect escape from northern summer, dry season.",
+      "location": {
+        "city": "Santana de Parnaiba",
+        "country": "Brazil",
+        "address": "Santana de Parnaiba, Brazil"
+      },
+      "staff": [
+        "Security Guard",
+        "Housekeeper",
+        "Driver",
+        "Maintenance Staff",
+        "Pool Maintenance",
+        "Concierge"
+      ],
+      "size": {
+        "value": 23300,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 23500000,
+        "currency": "USD",
+        "annualExpenses": 355000,
+        "annualExpenseBreakdown": {
+          "tax": 95000,
+          "hoa": 45000,
+          "insurance": 35000,
+          "ops": 180000
+        }
+      },
+      "features": [
+        "Brazilian Residency Eligible",
+        "27.5% Tax for 183+ days in the calendar year (any part of a day counts)",
+        "Land Trust + Holding Company structure",
+        "6 Bedrooms, 9 Bathrooms",
+        "+9 Car Garage",
+        "🇧🇷 Brazilian Investor Visa Program",
+        "August - 1 Month | Brazilian winter, perfect escape from northern summer, dry season"
+      ],
+      "Garage": {
+        "capacity": 9,
+        "features": [
+          "Display only selected cars from Mobility Page"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Audio/video systems",
+        "Smart locks",
+        "Surveillance cameras"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/santana-de-parnaiba-brazil/casa-luxuosa-em-condominio-fechado-alto-padrao-tambore-2-santana-de-paranaiba-sp-17563938"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/fc7bb3e5-a3a6-4bde-9294-aa147f4b1784/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/73390c9a-19a2-4641-9f57-722a367e4a53/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/20b82094-f78b-4ba2-b624-07233d5b619b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/f8f9d75f-a598-42a0-91b0-202be9980c5a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/917fd43a-2cce-42c6-b8df-f1e6d8ecb9de/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/0d1c1d24-7fae-4029-ba01-b5752927d057/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4b7b3a0e-15b3-4ca6-9eab-43e45b65dc3d/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/bf2b22fc-228f-42bf-9d0e-ba6b3df89d9e/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/bafa509e-0296-4565-a34b-d2376e1c722b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/b491cf58-82d7-4768-b5a6-dc35cc53c71b/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/38a43de2-ac6a-4ae2-9c10-b16d9d136064/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/6118d593-4cee-4055-bccd-62d6437f7356/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/d006b6f2-b72f-47c6-b767-40bcdc7e4c1e/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/6331cf80-bd23-47ba-a0eb-0b02cd3baa12/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/1dc8e1f0-fcf7-4bcf-b0fa-3d25f86aa2ec/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/52d42782-8b43-4691-a3f3-06c5456f3f34/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4a32f808-f2ca-4e88-8b8c-8a1f42466991/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/d1929f24-ac1c-4947-828f-c3dfecd934c6/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/7ab8a238-b8e4-4956-8939-9be4a082369a/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/7b8d4784-c514-4494-a10d-ab19f8c1dcef/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/35a31b7a-7e4c-4954-bbb6-1d6b4122f7ef/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/ab2b3b89-47d7-4a5d-adb1-a4c8efbf7f54/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/3a4f1a72-db7e-4747-b01a-36fd30b27dff/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/4335b516-356b-4e3b-a870-ff35d0041218/je/2200xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2025/04/15/16/02/49/a374bc89-50e5-48ac-acad-f960994c9750/je/2200xxs.jpg"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 9
+    },
+    {
+      "name": "New York Estate",
+      "id": "new-york-estate",
+      "type": "townhouse",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo. + Acct | New York Estate LLC",
+      "notes": "120 East 78th Street, Upper East Side — extraordinary eight-story Neo-Georgian townhouse by Delano & Aldrich (façade / design circa 1930; building 1899) on a tree-lined block. Iconic curved marble staircase, wrought-iron fencing, red brick with limestone trim. Dramatic French-inspired elliptical staircase, six fireplaces, restored French paneling, hardwood floors, and carved marble mantels. Full gut renovation with central air, advanced security, and smart home systems. Over 12,600 sqft with 9 bedrooms and 12 bathrooms (radiant heated floors), private garden and basketball court, dining and seventh-floor terraces, and a sun-drenched rooftop deck. Chef’s kitchen with custom cabinetry and premium appliances. Listed $21,995,000 ($1,740/sqft). MLS #S1820032. [Zillow](https://www.zillow.com/homedetails/120-E-78th-St-New-York-NY-10075/31535611_zpid/)",
+      "location": {
+        "city": "New York",
+        "neighborhood": "Upper East Side",
+        "state": "NY",
+        "country": "United States",
+        "address": "120 E 78th St, New York, NY 10075"
+      },
+      "size": {
+        "value": 12641,
+        "unit": "sqft"
+      },
+      "garage": {
+        "capacity": 0,
+        "features": [
+          "Urban townhouse; street / nearby garage parking as arranged"
+        ]
+      },
+      "value": {
+        "amount": 21995000,
+        "currency": "USD",
+        "annualExpenses": 536000,
+        "annualExpenseBreakdown": {
+          "tax": 198000,
+          "hoa": 5000,
+          "insurance": 48000,
+          "ops": 285000
+        }
+      },
+      "bedrooms": 9,
+      "bathrooms": 12,
+      "features": [
+        "9 bedrooms, 12 bathrooms",
+        "12,641 sqft multi-family / townhouse across eight stories",
+        "Neo-Georgian by Delano & Aldrich (circa 1930); built 1899",
+        "Curved marble exterior staircase; red brick and limestone façade",
+        "French-inspired elliptical staircase; restored French paneling",
+        "Six fireplaces; carved marble mantels; hardwood floors",
+        "Floor-to-ceiling windows with double exposures",
+        "Radiant heated floors throughout bedrooms and baths",
+        "Full gut renovation: central air, advanced security, smart home",
+        "Private garden and basketball court (first level)",
+        "Terraces off dining room and seventh floor; rooftop deck",
+        "Chef's kitchen with custom cabinetry and premium stainless appliances",
+        "Ideal primary residence or investment",
+        "Listed $21,995,000 ($1,740/sqft); Zestimate ~$19.2M; MLS #S1820032"
+      ],
+      "securityLevel": "ultra-premium",
+      "automation": [
+        "Smart home lighting, sound, security, and connectivity",
+        "Central air conditioning",
+        "Advanced security systems"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/120-E-78th-St-New-York-NY-10075/31535611_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/87655d281461249f47486d7946bc4b35-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/98fa5269cc84e48d1728963e586dba31-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/8b22ab27dfde7f03cbd3618c55439b70-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/973ebee1c0041fdf61a1b448ac7ec5ef-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/6fa7e0c4255f8d64f6aa150c934433bc-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/67305ff885f261811fbf454af7803422-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/18a3e7c320775b6e1f6e27ab014e344f-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/6e7d3ffef1e82d3b9af7c8ca406b4428-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/b73f376bd44ab1910b8c75eda5abd691-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/5ce823f2d3436c9c780cdd0e54279f43-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/2dcf9aa4cf27f6c25c549751c89b4e09-cc_ft_1536.webp",
+        "https://photos.zillowstatic.com/fp/633f944f1dca4ef4446ad1d0dd39f4a6-cc_ft_1536.webp"
+      ]
+    },
+    {
+      "name": "Thailand Estate",
+      "id": "yamu-one",
+      "type": "villa",
+      "category": "vacation",
+      "company": "N/A",
+      "notes": "",
+      "location": {
+        "city": "Thalang",
+        "region": "Phuket",
+        "country": "Thailand",
+        "address": "Cape Yamu, Thalang, Phuket, Thailand"
+      },
+      "size": {
+        "value": 41388,
+        "unit": "sqm"
+      },
+      "value": {
+        "amount": 18000000,
+        "currency": "USD",
+        "annualExpenses": 320000,
+        "annualExpenseBreakdown": {
+          "tax": 25000,
+          "hoa": 35000,
+          "insurance": 40000,
+          "ops": 220000
+        }
+      },
+      "features": [
+        "10 bedrooms all ensuite",
+        "Panoramic ocean view",
+        "Infinity pool",
+        "Cinema room",
+        "Spa and massage room",
+        "Fitness center",
+        "Rooftop lounge",
+        "Private chef kitchen & butler pantry",
+        "Games/entertainment room",
+        "Extensive outdoor terraces",
+        "Private gated estate",
+        "Tropical landscaped gardens"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Private covered parking",
+          "Direct internal access"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Fully integrated smart-home system",
+        "Automated lighting",
+        "Climate control",
+        "Central music/AV"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/thalang-thailand/yamu-one-12448978"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/988f58fb-b1e4-4b66-bf00-8eb03c25e2da/je/1900xxsxm.jpg",
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/c9cdf621-140e-4cc3-828a-b3a6bf85cd90/je/1900xxsxm.jpg",
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/5c6a5740-49a4-4e7b-8bed-599070b37dd1/je/1900xxsxm.jpg",
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/de07e8a8-78e9-4fed-9fd8-fa9f499cc062/je/1900xxsxm.jpg",
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/5ec9b939-3fc9-45e9-872a-d668a158011a/je/1900xxsxm.jpg",
+        "https://img.jamesedition.com/listing_images/2024/02/26/13/24/22/8ee35781-266b-404b-a59f-b9cf97ba6d7d/je/1900xxsxm.jpg"
+      ],
+      "bedrooms": 10,
+      "bathrooms": 10
+    },
+    {
+      "name": "Netherlands Estate",
+      "id": "zuidelijke-wandelweg-33",
+      "type": "Mansion",
+      "category": "vacation",
+      "company": "Family Trust → NL Amsterdam | Mvita Holland",
+      "notes": "Prestigious newly built mansion offering contemporary Dutch luxury along Amsterdam's Amstel river. Features high-end finishes, generous entertaining areas, and exceptional canal-side views.",
+      "location": {
+        "city": "Amsterdam",
+        "district": "Zuid",
+        "area": "Rivierenbuurt/Amstel",
+        "country": "Netherlands",
+        "address": "Zuidelijke Wandelweg 33, 1079 RK Amsterdam, Netherlands"
+      },
+      "staff": [
+        "24/7 Security",
+        "Concierge",
+        "Housekeeping",
+        "Maintenance",
+        "Valet Parking"
+      ],
+      "garage": {
+        "capacity": 2,
+        "features": [
+          "Secure underground garage",
+          "Electric vehicle charging station",
+          "Direct internal access"
+        ]
+      },
+      "size": {
+        "value": 7718,
+        "unit": "sqft"
+      },
+      "value": {
+        "amount": 15000000,
+        "currency": "USD",
+        "annualExpenses": 590000,
+        "annualExpenseBreakdown": {
+          "tax": 340000,
+          "hoa": 5000,
+          "insurance": 35000,
+          "ops": 210000
+        }
+      },
+      "features": [
+        "Expansive canal-front residence with private mooring",
+        "Tall glass facades and abundant natural light",
+        "Multiple living rooms and formal dining area",
+        "Designer kitchen with premium appliances",
+        "Library and home office",
+        "Wine cellar and tasting room",
+        "Spa area with pool, sauna, and fitness room",
+        "Several luxurious bedroom suites",
+        "Master suite with terrace and canal view",
+        "Rooftop garden and terraces",
+        "Landscaped grounds and outdoor entertainment area",
+        "Private elevator serving each level",
+        "State-of-the-art home automation and security",
+        "Garage with charging station for electric vehicles"
+      ],
+      "Garage": {
+        "capacity": 3,
+        "features": [
+          "Underground garage with security gate",
+          "Charging point for electric vehicles",
+          "Direct internal access to the residence"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Comprehensive smart home integration",
+        "Remote-controlled lighting, blinds, HVAC",
+        "Advanced alarm and CCTV surveillance"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/amsterdam-netherlands/zuidelijke-wandelweg-33-1079-rk-amsterdam-17839780"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/c6c34048-b2db-4a94-934a-f45aa3215fef/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/bd6aaa24-a492-4a93-82f2-e2ad0dda1ae9/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/0b37b17b-4697-4526-8ad5-399d1e13e9b3/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/4375d780-4bfe-4b87-8f06-c2f8904fac8f/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/8e783941-97e9-4a73-b332-8e0b26133fc5/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/219a51e9-9e2f-4703-a2f5-e0a4206c5ff4/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/3181a05d-f872-49ef-9ab7-d29a376f3343/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/3002ee78-f982-4b25-b737-fd5f304f3499/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/3002ee78-f982-4b25-b737-fd5f304f3499/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/06/03/16/24/39/3002ee78-f982-4b25-b737-fd5f304f3499/je/1900xxs.jpg"
+      ]
+    },
+    {
+      "name": "Seattle Penthouse",
+      "id": "seattle-penthouse",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo | Mvita Seattle LLC",
+      "notes": [
+        "World-class residence at the Four Seasons Private Residences — 99 Union Street #1703, Seattle WA 98101",
+        "MLS #2565589 — Active listing via COMPASS (Mary P. Snyder)",
+        "3 bed / 6 bath / 7,382 sq.ft condominium built 2008; HOA ~$21,451/mo",
+        "Source: https://www.zillow.com/homedetails/99-Union-St-UNIT-1703-Seattle-WA-98101/84078042_zpid/"
+      ],
+      "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "country": "USA",
+        "address": "99 Union St #1703, Seattle, WA 98101"
+      },
+      "staff": [
+        "Four Seasons Concierge",
+        "Security",
+        "Housekeeping",
+        "Maintenance"
+      ],
+      "size": {
+        "value": 7382,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 15000000,
+        "currency": "USD",
+        "annualExpenses": 350000,
+        "annualExpenseBreakdown": {
+          "tax": 148000,
+          "hoa": 72000,
+          "insurance": 35000,
+          "ops": 95000
+        }
+      },
+      "features": [
+        "Four Seasons Private Residences, downtown Seattle",
+        "Wraparound terrace with Elliott Bay, Olympic Mountains & waterfront views",
+        "Private interior elevator with full accessibility features",
+        "Dramatic living room with Onice Nuvolato polished onyx panels",
+        "St. Germain aged limestone floors throughout",
+        "Kitchen with honed Crystalla marble & professional-grade appliances",
+        "Outdoor kitchen for al fresco dining",
+        "Formal dining room with Massangis Jaune Clair limestone fireplace",
+        "St. Laurent marble bar",
+        "Climate-controlled wine cellar",
+        "Library lounge with custom millwork & herringbone oak floors",
+        "Primary wing with sitting room, expansive dressing room & Calacatta Gold spa bath",
+        "Ensuite guest bedrooms with exceptional privacy",
+        "Study with uninterrupted views",
+        "Rich architectural millwork throughout",
+        "Condominium built 2008",
+        "Legendary Four Seasons hotel services"
+      ],
+      "Garage": {
+        "capacity": 7,
+        "features": [
+          "7 parking spaces",
+          "Secure building parking"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Climate control",
+        "Private elevator access",
+        "Building security systems",
+        "Wine cellar climate control"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/99-Union-St-UNIT-1703-Seattle-WA-98101/84078042_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/2032ddb6f861162e6f1295bbb1fa946b-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/8a49e9b40793a1a52e74ccc79ff02396-d_d.webp",
+        "https://photos.zillowstatic.com/fp/385519487ed39bade6d1219e85403828-d_d.webp",
+        "https://photos.zillowstatic.com/fp/3004b95e41e63f8c4b3c5b041e24dc3a-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/afd4b4ab8522a9eaf0b50812306fd65e-d_d.webp",
+        "https://photos.zillowstatic.com/fp/6d827d4e67ba712c87bc5ed703dc2879-d_d.webp",
+        "https://photos.zillowstatic.com/fp/42cab03efb85edfa05a83830fc1b1ed9-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/59ac7667cd829ee53abeb41cce659c09-d_d.webp",
+        "https://photos.zillowstatic.com/fp/d1b0d525cf6d59cc6765591c41a4a6d1-d_d.webp",
+        "https://photos.zillowstatic.com/fp/0225e73b59c698a670046e0a0f3ba8d6-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/b634909ec6500cc1b70d77df5be963b4-d_d.webp",
+        "https://photos.zillowstatic.com/fp/c322a29aefee6eb26f2b12cd572d5361-d_d.webp",
+        "https://photos.zillowstatic.com/fp/b493c17c4032af652a5977c46587b01d-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/6ed00f1133c90b82a3dcdec7e7867133-d_d.webp",
+        "https://photos.zillowstatic.com/fp/ef29dca1f1dfc7ef4a84427a6c099062-d_d.webp",
+        "https://photos.zillowstatic.com/fp/49643f8cf771784833d83520aa586f80-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/e2e42891903f1575c2c1576d62533c55-d_d.webp",
+        "https://photos.zillowstatic.com/fp/65e79d6bbf4613ea04143d02c37fe696-d_d.webp",
+        "https://photos.zillowstatic.com/fp/d2f81b11366834ebdbfeb9126e28469d-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/6bf19d28d3bae40d2ce90701970ea46e-d_d.webp",
+        "https://photos.zillowstatic.com/fp/e41ec03fcf55eabe85fabf344fac97b6-d_d.webp",
+        "https://photos.zillowstatic.com/fp/dda5949048be3fc5f672531cd26725b0-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/5e049349d0e8c256593c9a5d09dcb0ea-d_d.webp",
+        "https://photos.zillowstatic.com/fp/46583fbd0684d25859c4586f39b54788-d_d.webp",
+        "https://photos.zillowstatic.com/fp/70e4cee948c8c314e59e06c20de3df9e-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/7adb708dafe0e75eea6a5f754ead6c75-d_d.webp"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 6
+    },
+    {
+      "name": "South Africa Estate",
+      "id": "cape-town-fresnaye",
+      "type": "residential villa",
+      "category": "vacation",
+      "company": "Family Trust → Cape HoldCo | Mvita Cape Inc",
+      "notes": "A spectacular 7-bedroom villa in Fresnaye, Cape Town, South Africa, offering panoramic city, mountain, and ocean views from one of the most exclusive suburbs. A true luxury estate with exceptional entertainment spaces, privacy, and world-class finishes.",
+      "location": {
+        "city": "Cape Town",
+        "country": "South Africa",
+        "address": "Fresnaye, Cape Town"
+      },
+      "size": {
+        "value": 1500,
+        "unit": "sqm"
+      },
+      "value": {
+        "amount": 13500000,
+        "currency": "USD",
+        "annualExpenses": 285000,
+        "annualExpenseBreakdown": {
+          "tax": 85000,
+          "hoa": 28000,
+          "insurance": 32000,
+          "ops": 140000
+        }
+      },
+      "bedrooms": 7,
+      "bathrooms": 7.5,
+      "features": [
+        "Panoramic city, mountain, and ocean views",
+        "Open-plan living and dining areas",
+        "Gourmet kitchen with scullery and pantry",
+        "Multiple entertainment terraces",
+        "Infinity rim-flow swimming pool",
+        "Private cinema",
+        "Wine cellar",
+        "Gym and wellness area",
+        "Luxurious master suite with private balcony",
+        "Elevator access to all floors",
+        "Integrated smart home technology",
+        "Landscaped garden",
+        "Separate staff accommodation",
+        "Triple garage",
+        "Top-tier security systems"
+      ],
+      "Garage": {
+        "capacity": 3,
+        "features": [
+          "Secure triple parking",
+          "Direct house access"
+        ]
+      },
+      "securityLevel": "premium",
+      "automation": [
+        "Advanced smart home control",
+        "Automated blinds and lighting",
+        "Integrated security and AV"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/cape-town-south-africa/7-bedroom-villa-for-sale-in-fresnaye-15760379"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2025/06/09/14/24/10/a7206163-575e-454b-9b85-133f9bc8a17e/je/1100xxs.jpg"
+      ]
+    },
+    {
+      "name": "Finland Estate",
+      "id": "helsinki-top-floor-city-home",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → HoldCo | Don-Pierre Finland Ltd",
+      "notes": "An incredible top-floor city residence in Helsinki with unobstructed sea views, designed for luxury urban living. Features spacious open living, high-end finishes, and panoramic windows. Ideal for buyers seeking a unique combination of privacy, exceptional views, and modern amenities right in the city center.",
+      "location": {
+        "city": "Helsinki",
+        "country": "Finland",
+        "address": "Eiranranta 13, 00150 Helsinki, Finland"
+      },
+      "size": {
+        "value": 219,
+        "unit": "sq.m"
+      },
+      "staff": [
+        "24/7 Security",
+        "Concierge",
+        "Housekeeping",
+        "Maintenance",
+        "Valet Parking"
+      ],
+      "Garage": {
+        "capacity": 2,
+        "features": [
+          "Secure underground garage",
+          "Direct access to residence",
+          "Parking for 2 vehicles"
+        ]
+      },
+      "value": {
+        "amount": 10500000,
+        "currency": "USD",
+        "annualExpenses": 107000,
+        "annualExpenseBreakdown": {
+          "tax": 18000,
+          "hoa": 32000,
+          "insurance": 12000,
+          "ops": 45000
+        }
+      },
+      "features": [
+        "Top-floor corner apartment",
+        "Breathtaking unobstructed sea views",
+        "Expansive floor-to-ceiling windows",
+        "Spacious open-plan living and dining area",
+        "Modern designer kitchen",
+        "Two balconies",
+        "High-quality materials and custom carpentry",
+        "Private sauna",
+        "Master suite with sea view",
+        "Underfloor heating and advanced climate control",
+        "Direct lift access",
+        "2-3 bedrooms",
+        "2 bathrooms",
+        "Secure garage parking for 2 cars",
+        "Storage spaces"
+      ],
+      "securityLevel": "secure-building",
+      "automation": [
+        "Smart climate control",
+        "Video intercom system"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/helsinki-finland/incredible-top-floor-city-home-with-unobstructed-sea-views-14910438"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/14/10/b377d6c7-1361-4c9e-9a4e-ff7726aa81d0/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/14/10/f79c52dc-6513-4f8a-b625-41a79714759d/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/14/08/69f7caae-7854-4f29-952c-67afe33dd738/je/1900xxs.jpg"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 2
+    },
+    {
+      "name": "Houston Penthouse",
+      "id": "houston-belfiore-2502",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → US HoldCo | Mvita Houston LLC",
+      "notes": [
+        "The Penthouse at The Belfiore — top two floors of Houston’s exclusive 45-residence high-rise",
+        "1275 S Post Oak Ln #2502, Houston TX 77056 — nearly 9,000 SF with private elevator vestibule and dual terraces",
+        "MLS #78745561 / #40248263 — Active at $9,800,000 (5 bed / 6 bath / 9,379 sq.ft); HOA ~$11,157/mo",
+        "Source: https://www.zillow.com/homedetails/1275-S-Post-Oak-Ln-2502-Houston-TX-77056/125793100_zpid/"
+      ],
+      "location": {
+        "city": "Houston",
+        "state": "TX",
+        "country": "USA",
+        "address": "1275 S Post Oak Ln #2502, Houston, TX 77056"
+      },
+      "staff": [
+        "Concierge",
+        "Security",
+        "Housekeeping",
+        "Maintenance"
+      ],
+      "size": {
+        "value": 9379,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 9800000,
+        "currency": "USD",
+        "annualExpenses": 333000,
+        "annualExpenseBreakdown": {
+          "tax": 210000,
+          "hoa": 40000,
+          "insurance": 28000,
+          "ops": 55000
+        }
+      },
+      "features": [
+        "Belfiore penthouse spanning top two floors (45 residences)",
+        "Nearly 9,000 SF with 11-ft ceilings and walls of glass",
+        "Two grand terraces with east, west and south panoramic views",
+        "Private elevator vestibule with direct elevator access",
+        "5 bedrooms including two primary suites",
+        "680 SF dressing room",
+        "Media room, office, wet bar, massage room and wine cellar",
+        "Venetian plaster, imported marbles, custom millwork",
+        "Herringbone white oak floors and layered lighting",
+        "La Cornue and Gaggenau appliances; Rohl plumbing",
+        "Lutron automation throughout",
+        "Building amenities: fitness center, controlled access, valet parking"
+      ],
+      "Garage": {
+        "capacity": 3,
+        "features": [
+          "Assigned parking",
+          "Valet",
+          "Controlled entrance",
+          "Auto garage door opener"
+        ]
+      },
+      "securityLevel": "high",
+      "automation": [
+        "Lutron automation",
+        "Climate control (zoned)",
+        "Building security",
+        "Private elevator"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/1275-S-Post-Oak-Ln-2502-Houston-TX-77056/125793100_zpid/"
+      ],
+      "images": [
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/83dcefb7.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/1ad5be0d.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/6dd28e9b.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/f3b61b38.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/84b12bae.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/1db87a14.jpeg",
+        "https://dvvjkgh94f2v6.cloudfront.net/7b68097c/773256939/6abf4a82.jpeg"
+      ],
+      "bedrooms": 5,
+      "bathrooms": 6
+    },
+    {
+      "name": "Portugal Estate",
+      "id": "portugal-estate",
+      "type": "Apartment",
+      "category": "vacation",
+      "company": "Family Trust → Portugal | Mvita Portugal",
+      "notes": "Exceptional 6-bedroom duplex apartment spanning the 22nd and 23rd floors of the Infinity Tower, Campolide, Lisbon. Boasts panoramic river, city, and mountain views, as well as 684 sqm of total living space, high-end amenities, and privileged location at one of the city's most renowned addresses.",
+      "location": {
+        "city": "Lisbon",
+        "district": "Campolide",
+        "area": "7 Rios",
+        "country": "Portugal",
+        "address": "Rua Canto da Maya, Campolide, Lisbon, Portugal"
+      },
+      "staff": [
+        "Concierge",
+        "Doorman",
+        "Housekeeping (On request)",
+        "Security"
+      ],
+      "size": {
+        "value": 7385,
+        "unit": "sqft"
+      },
+      "value": {
+        "amount": 9164733,
+        "currency": "USD",
+        "annualExpenses": 182000,
+        "annualExpenseBreakdown": {
+          "tax": 45000,
+          "hoa": 28000,
+          "insurance": 14000,
+          "ops": 95000
+        }
+      },
+      "features": [
+        "6 en-suite bedrooms (including maid's room)",
+        "7 bathrooms",
+        "Duplex layout (22nd and 23rd floors)",
+        "Panoramic river, city, and forest views",
+        "Infinity-edge outdoor pool",
+        "Indoor pool",
+        "Private terraces",
+        "Garden areas",
+        "Tennis court",
+        "Sauna",
+        "Private elevator access",
+        "Smart home features",
+        "Contemporary open-plan kitchen",
+        "Living and dining spaces with floor-to-ceiling glass",
+        "24/7 security and concierge services",
+        "High energy efficiency (A+)",
+        "Low emissions (NI)",
+        "Storage room"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Secured underground parking",
+          "Electric charging points",
+          "Direct elevator access from garage"
+        ]
+      },
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/campolide-portugal/6-bedroom-duplex-apartment-in-infinity-tower-with-river-view-and-montain-in-7-rios-lisbon-16914019"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2026/01/09/15/07/54/8264337c-e743-4c36-bfe5-dfa03e6972dc/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/01/09/15/07/54/25c85699-ef59-4079-ab90-c93a789e12ae/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/01/09/15/07/54/874d5ae1-6b99-4ca4-a1f0-ce3cb35466fc/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/01/09/15/07/54/af79bcee-cff5-4bf8-bbc8-08fd17b94312/je/1100xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/01/09/15/07/54/76a8a24d-7819-4838-8021-cbf4bc45835b/je/1100xxs.jpg"
+      ],
+      "bedrooms": 6,
+      "bathrooms": 7
+    },
+    {
+      "name": "Peru Estate",
+      "id": "peru-estate",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → Peru HoldCo | Mvita Peru LLC",
+      "notes": "1,130 m² three-level penthouse in San Isidro, Lima, designed by Deby Kouri. Double-height living with terrace over the Dasso and Golf parks, 340 m² rooftop with heated current pool, cinema, and Minotti interiors. Listed by Perú Sotheby's International Realty.",
+      "location": {
+        "city": "Lima",
+        "neighborhood": "San Isidro",
+        "country": "Peru",
+        "address": "General Muñiz, San Isidro, Lima, Peru"
+      },
+      "size": {
+        "value": 1130,
+        "unit": "sqm"
+      },
+      "staff": [
+        "Concierge",
+        "Housekeeping",
+        "Maintenance",
+        "24/7 Security"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "Secure building garage",
+          "Direct elevator access"
+        ]
+      },
+      "value": {
+        "amount": 6500000,
+        "currency": "USD",
+        "annualExpenses": 164000,
+        "annualExpenseBreakdown": {
+          "tax": 45000,
+          "hoa": 22000,
+          "insurance": 12000,
+          "ops": 85000
+        }
+      },
+      "features": [
+        "4 bedrooms, 5 bathrooms; each bedroom ensuite with walk-in closet",
+        "1,130 m² / 12,164 sqft over three levels",
+        "Designed by architect Deby Kouri",
+        "Direct elevator to all levels plus service elevator",
+        "Double-height living room and terrace overlooking Dasso and Golf parks",
+        "Separate dining for 10; premium kitchen with island, dining, and pantry",
+        "Cinema / TV room",
+        "Master suite with double walk-in closet, marble jacuzzi bath, private living room",
+        "340 m² rooftop overlooking the golf course",
+        "Heated swimming pool with contra-current swim",
+        "Rooftop barbecue and bar",
+        "Italian marble floors; ~80% Minotti furniture",
+        "Mitsubishi centralized air conditioning",
+        "Listing $6,500,000 USD (JamesEdition 14910648 / HH92CQ)"
+      ],
+      "securityLevel": "secure-building",
+      "automation": [
+        "Direct and service elevators",
+        "Centralized climate control",
+        "Video intercom system"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/san-isidro-peru/stunning-luxury-penthouse-of-1-130-m2-located-in-exclusive-area-of-san-isidro-14910648"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/59/57/e0a5de66-27b2-49d5-ad72-b29e858cc8ec/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/59/57/b2916177-4c94-4a2e-81a2-6efe93bed4ef/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/59/57/f3a00772-060f-4f53-83cc-19455c16bd9a/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/59/57/c78b02a8-fe3c-4e8b-87df-8de17d5f3d96/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2024/11/13/13/59/57/893283f3-202b-4096-ad51-c3718cc849fc/je/1900xxs.jpg"
+      ],
+      "bedrooms": 4,
+      "bathrooms": 5
+    },
+    {
+      "name": "Windsor Penthouse",
+      "id": "windsor-riverside-804",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → Canadian HoldCo | Mvita Windsor LLC",
+      "notes": [
+        "Luxurious 3,750 sq.ft executive condo at 4955 Riverside Dr E #804, Windsor ON N8Y 5A3",
+        "Outstanding Detroit River and skyline views; Downsview kitchen; 24hr concierge",
+        "MLS #26014740 — list C$1,950,000 + C$2,000,000 renovation = C$3,950,000 total value (2 bed / 3 bath, built 2001); HOA ~C$2,220/mo",
+        "Source: https://www.zillow.com/homedetails/4955-Riverside-Dr-E-804-Windsor-ON-N8Y-5A3/463383399_zpid/"
+      ],
+      "location": {
+        "city": "Windsor",
+        "state": "ON",
+        "country": "Canada",
+        "address": "4955 Riverside Dr E #804, Windsor, ON N8Y 5A3"
+      },
+      "staff": [
+        "24hr Concierge",
+        "Security",
+        "Housekeeping",
+        "Maintenance"
+      ],
+      "size": {
+        "value": 3750,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 3950000,
+        "currency": "CAD",
+        "annualExpenses": 76500,
+        "annualExpenseBreakdown": {
+          "tax": 28000,
+          "hoa": 18000,
+          "insurance": 8500,
+          "ops": 22000
+        }
+      },
+      "features": [
+        "Executive waterfront condo with Detroit River and skyline views",
+        "Custom Downsview kitchen with center island, bar and granite",
+        "Living/dining with fireplace and custom AV cabinetry",
+        "Office / den and elegant powder room",
+        "Master with 6-pc ensuite, walk-in closet and private balcony",
+        "Second bedroom with 4-pc ensuite and walk-in closet",
+        "Laundry room and separate storage",
+        "4 prime parking spots and 2 storage bins",
+        "24hr concierge and guest suites",
+        "Built 2001"
+      ],
+      "Garage": {
+        "capacity": 4,
+        "features": [
+          "4 underground parking spots",
+          "2 storage bins"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Alarm system",
+        "Central vac",
+        "Dual HVAC"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/4955-Riverside-Dr-E-804-Windsor-ON-N8Y-5A3/463383399_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/94d6b909ce012cce459d95a3190c8191-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/68cfd06848481fb059bc2f6573e8c0d4-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/207b0b720e8ac27ea89913f0af55110f-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/bf738ff693a4766ad844cae378302322-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/27b09d5f22262973acccbbcd3cf56d9f-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/de8889abacb6d4854793fd3061410db5-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/6d0991eaae8d346c941747f79feed371-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/3f75987de30494b46f22e21a58b73316-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/10cc0853cdd4ded9eee94bd9b2625cef-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/0af8945e3d012751e992cc9e1ffd6312-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/d3f03bc67ad70d223e1453668b3b1db8-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/3e82960a5b261293099555a8b97f2200-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/356107be0438086a01802253c95c2f8c-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/923d1477bb7d10ea5608be96fc4bca1b-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/1132f931641e79c0c0d3b63f0027666b-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/5a54e6ea832fe4a961ef393a5cbd67d2-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/7a7ceeec391978cf11da015d251088b2-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/e91e1e950d569717efc05df6bcd59f45-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/ec329611fd77a9aa580f3f982cd4caa2-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/02eff55fd64635c256642e6a3002f050-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/2daca1ceb13fb06620f14ef724246a54-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/612b66bd46d8a23a012441d577b9e07c-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/7871e2c65257ed13d3267c23d55c3b9f-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/c03445da1d5c28059a31a4862694ccd8-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/8e187fd0bb245ba50cbbd9dcb52c3650-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/8da1dcfe7fdde8db751210314ab67134-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/4cb649c03179b0b2cefa8422ed27e792-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/b68a16ed76a0eaa38c27139f0a59599f-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/84f4bfbdeab0d8c6deb239a9192eb703-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/032f3e480fb69a216948e930815900ec-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/48a9cab44cd795e1dec327256b0c9c11-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/dc0a2bc86e6c3ac56a033ac24337b944-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/7850042ca9138f724686f24d9be3a562-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/47212b4351df739f6c08699cddb7c9e3-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/b8dfd93cfd6a5de30ab76640d4c01daa-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/451c52c65c5be01a80f202356ad486bc-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/862a8137ee50a5844d1919f829f12492-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/7b1bd909f895860a218ea1989afe15b1-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/a756f34bc37bf676a958caaf14a0348f-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/d8b2d0f3e82b14888b4c95b43ca78182-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/cdc305fd88eb7a1b0e5bd730779ddb33-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/8a8bd2ff2624330e7948efab8d8d6f19-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/27431dd7e2ecfefbbffc1d1005e9ce98-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/0e4b1c952f57b237163c62a292bcd910-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/59d3488d5bf09f810a1e1dbd3ff1fbce-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/6f394fcea3d1199f85ed963e979c8d31-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/b99e0c5762d87a68cbe5064add9bf0bc-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/4bb8093002b14d0d1025d8a296d396fe-uncropped_scaled_within_1344_1008.webp",
+        "https://photos.zillowstatic.com/fp/9efe2c04b13b411e4739dbdfab2dd9e0-uncropped_scaled_within_1344_1008.webp"
+      ],
+      "bedrooms": 2,
+      "bathrooms": 3
+    },
+    {
+      "name": "Lithuania Estate",
+      "id": "lithuania-estate",
+      "type": "Penthouse",
+      "category": "vacation",
+      "company": "Family Trust → Lithuania HoldCo | Mvita Lithuania Ltd",
+      "notes": "Exclusive 312 sqm luxury apartment in Turniškės, Vilnius, with a 220 sqm terrace and panoramic city and water views. 160 sqm open-plan living, dining, and kitchen with floor-to-ceiling windows; sunrise and sunset over the city. Listed by Baltic Sotheby's International Realty.",
+      "location": {
+        "city": "Vilnius",
+        "neighborhood": "Turniškės",
+        "country": "Lithuania",
+        "address": "Konstitucijos pr., Turniškės, Vilnius, Lithuania"
+      },
+      "size": {
+        "value": 312,
+        "unit": "sqm"
+      },
+      "staff": [
+        "Concierge",
+        "Housekeeping",
+        "Maintenance",
+        "24/7 Security"
+      ],
+      "Garage": {
+        "capacity": 2,
+        "features": [
+          "Secure garage",
+          "Building parking"
+        ]
+      },
+      "value": {
+        "amount": 2280000,
+        "currency": "USD",
+        "annualExpenses": 60500,
+        "annualExpenseBreakdown": {
+          "tax": 18000,
+          "hoa": 9000,
+          "insurance": 5500,
+          "ops": 28000
+        }
+      },
+      "features": [
+        "3 bedrooms, 4 bathrooms",
+        "312 sqm apartment plus 220 sqm terrace",
+        "3,359 sqft interior",
+        "160 sqm open-plan living, dining, and kitchen",
+        "Floor-to-ceiling windows",
+        "Panoramic city, water, and scenic views",
+        "One of the largest terraces in the city",
+        "Jacuzzi",
+        "Open kitchen with island and stone countertops",
+        "Bar",
+        "Elevator",
+        "Air conditioning",
+        "Balcony",
+        "Year built 2004",
+        "Listing €1,950,000 (JamesEdition 17710753 / XK59FX)"
+      ],
+      "securityLevel": "secure-building",
+      "automation": [
+        "Elevator",
+        "Video intercom system"
+      ],
+      "listingUrl": [
+        "https://www.jamesedition.com/real_estate/vilniud-lithuania/elegance-meets-unmatched-luxury-above-the-city-views-17710753"
+      ],
+      "images": [
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/5391d56b-3408-4127-b68f-c2b628b511ad/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/b2e58eec-a555-4a2f-8b42-0ffc84c6c6ec/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/93884e62-9e9f-463a-9e98-bfec0d43a8bd/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/819875d8-1749-4a0d-af4d-94cd0eb3d6c9/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/f7108dca-a261-4146-b704-c59719e88e9f/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/6a68f169-7fad-4912-9edf-1cace370a62d/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/834563ab-7653-4c4a-b4fa-7e5f8826c53f/je/1900xxs.jpg",
+        "https://img.jamesedition.com/listing_images/2026/04/17/14/13/26/062fc509-a4b3-423d-a2a3-14dd052c924d/je/1900xxs.jpg"
+      ],
+      "bedrooms": 3,
+      "bathrooms": 4
+    },
+    {
+      "name": "Don-Pierre UAE",
+      "id": "mvita-hq-dubai",
+      "type": "facility",
+      "category": "commercial",
+      "company": "Family Trust → UAE HoldCo | Mvita Dubai Inc",
+      "notes": "A state-of-the-art corporate mega headquarters in Dubai, UAE, serving as the central hub for Mvita Family Office, Mvita Family Trust, Mvita Ventures, Mvita SportsEnt, Mvita Group RE, and Mvita Digital Assets. The facility features a modern fit-out with advanced security measures, automation systems, and a comprehensive range of amenities to support the diverse operations of the Mvita Group.",
+      "location": {
+        "city": "Dubai",
+        "country": "UAE",
+        "address": "Dubai, UAE"
+      },
+      "staff": [
+        "Security Guard ",
+        "Receptionist",
+        "IT Support",
+        "Maintenance Staff",
+        "Cleaning Staff",
+        "Facilities Manager"
+      ],
+      "size": {
+        "value": 400000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 35000000,
+        "currency": "USD",
+        "annualExpenses": 595000,
+        "annualExpenseBreakdown": {
+          "tax": 0,
+          "hoa": 180000,
+          "insurance": 95000,
+          "ops": 320000
+        }
+      },
+      "features": [
+        "Land Trust + HoldingCo structure",
+        "$4.7 purchase price + $5.3 renovation & upgrades",
+        "Corporate Mega Headquarters",
+        "Mvita Family Office HQ",
+        "Mvita Family Trust HQ",
+        "Mvita Ventures HQ",
+        "Mvita SportsEnt HQ",
+        "Mvita Group RE HQ",
+        "Mvita Digital Assets HQ",
+        "Flood Proof",
+        "Executive Suite & Concierge Office",
+        "Security, Surveillance & Armory Zone",
+        "Vehicle Display Gallery",
+        "Supercar Service Bay",
+        "Dyno & Performance Tuning Zone",
+        "Detailing & Preservation Bay",
+        ""
+      ],
+      "securityLevel": "maximum",
+      "automation": [
+        "Biometric access control",
+        "HVAC automation",
+        "Lighting control",
+        "Security system integration",
+        "Power management",
+        "Environmental monitoring",
+        "Surveillance cameras",
+        "Data center automation"
+      ],
+      "listingUrl": [
+        "https://dubai.dubizzle.com/property-for-sale/commercial/commercial-building/2026/9/4/full-commercial-building-for-sale-dubai-2-279685/",
+        "https://dubai.dubizzle.com/property-for-sale/commercial/commercial-building/2026/5/11/boutique-commercial-building-8-roi-for--2-132468/",
+        "https://dubai.dubizzle.com/property-for-sale/commercial/warehouse/2026/8/27/gaming-zone-gym-car-show-room-padel-roa-2-991037/"
+      ],
+      "images": [
+        "https://dbz-images.dubizzle.com/images/2026/09/07/db9b68e3-c3a8-445d-b7ea-e2bf0ea34464/ff7978f7a27f432fa072dfa9c74e8fa0-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/09/04/8ba4b375-dfbe-42b7-937f-73102b5bdd46/af3aa010d42e4589b8fb9f194b2593a0-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/09/07/db9b68e3-c3a8-445d-b7ea-e2bf0ea34464/65a35d24ff7e4f8199eb852129ea6add-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/09/04/8ba4b375-dfbe-42b7-937f-73102b5bdd46/fbe1e9642ceb4c5981d82baec0015ed0-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/09/07/db9b68e3-c3a8-445d-b7ea-e2bf0ea34464/e58fb31daf864be58608488c8906c66e-.jpg?impolicy=dpv",
+        "https://dbz-images.dubizzle.com/images/2026/09/04/8ba4b375-dfbe-42b7-937f-73102b5bdd46/9c85487f3e2d46a98c6e32fe030e5bf8-.jpg?impolicy=dpv",
+        "https://i.pinimg.com/1200x/72/7d/5f/727d5f4b6f5a52da1f1ff7a9ba842fc7.jpg",
+        "https://i.pinimg.com/736x/d1/b0/a1/d1b0a1f9df920f832580540f030fb85e.jpg",
+        "https://i.postimg.cc/zfYxmYrc/Mvita-HQ-Abu-Dhabi.png",
+        "https://i.postimg.cc/4yGKZwdZ/Mvita-HQ-Abu-Dhabi-2.png",
+        "https://i.postimg.cc/zfYxmYrc/Mvita-HQ-Abu-Dhabi.png",
+        "https://i.postimg.cc/4yGKZwdZ/Mvita-HQ-Abu-Dhabi-2.png"
+      ],
+      "certifications": [
+        "Highest Security Certifications"
+      ]
+    },
+    {
+      "name": "Congo Cathedral",
+      "id": "congo-cathedral",
+      "type": "facility",
+      "category": "commercial",
+      "company": "Family Trust → DRC HoldCo | Mvita Congo",
+      "notes": "Purpose-built Congo Cathedral complex in the Democratic Republic of Congo — landmark sacred and civic architecture featuring a prominent clock tower, expansive landscaped grounds, formal gardens, and a greenhouse. Build value marked at $70M USD.",
+      "location": {
+        "city": "Kinshasa",
+        "country": "Democratic Republic of Congo",
+        "address": "Kinshasa, Democratic Republic of Congo"
+      },
+      "size": {
+        "value": 250000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 70000000,
+        "currency": "USD",
+        "annualExpenses": 1420000,
+        "annualExpenseBreakdown": {
+          "tax": 210000,
+          "hoa": 40000,
+          "insurance": 280000,
+          "ops": 890000
+        }
+      },
+      "features": [
+        "Clock tower",
+        "Large grounds",
+        "Formal garden",
+        "Greenhouse",
+        "Landmark architecture",
+        "Civic & ceremonial spaces"
+      ],
+      "securityLevel": "enhanced",
+      "automation": [
+        "Perimeter security",
+        "Lighting control",
+        "Surveillance cameras",
+        "Access control"
+      ],
+      "images": [
+        "https://i.ibb.co/8DYgWx91/Congo-cathedral.png",
+        "https://i.ibb.co/4ncj2GNC/cathedral-clock-tower.jpg"
+      ]
+    },
+    {
+      "name": "Sandton Towers",
+      "id": "sandton-towers",
+      "type": "commercial-mixed-use",
+      "category": "commercial",
+      "company": "Family Trust → SA HoldCo | Mvita Sandton",
+      "notes": "132 West Street, Sandown, Sandton (listing #112573832) — three mixed-use land portions adjacent to Nelson Mandela Square, Sandton City and Gautrain. Ask R572,000,000 (~$35.40M USD at ZAR→USD 0.06189 as of 2026-09-11) plus $122M USD development to deliver a park precinct, one massive mixed-use podium, a tall luxury residential tower (indoor & outdoor pools, gym), and a commercial tower with luxury retail brands and premium offices. Includes rooftop helicopter landing pad and rooftop garage for 3 vehicles. Site already includes foundations and basement parking on one portion. Zoned shops, offices, apartments and hotel; ~55,000 m² bulk / 9,450 m² erf.",
+      "location": {
+        "city": "Sandown",
+        "country": "South Africa",
+        "region": "Sandton / Gauteng",
+        "address": "132 West Street, Sandown, Sandton"
+      },
+      "size": {
+        "value": 592015,
+        "unit": "sq.ft"
+      },
+      "Garage": {
+        "capacity": 403,
+        "features": [
+          "Existing basement parking bays on one land portion",
+          "Expanded structured parking in development program",
+          "Rooftop garage — 3 vehicle spaces"
+        ]
+      },
+      "value": {
+        "amount": 157401080,
+        "currency": "USD",
+        "annualExpenses": 4530000,
+        "purchasePriceZar": 572000000,
+        "purchasePriceUsd": 35401080,
+        "developmentBudgetUsd": 122000000,
+        "fxRateZarToUsd": 0.06189,
+        "fxAsOf": "2026-09-11",
+        "annualExpenseBreakdown": {
+          "tax": 2200000,
+          "hoa": 0,
+          "insurance": 480000,
+          "ops": 1850000
+        }
+      },
+      "features": [
+        "Three mixed-use land portions (total erf 9,450 m²)",
+        "Bulk rights ~55,000 m²",
+        "Park / public realm precinct ($122M development program)",
+        "Massive mixed-use podium",
+        "Tall luxury residential tower",
+        "Indoor swimming pool",
+        "Outdoor swimming pool",
+        "Residential gym & wellness",
+        "Commercial tower — luxury brand retail",
+        "Commercial tower — luxury offices",
+        "Helicopter landing pad (helipad)",
+        "Rooftop garage — 3 spaces",
+        "Hotel zoning entitlement",
+        "Foundations & basement parking included",
+        "Adjacent Nelson Mandela Square",
+        "Adjacent Sandton City",
+        "Adjacent Gautrain Station"
+      ],
+      "securityLevel": "maximum",
+      "automation": [
+        "Building management system",
+        "Access control",
+        "Surveillance cameras",
+        "Parking automation",
+        "Lighting control",
+        "Helipad lighting & clearance monitoring"
+      ],
+      "listingUrl": [
+        "https://property.mg.co.za/commercial-property-for-sale-in-sandown-112573832"
+      ],
+      "images": [
+        "https://i.postimg.cc/MHB0WtCt/Sandton-Towers.png",
+        "https://images.prop24.com/349362596/Crop320x213",
+        "https://images.prop24.com/349362594",
+        "https://images.prop24.com/349364163/Crop320x213",
+        "https://images.prop24.com/324694503/Crop320x213",
+        "https://images.prop24.com/324701146/Crop320x213"
+      ]
+    },
+    {
+      "name": "Portland Alberta Portfolio",
+      "id": "portland-alberta-portfolio",
+      "type": "multi-family",
+      "category": "commercial",
+      "company": "Family Trust → US HoldCo | Mvita Portland LLC",
+      "notes": "Portfolio of 9 buildings / 121 units (townhomes, apartments & retail) across Alberta Arts, Hollywood and South Waterfront. Built 2023–2025 with high-end finishes. Gross income ~$2.29M; NOI ~$1.69M. MLS #792913119 — Active at $30,875,000 (67,286 sq.ft). Source: https://www.zillow.com/homedetails/2425-NE-Alberta-St-Portland-OR-97211/444289797_zpid/",
+      "location": {
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "address": "2425 NE Alberta St, Portland, OR 97211"
+      },
+      "size": {
+        "value": 67286,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 30875000,
+        "currency": "USD",
+        "annualExpenses": 775000,
+        "annualExpenseBreakdown": {
+          "tax": 370000,
+          "hoa": 25000,
+          "insurance": 95000,
+          "ops": 285000
+        }
+      },
+      "features": [
+        "9-building / 121-unit mixed portfolio",
+        "Townhomes, apartments and retail",
+        "Built 2023–2025 with high-end finishes",
+        "Alberta Arts, Hollywood and South Waterfront locations",
+        "Gross income ~$2.29M / NOI ~$1.69M",
+        "Modern design and strong tenant appeal",
+        "1.11 acre assemblage"
+      ],
+      "securityLevel": "enhanced",
+      "automation": [
+        "Building access control"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/2425-NE-Alberta-St-Portland-OR-97211/444289797_zpid/"
+      ],
+      "images": [
+        "https://www.compass.com/m/dd9019f4f08d7dccd1138d7a717e9998e6318d444e5315bc4d81adcb758506bb/640x480.jpg"
+      ]
+    },
+    {
+      "name": "Alberta Arts Apartments",
+      "id": "portland-alberta-arts-32",
+      "type": "multi-family",
+      "category": "commercial",
+      "company": "Family Trust → US HoldCo | Mvita Portland LLC",
+      "notes": "Newly constructed 32-unit apartment building with 2 retail spaces in Alberta Arts District. Studios to 2-bedrooms, elevator, outdoor common area. MLS #251497797 — Active at $9,599,900 (22,241 sq.ft, built 2025). Source: https://www.zillow.com/homedetails/2465-NE-Alberta-St-Portland-OR-97211/53884814_zpid/",
+      "location": {
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "address": "2465 NE Alberta St, Portland, OR 97211"
+      },
+      "size": {
+        "value": 22241,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 9599900,
+        "currency": "USD",
+        "annualExpenses": 286000,
+        "annualExpenseBreakdown": {
+          "tax": 115000,
+          "hoa": 8000,
+          "insurance": 38000,
+          "ops": 125000
+        }
+      },
+      "features": [
+        "32-unit multifamily with 2 retail spaces",
+        "Built 2025 — turnkey new construction",
+        "Studios to spacious two-bedrooms",
+        "Elevator access and outdoor common area",
+        "Alberta Arts District — walkable, bike-friendly",
+        "Steps from galleries, shops and dining",
+        "Modern exterior and contemporary interiors"
+      ],
+      "securityLevel": "enhanced",
+      "automation": [
+        "Elevator",
+        "Access control"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/2465-NE-Alberta-St-Portland-OR-97211/53884814_zpid/"
+      ],
+      "images": [
+        "https://m.cbhomes.com/p/283/251497797/2358250a7dE0463/original.webp"
+      ]
+    },
+    {
+      "name": "Wingsong Apartments",
+      "id": "portland-wingsong-apartments",
+      "type": "multi-family",
+      "category": "commercial",
+      "company": "Family Trust → US HoldCo | Mvita Portland LLC",
+      "notes": "34-unit Wingsong Apartments near Mt. Tabor — large open-layout units weighted to 2bed/2bath, in-unit W/D, balconies/patios, garages and off-street parking. Assumable financing at 3.43% fixed through 2031. MLS #185390634 — Active at $7,500,000 (36,693 sq.ft, built 1993). Source: https://www.zillow.com/homedetails/723-SE-60th-Ave-2F174AC72-Portland-OR-97215/2061584053_zpid/",
+      "location": {
+        "city": "Portland",
+        "state": "OR",
+        "country": "USA",
+        "address": "723 SE 60th Ave, Portland, OR 97215"
+      },
+      "size": {
+        "value": 36693,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 7500000,
+        "currency": "USD",
+        "annualExpenses": 283000,
+        "annualExpenseBreakdown": {
+          "tax": 90000,
+          "hoa": 6000,
+          "insurance": 42000,
+          "ops": 145000
+        }
+      },
+      "features": [
+        "34-unit apartment community near Mt. Tabor",
+        "Large open-layout units; strong 2bed/2bath mix",
+        "In-unit washer/dryers, private balconies and patios",
+        "Garages and off-street parking",
+        "Ample greenspace; well maintained",
+        "Assumable 3.43% fixed financing through 2031",
+        "Clear rent-growth upside vs area comps",
+        "Built 1993 on 1.43 acres"
+      ],
+      "Garage": {
+        "capacity": 34,
+        "features": [
+          "Garages and off-street parking"
+        ]
+      },
+      "securityLevel": "standard",
+      "automation": [],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/723-SE-60th-Ave-2F174AC72-Portland-OR-97215/2061584053_zpid/"
+      ],
+      "images": [
+        "https://m.cbhomes.com/p/283/185390634/d822406171FC443/original.webp"
+      ]
+    },
+    {
+      "name": "96 University Ave W",
+      "id": "waterloo-96-university-ave",
+      "type": "multi-family",
+      "category": "commercial",
+      "company": "Family Trust → Canadian HoldCo | Mvita Waterloo LLC",
+      "notes": "96 University Ave W, Waterloo ON (Zillow zpid 464075138 / MLS #40849492) — six-storey art-deco student housing at University Ave W & Albert St, directly across from Wilfrid Laurier University and steps from University of Waterloo. Purpose-built 2012; fully occupied since completion. Diversified unit mix of 5-, 4-, 3-, and 2-bedroom suites for group co-tenancy. Active for sale at C$19,900,000 (52,734 sq.ft, ~C$377/sqft). Listed by Dan Openshaw, RE/MAX Real Estate Centre Inc. (ITSO / Cornerstone). Source: https://www.zillow.com/homedetails/96-University-Ave-W-Waterloo-ON-N2L-3C9/464075138_zpid/",
+      "location": {
+        "city": "Waterloo",
+        "state": "ON",
+        "country": "Canada",
+        "address": "96 University Ave W, Waterloo, ON N2L 3C9"
+      },
+      "size": {
+        "value": 52734,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 19900000,
+        "currency": "CAD",
+        "annualExpenses": 520000,
+        "annualExpenseBreakdown": {
+          "tax": 210000,
+          "hoa": 0,
+          "insurance": 65000,
+          "ops": 245000
+        }
+      },
+      "features": [
+        "Six-storey multi-family student housing (Multi Family)",
+        "Art deco facade and California ceilings",
+        "Corner of University Ave W & Albert St — across from Wilfrid Laurier University",
+        "Steps from University of Waterloo",
+        "Purpose-built 2012; fully occupied since completion",
+        "Unit mix: 5-, 4-, 3-, and 2-bedroom suites",
+        "Dual fridges, dishwasher, full 4-piece baths per suite",
+        "Lower-level in-floor heating; central A/C and forced air",
+        "Elevator, controlled entry, 24/7 CCTV",
+        "On-site management office and in-building laundry",
+        "Indoor and outdoor parking",
+        "Separate heating controls and hydro meters",
+        "Finished full basement",
+        "VTB 2nd may be available for qualified buyer",
+        "52,734 sq.ft | ~C$377/sqft | MLS #40849492"
+      ],
+      "Garage": {
+        "capacity": 0,
+        "features": [
+          "Indoor parking",
+          "Outdoor parking"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Controlled entry",
+        "24/7 CCTV surveillance",
+        "Elevator"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/96-University-Ave-W-Waterloo-ON-N2L-3C9/464075138_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/ece0fff9037167cbe9efc4b99961bde6-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/8efeea0fa45e96e0549fa37188147365-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/de7c32680f7496041ac192aea431708c-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/c67e8dee8bdf5486110d4016a72ba829-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/7b26109394a51748983fd5c182e681fc-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/eb05aeb391a65298a5a74fef8f38038c-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/e75b05566e65c432e697b750a9493030-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/731cc0107ecf811d9f87b91dd174c271-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/2d49cf2b29420fbf18b78195d207b4d8-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/9b4db4a1a5946505d520386bbe482925-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/841a4a0e637a22d48b1c934e57260f28-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/64be8a02b8ce68f3d96d63f4f3a8b656-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/7b41fb6700b92e7eca94cfccd0d1a312-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/007d7ceca0136a9b9e7b17d1a0db36b2-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/6e3fc40c998a4316879250b97d821002-cc_ft_1536.jpg"
+      ]
+    },
+    {
+      "name": "18 Monitor St Building",
+      "id": "brooklyn-18-monitor-st",
+      "type": "multi-family",
+      "category": "commercial",
+      "company": "Family Trust → US HoldCo | Mvita Brooklyn LLC",
+      "notes": "18 Monitor St #Bld, Brooklyn, NY 11222 (Zillow zpid 460420453 / MLS #S1810708) — newly built 5-story, 13-unit luxury rental building on the Greenpoint/Williamsburg border. Mix of 7 one-bedroom and 6 two-bedroom residences (5 affordable). Amenities: fitness center, landscaped courtyard, rooftop with skyline views, bike storage, private garage with 8 spaces. 421-A tax abatement with ~34 years remaining. Active for sale at $16,000,000 (15,000 sq.ft, ~$1,067/sqft). Zestimate ~$14,192,400. Source: https://www.zillow.com/homedetails/18-Monitor-St-BLD-Brooklyn-NY-11222/460420453_zpid/",
+      "location": {
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "address": "18 Monitor St, Brooklyn, NY 11222"
+      },
+      "size": {
+        "value": 15000,
+        "unit": "sq.ft"
+      },
+      "value": {
+        "amount": 16000000,
+        "currency": "USD",
+        "annualExpenses": 12000,
+        "annualExpenseBreakdown": {
+          "tax": 12000,
+          "hoa": 0,
+          "insurance": 0,
+          "ops": 0
+        }
+      },
+      "bedrooms": 19,
+      "bathrooms": 13,
+      "features": [
+        "Five-storey multi-family luxury rental (Multi Family)",
+        "13 units: 7 one-bedroom + 6 two-bedroom (5 affordable)",
+        "Greenpoint / Williamsburg border",
+        "Elevator building",
+        "In-unit washer/dryer each apartment",
+        "Individual split heating & cooling",
+        "Audio-video intercom",
+        "Private outdoor space on many units",
+        "Fitness center",
+        "Landscaped common courtyard",
+        "Rooftop with skyline views",
+        "Bike storage",
+        "Private garage — 8 designated parking spaces",
+        "421-A tax abatement (~34 years remaining)",
+        "Near L subway, highways, waterfront parks",
+        "Ideal for 1031 exchange / income-producing asset",
+        "15,000 sq.ft | ~$1,067/sqft | MLS #S1810708",
+        "Built 1910 (listing); newly built 5-story renovation/rebuild"
+      ],
+      "Garage": {
+        "capacity": 8,
+        "features": [
+          "Private garage",
+          "8 designated parking spaces"
+        ]
+      },
+      "securityLevel": "enhanced",
+      "automation": [
+        "Audio-video intercom",
+        "Elevator"
+      ],
+      "listingUrl": [
+        "https://www.zillow.com/homedetails/18-Monitor-St-BLD-Brooklyn-NY-11222/460420453_zpid/"
+      ],
+      "images": [
+        "https://photos.zillowstatic.com/fp/11023d0ae04c4f50cf990b7e04b82c21-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/bfd857f0fb6307ed2ff864e2b9224093-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/b431a5cae74612ad92835167080a22b1-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/b41928f1a408f0af03d919dc529ab33d-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/6b0c94e4b0c0ec4abd873a88b5eee00b-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/86ff282ba400b03be3ff914d26fb62b9-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/7af725a5883c77256ac618af6a102ed7-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/59c42a4d01ca99f1eca19e73a2958ae1-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/e605dd73626f2c98dc4417f5f26391ec-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/b5f393dba2e4e2e9c1877c3560ab454f-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/61ba5a1225bee7dd7ccbda78acf866e4-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/6393a91b496e013954a813b63d6493ca-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/9e8611d52472f05a08a986c9ef024116-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/9116009984b9a0da177dd80cf41fd879-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/a6cbf5add1ceeb3e1142914a8983d57f-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/3626d7eaf9c58c5152009a4ba579d4e1-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/09b4719c3a5c8480f72574e762616690-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/11d7418f6a7fdbff27995b1b3544be0b-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/6815db45e56ec4e408c54f366977ae88-cc_ft_1536.jpg",
+        "https://photos.zillowstatic.com/fp/c4aef792820d0a674dad46b11e3b2ff1-cc_ft_1536.jpg"
+      ]
+    }
+  ],
+  "totalCount": 41,
+  "summary": {
+    "byType": {
+      "office": 20,
+      "facility": 12,
+      "residence": 6
+    },
+    "byCountry": {
+      "Canada": 15,
+      "USA": 3,
+      "UK": 2,
+      "Germany": 1,
+      "Singapore": 1,
+      "DR Congo": 3,
+      "UAE": 4,
+      "Spain": 1,
+      "Congo-Brazzaville": 2,
+      "Nigeria": 3,
+      "South Africa": 2,
+      "Kenya": 1,
+      "France": 3
+    },
+    "byCompany": {
+      "SecureNet": 5,
+      "Syndicate X": 5,
+      "MapleAI": 6,
+      "OrbitTech": 7,
+      "Congo Direct": 5,
+      "Golden Maple Holdings": 1,
+      "Agape Records": 4,
+      "Maison Agape": 4,
+      "Mvita Congo Developments SARL": 1,
+      "KIEAT Holdings": 1,
+      "Mvita Family Office": 9
+    },
+    "totalValue": 2290346894
+  }
+}

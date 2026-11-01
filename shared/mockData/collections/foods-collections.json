@@ -1,0 +1,42 @@
+{
+  "collections": [
+    {
+      "id": "mvita-foods",
+      "name": "Foods",
+      "category": "foods",
+      "summary": "Caviar, rare provisions, charcuterie, and the rest of the consumable foods.",
+      "image": "https://cdn.shopify.com/s/files/1/0525/9899/7148/products/almas-osetra-123962.jpg",
+      "listingIds": [
+        "caviar-caspian-sea-almas-osetra",
+        "caviar-special-reserve-kaluga-huso-hybrid",
+        "caviar-special-reserve-ossetra",
+        "caviar-special-reserve-alverta",
+        "imperial-caviar-almas-albino",
+        "jamon-iberico-bellota-bone-in-5j",
+        "prunier-oscietre-heritage-250g",
+        "wagyu-takamori-drunken-a5-whole-ribeye",
+        "caviar-house-beluga-250g",
+        "jamon-iberico-bellota-whole-leg",
+        "wagyu-takamori-drunken-a5-whole-striploin",
+        "cheese-001",
+        "caviar-russe-alba-white-truffles",
+        "wagyu-premium-caviar-assortment",
+        "ham-001",
+        "caviar-russe-perigord-black-winter-truffles",
+        "olympia-provisions-landrauchschinken-4lb",
+        "cheese-white-truffle-moliterno",
+        "cheese-tete-de-moine",
+        "olympia-provisions-mortadella-4lb",
+        "cheese-truffle-brie",
+        "cheese-vacherin-mont-d-or",
+        "san-giuliano-lemon-marmalade-460g"
+      ],
+      "estimatedValue": {
+        "amount": 91775.75,
+        "currency": "USD"
+      },
+      "curator": "Mvita Family Office",
+      "source": "imported-from-mvita"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "_comment": "Vault Documents — CBI/RBI pathways linked to portfolio properties. Verified via public sources Sep 2026 where applicable. Talent / performer engagements now live in Give.json (kind: talent).",
+  "documents": [
+    {
+      "id": "doc-uae-golden-visa-property",
+      "title": "UAE Golden Residency — Property Investor",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "United Arab Emirates",
+      "program": "Golden Residency (10-year, renewable)",
+      "status": "eligible",
+      "statusLabel": "Property-eligible",
+      "minimumInvestment": "AED 2,000,000 (~USD 545,000) in UAE real estate (aggregate titles OK; mortgaged / off-plan accepted under 2026 rules)",
+      "linkedProperties": [
+        {
+          "id": "dubai-estate",
+          "name": "Dubai Penthouse"
+        },
+        {
+          "id": "mvita-hq-dubai",
+          "name": "Don-Pierre UAE"
+        }
+      ],
+      "notes": "Don-Pierre UAE / Dubai Penthouse can support the property investor route if aggregate DLD valuation meets AED 2M. Shorter property-investor visas may also apply below the Golden Visa threshold. (Pierre Duplex is no longer a tracked holding.)",
+      "sourceUrl": "https://egsh.ae/insights/golden-visa-through-property-investment",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-bahamas-economic-pr",
+      "title": "Bahamas Economic Permanent Residence",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "The Bahamas",
+      "program": "Permanent Residence (Economic) — Form IV",
+      "status": "eligible",
+      "statusLabel": "Property-eligible",
+      "minimumInvestment": "USD 1,000,000 in Bahamian real estate or Central Bank zero-coupon bonds; hold 10 years (raised from USD 750k effective 1 Jan 2025)",
+      "linkedProperties": [
+        {
+          "id": "royal-island-bahamas",
+          "name": "Bahamas Island"
+        }
+      ],
+      "notes": "Indefinite residence, not citizenship. Bahamas Island (Eleuthera) is the linked holding. Does not itself authorize employment.",
+      "sourceUrl": "https://www.immigration.gov.bs/residence/permanent-residence/",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-brazil-real-estate-investor",
+      "title": "Brazil Residence — Real Estate Investor",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Brazil",
+      "program": "RN CNIg 36/2018 (as amended) — autorização de residência por investimento imobiliário",
+      "status": "eligible",
+      "statusLabel": "Property-eligible",
+      "minimumInvestment": "BRL 1,000,000 urban property (BRL 700,000 in North/Northeast); built or under construction; funds from abroad",
+      "linkedProperties": [
+        {
+          "id": "brazil-estate",
+          "name": "Brazil Estate"
+        }
+      ],
+      "notes": "Initial residence typically 4 years, then convertible to indefinite if investment maintained. Matches existing Brazil Estate feature notes.",
+      "sourceUrl": "https://portaldeimigracao.mj.gov.br/images/banners/Quick_Guide_English.pdf",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-thailand-ltr-wealthy-global",
+      "title": "Thailand LTR Visa — Wealthy Global Citizen",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Thailand",
+      "program": "Long-Term Resident (LTR) Visa — BOI Por. 3/2568 (2025 reforms)",
+      "status": "eligible",
+      "statusLabel": "Property-eligible",
+      "minimumInvestment": "USD 1M global assets + USD 500,000 invested in Thailand (bonds, Thai company equity, and/or Thai property) before application",
+      "linkedProperties": [
+        {
+          "id": "yamu-one",
+          "name": "Thailand Estate"
+        }
+      ],
+      "notes": "Thailand Estate (Phuket / Thalang) can count toward the in-country USD 500k investment when titled in the applicant's name (condo freehold or qualifying long lease). Not Thailand Privilege membership.",
+      "sourceUrl": "https://ltr.boi.go.th/documents/Announcement_of_the_Office_of_the_Board_of_Investment_No_Por_3_2568_(EN).pdf",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-monaco-residence",
+      "title": "Monaco Residence Permit",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Monaco",
+      "program": "Carte de séjour (residence) — property + bank deposit practice",
+      "status": "eligible",
+      "statusLabel": "Property-assisted",
+      "minimumInvestment": "Proof of Monaco housing (owned or leased) plus substantial bank deposit (commonly cited ~€500,000) and clean records — confirm live Banque de Monaco / immigration practice",
+      "linkedProperties": [
+        {
+          "id": "monaco-ville-prestige",
+          "name": "Monaco Penthouse"
+        }
+      ],
+      "notes": "Not a formal golden-visa statute like Caribbean CBI. Monaco Penthouse supports the housing requirement; residence ≠ automatic citizenship.",
+      "sourceUrl": "https://en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Interior/Department-of-Public-Safety/Residents",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-portugal-golden-visa",
+      "title": "Portugal Golden Visa (ARI)",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Portugal",
+      "program": "Autorização de Residência para Investimento",
+      "status": "not_property_route",
+      "statusLabel": "Active — property no longer qualifies",
+      "minimumInvestment": "Non-property routes only (e.g. €500k qualifying fund, research, culture, job creation). Real estate removed by Law 56/2023 (Oct 2023).",
+      "linkedProperties": [
+        {
+          "id": "portugal-estate",
+          "name": "Portugal Estate"
+        }
+      ],
+      "notes": "Portugal Estate does not unlock ARI for new applicants via purchase. Fund / culture / employment routes remain; citizenship path exists after long-term residence (rules tightened 2026).",
+      "sourceUrl": "https://www.bitizenship.com/blog/portugal-golden-visa-real-estate-rules-in-2026",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-italy-investor-visa",
+      "title": "Italy Investor Visa",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Italy",
+      "program": "Investor Visa for Italy (IV4I)",
+      "status": "not_property_route",
+      "statusLabel": "Active — not property-based",
+      "minimumInvestment": "From €250,000 innovative startup / €500,000 Italian company / €1M philanthropic / €2M government bonds",
+      "linkedProperties": [],
+      "notes": "Italy (Laglio) does not itself qualify. Investor Visa requires pre-approved capital into company, startup, bonds, or donation — not real estate. No Italy property is currently tracked in the estates portfolio.",
+      "sourceUrl": "https://movingto.com/it/italy-golden-visa",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-spain-golden-visa",
+      "title": "Spain Golden Visa",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Spain",
+      "program": "Investor residence (Law 14/2013 arts. 63–67) — repealed",
+      "status": "closed",
+      "statusLabel": "Closed (3 Apr 2025)",
+      "minimumInvestment": "N/A for new applicants",
+      "linkedProperties": [
+        {
+          "id": "spain-estate",
+          "name": "Spain Estate"
+        }
+      ],
+      "notes": "Organic Law 1/2025 ended new Golden Visa applications from 3 Apr 2025. Existing holders keep transitional rights. Alternatives: Non-Lucrative Visa, digital nomad, remaining financial-asset investor routes (non-property).",
+      "sourceUrl": "https://bm.consulting/en/insights/golden-visa-abolished-organic-law-1-2025-alternatives/",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-latvia-golden-visa",
+      "title": "Latvia Investor Residence",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Latvia",
+      "program": "Temporary residence via investment (Immigration Law reform)",
+      "status": "not_property_route",
+      "statusLabel": "Property route ended (15 Sep 2026)",
+      "minimumInvestment": "Company share capital (~€50k + state payment) remains; €150k state fund route legislated but not yet operational per OCMA",
+      "linkedProperties": [],
+      "notes": "Latvia Towers no longer unlock residence via €250k real estate. Property and bank-deposit routes closed under the new Immigration Law. No Latvia property is currently tracked in the estates portfolio.",
+      "sourceUrl": "https://getgoldenvisa.com/latvia-reshapes-its-golden-visa-property-route-ends-under-new-immigration-law",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-peru-investor-residency",
+      "title": "Peru Investor Residence",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "Peru",
+      "program": "Calidad migratoria — Inversionista (Migraciones)",
+      "status": "not_property_route",
+      "statusLabel": "Business investment — not property CBI",
+      "minimumInvestment": "Documented lawful investment via single international bank transfer at the statutory minimum (confirm live Migraciones threshold)",
+      "linkedProperties": [
+        {
+          "id": "peru-estate",
+          "name": "Peru Estate"
+        }
+      ],
+      "notes": "Peru Estate supports presence but the inversionista category is business/capital based, not a property golden visa.",
+      "sourceUrl": "https://www.gob.pe/12879-solicitar-visa-de-residente-para-inversionista",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-south-africa-financially-independent",
+      "title": "South Africa Financially Independent PR",
+      "category": "residency_by_investment",
+      "pathway": "RBI",
+      "country": "South Africa",
+      "program": "Immigration Act s.27(f) — financially independent permanent residence",
+      "status": "not_property_route",
+      "statusLabel": "Net-worth route — not property purchase",
+      "minimumInvestment": "~ZAR 12,000,000 certified net worth + approval fee (~ZAR 120,000); local work prohibited",
+      "linkedProperties": [
+        {
+          "id": "cape-town-fresnaye",
+          "name": "South Africa Estate"
+        },
+        {
+          "id": "sandton-towers",
+          "name": "Sandton Towers"
+        }
+      ],
+      "notes": "Cape Town / Sandton holdings may count toward global net worth evidence but do not create a property-for-visa program.",
+      "sourceUrl": "https://capetown-invest.com/guides/financially-independent-visa-south-africa/",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-drc-no-cbi",
+      "title": "DRC — No CBI / Golden Visa",
+      "category": "citizenship_by_investment",
+      "pathway": "CBI",
+      "country": "Democratic Republic of the Congo",
+      "program": "None",
+      "status": "no_program",
+      "statusLabel": "No program",
+      "minimumInvestment": "N/A",
+      "linkedProperties": [
+        {
+          "id": "congo-cathedral",
+          "name": "Congo Cathedral"
+        }
+      ],
+      "notes": "Congo Cathedral — no citizenship- or residency-by-investment programme identified.",
+      "sourceUrl": "",
+      "lastVerified": "2026-09-23"
+    },
+    {
+      "id": "doc-cbi-portfolio-gap",
+      "title": "Citizenship by Investment — Portfolio Gap",
+      "category": "citizenship_by_investment",
+      "pathway": "CBI",
+      "country": "—",
+      "program": "Caribbean / other CBI jurisdictions (e.g. St. Kitts & Nevis, Dominica, Grenada, Antigua, St. Lucia, Vanuatu, Türkiye)",
+      "status": "no_program",
+      "statusLabel": "No CBI from current property footprint",
+      "minimumInvestment": "Jurisdiction-specific donation or real-estate thresholds (typically USD 200k–800k+)",
+      "linkedProperties": [],
+      "notes": "Current estates do not sit in a classic CBI country. Add a Caribbean / Türkiye holding if direct citizenship-by-investment is desired; existing UAE/Bahamas/Brazil/Thailand pathways are residency, not immediate citizenship.",
+      "sourceUrl": "https://ntlinternational.com/press/golden-visa-programs/",
+      "lastVerified": "2026-09-23"
+    }
+  ]
+}

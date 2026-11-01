@@ -1,0 +1,466 @@
+{
+  "jets": [
+    {
+      "id": "gulfstream-g650",
+      "name": "Gulfstream G650ER",
+      "type": "private-jet",
+      "make": "Gulfstream",
+      "model": "G650ER",
+      "year": 2020,
+      "value": {
+        "amount": 65000000,
+        "currency": "USD"
+      },
+      "passengers": 19,
+      "range": "7500 nm",
+      "location": {
+        "country": "US",
+        "city": "Palm Beach"
+      },
+      "status": "available",
+      "registration": "N650PR",
+      "images": [],
+      "specifications": {
+        "maxSpeed": "Mach 0.925",
+        "cabinHeight": "6.5 ft",
+        "cabinWidth": "8.5 ft",
+        "cabinLength": "46.8 ft"
+      }
+    },
+    {
+      "id": "airbus-acj330",
+      "type": "aircraft",
+      "make": "Airbus",
+      "model": "ACJ330",
+      "year": 2002,
+      "value": {
+        "amount": 110000000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "UAE",
+        "city": "Dubai",
+        "facilityName": "Don-Pierre UAE"
+      },
+      "status": "available",
+      "registrationCountry": "Family Trust → Aviation SPV + Acct + Comlux",
+      "listingUrl": [
+        "https://www.controller.com/listing/for-sale/210288279/airbus-a330-jet-aircraft"
+      ],
+      "images": [
+        "https://i.postimg.cc/1zg4h2bD/Screenshot-2025-11-08-at-4-55-36-PM.png",
+        "https://i.postimg.cc/pdgr2kt3/Screenshot-2025-11-08-at-4-56-54-PM.png",
+        "https://i.postimg.cc/8Cqc1wVt/Screenshot-2025-11-08-at-4-57-17-PM.png",
+        "https://i.postimg.cc/XJdJXFVD/Screenshot-2025-11-08-at-5-01-36-PM.png",
+        "https://i.postimg.cc/yxKNRdxh/Screenshot-2025-11-08-at-5-01-59-PM.png",
+        "https://i.postimg.cc/8cbzmSfB/Screenshot-2025-11-08-at-5-02-17-PM.png",
+        "https://i.postimg.cc/C54xsgnr/Screenshot-2025-11-08-at-5-02-26-PM.png",
+        "https://i.postimg.cc/MZ0HSy3Q/Screenshot-2025-11-08-at-5-02-44-PM.png",
+        "https://i.postimg.cc/nc0LsnJM/Screenshot-2025-11-08-at-5-03-31-PM.png",
+        "https://i.postimg.cc/c4XJKdS0/Screenshot-2025-11-08-at-5-03-44-PM.png",
+        "https://i.postimg.cc/YqbS4tH4/Screenshot-2025-11-08-at-5-04-08-PM.png",
+        "https://i.postimg.cc/MKdGczSQ/Screenshot-2025-11-08-at-5-04-38-PM.png",
+        "https://i.postimg.cc/RVX03vBd/Screenshot-2025-11-08-at-5-04-45-PM.png",
+        "https://i.postimg.cc/dt407JYn/Screenshot-2025-11-08-at-5-05-09-PM.png",
+        "https://comlux.com/application/files/8217/1887/7299/Exterior.jpeg",
+        "https://comlux.com/application/files/9217/1888/2783/Floor_Plan_1.png",
+        "https://comlux.com/application/files/cache/thumbnails/8717ffd5c1834911ac31fc99e36a5c22.jpg",
+        "https://comlux.com/application/files/cache/thumbnails/6c33a77be501a1ed792e3398442a3a76.jpg",
+        "https://comlux.com/application/files/cache/thumbnails/4c3f63c643f390449378cc0fef3ca56f.jpg",
+        "https://comlux.com/application/files/cache/thumbnails/c58e6aee9575dd944ea5eeb295d5252d.jpg",
+        "https://comlux.com/application/files/cache/thumbnails/2cd4bff5a136ebb1480e4604f87bec89.jpg"
+      ],
+      "category": "executive-jet",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Turbofan",
+        "configuration": "Rolls-Royce Trent 772B",
+        "manufacturer": "Rolls-Royce",
+        "thrust": "71,100 lbf each"
+      },
+      "details": {
+        "purpose": "Transcontinental executive travel",
+        "collection": "Mvita Family Aviation",
+        "condition": "Excellent",
+        "provenance": "ACJ330 VIP — Low flight hours, VVIP layout",
+        "serialNumber": "P4-MLO",
+        "specifications": {
+          "passengerCapacity": 25,
+          "range": "13,400 km",
+          "cargoCapacity": "2,500 kg",
+          "cruiseSpeed": "Mach 0.82",
+          "maxAltitude": "41,000 ft",
+          "interior": "VVIP cabin with master suite, conference room, and lounge",
+          "features": [
+            "Master suite with en-suite shower",
+            "Full conference/dining room",
+            "Private lounge and galley",
+            "$265,000,000"
+          ]
+        },
+        "interiorLayout": {
+          "cabinLength": "148 ft",
+          "cabinWidth": "17.3 ft",
+          "cabinHeight": "7.5 ft",
+          "baggageCapacity": "975 cu ft",
+          "configuration": "Custom VIP layout, 3 zones",
+          "amenities": "Full galley, 2 lavatories, crew rest, onboard Wi-Fi"
+        },
+        "exterior": "White with MapleAI blue & platinum stripe",
+        "maintenanceTracking": "Comlux Maintenance Program"
+      },
+      "mileage": {
+        "current": 850,
+        "unit": "flight_hours",
+        "lastUpdated": "2024-12-19T10:30:00Z",
+        "averageDaily": 1.8,
+        "totalLifetime": 850,
+        "landings": 320,
+        "serviceIntervals": {
+          "minor": 250,
+          "major": 600,
+          "critical": 1000
+        },
+        "nextServiceAt": 950,
+        "estimatedNextService": "2025-03-20"
+      },
+      "apu": {
+        "manufacturer": "Honeywell",
+        "model": "GTCP331-350",
+        "serialNumber": "A-97300",
+        "totalTime": 1100,
+        "totalCycles": 430
+      },
+      "displayName": "Airbus ACJ330",
+      "insurance": {
+        "provider": "Allianz Global Corporate & Specialty",
+        "policyNumber": "AGCS-ACJ330-001",
+        "coverageUSD": 120000000,
+        "renewalDate": "2027-03-01",
+        "notes": "Hull war + liability; Dubai base"
+      }
+    },
+    {
+      "displayName": "Airbus ACJ TwoTwenty",
+      "id": "airbus-acj-twotwenty-monaco",
+      "type": "aircraft",
+      "make": "Airbus Corporate Jets",
+      "model": "ACJ TwoTwenty",
+      "year": 2027,
+      "value": {
+        "amount": 90000000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "Monaco",
+        "city": "Monaco",
+        "facilityName": "Monaco Penthouse"
+      },
+      "status": "On Order",
+      "registrationCountry": "Monaco",
+      "listingUrl": [
+        "https://www.acj.airbus.com/en/exclusive-aircraft/acj-twotwenty"
+      ],
+      "images": [
+        "https://mediaassets.airbus.com/pm_38_769_769026-dd2gj3bgau-preview.jpg",
+        "https://mediarenditions.airbus.com/r6VzvECDW52nLVf8ZhUcJqMkm5fQ2SJq4RN3NpHUf0A/resize?src=kpkp%3A%2F%2Fairbus%2F38%2F769%2F769026-dd2gj3bgau.jpg&w=1920&h=960&poiX=50&poiY=50&el=true&t=fill-down",
+        "https://www.acj.airbus.com/sites/g/files/jlcbta131/files/styles/w1536h830/public/2021-11/ACJ%20TwoTwenty%20on%20ground-21.webp?h=5190e139&itok=gakjMZIo",
+        "https://mediarenditions.airbus.com/eleg7alILNOS2NQpPy7YvyXJAtZ0lLufMeIDe6DhGc0/resize?src=kpkp%3A%2F%2Fairbus%2F38%2F627%2F627297-4eouy1wkbt.jpg&w=780&h=520&poiX=50&poiY=50&el=false&t=fit",
+        "https://mediarenditions.airbus.com/lYjkfRC3giYuwhDOoj_r0bHdpySEQpw-KHyDvKDodBU/resize?src=kpkp%3A%2F%2Fairbus%2F38%2F627%2F627270-8rolxa1lbx.jpg&w=780&h=520&poiX=50&poiY=50&el=false&t=fit",
+        "https://mediarenditions.airbus.com/w19O-75R9fOfdImxeLsvUiIXYG128rCNSerneMHOG5s/resize?src=kpkp%3A%2F%2Fairbus%2F38%2F627%2F627318-vusrpin79u.jpg&w=780&h=520&poiX=50&poiY=50&el=false&t=fit",
+        "https://www.acj.airbus.com/sites/g/files/jlcbta131/files/styles/w640h480/public/2023-10/acj.a220.main_room_spaces-71.full_resolution.jpg?itok=Se049MTT",
+        "https://www.acj.airbus.com/sites/g/files/jlcbta131/files/styles/w640h512/public/2022-10/acj_twotwenty-cockpit.jpg?itok=oLvQ6Rld",
+        "https://mediarenditions.airbus.com/gt1cPOFd1m6OO1wRWFEdnV52VKXPTCu2k8icUWiE1Ig/resize?src=kpkp%3A%2F%2Fairbus%2F38%2F593%2F593731-7stb0dpl9l.jpg&w=780&h=520&poiX=50&poiY=50&el=false&t=fit"
+      ],
+      "category": "executive-jet",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Geared turbofan",
+        "configuration": "2 × Pratt & Whitney PW1500G",
+        "manufacturer": "Pratt & Whitney",
+        "model": "PW1500G"
+      },
+      "details": {
+        "purpose": "Intercontinental VIP transport for Monaco Penthouse — custom VVIP cabin commission",
+        "collection": "Mvita Family Aviation",
+        "condition": "New / On Order — custom VIP build",
+        "provenance": "Airbus ACJ TwoTwenty — first ACJ bizjet; custom VIP interior commission for Monaco Penthouse",
+        "serialNumber": "TBD — on order",
+        "color": "TBD — customer livery",
+        "interior": "Custom VIP build — up to 6 living zones (≈12 m² / 130 sq ft each); Creative Studio configured",
+        "production": "Custom VIP completion",
+        "specifications": {
+          "passengerCapacity": 18,
+          "range": "5,650 nm (10,465 km)",
+          "flightTime": "Up to 12 hours non-stop",
+          "cruiseSpeed": "High-subsonic (A220 family)",
+          "maxAltitude": "41,000 ft (12,500 m)",
+          "mtow": "Up to 63,730 kg (140,500 lb)",
+          "cabinFloorArea": "73 m² (786 sq ft)",
+          "cabinVolume": "146 m³ (5,120 cu ft)",
+          "interior": "Custom VIP — ~3× cabin volume of a large bizjet; electro-chromatic shades; smart cabin; up to 50 Mbps connectivity",
+          "features": [
+            "Custom VIP cabin build — Monaco Penthouse commission",
+            "73 m² / 786 sq ft cabin floor; 6 configurable zones",
+            "5,650 nm / 12-hour intercontinental range",
+            "PW1500G geared turbofans; ~40% advanced materials",
+            "Fly-by-wire; smart cabin; electro-chromatic window shades",
+            "Up to 50 Mbps cabin connectivity",
+            "99% dispatch reliability class; strong residual value vs peers",
+            "$90,000,000 USD all-in custom VIP order"
+          ]
+        },
+        "interiorLayout": {
+          "cabinLength": "23.8 m (78 ft 1 in)",
+          "cabinWidth": "3.3 m (10 ft 8 in)",
+          "cabinHeight": "2.1 m (6 ft 11 in)",
+          "baggageCapacity": "TBD with completion centre",
+          "configuration": "Custom VIP — up to 6 living areas",
+          "amenities": "Full galley, master suite option, lounge, conference/dining, lavatories, crew rest, Ka-band connectivity"
+        },
+        "exterior": "Airbus ACJ TwoTwenty — 35.0 m length, 35.10 m wingspan, 3.30 m fuselage diameter",
+        "maintenanceTracking": "ACJ Care / Service Centre Network",
+        "features": [
+          "On order for Monaco Penthouse",
+          "Custom VIP interior completion",
+          "Official programme: https://www.acj.airbus.com/en/exclusive-aircraft/acj-twotwenty"
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "flight_hours",
+        "lastUpdated": "2026-09-25T00:00:00Z",
+        "averageDaily": 0,
+        "totalLifetime": 0,
+        "landings": 0,
+        "serviceIntervals": {
+          "minor": 250,
+          "major": 600,
+          "critical": 1000
+        }
+      },
+      "notes": [
+        "Status: On Order — custom VIP build for Monaco Penthouse",
+        "Contract value: $90,000,000 USD",
+        "Source: https://www.acj.airbus.com/en/exclusive-aircraft/acj-twotwenty"
+      ],
+      "insurance": {
+        "provider": "Allianz Global Corporate & Specialty",
+        "policyNumber": "AGCS-ACJ220-MC",
+        "coverageUSD": 95000000,
+        "renewalDate": "2026-11-20",
+        "notes": "On-order ferry risk until delivery"
+      }
+    },
+    {
+      "displayName": "Sikorsky S-92 VIP",
+      "id": "sikorsky-s92-vip",
+      "type": "helicopter",
+      "make": "Sikorsky / Lockheed Martin",
+      "model": "S-92A+ Head of State / Executive",
+      "year": 2027,
+      "value": {
+        "amount": 27000000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "available",
+      "registrationCountry": "",
+      "listingUrl": [
+        "https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/s-92/9244-24_S92-VIP_Brochure_2024_1.pdf"
+      ],
+      "images": [
+        "https://www.flexairco.com/wp-content/uploads/2025/03/sikorsky-S92-04-862x575.jpg"
+      ],
+      "category": "vvip",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Twin-turboshaft",
+        "configuration": "2 × General Electric CT7-8A6",
+        "manufacturer": "General Electric"
+      },
+      "details": {
+        "purpose": "Head of State / executive VVIP transport — secure, long-range helicopter operations",
+        "collection": "Helicopters",
+        "condition": "New",
+        "provenance": "Sikorsky S-92A+ Head of State / Executive configuration (Lockheed Martin 2024 VIP brochure)",
+        "features": [
+          "10-passenger deluxe executive cabin",
+          "Largest cabin in class with stand-up height",
+          "Executive interior with silencer acoustics",
+          "Active Vibration Control system",
+          "Four-axis autopilot / business-jet-class avionics",
+          "TCAS II, EGPWS, weather radar, HUMS",
+          "Phase IV Main Gearbox with auxiliary lubrication",
+          "Honeywell 36-150 APU",
+          "Optional VIP armor & self-defense suites (export controlled)",
+          "$27,000,000"
+        ]
+      },
+      "specifications": {
+        "passengerCapacity": 10,
+        "range": "547 nm (1,013 km) no reserve; ~450 nm mission range",
+        "cargoCapacity": "140 ft³ (4.0 m³) baggage",
+        "cruiseSpeed": "151 kts max continuous; 136 kts long-range",
+        "maxSpeed": "165 kts",
+        "maxAltitude": "15,000 ft (4,572 m) service ceiling",
+        "takeoffDistance": "Helicopter (vertical takeoff/landing)",
+        "interior": "10-passenger deluxe executive: captain chairs, club seating, lavatory, entertainment, satellite phone",
+        "features": [
+          "Max takeoff weight 27,700 lb (12,564 kg)",
+          "Hover OGE 6,700 ft / IGE 9,200 ft",
+          "Certified for flight into known icing (with options)",
+          "Rockwell Collins Pro Line avionics / four MFDs",
+          "Global Sikorsky Customer Care support"
+        ]
+      },
+      "interiorLayout": {
+        "configuration": "10 Passenger Deluxe Executive",
+        "amenities": "Executive seating, privacy doors, lavatory, cabin entertainment, satellite phone, high-capacity ECS, optional cabin Wi-Fi / Iridium data"
+      }
+    },
+    {
+      "displayName": "Airbus ACH175",
+      "id": "airbus-ach175",
+      "type": "helicopter",
+      "make": "Airbus",
+      "model": "ACH175",
+      "year": 2027,
+      "value": {
+        "amount": 25000000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "",
+        "city": "",
+        "facilityName": "Sandton Towers"
+      },
+      "status": "available",
+      "registrationCountry": "",
+      "listingUrl": [
+        "https://www.ach.airbus.com/en/ach-offerings/helicopters/ach175"
+      ],
+      "images": [
+        "https://media.sandhills.com/img.axd?id=9047710089&wid=6072144879&rwl=False&p=&ext=&w=614&h=460&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=hs0lQC5nRxI6Aze2qFbdcMuILJfHsNfO3cdj1vigHx8="
+      ],
+      "category": "vvip",
+      "driveSide": "N/A",
+      "engine": {
+        "type": "Twin-turboshaft",
+        "configuration": "2 × Pratt & Whitney Canada PT6C-67E",
+        "manufacturer": "Pratt & Whitney Canada"
+      },
+      "details": {
+        "purpose": "VVIP helicopter for executive transport, comfort, and prestigious travel",
+        "collection": "Helicopters",
+        "condition": "New",
+        "provenance": "Airbus Corporate Helicopters (ACH), latest design, delivery 2024",
+        "features": [
+          "Custom VVIP interior by ACH",
+          "Seats up to 8 passengers",
+          "Low vibration, ultra-quiet cabin",
+          "Panoramic windows",
+          "Single-pilot IFR and advanced avionics suite",
+          "Oversized luggage compartment",
+          "$25,000,000"
+        ]
+      },
+      "specifications": {
+        "passengerCapacity": 8,
+        "range": "over 600 km (≅ 320 nm)",
+        "cargoCapacity": "Over 1,500 kg / 3,307 lbs (internal)",
+        "cruiseSpeed": "150 knots (278 km/h)",
+        "maxSpeed": "175 knots (324 km/h)",
+        "maxAltitude": "20,000 ft (6,096 m)",
+        "takeoffDistance": "Helicopter (vertical takeoff/landing)",
+        "interior": "VVIP seating, club layout, custom finishes",
+        "features": [
+          "Helionix® avionics suite",
+          "Multiple floorplan options",
+          "Cabin soundproofing",
+          "Climate-controlled cabin"
+        ]
+      }
+    },
+    {
+      "displayName": "Jetson ONE",
+      "id": "jetson-one",
+      "type": "aircraft",
+      "make": "Other",
+      "model": "Jetson ONE",
+      "year": 2025,
+      "value": {
+        "amount": 150000,
+        "currency": "USD"
+      },
+      "location": {
+        "country": "The Bahamas",
+        "city": "",
+        "region": "",
+        "facilityName": "Bahamas Island"
+      },
+      "status": "available",
+      "registrationCountry": "Canada",
+      "listingUrl": [
+        "https://jetson.com/jetson-one"
+      ],
+      "images": [
+        "https://jetson.com/_next/image?url=%2Fassets%2Fimages%2Fmeet-jetson-2.png&w=3840&q=75",
+        "https://jetson.com/_next/image?url=%2Fassets%2Fimages%2Fmeet-jetson-1.png&w=1080&q=75",
+        "https://jetson.com/_next/image?url=%2Fassets%2Fimages%2Fmeet-jetson-3.png&w=3840&q=75",
+        "https://jetson.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fcqz59mqa3dcy%2F1z6NcCGwQm9JtC851BAB1m%2F9a0a949847bb259271416d9dc0cd29c9%2Fjetson-gallery-3.png&w=828&q=75",
+        "https://jetson.com/_next/image?url=%2Fassets%2Fimages%2Fjetsonone-cover.jpeg&w=3840&q=75",
+        "https://jetson.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fcqz59mqa3dcy%2F6GoKtETyumiT6vHdVXsoO2%2Fbcedf7477cf21269db6df3812ab6051e%2F_ICP7255_2.jpg&w=3840&q=75"
+      ],
+      "category": "ultralight",
+      "driveSide": "CENTRAL",
+      "engine": {
+        "type": "Electric",
+        "configuration": "N/A",
+        "power": ""
+      },
+      "details": {
+        "purpose": "",
+        "collection": "Jetson Collection",
+        "condition": "Clean Title",
+        "provenance": "Available for acquisition",
+        "color": "Not specified",
+        "interior": "Not specified",
+        "transmission": "",
+        "specification": "Competition Specification",
+        "production": "Limited production",
+        "specialFeatures": [
+          ""
+        ],
+        "modifications": [
+          {
+            "type": "Stock",
+            "description": "",
+            "category": "",
+            "status": "Current",
+            "powerIncrease": "",
+            "notes": ""
+          }
+        ]
+      },
+      "mileage": {
+        "current": 0,
+        "unit": "km",
+        "lastUpdated": "2024-12-19T10:30:00Z",
+        "averageDaily": 0,
+        "totalLifetime": 0,
+        "serviceIntervals": {
+          "minor": 15000,
+          "major": 30000,
+          "critical": 60000
+        },
+        "nextServiceAt": 15000,
+        "estimatedNextService": "2025-12-19"
+      }
+    }
+  ]
+}

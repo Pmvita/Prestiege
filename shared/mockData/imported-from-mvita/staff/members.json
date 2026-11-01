@@ -1,0 +1,1780 @@
+{
+  "staff": [
+    {
+      "_comments": "Roster policy: HQ / travelling professionals default primary=Don-Pierre UAE. Estate-stationed household use primary=<exact estate name> and rosterTier=local_household. properties.json staff[] arrays are UI flavor labels, not a second payroll source."
+    },
+    {
+      "_comments": "Executive"
+    },
+    {
+      "position": "Chairman & Founder",
+      "id": "staff-001",
+      "fullName": "Pierre Mvita",
+      "division": "executive",
+      "compensation": {
+        "amount": 0,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "pierre.mvita@hqwwa.com"
+      },
+      "biography": "Founder and Chairman of the Mvita Family Office. Oversees all global operations, strategy, and executive decisions across all divisions. Compensation through family distributions and asset management fees.",
+      "image": "",
+      "startDate": "2010-01-01T00:00:00Z"
+    },
+    {
+      "position": "Executive Assistant to Chairman",
+      "id": "staff-003",
+      "fullName": "Isabella Rodriguez",
+      "division": "executive",
+      "compensation": {
+        "amount": 120000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "isabella.rodriguez@hqwwa.com"
+      },
+      "biography": "Executive Assistant providing direct support to the Chairman with scheduling, communications, and executive coordination.",
+      "image": "",
+      "startDate": "2018-06-01T00:00:00Z"
+    },
+    {
+      "position": "Chief of Staff",
+      "id": "staff-002",
+      "fullName": "Marcus Chen",
+      "division": "executive",
+      "compensation": {
+        "amount": 350000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "marcus.chen@hqwwa.com"
+      },
+      "biography": "Chief of Staff providing strategic support and coordination across all family office divisions.",
+      "image": "",
+      "startDate": "2015-03-15T00:00:00Z"
+    },
+    {
+      "position": "Chief Financial Officer",
+      "id": "staff-002b",
+      "fullName": "Victoria Sterling",
+      "division": "executive",
+      "compensation": {
+        "amount": 450000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "victoria.sterling@hqwwa.com"
+      },
+      "biography": "CFO overseeing all financial operations, treasury management, and financial reporting across the family office.",
+      "image": "",
+      "startDate": "2016-09-01T00:00:00Z"
+    },
+    {
+      "_comments": "Investment"
+    },
+    {
+      "position": "Chief Investment Officer",
+      "id": "staff-021",
+      "fullName": "William Johnson",
+      "division": "investment",
+      "compensation": {
+        "amount": 750000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "william.johnson@hqwwa.com"
+      },
+      "biography": "CIO overseeing all venture capital, hedge fund, and private equity activities.",
+      "image": "",
+      "startDate": "2013-01-01T00:00:00Z"
+    },
+    {
+      "position": "Portfolio Manager",
+      "id": "staff-022",
+      "fullName": "Olivia Davis",
+      "division": "investment",
+      "compensation": {
+        "amount": 400000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "olivia.davis@hqwwa.com"
+      },
+      "biography": "Senior Portfolio Manager responsible for investment strategy execution and portfolio management.",
+      "image": "",
+      "startDate": "2015-04-01T00:00:00Z"
+    },
+    {
+      "position": "Risk & Compliance Director",
+      "id": "staff-023",
+      "fullName": "Ryan Miller",
+      "division": "investment",
+      "compensation": {
+        "amount": 320000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "ryan.miller@hqwwa.com"
+      },
+      "biography": "Manages risk across all investment portfolios and family office operations, and ensures compliance with all regulations.",
+      "image": "",
+      "startDate": "2018-07-01T00:00:00Z"
+    },
+    {
+      "position": "General Counsel",
+      "id": "staff-004",
+      "fullName": "Alexander Thompson",
+      "division": "investment",
+      "compensation": {
+        "amount": 400000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "alexander.thompson@hqwwa.com"
+      },
+      "biography": "External General Counsel providing legal oversight and strategic counsel on all family office matters.",
+      "image": "",
+      "startDate": "2012-09-01T00:00:00Z"
+    },
+    {
+      "position": "Tax Director",
+      "id": "staff-004b",
+      "fullName": "Jennifer Walsh",
+      "division": "investment",
+      "compensation": {
+        "amount": 350000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "jennifer.walsh@hqwwa.com"
+      },
+      "biography": "Tax Director managing complex international tax structures, residency planning, and compliance across all jurisdictions.",
+      "image": "",
+      "startDate": "2017-03-01T00:00:00Z"
+    },
+    {
+      "position": "Private Equity Manager",
+      "id": "staff-024",
+      "fullName": "Nathan Brooks",
+      "division": "investment",
+      "compensation": {
+        "amount": 340000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "nathan.brooks@hqwwa.com"
+      },
+      "biography": "Private Equity Manager sourcing and managing PE commitments across North America, Europe, and the Gulf.",
+      "image": "",
+      "startDate": "2025-05-01T00:00:00Z"
+    },
+    {
+      "position": "Venture Capital Manager",
+      "id": "staff-025",
+      "fullName": "Priya Nair",
+      "division": "investment",
+      "compensation": {
+        "amount": 290000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "priya.nair@hqwwa.com"
+      },
+      "biography": "Venture Capital Manager covering early- and growth-stage technology investments for the family office.",
+      "image": "",
+      "startDate": "2025-05-01T00:00:00Z"
+    },
+    {
+      "position": "Fixed Income Manager",
+      "id": "staff-026b",
+      "fullName": "Helen Okonkwo",
+      "division": "investment",
+      "compensation": {
+        "amount": 265000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "helen.okonkwo@hqwwa.com"
+      },
+      "biography": "Fixed Income Manager responsible for sovereign, IG credit, and liquidity sleeves of the treasury portfolio.",
+      "image": "",
+      "startDate": "2025-05-01T00:00:00Z"
+    },
+    {
+      "position": "Real Estate Manager",
+      "id": "staff-027d",
+      "fullName": "Marco Benedetti",
+      "division": "investment",
+      "compensation": {
+        "amount": 310000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "marco.benedetti@hqwwa.com"
+      },
+      "biography": "Real Estate Manager overseeing direct holdings, JV partnerships, and property-level capital plans.",
+      "image": "",
+      "startDate": "2025-05-01T00:00:00Z"
+    },
+    {
+      "_comments": "Operations"
+    },
+    {
+      "position": "Chief Operating Officer",
+      "id": "staff-007",
+      "fullName": "Robert Anderson",
+      "division": "operations",
+      "compensation": {
+        "amount": 350000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "robert.anderson@hqwwa.com"
+      },
+      "biography": "COO responsible for compliance, treasury, scheduling, and inter-company coordination across all operations.",
+      "image": "",
+      "startDate": "2014-07-01T00:00:00Z"
+    },
+    {
+      "position": "Deputy Chief Operating Officer",
+      "id": "staff-008",
+      "fullName": "Amanda Torres",
+      "division": "operations",
+      "compensation": {
+        "amount": 285000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "amanda.torres@hqwwa.com"
+      },
+      "biography": "Second-in-command to the COO; oversees day-to-day operations across properties, mobility, and logistics.",
+      "image": "",
+      "startDate": "2017-11-01T00:00:00Z"
+    },
+    {
+      "position": "Mobility Operations Manager",
+      "id": "staff-012",
+      "fullName": "Christopher Lee",
+      "division": "operations",
+      "compensation": {
+        "amount": 300000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "christopher.lee@hqwwa.com"
+      },
+      "biography": "Coordinates all mobility operations including aircraft, yachts, and ground transportation.",
+      "image": "",
+      "startDate": "2020-03-01T00:00:00Z"
+    },
+    {
+      "position": "Family Office Manager",
+      "id": "staff-009",
+      "fullName": "Michael Chang",
+      "division": "operations",
+      "compensation": {
+        "amount": 215000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "michael.chang@hqwwa.com"
+      },
+      "biography": "Manages daily family office operations and administrative coordination.",
+      "image": "",
+      "startDate": "2018-04-15T00:00:00Z"
+    },
+    {
+      "position": "Inter-company Compliance & Audit Manager",
+      "id": "staff-010",
+      "fullName": "Sarah Mitchell",
+      "division": "operations",
+      "compensation": {
+        "amount": 165000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sarah.mitchell@hqwwa.com"
+      },
+      "biography": "Ensures compliance across all family office entities and operations.",
+      "image": "",
+      "startDate": "2019-01-10T00:00:00Z"
+    },
+    {
+      "position": "Treasury & Finance Manager",
+      "id": "staff-011",
+      "fullName": "David Foster",
+      "division": "operations",
+      "compensation": {
+        "amount": 215000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "david.foster@hqwwa.com"
+      },
+      "biography": "Manages treasury operations and cash flow across all family office entities.",
+      "image": "",
+      "startDate": "2016-08-01T00:00:00Z"
+    },
+    {
+      "position": "Logistics Coordinator",
+      "id": "staff-013",
+      "fullName": "James Wilson",
+      "division": "operations",
+      "compensation": {
+        "amount": 78000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "james.wilson@hqwwa.com"
+      },
+      "biography": "Coordinates logistics for jet, yacht, car, and property operations worldwide.",
+      "image": "",
+      "startDate": "2021-06-15T00:00:00Z"
+    },
+    {
+      "position": "Lifestyle & Concierge Director",
+      "id": "staff-016",
+      "fullName": "Sophia Martinez",
+      "division": "operations",
+      "compensation": {
+        "amount": 250000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sophia.martinez@hqwwa.com"
+      },
+      "biography": "Manages lifestyle services and concierge operations for the family.",
+      "image": "",
+      "startDate": "2017-12-01T00:00:00Z"
+    },
+    {
+      "position": "Charitable Trust & Philanthropy Director",
+      "id": "staff-014",
+      "fullName": "Rachel Green",
+      "division": "operations",
+      "compensation": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "rachel.green@hqwwa.com"
+      },
+      "biography": "Advises on charitable trust operations and philanthropic initiatives.",
+      "image": "",
+      "startDate": "2018-09-01T00:00:00Z"
+    },
+    {
+      "position": "Private Chef",
+      "id": "staff-015",
+      "fullName": "Marco Rossi",
+      "division": "operations",
+      "compensation": {
+        "amount": 165000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "marco.rossi@hqwwa.com"
+      },
+      "biography": "Private chef providing culinary services across all family properties.",
+      "image": "",
+      "startDate": "2019-05-01T00:00:00Z"
+    },
+    {
+      "position": "Assistant Chef 1",
+      "id": "staff-016b",
+      "fullName": "Julia Smith",
+      "division": "operations",
+      "compensation": {
+        "amount": 72000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "julia.smith@hqwwa.com"
+      },
+      "biography": "Assistant chef providing culinary services across all family properties.",
+      "image": "",
+      "startDate": "2019-05-01T00:00:00Z"
+    },
+    {
+      "position": "Property Manager - Mvita HQ, Toronto",
+      "id": "staff-017",
+      "fullName": "Emma Thompson",
+      "division": "operations",
+      "compensation": {
+        "amount": 105000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Toronto Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "emma.thompson@hqwwa.com"
+      },
+      "biography": "Property Manager for Toronto Estate — on-site operations, vendors, and household coordination.",
+      "image": "",
+      "startDate": "2018-02-01T00:00:00Z"
+    },
+    {
+      "position": "Property Manager - Dubai",
+      "id": "staff-019",
+      "fullName": "Ahmed Hassan",
+      "division": "operations",
+      "compensation": {
+        "amount": 108000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "ahmed.hassan@hqwwa.com"
+      },
+      "biography": "Property Manager for Dubai residential holdings and compound facilities at Don-Pierre UAE.",
+      "image": "",
+      "startDate": "2020-08-01T00:00:00Z"
+    },
+    {
+      "position": "Lead Full-Stack Developer",
+      "id": "staff-020b",
+      "fullName": "John Mark",
+      "division": "operations",
+      "compensation": {
+        "amount": 195000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "john.mark@hqwwa.com"
+      },
+      "biography": "Manages full-stack development of the Mvita HQ website and mobile app.",
+      "image": "",
+      "startDate": "2017-06-01T00:00:00Z"
+    },
+    {
+      "position": "Lead IT & Systems Engineer",
+      "id": "staff-020",
+      "fullName": "Alexandra Chen",
+      "division": "operations",
+      "compensation": {
+        "amount": 190000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "alexandra.chen@hqwwa.com"
+      },
+      "biography": "Manages IT infrastructure and systems architecture across all family office operations.",
+      "image": "",
+      "startDate": "2017-06-01T00:00:00Z"
+    },
+    {
+      "_comments": "Security"
+    },
+    {
+      "position": "Director of Security",
+      "id": "staff-026",
+      "fullName": "Robert Williams",
+      "division": "security",
+      "compensation": {
+        "amount": 300000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "robert.williams@hqwwa.com"
+      },
+      "biography": "Ex-Military tactical lead overseeing executive protection and security operations.",
+      "image": "",
+      "startDate": "2014-05-01T00:00:00Z"
+    },
+    {
+      "position": "Close Protection Officer 1",
+      "id": "staff-027",
+      "fullName": "Michael Garcia",
+      "division": "security",
+      "compensation": {
+        "amount": 155000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "michael.garcia@hqwwa.com"
+      },
+      "biography": "Close protection specialist providing executive security services.",
+      "image": "",
+      "startDate": "2016-08-15T00:00:00Z"
+    },
+    {
+      "position": "Close Protection Officer 2",
+      "id": "staff-027b",
+      "fullName": "Mohomad Marcus",
+      "division": "security",
+      "compensation": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "mohomad.marcus@hqwwa.com"
+      },
+      "biography": "Close protection specialist providing executive security services.",
+      "image": "",
+      "startDate": "2016-08-15T00:00:00Z"
+    },
+    {
+      "position": "Close Protection Officer 3",
+      "id": "staff-027c",
+      "fullName": "Todd Ringer",
+      "division": "security",
+      "compensation": {
+        "amount": 145000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "todd.ringe@hqwwa.com"
+      },
+      "biography": "Close protection specialist providing executive security services.",
+      "image": "",
+      "startDate": "2016-08-15T00:00:00Z"
+    },
+    {
+      "position": "Cyber Security Manager",
+      "id": "staff-028",
+      "fullName": "Lisa Anderson",
+      "division": "security",
+      "compensation": {
+        "amount": 140000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "lisa.anderson@hqwwa.com"
+      },
+      "biography": "Cybersecurity expert protecting digital assets and information systems.",
+      "image": "",
+      "startDate": "2018-11-01T00:00:00Z"
+    },
+    {
+      "_comments": "Legacy Planning"
+    },
+    {
+      "position": "Legacy Planning Director",
+      "id": "staff-051",
+      "fullName": "Margaret O'Connor",
+      "division": "legacy_philanthropy",
+      "compensation": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "margaret.oconnor@hqwwa.com"
+      },
+      "biography": "Liaises with trustees, prepares succession documentation, updates asset registry.",
+      "image": "",
+      "startDate": "2018-05-01T00:00:00Z"
+    },
+    {
+      "position": "Family Education & Next-Gen Advisor",
+      "id": "staff-052",
+      "fullName": "David Park",
+      "division": "legacy_philanthropy",
+      "compensation": {
+        "amount": 170000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "david.park@hqwwa.com"
+      },
+      "biography": "Coaches next-gen on capital stewardship, social investing, and family history.",
+      "image": "",
+      "startDate": "2019-12-01T00:00:00Z"
+    },
+    {
+      "position": "Philanthropic Program Officer",
+      "id": "staff-053",
+      "fullName": "Sarah Williams",
+      "division": "legacy_philanthropy",
+      "compensation": {
+        "amount": 135000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sarah.williams@hqwwa.com"
+      },
+      "biography": "Executes donation strategies, aligns charity ventures with family values.",
+      "image": "",
+      "startDate": "2020-07-15T00:00:00Z"
+    },
+    {
+      "_comments": "Motorsport"
+    },
+    {
+      "position": "Race Team Director",
+      "id": "staff-029",
+      "fullName": "Carlos Rodriguez",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 250000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "carlos.rodriguez@hqwwa.com"
+      },
+      "biography": "Oversees entire racing operation strategy, team travel, vehicle movements, and elite partnerships.",
+      "image": "",
+      "startDate": "2019-06-01T00:00:00Z"
+    },
+    {
+      "position": "Lead Race Engineer",
+      "id": "staff-030",
+      "fullName": "Elena Petrova",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "elena.petrova@hqwwa.com"
+      },
+      "biography": "Responsible for car setup, diagnostics, performance telemetry, and track preparation.",
+      "image": "",
+      "startDate": "2020-03-15T00:00:00Z"
+    },
+    {
+      "position": "Logistics & Racing Operations Coordinator",
+      "id": "staff-032",
+      "fullName": "Jessica Taylor",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 95000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "jessica.taylor@hqwwa.com"
+      },
+      "biography": "Coordinates travel, customs, paddock access, and freight logistics for racing operations.",
+      "image": "",
+      "startDate": "2021-08-01T00:00:00Z"
+    },
+    {
+      "position": "Performance Data Analyst",
+      "id": "staff-032a",
+      "fullName": "Liam Chen",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 125000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "liam.chen@hqwwa.com"
+      },
+      "biography": "Analyzes real-time telemetry and performance data to optimize race strategy and vehicle setup.",
+      "image": "",
+      "startDate": "2022-02-01T00:00:00Z"
+    },
+    {
+      "position": "Pit Crew Chief",
+      "id": "staff-032b",
+      "fullName": "Hannah Foster",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 135000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "hannah.foster@hqwwa.com"
+      },
+      "biography": "Leads pit crew operations ensuring rapid and precise pit stops under high-pressure race conditions.",
+      "image": "",
+      "startDate": "2022-06-15T00:00:00Z"
+    },
+    {
+      "position": "Trackside Technician 1",
+      "id": "staff-031",
+      "fullName": "Declan Murphy",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 105000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "declan.murphy@hqwwa.com"
+      },
+      "biography": "Trackside Technician supporting chassis setup, pit equipment, and race-weekend logistics.",
+      "image": "",
+      "startDate": "2021-01-10T00:00:00Z"
+    },
+    {
+      "position": "Trackside Technician 2",
+      "id": "staff-031b",
+      "fullName": "Sofia Ricci",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 102000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sofia.ricci@hqwwa.com"
+      },
+      "biography": "Trackside Technician specializing in powertrain support and garage tooling for race weekends.",
+      "image": "",
+      "startDate": "2021-01-10T00:00:00Z"
+    },
+    {
+      "position": "Trackside Technician 3",
+      "id": "staff-031c",
+      "fullName": "Kenji Watanabe",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 100000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "kenji.watanabe@hqwwa.com"
+      },
+      "biography": "Trackside Technician focused on data acquisition hardware and on-site sensors.",
+      "image": "",
+      "startDate": "2021-01-10T00:00:00Z"
+    },
+    {
+      "position": "Trackside Technician 4",
+      "id": "staff-031d",
+      "fullName": "Aisha Rahman",
+      "division": "motorsport",
+      "compensation": {
+        "amount": 98000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "aisha.rahman@hqwwa.com"
+      },
+      "biography": "Trackside Technician covering tire management, spare parts inventory, and pit-lane support.",
+      "image": "",
+      "startDate": "2021-01-10T00:00:00Z"
+    },
+    {
+      "_comments": "Global Residency"
+    },
+    {
+      "position": "Global Mobility Strategist",
+      "id": "staff-033",
+      "fullName": "Maria Santos",
+      "division": "global_residency",
+      "compensation": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "maria.santos@hqwwa.com"
+      },
+      "biography": "Coordinates immigration, visas, property relocation, and inter-governmental handling.",
+      "image": "",
+      "startDate": "2017-09-01T00:00:00Z"
+    },
+    {
+      "position": "Immigration & Visa Counsel",
+      "id": "staff-034",
+      "fullName": "Patrick O'Reilly",
+      "division": "global_residency",
+      "compensation": {
+        "amount": 175000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "patrick.oreilly@hqwwa.com"
+      },
+      "biography": "External immigration counsel providing visa and residency legal services.",
+      "image": "",
+      "startDate": "2018-04-15T00:00:00Z"
+    },
+    {
+      "position": "Asset Transfer & Relocation Specialist",
+      "id": "staff-035",
+      "fullName": "Yuki Tanaka",
+      "division": "global_residency",
+      "compensation": {
+        "amount": 110000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "yuki.tanaka@hqwwa.com"
+      },
+      "biography": "Specializes in asset transfer and relocation logistics across jurisdictions.",
+      "image": "",
+      "startDate": "2019-07-01T00:00:00Z"
+    },
+    {
+      "position": "Global Property Tax & Treaty Advisor",
+      "id": "staff-036",
+      "fullName": "Samantha Clark",
+      "division": "global_residency",
+      "compensation": {
+        "amount": 160000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "samantha.clark@hqwwa.com"
+      },
+      "biography": "External retainer providing global property tax and treaty advisory services.",
+      "image": "",
+      "startDate": "2016-11-01T00:00:00Z"
+    },
+    {
+      "position": "Residency Compliance Analyst",
+      "id": "staff-037",
+      "fullName": "Elena Vasquez",
+      "division": "global_residency",
+      "compensation": {
+        "amount": 118000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "elena.vasquez@hqwwa.com"
+      },
+      "biography": "Residency Compliance Analyst tracking visa timelines, filing calendars, and multi-jurisdiction presence rules.",
+      "image": "",
+      "startDate": "2020-02-01T00:00:00Z"
+    },
+    {
+      "_comments": "Media & Brand"
+    },
+    {
+      "position": "Chief Media & Communications Officer",
+      "id": "staff-038",
+      "fullName": "Brandon Lewis",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 200000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "brandon.lewis@hqwwa.com"
+      },
+      "biography": "Oversees full brand narrative, documentation, visual identity, and creator strategy.",
+      "image": "",
+      "startDate": "2018-01-15T00:00:00Z"
+    },
+    {
+      "position": "Family Office Historian & Archivist",
+      "id": "staff-006b",
+      "fullName": "Eleanor Whitmore",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 120000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "eleanor.whitmore@hqwwa.com"
+      },
+      "biography": "Maintains family history, archives, and historical documentation for the Mvita legacy.",
+      "image": "",
+      "startDate": "2019-03-01T00:00:00Z"
+    },
+    {
+      "position": "In-House Videographer & Photographer",
+      "id": "staff-039",
+      "fullName": "Isabella Costa",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 125000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "isabella.costa@hqwwa.com"
+      },
+      "biography": "Provides professional photography and videography services for brand documentation.",
+      "image": "",
+      "startDate": "2019-09-01T00:00:00Z"
+    },
+    {
+      "position": "Content Writer & Researcher",
+      "id": "staff-040",
+      "fullName": "Marcus Johnson",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 120000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "marcus.johnson@hqwwa.com"
+      },
+      "biography": "Creates content and conducts research for brand communications and documentation.",
+      "image": "",
+      "startDate": "2020-05-15T00:00:00Z"
+    },
+    {
+      "position": "Fashion & Aesthetic Advisor",
+      "id": "staff-041",
+      "fullName": "Sophie Dubois",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 100000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sophie.dubois@hqwwa.com"
+      },
+      "biography": "Provides fashion and aesthetic guidance for brand image and personal styling.",
+      "image": "",
+      "startDate": "2019-03-01T00:00:00Z"
+    },
+    {
+      "position": "Private Branding Strategist",
+      "id": "staff-042",
+      "fullName": "Alexander Wright",
+      "division": "media_brand",
+      "compensation": {
+        "amount": 160000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "alexander.wright@hqwwa.com"
+      },
+      "biography": "Strategically integrates legacy, mobility, collections and ultra-luxury lifestyle under one coherent brand family.",
+      "image": "",
+      "startDate": "2017-12-01T00:00:00Z"
+    },
+    {
+      "_comments": "Personal Relationship"
+    },
+    {
+      "position": "Relationship Logistics & Protocol Manager",
+      "id": "staff-043",
+      "fullName": "Victoria Chen",
+      "division": "personal_relationship",
+      "compensation": {
+        "amount": 150000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "victoria.chen@hqwwa.com"
+      },
+      "biography": "Oversees roster screening, tier assignments, NDA coordination, gift logistics, and discreet contact management.",
+      "image": "",
+      "startDate": "2018-06-15T00:00:00Z"
+    },
+    {
+      "position": "Confidential Counsel",
+      "id": "staff-044",
+      "fullName": "Gabriel Silva",
+      "division": "personal_relationship",
+      "compensation": {
+        "amount": 140000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "gabriel.silva@hqwwa.com"
+      },
+      "biography": "External retained counsel specializing in dating contracts, NDAs, and relationship legal matters.",
+      "image": "",
+      "startDate": "2019-01-20T00:00:00Z"
+    },
+    {
+      "position": "Personal Privacy Liaison",
+      "id": "staff-045",
+      "fullName": "Nina Petrov",
+      "division": "personal_relationship",
+      "compensation": {
+        "amount": 120000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "nina.petrov@hqwwa.com"
+      },
+      "biography": "Travels with or ahead of guest engagements; preps locations, enforces no-phone/no-photo rules.",
+      "image": "",
+      "startDate": "2020-04-01T00:00:00Z"
+    },
+    {
+      "_comments": "Aviation & Maritime"
+    },
+    {
+      "position": "Chief Aviation Officer",
+      "id": "staff-047",
+      "fullName": "Richard Anderson",
+      "division": "aviation_maritime",
+      "compensation": {
+        "amount": 275000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "richard.anderson@hqwwa.com"
+      },
+      "biography": "Oversees pilots, maintenance, hangars, fuel contracts, and routing for all aircraft operations.",
+      "image": "",
+      "startDate": "2016-03-01T00:00:00Z"
+    },
+    {
+      "position": "Aviation Operations Coordinator",
+      "id": "staff-048",
+      "fullName": "Amanda Foster",
+      "division": "aviation_maritime",
+      "compensation": {
+        "amount": 105000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "amanda.foster@hqwwa.com"
+      },
+      "biography": "Assists Chief Aviation Officer with flight scheduling, customs clearances, and safety/compliance paperwork.",
+      "image": "",
+      "startDate": "2018-10-01T00:00:00Z"
+    },
+    {
+      "position": "Yacht Liaison Officer",
+      "id": "staff-049",
+      "fullName": "Sebastian Torres",
+      "division": "aviation_maritime",
+      "compensation": {
+        "amount": 220000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sebastian.torres@hqwwa.com"
+      },
+      "biography": "Manages charter logistics, marina arrangements, international crew coordination, and onboard experience.",
+      "image": "",
+      "startDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "position": "Yacht Operations Assistant",
+      "id": "staff-050",
+      "fullName": "Caroline Mitchell",
+      "division": "aviation_maritime",
+      "compensation": {
+        "amount": 85000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "caroline.mitchell@hqwwa.com"
+      },
+      "biography": "Reports to Yacht Liaison Officer; coordinates tech repairs, provisioning cycles, port paperwork.",
+      "image": "",
+      "startDate": "2020-11-01T00:00:00Z"
+    },
+    {
+      "position": "Global Movement Data Analyst",
+      "id": "staff-046",
+      "fullName": "Jonathan Black",
+      "division": "aviation_maritime",
+      "compensation": {
+        "amount": 115000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "jonathan.black.mobility@hqwwa.com"
+      },
+      "biography": "Analyzes jet, yacht, and car movement logs for tax, customs, and treaty alignment.",
+      "image": "",
+      "startDate": "2019-08-15T00:00:00Z"
+    },
+    {
+      "_comments": "Local household (estate-stationed) — not HQ. Thin coverage for major properties; properties.json staff[] arrays remain role flavor for UI."
+    },
+    {
+      "position": "Site Security Lead",
+      "id": "staff-local-tor-02",
+      "fullName": "Omar Haddad",
+      "division": "operations",
+      "compensation": {
+        "amount": 78000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Toronto Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "omar.haddad@hqwwa.com"
+      },
+      "biography": "On-site security lead for Toronto Estate access control and patrol schedules.",
+      "image": "",
+      "startDate": "2020-02-15T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Groundskeeper",
+      "id": "staff-local-tor-03",
+      "fullName": "Megan Walsh",
+      "division": "operations",
+      "compensation": {
+        "amount": 58000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Toronto Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "megan.walsh@hqwwa.com"
+      },
+      "biography": "Grounds and exterior maintenance for Toronto Estate.",
+      "image": "",
+      "startDate": "2021-05-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Compound Housekeeping Supervisor",
+      "id": "staff-local-cmp-01",
+      "fullName": "Fatima Zahra",
+      "division": "operations",
+      "compensation": {
+        "amount": 55000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "fatima.zahra@hqwwa.com"
+      },
+      "biography": "Supervises compound housekeeping rotations and supply rooms.",
+      "image": "",
+      "startDate": "2018-08-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Compound Security Supervisor",
+      "id": "staff-local-cmp-02",
+      "fullName": "Ibrahim Kone",
+      "division": "operations",
+      "compensation": {
+        "amount": 60000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "ibrahim.kone@hqwwa.com"
+      },
+      "biography": "Supervises compound gate and overnight security shifts.",
+      "image": "",
+      "startDate": "2017-02-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Compound Chef",
+      "id": "staff-local-cmp-03",
+      "fullName": "Grace Mensah",
+      "division": "operations",
+      "compensation": {
+        "amount": 70000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "grace.mensah@hqwwa.com"
+      },
+      "biography": "On-compound chef for family stays and guest service.",
+      "image": "",
+      "startDate": "2019-07-15T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Grounds & Maintenance Lead",
+      "id": "staff-local-cmp-04",
+      "fullName": "Kwame Asante",
+      "division": "operations",
+      "compensation": {
+        "amount": 52000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "kwame.asante@hqwwa.com"
+      },
+      "biography": "Grounds, pool, and light maintenance lead for Pierre Compound.",
+      "image": "",
+      "startDate": "2020-03-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Island Resort Manager",
+      "id": "staff-local-bah-01",
+      "fullName": "Denise Cooper",
+      "division": "operations",
+      "compensation": {
+        "amount": 95000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Bahamas Island"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "denise.cooper@hqwwa.com"
+      },
+      "biography": "On-island resort manager for guest ops, vendors, and crew scheduling.",
+      "image": "",
+      "startDate": "2016-12-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Island Boat Captain",
+      "id": "staff-local-bah-02",
+      "fullName": "Marcus Rolle",
+      "division": "operations",
+      "compensation": {
+        "amount": 88000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Bahamas Island"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "marcus.rolle@hqwwa.com"
+      },
+      "biography": "Captain for island tenders and guest maritime transfers.",
+      "image": "",
+      "startDate": "2018-05-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Island Housekeeping Supervisor",
+      "id": "staff-local-bah-03",
+      "fullName": "Anita Thompson",
+      "division": "operations",
+      "compensation": {
+        "amount": 48000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Bahamas Island"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "anita.thompson@hqwwa.com"
+      },
+      "biography": "Housekeeping supervisor for villa turns and spa linen service.",
+      "image": "",
+      "startDate": "2019-10-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Estate Manager",
+      "id": "staff-local-ca-01",
+      "fullName": "Jordan Hayes",
+      "division": "operations",
+      "compensation": {
+        "amount": 125000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "California Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "jordan.hayes@hqwwa.com"
+      },
+      "biography": "On-site estate manager for California Estate household and vendor ops.",
+      "image": "",
+      "startDate": "2017-04-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Private Chef",
+      "id": "staff-local-ca-02",
+      "fullName": "Mia Chen",
+      "division": "operations",
+      "compensation": {
+        "amount": 110000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "California Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "mia.chen@hqwwa.com"
+      },
+      "biography": "Private chef for California Estate family and guest programs.",
+      "image": "",
+      "startDate": "2020-09-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Estate Security Officer",
+      "id": "staff-local-ca-03",
+      "fullName": "Derek Alvarez",
+      "division": "operations",
+      "compensation": {
+        "amount": 75000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "California Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "derek.alvarez@hqwwa.com"
+      },
+      "biography": "Residential security officer for California Estate.",
+      "image": "",
+      "startDate": "2021-03-15T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Estate Manager",
+      "id": "staff-local-eng-01",
+      "fullName": "Harriet Collins",
+      "division": "operations",
+      "compensation": {
+        "amount": 98000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "England Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "harriet.collins@hqwwa.com"
+      },
+      "biography": "Estate manager for England Estate household, grounds contractors, and events.",
+      "image": "",
+      "startDate": "2015-06-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Head Gardener",
+      "id": "staff-local-eng-02",
+      "fullName": "Oliver Grant",
+      "division": "operations",
+      "compensation": {
+        "amount": 55000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "England Estate"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "oliver.grant@hqwwa.com"
+      },
+      "biography": "Head gardener for England Estate grounds and seasonal planting.",
+      "image": "",
+      "startDate": "2016-03-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Collections Conservator",
+      "id": "staff-local-can-01",
+      "fullName": "Sophie Tremblay",
+      "division": "operations",
+      "compensation": {
+        "amount": 82000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "sophie.tremblay@hqwwa.com"
+      },
+      "biography": "Conservator for Pierre Compound museum and archive collections.",
+      "image": "",
+      "startDate": "2018-01-15T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "Museum Security Officer",
+      "id": "staff-local-can-02",
+      "fullName": "Noah Berger",
+      "division": "operations",
+      "compensation": {
+        "amount": 65000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Pierre Compound"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "noah.berger@hqwwa.com"
+      },
+      "biography": "Gallery and estate security for Pierre Compound collection spaces.",
+      "image": "",
+      "startDate": "2019-08-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "HQ Housekeeping Supervisor",
+      "id": "staff-local-uae-01",
+      "fullName": "Layla Hassan",
+      "division": "operations",
+      "compensation": {
+        "amount": 58000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "layla.hassan@hqwwa.com"
+      },
+      "biography": "Housekeeping supervisor for Don-Pierre UAE residential wings.",
+      "image": "",
+      "startDate": "2019-02-01T00:00:00Z",
+      "rosterTier": "local_household"
+    },
+    {
+      "position": "HQ Facilities Technician",
+      "id": "staff-local-uae-02",
+      "fullName": "Karim Nasser",
+      "division": "operations",
+      "compensation": {
+        "amount": 62000,
+        "currency": "USD",
+        "frequency": "annual"
+      },
+      "location": {
+        "primary": "Don-Pierre UAE"
+      },
+      "status": "active",
+      "contactInfo": {
+        "email": "karim.nasser@hqwwa.com"
+      },
+      "biography": "Facilities technician for Don-Pierre UAE building systems and work orders.",
+      "image": "",
+      "startDate": "2020-05-01T00:00:00Z",
+      "rosterTier": "local_household"
+    }
+  ]
+}

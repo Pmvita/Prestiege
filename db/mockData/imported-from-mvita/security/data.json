@@ -1,0 +1,270 @@
+{
+  "securityStatus": {
+    "overallStatus": "secure",
+    "lastUpdated": "2024-01-15T14:30:00.000Z",
+    "activeThreats": 0,
+    "systemsOnline": 15,
+    "systemsOffline": 1,
+    "responseTime": "45s"
+  },
+  "quickActions": [
+    {
+      "id": "lockdown",
+      "name": "Emergency Lockdown",
+      "icon": "lock",
+      "requiresConfirmation": true,
+      "severity": "critical",
+      "description": "Immediate lockdown of all access points"
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy Mode",
+      "icon": "eye-off",
+      "requiresConfirmation": false,
+      "severity": "info",
+      "description": "Disable internal monitoring"
+    },
+    {
+      "id": "guest",
+      "name": "Guest Mode",
+      "icon": "account-group",
+      "requiresConfirmation": false,
+      "severity": "info",
+      "description": "Enable guest access protocols"
+    },
+    {
+      "id": "night",
+      "name": "Night Protocol",
+      "icon": "moon-waning-crescent",
+      "requiresConfirmation": false,
+      "severity": "warning",
+      "description": "Activate night security measures"
+    }
+  ],
+  "alerts": [
+    {
+      "id": "alert-001",
+      "timestamp": "2024-01-15T14:25:15.000Z",
+      "type": "access",
+      "severity": "warning",
+      "description": "Unauthorized access attempt at Main Gate",
+      "zone": "Main Entrance",
+      "status": "investigating",
+      "assignedTo": "Alpha-1",
+      "priority": "medium",
+      "actions": ["investigate", "review_footage", "update_protocols"]
+    },
+    {
+      "id": "alert-002",
+      "timestamp": "2024-01-15T13:45:22.000Z",
+      "type": "system",
+      "severity": "info",
+      "description": "Camera maintenance completed - East Perimeter",
+      "zone": "East Perimeter",
+      "status": "resolved",
+      "resolvedBy": "tech-team",
+      "resolvedAt": "2024-01-15T14:15:00.000Z"
+    },
+    {
+      "id": "alert-003",
+      "timestamp": "2024-01-15T12:30:07.000Z",
+      "type": "biometric",
+      "severity": "warning",
+      "description": "Multiple failed login attempts detected",
+      "zone": "Staff Quarters",
+      "status": "monitoring",
+      "assignedTo": "SOC",
+      "priority": "high",
+      "actions": ["lock_account", "investigate_source", "notify_admin"]
+    }
+  ],
+  "cameras": [
+    {
+      "id": "cam-001",
+      "name": "Main Gate",
+      "zone": "Main Entrance",
+      "status": "online",
+      "type": "exterior",
+      "lastActivity": "2024-01-15T14:28:00.000Z",
+      "features": ["facial_recognition", "license_plate", "night_vision"],
+      "resolution": "4K",
+      "aiStatus": "active"
+    },
+    {
+      "id": "cam-002",
+      "name": "North Fence",
+      "zone": "North Perimeter",
+      "status": "online",
+      "type": "perimeter",
+      "lastActivity": "2024-01-15T14:25:00.000Z",
+      "features": ["thermal_imaging", "motion_detection"],
+      "resolution": "4K",
+      "aiStatus": "active"
+    },
+    {
+      "id": "cam-003",
+      "name": "Executive Wing",
+      "zone": "Executive Area",
+      "status": "online",
+      "type": "interior",
+      "lastActivity": "2024-01-15T14:30:00.000Z",
+      "features": ["biometric_verification", "privacy_mode"],
+      "resolution": "4K",
+      "aiStatus": "active"
+    },
+    {
+      "id": "cam-004",
+      "name": "East Perimeter",
+      "zone": "East Perimeter",
+      "status": "maintenance",
+      "type": "perimeter",
+      "lastActivity": "2024-01-15T12:00:00.000Z",
+      "features": ["thermal_imaging", "motion_detection"],
+      "resolution": "4K",
+      "aiStatus": "inactive",
+      "maintenanceNote": "Firmware update in progress"
+    }
+  ],
+  "biometricDevices": [
+    {
+      "id": "bio-001",
+      "name": "Main Gate Scanner",
+      "zone": "Main Entrance",
+      "status": "online",
+      "type": "multimodal",
+      "lastActivity": "2024-01-15T14:28:00.000Z",
+      "capabilities": ["facial", "fingerprint", "iris"],
+      "securityLevel": "tier0",
+      "usersToday": 47
+    },
+    {
+      "id": "bio-002",
+      "name": "Executive Access",
+      "zone": "Executive Wing",
+      "status": "online",
+      "type": "facial",
+      "lastActivity": "2024-01-15T14:30:00.000Z",
+      "capabilities": ["facial", "liveness_detection"],
+      "securityLevel": "tier0",
+      "usersToday": 12
+    },
+    {
+      "id": "bio-003",
+      "name": "Staff Entrance",
+      "zone": "Staff Area",
+      "status": "online",
+      "type": "fingerprint",
+      "lastActivity": "2024-01-15T14:25:00.000Z",
+      "capabilities": ["fingerprint", "card_reader"],
+      "securityLevel": "tier1",
+      "usersToday": 89
+    }
+  ],
+  "accessPoints": [
+    {
+      "id": "access-001",
+      "name": "Main Gate",
+      "zone": "Main Entrance",
+      "status": "secure",
+      "type": "vehicle",
+      "lastAccess": "2024-01-15T14:28:00.000Z",
+      "accessType": "authorized",
+      "user": "John Smith",
+      "vehicle": "BMW X7"
+    },
+    {
+      "id": "access-002",
+      "name": "Staff Entrance",
+      "zone": "Staff Area",
+      "status": "secure",
+      "type": "pedestrian",
+      "lastAccess": "2024-01-15T14:25:00.000Z",
+      "accessType": "authorized",
+      "user": "Sarah Johnson"
+    },
+    {
+      "id": "access-003",
+      "name": "Executive Wing",
+      "zone": "Executive Area",
+      "status": "secure",
+      "type": "pedestrian",
+      "lastAccess": "2024-01-15T14:30:00.000Z",
+      "accessType": "authorized",
+      "user": "Michael Chen"
+    }
+  ],
+  "activeProtocols": [
+    {
+      "id": "night-001",
+      "name": "Night Protocol",
+      "status": "active",
+      "activatedAt": "2024-01-15T22:00:00.000Z",
+      "autoDeactivate": "06:00",
+      "description": "Enhanced night security measures"
+    },
+    {
+      "id": "privacy-001",
+      "name": "Privacy Mode",
+      "status": "active",
+      "activatedAt": "2024-01-15T14:00:00.000Z",
+      "activatedBy": "executive",
+      "description": "Internal monitoring disabled"
+    }
+  ],
+  "responseTeams": [
+    {
+      "id": "alpha-1",
+      "name": "Alpha Team",
+      "status": "standby",
+      "members": 4,
+      "responseTime": "2m",
+      "location": "Main Gate",
+      "specialization": "perimeter_security"
+    },
+    {
+      "id": "bravo-2",
+      "name": "Bravo Team",
+      "status": "active",
+      "members": 3,
+      "responseTime": "1m 30s",
+      "location": "North Perimeter",
+      "specialization": "rapid_response"
+    },
+    {
+      "id": "soc-team",
+      "name": "SOC Team",
+      "status": "active",
+      "members": 6,
+      "responseTime": "immediate",
+      "location": "Security Operations Center",
+      "specialization": "cyber_security"
+    }
+  ],
+  "systemHealth": {
+    "surveillance": {
+      "status": "healthy",
+      "uptime": "99.8%",
+      "lastIncident": "2024-01-10T08:15:00.000Z"
+    },
+    "biometrics": {
+      "status": "healthy",
+      "uptime": "99.9%",
+      "lastIncident": "2024-01-08T14:22:00.000Z"
+    },
+    "access_control": {
+      "status": "healthy",
+      "uptime": "99.7%",
+      "lastIncident": "2024-01-12T11:30:00.000Z"
+    },
+    "communications": {
+      "status": "healthy",
+      "uptime": "99.9%",
+      "lastIncident": "2024-01-05T16:45:00.000Z"
+    },
+    "ai_analytics": {
+      "status": "healthy",
+      "uptime": "99.6%",
+      "lastIncident": "2024-01-14T09:20:00.000Z"
+    }
+  }
+} 

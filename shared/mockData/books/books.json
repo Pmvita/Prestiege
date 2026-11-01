@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": "first-folio-shakespeare",
+      "name": "First Folio (Mr. William Shakespeares Comedies, Histories, & Tragedies)",
+      "author": "William Shakespeare",
+      "year": 1623,
+      "publisher": "Isaac Jaggard and Edward Blount",
+      "category": "rare-books",
+      "value": {"amount": 9000000, "currency": "USD"},
+      "location": {"country": "UK", "city": "London"},
+      "condition": "very-good",
+      "status": "private-collection",
+      "edition": "First Edition",
+      "pages": 900,
+      "images": []
+    }
+  ]
+}

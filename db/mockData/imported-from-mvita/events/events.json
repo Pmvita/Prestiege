@@ -1,0 +1,296 @@
+{
+  "_comment": "Shared family-office calendar. Seeded with real estate/guest/vehicle/staff/collection/vault ids for link resolution. Shape is Realtime-ready (row per event, stable id) for a future Supabase `events` table.",
+  "events": [
+    {
+      "id": "evt-monaco-yacht-week-dinner",
+      "title": "Monaco Yacht Week — Private Dinner aboard M/Y AGAPE",
+      "type": "private-dinner",
+      "startsAt": "2026-10-18T19:30:00+02:00",
+      "endsAt": "2026-10-18T23:30:00+02:00",
+      "timezone": "Europe/Monaco",
+      "place": {
+        "name": "M/Y AGAPE — Port Hercule",
+        "city": "Monaco",
+        "estateId": "monaco-ville-prestige"
+      },
+      "status": "confirmed",
+      "links": {
+        "guestIds": ["guest-monaco-001", "guest-monaco-002"],
+        "vehicleIds": ["my-agape", "bugatti-centodieci"],
+        "staffIds": ["staff-049", "staff-026", "staff-027", "staff-015"],
+        "collectionItemIds": ["rolex-yacht-master-ii-126688", "suit-1"],
+        "vaultDocIds": ["doc-monaco-residence"]
+      },
+      "securityBrief": "Close protection on Pier H; guest list soft-locked 24h prior. No press. Yacht gangway credentials only — coordinate with Yacht Liaison.",
+      "notes": "Seated for 14. Chef Marco Rossi flying in from Dubai the morning of. Dress: black tie optional."
+    },
+    {
+      "id": "evt-dubai-art-2026",
+      "title": "Art Dubai — VIP Preview Walk",
+      "type": "art-fair",
+      "startsAt": "2026-10-22T16:00:00+04:00",
+      "endsAt": "2026-10-22T19:00:00+04:00",
+      "timezone": "Asia/Dubai",
+      "place": {
+        "name": "Madinat Jumeirah — Fair Pavilions",
+        "city": "Dubai",
+        "estateId": "dubai-estate"
+      },
+      "status": "confirmed",
+      "links": {
+        "guestIds": ["guest-dubai-002", "guest-dp-uae-001"],
+        "vehicleIds": ["apollo-intensa-emozione"],
+        "staffIds": ["staff-003", "staff-027b", "staff-019"],
+        "collectionItemIds": ["art-001", "art-005"],
+        "vaultDocIds": ["doc-uae-golden-visa-property"]
+      },
+      "securityBrief": "Low-profile arrival via VIP gate. One CPO; no convoy. Avoid main entrance cameras during press hour.",
+      "notes": "Priority booths: modern Middle East and secondary market Picasso drawings. Isabella holding acquisition brief."
+    },
+    {
+      "id": "evt-abu-dhabi-f1",
+      "title": "Formula 1 Abu Dhabi Grand Prix — Paddock Weekend",
+      "type": "race",
+      "startsAt": "2026-12-04T13:00:00+04:00",
+      "endsAt": "2026-12-06T20:00:00+04:00",
+      "timezone": "Asia/Dubai",
+      "place": {
+        "name": "Yas Marina Circuit",
+        "city": "Abu Dhabi",
+        "estateId": "mvita-hq-dubai"
+      },
+      "status": "planned",
+      "links": {
+        "guestIds": ["guest-dp-uae-002"],
+        "vehicleIds": ["airbus-acj330", "aston-martin-valkyrie-spider"],
+        "staffIds": ["staff-047", "staff-048", "staff-026", "staff-027"],
+        "collectionItemIds": ["rolex-daytona-four-seasons-winter"],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Aviation: ACJ330 into AUH private. Ground: Valkyrie for circuit transfer only — alternate SUV for crowd segments. Full CPO detail race day.",
+      "notes": "Hospitality suite confirmed; Sunday race is primary. Lucien Baudelaire joining Saturday practice."
+    },
+    {
+      "id": "evt-board-q4-dubai",
+      "title": "Q4 Family Board — Strategy & Capital Allocation",
+      "type": "board",
+      "startsAt": "2026-10-28T09:00:00+04:00",
+      "endsAt": "2026-10-28T13:30:00+04:00",
+      "timezone": "Asia/Dubai",
+      "place": {
+        "name": "Don-Pierre UAE — Board Suite",
+        "city": "Dubai",
+        "estateId": "mvita-hq-dubai"
+      },
+      "status": "confirmed",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": [],
+        "staffIds": [
+          "staff-001",
+          "staff-002",
+          "staff-002b",
+          "staff-021",
+          "staff-004",
+          "staff-003"
+        ],
+        "collectionItemIds": [],
+        "vaultDocIds": ["doc-uae-golden-visa-property"]
+      },
+      "securityBrief": "Closed session. Devices in Faraday tray at door. No external guests. Security Director on standby floor below.",
+      "notes": "Agenda: portfolio rebalance, Bahamas island CapEx, Art Dubai acquisitions, 2027 travel slate."
+    },
+    {
+      "id": "evt-monaco-guest-elena",
+      "title": "Estate Guest Stay — Elena Varga",
+      "type": "estate-guest",
+      "startsAt": "2026-10-16T15:00:00+02:00",
+      "endsAt": "2026-10-20T11:00:00+02:00",
+      "timezone": "Europe/Monaco",
+      "place": {
+        "name": "Monaco Penthouse — Guest Wing",
+        "city": "Monaco",
+        "estateId": "monaco-ville-prestige"
+      },
+      "status": "live",
+      "links": {
+        "guestIds": ["guest-monaco-001"],
+        "vehicleIds": ["ferrari-daytona-sp3"],
+        "staffIds": ["staff-027c"],
+        "collectionItemIds": [],
+        "vaultDocIds": ["doc-monaco-residence"]
+      },
+      "securityBrief": "Guest already cleared. Soft access to guest wing only; master suite offline. Vehicle keys for Daytona SP3 released with chauffeur protocol.",
+      "notes": "Overlaps Yacht Week dinner — Elena is on the dinner guest list."
+    },
+    {
+      "id": "evt-spain-guest-isabelle",
+      "title": "Estate Guest Stay — Isabelle Moreau",
+      "type": "estate-guest",
+      "startsAt": "2026-11-05T14:00:00+01:00",
+      "endsAt": "2026-11-12T10:00:00+01:00",
+      "timezone": "Europe/Madrid",
+      "place": {
+        "name": "Spain Estate — Casa Principal",
+        "city": "Benahavís",
+        "estateId": "spain-estate"
+      },
+      "status": "planned",
+      "links": {
+        "guestIds": ["guest-spain-001", "guest-spain-002"],
+        "vehicleIds": [],
+        "staffIds": ["staff-027d"],
+        "collectionItemIds": [],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Property Manager briefed. Gate codes rotated day-of arrival. Carlos Mendoza may visit mid-stay — confirm identity before gate open.",
+      "notes": "Housekeeping prep 48h prior. Wine cellar access for tasting dinner Friday."
+    },
+    {
+      "id": "evt-travel-dubai-monaco",
+      "title": "Deadhead — Dubai → Monaco (ACJ TwoTwenty)",
+      "type": "travel",
+      "startsAt": "2026-10-17T08:00:00+04:00",
+      "endsAt": "2026-10-17T13:30:00+02:00",
+      "timezone": "Asia/Dubai",
+      "place": {
+        "name": "DXB Private → LFMN / Nice Côte d'Azur",
+        "city": "Dubai → Monaco",
+        "estateId": "mvita-hq-dubai"
+      },
+      "status": "confirmed",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": ["airbus-acj-twotwenty-monaco"],
+        "staffIds": ["staff-047", "staff-048", "staff-001", "staff-003"],
+        "collectionItemIds": ["suit-2", "hermes-4"],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Standard aviation SOP. Manifest locked; ground transfer Nice → Monaco via pre-cleared car. No public FBO photos.",
+      "notes": "Positions principal for Yacht Week dinner and Elena guest overlap."
+    },
+    {
+      "id": "evt-bahamas-island-escape",
+      "title": "Bahamas Island — Family Long Weekend",
+      "type": "travel",
+      "startsAt": "2026-11-20T10:00:00-05:00",
+      "endsAt": "2026-11-23T16:00:00-05:00",
+      "timezone": "America/Nassau",
+      "place": {
+        "name": "Bahamas Island — Main Residence",
+        "city": "Spanish Wells / North Eleuthera",
+        "estateId": "royal-island-bahamas"
+      },
+      "status": "planned",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": [
+          "brabus-shadow-1500-xc-pg",
+          "brabus-ultima-55-bahamas"
+        ],
+        "staffIds": ["staff-local-bah-02", "staff-002"],
+        "collectionItemIds": [],
+        "vaultDocIds": ["doc-bahamas-economic-pr"]
+      },
+      "securityBrief": "Island perimeter boat patrol on arrival day. Marine assets reserved for family only — no charter guests.",
+      "notes": "Bucket-list adjacent: private cay snorkel + night on the water. Light staff footprint."
+    },
+    {
+      "id": "evt-london-private-dinner",
+      "title": "Private Dinner — Lord Harrington",
+      "type": "private-dinner",
+      "startsAt": "2026-11-08T20:00:00+00:00",
+      "endsAt": "2026-11-08T23:00:00+00:00",
+      "timezone": "Europe/London",
+      "place": {
+        "name": "England Estate — Dining Gallery",
+        "city": "London",
+        "estateId": "england-estate"
+      },
+      "status": "confirmed",
+      "links": {
+        "guestIds": ["guest-england-001"],
+        "vehicleIds": [],
+        "staffIds": ["staff-015", "staff-027"],
+        "collectionItemIds": ["art-003", "dress-1"],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Single CPO. Guest is known — standard estate protocol. No photography of dining gallery works.",
+      "notes": "Pair Midshipman Proctor sword viewing with after-dinner coffee if requested."
+    },
+    {
+      "id": "evt-toronto-ops-review",
+      "title": "Toronto Compound — Operations Review",
+      "type": "board",
+      "startsAt": "2026-10-15T14:00:00-04:00",
+      "endsAt": "2026-10-15T17:00:00-04:00",
+      "timezone": "America/Toronto",
+      "place": {
+        "name": "Pierre Compound — Ops Room",
+        "city": "Toronto",
+        "estateId": "pierre-compound"
+      },
+      "status": "done",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": [],
+        "staffIds": [
+          "staff-007",
+          "staff-008",
+          "staff-local-cmp-02",
+          "staff-002"
+        ],
+        "collectionItemIds": [],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Completed. Site Security Supervisor logged attendance; no incidents.",
+      "notes": "Winterization schedule locked. Follow-ups assigned to COO."
+    },
+    {
+      "id": "evt-art-basel-miami-cancel",
+      "title": "Art Basel Miami — Pavilion Tour (withdrawn)",
+      "type": "art-fair",
+      "startsAt": "2026-12-03T11:00:00-05:00",
+      "endsAt": "2026-12-03T15:00:00-05:00",
+      "timezone": "America/New_York",
+      "place": {
+        "name": "Miami Beach Convention Center",
+        "city": "Miami",
+        "estateId": "palm-beach-estate"
+      },
+      "status": "cancelled",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": [],
+        "staffIds": ["staff-003"],
+        "collectionItemIds": ["art-019"],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Cancelled — conflicts with Abu Dhabi F1 paddock weekend. Release hotel hold.",
+      "notes": "Rebook interest for 2027 if F1 calendar allows."
+    },
+    {
+      "id": "evt-nordic-lights-travel",
+      "title": "Bucket List — Northern Lights, Finnish Lapland",
+      "type": "other",
+      "startsAt": "2027-01-12T18:00:00+02:00",
+      "endsAt": "2027-01-16T12:00:00+02:00",
+      "timezone": "Europe/Helsinki",
+      "place": {
+        "name": "Lapland Wilderness Lodge",
+        "city": "Saariselkä",
+        "estateId": "helsinki-top-floor-city-home"
+      },
+      "status": "planned",
+      "links": {
+        "guestIds": [],
+        "vehicleIds": ["airbus-acj330"],
+        "staffIds": ["staff-047", "staff-003", "staff-027"],
+        "collectionItemIds": [],
+        "vaultDocIds": []
+      },
+      "securityBrief": "Remote lodge; one CPO + aviation desk. Medical kit + sat comms mandatory. No social posting of coordinates.",
+      "notes": "Ties to Finland Estate staging in Helsinki. Soft hold pending aurora forecast window."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+.turbo/
+
+# Env
+.env
+.env.*
+!.env.example
+*.log
+.env.local
+
+# OS / temp
+.DS_Store
+
+# Android / iOS build artifacts
+android/app/build/
+android/.gradle/
+ios/Pods/
+ios/*.xcworkspace

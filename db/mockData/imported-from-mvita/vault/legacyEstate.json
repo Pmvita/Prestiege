@@ -1,0 +1,904 @@
+{
+    "legacyEstate": [
+        {
+            "title": "Abigail Mvita - Legacy plan",
+            "id": "legacy-001",
+            "category": "heir",
+            "accessTier": 0,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Abigail Mvita",
+                "relationship": "Daughter",
+                "dateOfBirth": "2021-05-27",
+                "status": "active",
+                "guardian": "Aliyah Burey",
+                "backupGuardian": "Pierre Mvita",
+                "ethnicity": "African/Jamaican",
+                "facilityName": "Peter Apartment"
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Abigail Mvita",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "/vault/legacy/abigail-mvita-legacy-plan.pdf",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 2 - Legacy plan",
+            "id": "legacy-002",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 2",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 2",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 3 - Legacy plan",
+            "id": "legacy-003",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 3",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 3",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 4 - Legacy plan",
+            "id": "legacy-004",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 4",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 4",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 5 - Legacy plan",
+            "id": "legacy-005",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 5",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 5",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 6 - Legacy plan",
+            "id": "legacy-006",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 6",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 6",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 7 - Legacy plan",
+            "id": "legacy-007",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 7",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 7",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 8 - Legacy plan",
+            "id": "legacy-008",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 8",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 8",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 9 - Legacy plan",
+            "id": "legacy-009",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 9",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 9",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        },
+        {
+            "title": "Heir 10 - Legacy plan",
+            "id": "legacy-010",
+            "category": "heir",
+            "accessTier": 0,
+            "placeholder": true,
+            "createdDate": "2024-01-15T10:00:00Z",
+            "modifiedDate": "2024-12-01T14:30:00Z",
+            "expiryDate": "2099-12-31T23:59:59Z",
+            "heir": {
+                "name": "Heir 10",
+                "relationship": "Child",
+                "dateOfBirth": "",
+                "status": "active",
+                "guardian": "",
+                "backupGuardian": "",
+                "ethnicity": ""
+            },
+            "financialSupport": {
+                "monthlyAllowance": 50000,
+                "currency": "USD",
+                "frequency": "monthly",
+                "startDate": "2024-01-01",
+                "endDate": "",
+                "annualTotal": 600000,
+                "escalation": "3% annually"
+            },
+            "trustFund": {
+                "amount": 3000000,
+                "currency": "USD",
+                "type": "Irrevocable Trust",
+                "trustee": "Mvita Family Office Trust",
+                "beneficiary": "Heir 10",
+                "distributionSchedule": "Quarterly after age 25",
+                "conditions": [
+                    "Educational milestones",
+                    "Career development",
+                    "Financial responsibility",
+                    "Family values preservation"
+                ]
+            },
+            "education": {
+                "currentInstitution": "Private International School",
+                "tuitionCoverage": "100%",
+                "additionalExpenses": "Books, uniforms, activities",
+                "higherEducation": "University fund established",
+                "specialPrograms": "Arts, music, sports, languages"
+            },
+            "assets": {
+                "realEstate": [
+                    "Future inheritance rights to all Mvita properties"
+                ],
+                "vehicles": [
+                    "Access to family vehicle fleet",
+                    "Future vehicle allocation based on needs"
+                ],
+                "investments": [
+                    "Portfolio allocation in family office",
+                    "ESG-focused investment strategy",
+                    "Real estate investment trust participation"
+                ]
+            },
+            "legalDocuments": [
+                "Birth Certificate",
+                "Passport",
+                "Trust Agreement",
+                "Guardianship Documents",
+                "Healthcare Proxy",
+                "Power of Attorney (future)"
+            ],
+            "keywords": [
+                "heir",
+                "legacy",
+                "trust fund",
+                "monthly support",
+                "education",
+                "estate planning"
+            ],
+            "fileType": "pdf",
+            "size": 8192000,
+            "path": "#",
+            "accessHistory": [
+                {
+                    "userId": "user-001",
+                    "timestamp": "2024-12-01T14:30:00Z",
+                    "action": "view"
+                }
+            ],
+            "description": "Comprehensive legacy and estate plan including $50,000/month support and $3M trust fund"
+        }
+    ]
+}

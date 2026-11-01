@@ -1,0 +1,22 @@
+{
+  "collections": [
+    {
+      "id": "mvita-other",
+      "name": "Other",
+      "category": "other",
+      "summary": "Cigars and other holdings that are not a main vertical.",
+      "image": "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/IMG_8236.png",
+      "listingIds": [
+        "cigar-cohiba-esplendidos-gran-reserva-15s",
+        "cigar-cohiba-55-aniversario-ltd-2021",
+        "cigar-cohiba-behike-bhk-56"
+      ],
+      "estimatedValue": {
+        "amount": 1261.42,
+        "currency": "USD"
+      },
+      "curator": "Mvita Family Office",
+      "source": "imported-from-mvita"
+    }
+  ]
+}

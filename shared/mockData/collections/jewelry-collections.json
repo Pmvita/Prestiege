@@ -1,0 +1,23 @@
+{
+  "collections": [
+    {
+      "id": "mvita-attire-jewelry",
+      "name": "Attire jewelry",
+      "category": "jewelry",
+      "summary": "Jewelry pieces that were filed with the wardrobe.",
+      "image": "https://xcimg.szwego.com/img/39971582/20240509/i1715235854_2741_0.jpg",
+      "listingIds": [
+        "attire--86",
+        "attire--87",
+        "attire--88",
+        "attire--89"
+      ],
+      "estimatedValue": {
+        "amount": 4,
+        "currency": "USD"
+      },
+      "curator": "Mvita Family Office",
+      "source": "imported-from-mvita"
+    }
+  ]
+}

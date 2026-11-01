@@ -1,0 +1,164 @@
+{
+  "categories": [
+    {
+      "id": "real-estate",
+      "slug": "real-estate",
+      "name": "Real Estate",
+      "description": "Estates, compounds, penthouses, and private islands",
+      "dataKey": "estates",
+      "file": "estates/estates.json",
+      "arrayKey": "estates",
+      "image": "https://i.postimg.cc/MTydt249/mvitacompound.png"
+    },
+    {
+      "id": "mobility",
+      "slug": "mobility",
+      "name": "Cars",
+      "description": "Supercars, classics, and rare automobiles",
+      "dataKey": "mobility",
+      "file": "mobility/mobility.json",
+      "arrayKey": "vehicles",
+      "image": "https://i.postimg.cc/1zg4h2bD/Screenshot-2025-11-08-at-4-55-36-PM.png"
+    },
+    {
+      "id": "yachts",
+      "slug": "yachts",
+      "name": "Yachts",
+      "description": "Superyachts, powerboats, and private marine craft",
+      "dataKey": "yachts",
+      "file": "yachts/yachts.json",
+      "arrayKey": "yachts",
+      "image": "https://i.postimg.cc/brv9v1fJ/M-Y-AGAPE.png"
+    },
+    {
+      "id": "jets",
+      "slug": "jets",
+      "name": "Aircraft",
+      "description": "Private jets, helicopters, and executive aircraft",
+      "dataKey": "jets",
+      "file": "jets/jets.json",
+      "arrayKey": "jets",
+      "image": "https://mediaassets.airbus.com/pm_38_769_769026-dd2gj3bgau-preview.jpg"
+    },
+    {
+      "id": "watches",
+      "slug": "watches",
+      "name": "Watches",
+      "description": "Haute horlogerie and limited editions",
+      "dataKey": "watches",
+      "file": "watches/watches.json",
+      "arrayKey": "watches",
+      "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?w=1200&q=80"
+    },
+    {
+      "id": "jewelry",
+      "slug": "jewelry",
+      "name": "Jewelry",
+      "description": "High jewelry, diamonds, and gemstones",
+      "dataKey": "jewelry",
+      "file": "jewelry/jewelry.json",
+      "arrayKey": "jewelry",
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1200&q=80"
+    },
+    {
+      "id": "bags",
+      "slug": "bags",
+      "name": "Bags",
+      "description": "Hermès, Chanel, and exotic skins",
+      "dataKey": "bags",
+      "file": "bags/bags.json",
+      "arrayKey": "bags",
+      "image": "https://madisonavenuecouture.com/cdn/shop/files/H-B-241212-9-01_1024x1024.jpg?v=1738834133"
+    },
+    {
+      "id": "shoes",
+      "slug": "shoes",
+      "name": "Shoes",
+      "description": "Luxury footwear and limited editions",
+      "dataKey": "shoes",
+      "file": "shoes/shoes.json",
+      "arrayKey": "shoes",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=1200&q=80"
+    },
+    {
+      "id": "fashion",
+      "slug": "fashion",
+      "name": "Fashion",
+      "description": "Ready-to-wear and haute couture",
+      "dataKey": "fashion",
+      "file": "fashion/fashion.json",
+      "arrayKey": "fashion",
+      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&q=80"
+    },
+    {
+      "id": "art",
+      "slug": "art",
+      "name": "Art",
+      "description": "Fine art, sculpture, and installations",
+      "dataKey": "art",
+      "file": "art/art.json",
+      "arrayKey": "art",
+      "image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200&q=80"
+    },
+    {
+      "id": "books",
+      "slug": "books",
+      "name": "Books",
+      "description": "Rare books, manuscripts, and first editions",
+      "dataKey": "books",
+      "file": "books/books.json",
+      "arrayKey": "books",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1200&q=80"
+    },
+    {
+      "id": "spirits",
+      "slug": "spirits",
+      "name": "Spirits",
+      "description": "Rare whisky, champagne, and cognac",
+      "dataKey": "spirits",
+      "file": "spirits/spirits.json",
+      "arrayKey": "spirits",
+      "image": "https://images.unsplash.com/photo-1569529465841-dfecdab6093f?w=1200&q=80"
+    },
+    {
+      "id": "foods",
+      "slug": "foods",
+      "name": "Foods",
+      "description": "Caviar, rare provisions, and other consumable foods",
+      "dataKey": "foods",
+      "file": "foods/foods.json",
+      "arrayKey": "foods",
+      "image": "https://cdn.shopify.com/s/files/1/0525/9899/7148/products/almas-osetra-123962.jpg"
+    },
+    {
+      "id": "collectibles",
+      "slug": "collectibles",
+      "name": "Collectibles",
+      "description": "Memorabilia and objets d'art",
+      "dataKey": "collectibles",
+      "file": "collectibles/collectibles.json",
+      "arrayKey": "collectibles",
+      "image": "https://images.unsplash.com/photo-1452860606245-08befc0ff44b?w=1200&q=80"
+    },
+    {
+      "id": "experiences",
+      "slug": "experiences",
+      "name": "Experiences",
+      "description": "Curated luxury experiences worldwide",
+      "dataKey": "experiences",
+      "file": "experiences/experiences.json",
+      "arrayKey": "experiences",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
+    },
+    {
+      "id": "other",
+      "slug": "other",
+      "name": "Other",
+      "description": "Cigars and other holdings that are not a main vertical",
+      "dataKey": "other",
+      "file": "other/other.json",
+      "arrayKey": "other",
+      "image": "https://lacasadelhabanoedmonton.ca/wp-content/uploads/2026/01/IMG_8236.png"
+    }
+  ]
+}

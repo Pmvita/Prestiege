@@ -1,0 +1,878 @@
+{
+  "MvitaFamilyTrust": {
+    "name": "Mvita Family Trust",
+    "jurisdiction": "Cook Islands (Trust)",
+    "entities": [
+      {
+        "name": "Crypto Reserves",
+        "id": "crypto-reserves",
+        "type": "crypto",
+        "jurisdiction": "Cook Islands (Trust)",
+        "notes": "Cold storage digital asset reserves.",
+        "banking": {
+          "bank_accounts": []
+        },
+        "portfolio": [
+          {
+            "name": "BTC - 1",
+            "type": "Bitcoin (BTC)",
+            "description": "Cold Storage",
+            "value_usd": 3500000000
+          },
+          {
+            "name": "BTC - 2",
+            "type": "Bitcoin (BTC)",
+            "description": "Cold Storage",
+            "value_usd": 3500000000
+          }
+        ]
+      },
+      {
+        "name": "Don-Pierre Personal Holding",
+        "id": "don-pierre-holding",
+        "type": "holding_co",
+        "jurisdiction": "Cook Islands (HoldCo)",
+        "notes": "UAE holding companies.",
+        "founder_remuneration": {
+          "salary_usd_per_year": 0,
+          "management_fee_usd_per_year": 0,
+          "distributions_usd_per_year": 0,
+          "draw_basis": "distributable_income",
+          "draw_policy_pct": 40,
+          "family_office_share_pct": 60,
+          "offshore_share_pct": 40,
+          "paid_by_entity_id": "don-pierre-holding",
+          "paid_by_entity_name": "Don-Pierre Personal Holding",
+          "notes": "Chairman & Founder (staff-001) is unremunerated: staff compensation is 0, so personal income is not payroll. Income is drawn from this holding company as asset-management fees and shareholder distributions — never from the Cook Islands trust, which would undermine the separation that justifies the jurisdiction. A salary belongs in staff/members.json only if a holding company actually employs him. draw_policy_pct caps the draw at 40% of distributable income (Don-Pierre Treasury & Credit); the 60/40 split divides any draw between family office funding and the founder's offshore bucket."
+        },
+        "banking": {
+          "bank_accounts": [
+            {
+              "account": "Switzerland Private Banking",
+              "cash_usd": 200000000,
+              "allocated_usd_per_year": {}
+            },
+            {
+              "account": "Emirates NBD Private Banking",
+              "cash_usd": 50000000,
+              "allocated_usd_per_year": {}
+            },
+            {
+              "account": "WIO Business Banking",
+              "cash_usd": 10000000,
+              "allocated_usd_per_year": {}
+            }
+          ]
+        },
+        "portfolio": [
+          {
+            "name": "Don-Pierre Family Office",
+            "type": "Family Office",
+            "location": "Dubai, UAE",
+            "value_usd": 0,
+            "value_source": "staff_compensation",
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {
+              "staff_salaries": 37500000
+            },
+            "notes": "Family office that manages the assets and investments of the Don-Pierre Family."
+          },
+          {
+            "name": "Don-Pierre HQ WWA Software",
+            "type": "Family Office App",
+            "location": "Dubai",
+            "value_usd": 12500000,
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {
+              "full_stack_developer": 550000,
+              "mobile_developer": 550000,
+              "security_engineer": 500000,
+              "database_engineer": 500000,
+              "3_digital_concierge_staff": 750000,
+              "operations_and_support": 1000000
+            },
+            "notes": "Mvita HQ is a family office application that allows the Mvita Family Trust to manage its assets and investments."
+          },
+          {
+            "name": "Don-Pierre Vault",
+            "type": "Vault",
+            "location": "Dubai, UAE",
+            "value_usd": 0,
+            "value_source": "vault_annual_costs",
+            "annual_revenue_usd": 0,
+            "annual_operating_costs_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Don-Pierre Vault annual costs — Give gifts, annualized roster tier rates (x members per pay tier; per-person budgets are not read), and legacy heir support from non-placeholder plans only, from vault inventory. Not an asset sleeve (NAV stays $0); spend flows through annual allocations."
+          },
+          {
+            "name": "Don-Pierre RealEstate Holding",
+            "type": "Real Estate Fund",
+            "location": "International",
+            "value_usd": 0,
+            "value_source": "estates_total",
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Real Estate Fund NAV — sum of all estates in inventory. Annual Budget is the combined carrying cost of all properties (tax, HOA, insurance & ops; no mortgage), computed from estates annualExpenses — not hardcoded.",
+            "budget_usd": 3700000000
+          },
+          {
+            "name": "Don-Pierre Automotive Holding",
+            "type": "Automotive Fund",
+            "location": "International",
+            "value_usd": 0,
+            "value_source": "vehicles_automotive",
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Automotive Fund NAV — sum of ground fleet vehicles. Annual automotive operations expense is calculated automatically as 5% of live automotive fleet value (not hardcoded).",
+            "budget_usd": 1400000000
+          },
+          {
+            "name": "Don-Pierre Aviation Co.",
+            "type": "Aviation Fund",
+            "location": "Dubai",
+            "value_usd": 0,
+            "value_source": "vehicles_aviation",
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Aviation Fund NAV — aircraft and rotorcraft. Annual aviation operations expense is calculated automatically as 10% of live aviation fleet value (not hardcoded).",
+            "budget_usd": 400000000
+          },
+          {
+            "name": "Don-Pierre Marine Co.",
+            "type": "Marine Fund",
+            "location": "Monaco/Canada",
+            "value_usd": 0,
+            "value_source": "vehicles_marine",
+            "annual_revenue_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Marine Fund NAV — yachts and vessels. Annual yacht operations expense is calculated automatically as 10% of live marine fleet value (not hardcoded).",
+            "budget_usd": 700000000
+          },
+          {
+            "name": "Don-Pierre Collections Holding",
+            "type": "Collections Fund",
+            "location": "International",
+            "value_usd": 0,
+            "value_source": "collections_total",
+            "annual_revenue_usd": 0,
+            "annual_operating_costs_usd": 0,
+            "allocated_usd_per_year": {},
+            "notes": "Live Collections Fund NAV — sum of all collection item values across the estate inventory. No annual operating cost is applied to this sleeve."
+          }
+        ]
+      },
+      {
+        "name": "Don-Pierre Equity",
+        "id": "don-pierre-capital",
+        "type": "private_equity",
+        "jurisdiction": "Cook Islands",
+        "notes": "Control-oriented private equity: DRC infrastructure, public transit, civil EPC, specialty semiconductor manufacturing, industrials, hospitality, security, and UAE industrial operations. Urban mobility + civil construction are paired as concession operator and preferred builder. Marks use operating EV with project-finance leverage where applicable; debt service is tracked separately from EBITDA.",
+        "banking": {
+          "bank_accounts": [
+            {
+              "account": "Swiss Private Banking — PE",
+              "cash_usd": 125000000,
+              "allocated_usd_per_year": {}
+            },
+            {
+              "account": "Dubai Private Banking — PE Capex",
+              "cash_usd": 280000000,
+              "allocated_usd_per_year": {}
+            }
+          ]
+        },
+        "portfolio": [
+          {
+            "name": "University of Kinshasa",
+            "type": "Higher Education Institution",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Cash Acquisition",
+            "status": "Operating",
+            "entry_date": "2025-01-15",
+            "value_usd": 250000000,
+            "equity_invested_usd": 250000000,
+            "annual_revenue_usd": 42000000,
+            "estimated_ebitda_usd": 6300000,
+            "allocated_usd_per_year": {
+              "faculty_and_staff_salaries": 16800000,
+              "campus_operations_and_maintenance": 6300000,
+              "research_and_innovation": 3200000,
+              "scholarships_and_financial_aid": 4200000,
+              "technology_and_digital_infrastructure": 2800000,
+              "administrative_and_support": 2400000
+            },
+            "students_enrolled": 18000,
+            "employees_count": 2100,
+            "images": [
+              "https://i.postimg.cc/Njyf8wrt/Kinshasa-Future-Campus-Masterplan.png"
+            ],
+            "notes": "Private acquisition of a leading Central African university (~$250M EV) focused on engineering, technology, medicine, and business. Built out as a massive integrated campus that also hosts a full tertiary teaching hospital on site — clinical care, medical education, and research under one roof. Revenue mix: tuition (~70%), executive education, research grants, hospital services, and consulting. EBITDA margin ~15% is typical for private tertiary education after scholarships. Acts as the talent pipeline for Congo AI, WtE, telecom, and mining-services operations. Campus includes the School of Renewable Energy, Center for African Technology Innovation, and the on-campus teaching hospital (integrates with Mvita HealthTech for telemedicine)."
+          },
+          {
+            "name": "DRC Agricultural Operations",
+            "type": "Agriculture / Agribusiness",
+            "location": "Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield / Joint Venture",
+            "status": "Operating",
+            "entry_date": "2025-03-15",
+            "value_usd": 210000000,
+            "equity_invested_usd": 140000000,
+            "debt_financing_usd": 70000000,
+            "leverage_ratio_pct": 33,
+            "annual_revenue_usd": 52000000,
+            "estimated_ebitda_usd": 10400000,
+            "allocated_usd_per_year": {
+              "farm_operations_and_labor": 16800000,
+              "fertilizer_and_inputs": 7800000,
+              "equipment_and_machinery": 6200000,
+              "processing_and_logistics": 5800000,
+              "agronomy_and_compliance": 5000000
+            },
+            "debt_service_usd_per_year": 6200000,
+            "hectares_under_cultivation": 50000,
+            "hectares_target": 150000,
+            "employees_count": 3200,
+            "notes": "Commercial agribusiness on 50,000 ha (cassava, maize, rice, palm) with expansion path to 150,000 ha. Enterprise value ~$4,200/ha — aggressive but plausible for irrigated commercial estates with offtake. Revenue ~$1,040/ha; EBITDA ~20% after inputs and labor (40% was unrealistic for row/plantation agri). Linked to Cold Chain processing and WtE ash/nutrient loops where feasible."
+          },
+          {
+            "name": "DRC Telecom Infrastructure",
+            "type": "Telecommunications Infrastructure",
+            "location": "Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield / Build-to-Suit",
+            "status": "Operating",
+            "entry_date": "2025-09-01",
+            "value_usd": 400000000,
+            "equity_invested_usd": 240000000,
+            "debt_financing_usd": 160000000,
+            "leverage_ratio_pct": 40,
+            "annual_revenue_usd": 74000000,
+            "estimated_ebitda_usd": 29600000,
+            "allocated_usd_per_year": {
+              "network_operations_and_maintenance": 11900000,
+              "staff_and_technical_operations": 10800000,
+              "fiber_and_site_upgrades": 7700000,
+              "power_and_site_energy": 6100000,
+              "regulatory_and_licensing": 4600000,
+              "wholesale_support_and_noc": 3200000
+            },
+            "debt_service_usd_per_year": 14200000,
+            "tower_sites": 1200,
+            "fiber_km": 2700,
+            "cities_covered": 12,
+            "employees_count": 630,
+            "notes": "Wholesale fiber, tower, and backhaul platform covering Kinshasa, Lubumbashi, Goma, and 9 other cities (~1,200 sites / 2,700 km fiber). Towerco/fiber EBITDA margins of ~40% are realistic for infrastructure wholesale (not retail mobile). EV ~$400M ≈ 5.4× revenue. Critical for Congo AI, Fintech mobile-money rails, and Protective Services command connectivity. Long-term MSA/tower-share with MNOs."
+          },
+          {
+            "name": "Don-Pierre WtE Power Plant",
+            "type": "Infrastructure / Energy",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield",
+            "status": "Operating",
+            "entry_date": "2025-06-01",
+            "value_usd": 195000000,
+            "equity_invested_usd": 78000000,
+            "debt_financing_usd": 117000000,
+            "leverage_ratio_pct": 60,
+            "annual_revenue_usd": 51600000,
+            "estimated_ebitda_usd": 18100000,
+            "allocated_usd_per_year": {
+              "operations_and_maintenance": 12500000,
+              "waste_processing_and_logistics": 8200000,
+              "staff_and_management": 4800000,
+              "ash_handling_and_environmental": 4200000,
+              "insurance_and_compliance": 3800000
+            },
+            "debt_service_usd_per_year": 11000000,
+            "capacity_mw": 30,
+            "waste_tonnes_per_day": 1000,
+            "ppa_rate_usd_per_kwh": 0.215,
+            "annual_operating_hours": 8000,
+            "construction_cost_usd": 180000000,
+            "employees_count": 220,
+            "notes": "30 MW waste-to-energy plant (~$6M/MW all-in — in the global WtE band of $4–8M/MW). Converts ~1,000 t/day MSW under a PPA with SNEL at $0.215/kWh × ~8,000 hours × 30 MW ≈ $51.6M revenue (previously marked far above the PPA math). Project finance ~40/60 equity/debt. EBITDA ~35% before debt service is realistic for contracted generation after O&M. Valuation ~$195M ≈ 3.8× revenue / ~1.1× construction."
+          },
+          {
+            "name": "Kinshasa Logistics & Inland Dry Port",
+            "type": "Logistics / Infrastructure",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield",
+            "status": "Operating",
+            "entry_date": "2026-04-01",
+            "value_usd": 175000000,
+            "equity_invested_usd": 110000000,
+            "debt_financing_usd": 65000000,
+            "leverage_ratio_pct": 37,
+            "annual_revenue_usd": 48000000,
+            "estimated_ebitda_usd": 12000000,
+            "allocated_usd_per_year": {
+              "terminal_operations_and_labor": 14500000,
+              "fleet_and_equipment": 7200000,
+              "facility_maintenance": 4800000,
+              "customs_and_compliance": 3500000,
+              "fuel_and_utilities": 6000000
+            },
+            "debt_service_usd_per_year": 5800000,
+            "warehouse_sqm": 85000,
+            "employees_count": 760,
+            "notes": "Inland dry port / multimodal hub on the Congo River corridor: bonded warehousing, container yard, and last-mile distribution. EV ~3.6× revenue with ~25% EBITDA — typical for African logistics platforms with captive cargo from agri, cement, and medical supply chains. Cargo tracking via DRC Telecom; cold-chain handoff to Food Processing; rail interchange with Congo Freightway Rail."
+          },
+          {
+            "name": "Congo Freightway Rail",
+            "type": "Rail / Transportation Infrastructure",
+            "location": "Kinshasa–Matadi Corridor / Bas-Congo, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Concession / Greenfield Rehab",
+            "status": "Operating",
+            "entry_date": "2026-06-01",
+            "value_usd": 300000000,
+            "equity_invested_usd": 175000000,
+            "debt_financing_usd": 175000000,
+            "leverage_ratio_pct": 50,
+            "annual_revenue_usd": 43000000,
+            "estimated_ebitda_usd": 12900000,
+            "allocated_usd_per_year": {
+              "track_and_signaling_maintenance": 8400000,
+              "train_operations_and_crew": 7500000,
+              "rolling_stock_maintenance": 5200000,
+              "fuel_and_energy": 4400000,
+              "security_and_corridor_protection": 2600000,
+              "stations_and_intermodal": 2000000
+            },
+            "debt_service_usd_per_year": 12500000,
+            "track_km": 180,
+            "freight_mtpa": 3.9,
+            "locomotives": 12,
+            "wagons": 280,
+            "construction_cost_usd": 350000000,
+            "employees_count": 660,
+            "concession_years": 30,
+            "notes": "30-year freight concession: ~180 km Kinshasa–Matadi corridor rehab + dry-port spur (~$1.9M/km all-in — typical African rehab band, not greenfield mountain mainline). Hauls ~3.9 Mtpa minerals concentrate, cement, agri bulk, and containers at ~$11/t average yield ≈ $43M revenue. EBITDA ~30% before debt service is normal for freight rail after heavy track O&M. EV ~$300M ≈ 0.86× construction / 7× revenue. Captive cargo from Critical Minerals, Cement, Agri, and Cold Chain; interchange at Kinshasa Logistics dry port; ROW fiber with DRC Telecom; corridor security via Protective Services. Distinct from Kinshasa Public Transport (passenger metro/bus)."
+          },
+          {
+            "name": "Kinshasa Public Transport",
+            "type": "Public Transit / Urban Mobility",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Exclusive Concession",
+            "status": "Operating",
+            "entry_date": "2026-07-01",
+            "value_usd": 200000000,
+            "equity_invested_usd": 129000000,
+            "debt_financing_usd": 90000000,
+            "leverage_ratio_pct": 41,
+            "annual_revenue_usd": 57000000,
+            "estimated_ebitda_usd": 10260000,
+            "allocated_usd_per_year": {
+              "drivers_and_operations_staff": 18500000,
+              "fuel_and_traction_energy": 9200000,
+              "fleet_and_rolling_stock_maintenance": 7600000,
+              "stations_depots_and_fare_systems": 5300000,
+              "insurance_and_safety": 3100000,
+              "customer_service_and_admin": 3040000
+            },
+            "debt_service_usd_per_year": 8100000,
+            "buses": 900,
+            "brt_corridor_km": 32,
+            "metro_phase1_km": 12,
+            "daily_riders": 270000,
+            "depots": 4,
+            "concession_years": 35,
+            "employees_count": 3350,
+            "notes": "Exclusive 35-year Kinshasa multimodal passenger concession — city buses, BRT, and metro/light-rail Phase 1 — structured as the sole formal public-transport franchise for covered corridors (monopoly ops under concession, not informal taxi competition). ~900 buses + 32 km BRT operating; ~12 km metro/LRT Phase 1 in build (civil via DRC Infrastructure Co.). Mix: farebox (~$27M), availability payments (~$24M), ads/ancillary (~$6M). EBITDA ~18% is realistic for African formal transit with labor-heavy bus ops. EV ~$200M marks fleet, depots, systems, and franchise — not the full metro civil book (that sits in construction WIP/EPC). Fleet OS for bus telematics; Congo AI for ridership/dispatch; Protective Services for stations."
+          },
+          {
+            "name": "DRC Infrastructure Co.",
+            "type": "Infrastructure Construction / EPC",
+            "location": "Kinshasa / National, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Cash Acquisition / Platform Build",
+            "status": "Operating",
+            "entry_date": "2026-07-15",
+            "value_usd": 165000000,
+            "equity_invested_usd": 111000000,
+            "debt_financing_usd": 65000000,
+            "leverage_ratio_pct": 37,
+            "annual_revenue_usd": 183000000,
+            "estimated_ebitda_usd": 20130000,
+            "allocated_usd_per_year": {
+              "project_labor_and_subcontractors": 75000000,
+              "materials_and_steel": 39700000,
+              "heavy_equipment_and_plant": 21400000,
+              "engineering_and_project_management": 13700000,
+              "hse_bonding_and_insurance": 9200000,
+              "yard_and_overhead": 3870000
+            },
+            "debt_service_usd_per_year": 6000000,
+            "backlog_usd": 600000000,
+            "active_projects": 12,
+            "employees_count": 3450,
+            "preferred_epc_for_urban_mobility": true,
+            "notes": "Integrated civil EPC platform with preferred/exclusive delivery rights on Kinshasa Public Transport (metro tunnels, stations, BRT lanes, depots) plus captive work across Congo Freightway Rail, Water, Telecom civil, WtE, hospital, and Dubai park fit-outs. Peak transit-build years support ~$183M revenue; ~11% EBITDA is a normal heavy-civil margin after materials and subcontractors (not software multiples). Backlog ~$600M (~3.3 years). EV ~$165M ≈ 0.9× sales — construction books, not regulated-asset marks. Cement & Building Materials is a captive supplier; Logistics moves plant and aggregates."
+          },
+          {
+            "name": "DRC Cement & Building Materials",
+            "type": "Industrials / Building Materials",
+            "location": "Kinshasa / Bas-Congo, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield / Brownfield Expansion",
+            "status": "Operating",
+            "entry_date": "2026-03-01",
+            "value_usd": 210000000,
+            "equity_invested_usd": 132000000,
+            "debt_financing_usd": 78000000,
+            "leverage_ratio_pct": 37,
+            "annual_revenue_usd": 70000000,
+            "estimated_ebitda_usd": 14000000,
+            "allocated_usd_per_year": {
+              "plant_operations": 15700000,
+              "raw_materials_and_energy": 20000000,
+              "distribution_and_fleet": 8600000,
+              "staff_and_management": 6400000,
+              "maintenance_and_spares": 5300000
+            },
+            "debt_service_usd_per_year": 7000000,
+            "capacity_mtpa": 0.85,
+            "employees_count": 455,
+            "notes": "Integrated cement/aggregates (~0.85 Mtpa). Captive demand from hospital, data-center, telecom, and hospitality builds plus third-party DRC commercial sales. EBITDA ~20% is a normal cement mid-cycle margin (energy is the swing factor). EV ~$210M ≈ 3× revenue. River barge distribution from quarry/kiln complex."
+          },
+          {
+            "name": "Kinshasa Water Treatment Works",
+            "type": "Utilities / Water Infrastructure",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield / Concession",
+            "status": "Operating",
+            "entry_date": "2026-06-01",
+            "value_usd": 195000000,
+            "equity_invested_usd": 117000000,
+            "debt_financing_usd": 78000000,
+            "leverage_ratio_pct": 40,
+            "annual_revenue_usd": 36000000,
+            "estimated_ebitda_usd": 10800000,
+            "allocated_usd_per_year": {
+              "plant_operations_and_chemicals": 9800000,
+              "network_maintenance": 5200000,
+              "staff_and_technical": 4800000,
+              "power_and_utilities": 3200000,
+              "regulatory_and_quality": 2200000
+            },
+            "debt_service_usd_per_year": 7000000,
+            "capacity_mld": 120,
+            "employees_count": 310,
+            "concession_years": 25,
+            "notes": "120 MLD treatment + distribution concession serving industrial parks, the University of Kinshasa campus (incl. on-campus hospital), and dense residential zones. Utility EV ~5.4× revenue with ~30% EBITDA — consistent with contracted water infrastructure. Improves reliability for Congo AI cooling and the university hospital campus; 25-year concession tenor."
+          },
+          {
+            "name": "Mvita Cold Chain & Food Processing",
+            "type": "Agribusiness / Food Processing",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield",
+            "status": "Operating",
+            "entry_date": "2026-05-01",
+            "value_usd": 118000000,
+            "equity_invested_usd": 80000000,
+            "debt_financing_usd": 38000000,
+            "leverage_ratio_pct": 32,
+            "annual_revenue_usd": 65000000,
+            "estimated_ebitda_usd": 9750000,
+            "allocated_usd_per_year": {
+              "processing_plant_operations": 18500000,
+              "raw_material_procurement": 16000000,
+              "cold_storage_and_fleet": 9500000,
+              "packaging_and_quality": 5200000,
+              "sales_and_distribution": 6050000
+            },
+            "debt_service_usd_per_year": 3400000,
+            "cold_storage_pallets": 12000,
+            "employees_count": 540,
+            "notes": "Downstream of Agricultural Operations: cassava flour, palm refining, rice milling, export packaging + reefer logistics. Food processing EBITDA ~15% after raw-material COGS. Cuts post-harvest loss and captures margin beyond farmgate; uses dry port for containers and WtE residual heat where engineering allows."
+          }
+        ]
+      },
+      {
+        "name": "Don-Pierre Ventures",
+        "id": "don-pierre-ventures",
+        "type": "venture_capital",
+        "jurisdiction": "Cook Islands",
+        "notes": "Venture / growth equity across fintech, infra-software, deep tech, and climate. Late-stage names near profitability; Series A/B and deep tech still burn at stage-realistic absolute dollars so PE cash flow can fund the book.",
+        "banking": {
+          "bank_accounts": [
+            {
+              "account": "Swiss Private Banking — Ventures",
+              "cash_usd": 125000000,
+              "allocated_usd_per_year": {}
+            },
+            {
+              "account": "Liechtenstein Private Banking — Ventures",
+              "cash_usd": 125000000,
+              "allocated_usd_per_year": {}
+            }
+          ]
+        },
+        "portfolio": [
+          {
+            "name": "Mvita Fintech Platform",
+            "type": "Fintech / Digital Banking",
+            "location": "Dubai, UAE / Kinshasa, DRC",
+            "jurisdiction": "UAE / Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Growth Equity / Build",
+            "stage": "Series D / Growth",
+            "status": "Operating",
+            "entry_date": "2026-01-15",
+            "value_usd": 820000000,
+            "equity_invested_usd": 420000000,
+            "annual_revenue_usd": 150000000,
+            "estimated_ebitda_usd": 9000000,
+            "allocated_usd_per_year": {
+              "staff_and_operations": 47328670,
+              "technology_and_platform_development": 31552448,
+              "marketing_and_customer_acquisition": 21692308,
+              "compliance_and_regulatory": 15776224,
+              "risk_and_fraud_management": 11832168,
+              "infrastructure_and_cloud": 12818182
+            },
+            "active_users": 2500000,
+            "employees_count": 680,
+            "licenses_count": 4,
+            "notes": "Neobank + mobile money + remittance + merchant acquiring across UAE and DRC (~2.5M actives). Series D path to profitability (~6% EBITDA). Marked ~5.5× revenue. ARPU supports ~$150M run-rate. Rails into DRC Telecom and Congo AI credit/fraud models."
+          },
+          {
+            "name": "Congo AI & Data Center",
+            "type": "AI / Data Center",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Startup / Greenfield",
+            "stage": "Series C / Growth",
+            "status": "Operating",
+            "entry_date": "2026-01-01",
+            "value_usd": 380000000,
+            "equity_invested_usd": 320000000,
+            "annual_revenue_usd": 60000000,
+            "estimated_ebitda_usd": -10000000,
+            "allocated_usd_per_year": {
+              "power_and_cooling": 16578947,
+              "hardware_refresh_and_gpus": 14736842,
+              "staff_and_engineering": 20263159,
+              "operations_and_facilities": 9210526,
+              "network_and_connectivity": 4605263,
+              "sales_and_marketing": 4605263
+            },
+            "it_load_mw": 12,
+            "racks": 480,
+            "employees_count": 210,
+            "construction_cost_usd": 240000000,
+            "notes": "Colocation + GPU cloud + AI services (~12 MW IT). Series C ramp: still burning on power/GPU refresh, but burn narrowed as occupancy rises. Mark near invested capital + modest premium."
+          },
+          {
+            "name": "Mvita Ionospheric Research Facility",
+            "type": "Advanced Atmospheric & Ionospheric Research",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield Development",
+            "stage": "Construction",
+            "status": "Construction",
+            "entry_date": "2026-02-01",
+            "value_usd": 450000000,
+            "equity_invested_usd": 450000000,
+            "annual_revenue_usd": 0,
+            "estimated_ebitda_usd": -8000000,
+            "allocated_usd_per_year": {
+              "facility_operations_and_maintenance": 2571428,
+              "scientific_staff_and_engineering": 2400000,
+              "power_and_utilities": 1600000,
+              "research_programs": 857143,
+              "security_and_compliance": 571429
+            },
+            "construction_cost_usd": 450000000,
+            "employees_count": 85,
+            "antenna_array_elements": 180,
+            "notes": "HAARP-class phased HF array and atmospheric monitoring complex. Marked at replacement/construction cost (~$450M in 2026 USD) — not an income-producing EV. Pre-revenue; ~$14M annual run-rate during commissioning. Co-located with Congo AI for modeling and with Satellite & Downlink for RF/space-weather adjacency."
+          },
+          {
+            "name": "Mvita Advanced Research & Patent Labs (MARPL)",
+            "type": "Advanced R&D / IP Holding / Technology Commercialization",
+            "location": "Toronto, Canada / Kinshasa, DRC / Dubai, UAE",
+            "jurisdiction": "Canada / UAE / DRC",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield Development",
+            "stage": "Launch",
+            "status": "Operating",
+            "entry_date": "2026-03-01",
+            "value_usd": 195000000,
+            "equity_invested_usd": 165000000,
+            "annual_revenue_usd": 20000000,
+            "estimated_ebitda_usd": -24000000,
+            "allocated_usd_per_year": {
+              "core_research_and_development": 18666667,
+              "scientists_and_engineers": 12000000,
+              "prototype_engineering": 5333333,
+              "advanced_laboratories": 4000000,
+              "patent_filing_and_ip_protection": 2333333,
+              "technology_commercialization": 1666667
+            },
+            "employees_count": 160,
+            "patent_targets": {
+              "annual_patent_filings": 40,
+              "annual_prototypes": 12,
+              "annual_commercializations": 3
+            },
+            "notes": "Central R&D / IP holdco. Licensing revenue growing slowly; burn right-sized for multi-lab ops without dominating the VC book. Patent targets remain disciplined (~40 filings / year)."
+          },
+          {
+            "name": "Mvita HealthTech",
+            "type": "Healthtech / Telemedicine",
+            "location": "Kinshasa, DRC / Dubai, UAE",
+            "jurisdiction": "Democratic Republic of Congo / UAE",
+            "ownership_pct": 100,
+            "deal_type": "Startup",
+            "stage": "Series B",
+            "status": "Operating",
+            "entry_date": "2026-04-01",
+            "value_usd": 160000000,
+            "equity_invested_usd": 85000000,
+            "annual_revenue_usd": 28000000,
+            "estimated_ebitda_usd": -6000000,
+            "allocated_usd_per_year": {
+              "platform_engineering": 12000000,
+              "clinical_operations_and_physicians": 10000000,
+              "sales_and_hospital_partnerships": 5000000,
+              "compliance_and_data_privacy": 3500000,
+              "cloud_and_infrastructure": 3500000
+            },
+            "employees_count": 190,
+            "monthly_active_patients": 85000,
+            "notes": "Telemedicine and hospital workflow SaaS anchored on the University of Kinshasa on-campus teaching hospital. Series B healthtech typically still burns; ~6.7× revenue mark with path to profitability. Congo AI triage; DRC Telecom connectivity."
+          },
+          {
+            "name": "Mvita AgriTech",
+            "type": "Agtech / Precision Farming",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Startup",
+            "stage": "Series B",
+            "status": "Operating",
+            "entry_date": "2026-04-15",
+            "value_usd": 90000000,
+            "equity_invested_usd": 52000000,
+            "annual_revenue_usd": 18000000,
+            "estimated_ebitda_usd": -4000000,
+            "allocated_usd_per_year": {
+              "hardware_and_sensors": 6695652,
+              "software_and_ml": 6217391,
+              "field_operations_and_support": 5260870,
+              "sales_and_channel": 3826087
+            },
+            "employees_count": 110,
+            "hectares_instrumented": 28000,
+            "notes": "Sensors, drones, irrigation control, and yield models — first deployed on Agricultural Operations (~28k ha instrumented) then sold regionally. Hardware-inclusive agtech burns cash at Series B; ~5.6× revenue mark."
+          },
+          {
+            "name": "Mvita Fleet OS",
+            "type": "Mobility Tech / Fleet Software",
+            "location": "Dubai, UAE / Kinshasa, DRC",
+            "jurisdiction": "UAE / Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Startup",
+            "stage": "Series B",
+            "status": "Operating",
+            "entry_date": "2026-05-15",
+            "value_usd": 110000000,
+            "equity_invested_usd": 60000000,
+            "annual_revenue_usd": 26000000,
+            "estimated_ebitda_usd": -2000000,
+            "allocated_usd_per_year": {
+              "software_engineering": 10769231,
+              "customer_success_and_ops": 5923077,
+              "telematics_hardware": 4846154,
+              "sales_and_partnerships": 6461538
+            },
+            "employees_count": 140,
+            "vehicles_under_management": 4200,
+            "notes": "Fleet management, EV charging orchestration, and predictive maintenance SaaS (~4,200 vehicles under management). Complements Mobility Fund without marking vehicle NAVs. First seats: Protective Services and Logistics. Series B SaaS ~5× revenue with light burn."
+          },
+          {
+            "name": "Mvita Sovereign Cloud & Cyber",
+            "type": "Cybersecurity / Sovereign Cloud",
+            "location": "Kinshasa, DRC / Dubai, UAE",
+            "jurisdiction": "Democratic Republic of Congo / UAE",
+            "ownership_pct": 100,
+            "deal_type": "Startup / Spin-out",
+            "stage": "Series C",
+            "status": "Operating",
+            "entry_date": "2026-03-15",
+            "value_usd": 210000000,
+            "equity_invested_usd": 115000000,
+            "annual_revenue_usd": 45000000,
+            "estimated_ebitda_usd": 6000000,
+            "allocated_usd_per_year": {
+              "security_engineering": 13000000,
+              "soc_operations": 9750000,
+              "infrastructure": 6500000,
+              "sales_and_government_accounts": 5416667,
+              "compliance_and_certifications": 4333333
+            },
+            "employees_count": 240,
+            "soc_seats": 48,
+            "notes": "Sovereign cloud + managed SOC for governments/banks and portfolio critical sites. Approaching breakeven at Series C (~5.5× revenue). Protects Fintech, Congo AI, telecom core; consumes MARPL crypto/comms IP where licensed."
+          },
+          {
+            "name": "Mvita Climate & Carbon MRV",
+            "type": "Climate Tech / Carbon Markets",
+            "location": "Kinshasa, DRC / Dubai, UAE",
+            "jurisdiction": "Democratic Republic of Congo / UAE",
+            "ownership_pct": 100,
+            "deal_type": "Startup",
+            "stage": "Series A",
+            "status": "Operating",
+            "entry_date": "2026-06-01",
+            "value_usd": 65000000,
+            "equity_invested_usd": 38000000,
+            "annual_revenue_usd": 11000000,
+            "estimated_ebitda_usd": -6000000,
+            "allocated_usd_per_year": {
+              "mrv_platform_engineering": 5950000,
+              "field_verification_and_partners": 4250000,
+              "carbon_registry_and_compliance": 3400000,
+              "sales_and_brokerage": 3400000
+            },
+            "employees_count": 70,
+            "projects_under_mrv": 24,
+            "notes": "MRV for WtE diversion, regenerative agri, and REDD-adjacent projects. Climate tech Series A: high burn, thin early revenue. Congo AI baselines; voluntary + Article 6 registry interfaces."
+          },
+          {
+            "name": "Mvita Satellite & Downlink",
+            "type": "Aerospace / Satellite Ground Segment",
+            "location": "Kinshasa, Democratic Republic of Congo",
+            "jurisdiction": "Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Greenfield / Startup",
+            "stage": "Series B / Construction",
+            "status": "Construction",
+            "entry_date": "2026-06-15",
+            "value_usd": 140000000,
+            "equity_invested_usd": 140000000,
+            "annual_revenue_usd": 9000000,
+            "estimated_ebitda_usd": -8000000,
+            "allocated_usd_per_year": {
+              "engineering_and_rf": 5409091,
+              "ground_station_operations": 3863636,
+              "staff_and_security": 3477273,
+              "spectrum_and_licensing": 1931818,
+              "power_and_facilities": 2318182
+            },
+            "antennas": 6,
+            "employees_count": 75,
+            "construction_cost_usd": 110000000,
+            "notes": "Equatorial ground segment co-located with Ionospheric Facility and Congo AI. Mark near build cost during ramp; early antenna-time revenue only. Avoids infrastructure fantasy multiples on thin revenue."
+          },
+          {
+            "name": "Mvita Robotics & Warehouse Automation",
+            "type": "Robotics / Industrial Automation",
+            "location": "Dubai, UAE / Kinshasa, DRC",
+            "jurisdiction": "UAE / Democratic Republic of Congo",
+            "ownership_pct": 100,
+            "deal_type": "Startup / Acquisition",
+            "stage": "Series B",
+            "status": "Operating",
+            "entry_date": "2026-07-15",
+            "value_usd": 125000000,
+            "equity_invested_usd": 75000000,
+            "annual_revenue_usd": 30000000,
+            "estimated_ebitda_usd": -5000000,
+            "allocated_usd_per_year": {
+              "robotics_engineering": 12000000,
+              "manufacturing_and_assembly": 8000000,
+              "deployment_and_field_service": 7000000,
+              "sales_and_integrations": 8000000
+            },
+            "employees_count": 180,
+            "robots_deployed": 320,
+            "notes": "AMRs/sortation for Logistics dry port, Cold Chain, and Dubai industrial park (~320 robots deployed). Hardware+software Series B still burns. Congo AI for perception stacks; assembly in Dubai free zone."
+          }
+        ]
+      },
+      {
+        "name": "Don-Pierre Fund",
+        "id": "don-pierre-hedge-fund",
+        "type": "hedge_fund",
+        "jurisdiction": "Canada",
+        "notes": "Public markets vehicle. Focus on liquid dividend-paying assets, ETFs, and bonds.",
+        "banking": {
+          "bank_accounts": [
+            {
+              "account": "Switzerland Private Banking",
+              "cash_usd": 125000000,
+              "allocated_usd_per_year": {}
+            }
+          ]
+        },
+        "portfolio": [
+          {
+            "name": "Infinity Fund — Main Strategy",
+            "type": "Multi-Strategy",
+            "strategy": "Dividend Income / ETF / Fixed Income",
+            "aum_usd": 250000000,
+            "capital_injection_usd": 250000000,
+            "annual_revenue_usd": 3750000,
+            "annual_return_pct": 6,
+            "value_usd": 250000000,
+            "allocated_usd_per_year": {
+              "chief_investment_officer": 1250000,
+              "portfolio_managers": 2000000,
+              "senior_analysts": 1500000,
+              "traders": 1000000,
+              "operations_analysts": 600000,
+              "compliance_officer": 450000,
+              "research_budget": 1875000,
+              "technology_stack": 1250000,
+              "risk_management": 875000
+            },
+            "notes": "Dedicated public markets vehicle for the Mvita Family Trust."
+          },
+          {
+            "name": "Don-Pierre Treasury & Credit",
+            "type": "Treasury Management / Private Credit",
+            "location": "Dubai, UAE / Zurich, Switzerland / Toronto, Canada",
+            "jurisdiction": "UAE / Switzerland / Canada",
+            "ownership_pct": 100,
+            "deal_type": "Internal Fund",
+            "stage": "Operating",
+            "value_usd": 1000000000,
+            "equity_invested_usd": 1000000000,
+            "debt_financing_usd": 0,
+            "annual_revenue_usd": 135625000,
+            "estimated_ebitda_usd": 129375000,
+            "entry_date": "2026-01-01",
+            "allocated_usd_per_year": {
+              "fund_administration_and_operations": 2500000,
+              "compliance_and_regulatory_reporting": 2000000,
+              "portfolio_management_and_risk": 1750000
+            },
+            "notes": "Combined treasury management and private credit vehicle deploying idle family cash into low-risk interest-bearing instruments and internal lending. $350M deployed in short-term government/corporate bonds at 4.5% yield. $350M deployed in private credit to portfolio companies at 11% yield. Annual interest income of ~$54.25M with minimal operating expenses. Provides liquidity management for the Mvita Family Trust while generating yield on otherwise idle capital."
+          }
+        ]
+      }
+    ]
+  }
+}
